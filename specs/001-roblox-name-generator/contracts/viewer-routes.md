@@ -17,3 +17,18 @@ Behaviour:
 - Unknown `runId` → "Result not found" with a link back to `#/`.
 - Copy uses the Clipboard API with a selectable-text fallback; the button shows "Copied" for 1.5 s.
 - Layout works from 360 px wide with no horizontal scroll; light and dark colour schemes.
+
+## Added after the MVP: popular searches page
+
+| Route | Shows |
+|---|---|
+| `#/searches` | The 100 most popular searches across all genres, using the newest run of each genre, each tagged with its genre. |
+| `#/searches/{genre}` | All saved popular searches (up to 50) for one genre, plus a link to its name suggestions. |
+
+- A genre picker switches between "All genres" and one genre; the choice is in the address, so
+  every view has its own link.
+- Popularity index 0–100: a search's score as a percentage of its genre's most popular search,
+  because scores from runs of different sizes are not comparable. Logic in
+  `src/engine/popular.js`.
+- The site header has "Names" and "Popular searches" links; result pages show 20 searches and
+  link to the full list.

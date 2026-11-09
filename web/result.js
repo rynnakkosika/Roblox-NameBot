@@ -101,8 +101,16 @@ function keywords(result) {
 }
 
 function topSearches(result) {
-  const rows = result.topSearches ?? [];
-  if (!rows.length) return null;
+  const all = result.topSearches ?? [];
+  if (!all.length) return null;
+  const rows = all.slice(0, 20);
+  const more = all.length > rows.length
+    ? h(
+        'p',
+        { class: 'more' },
+        h('a', { href: `#/searches/${encodeURIComponent(result.run.genre)}` }, `All ${all.length} popular searches →`),
+      )
+    : null;
   return h(
     'section',
     { class: 'card' },
@@ -126,6 +134,7 @@ function topSearches(result) {
         ),
       ),
     ),
+    more,
   );
 }
 

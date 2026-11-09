@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "engineVersion": "1.1.0",
+  "engineVersion": "1.2.0",
   "run": {
     "runId": "20261109-103710-horror",
     "genre": "horror",
@@ -645,6 +645,216 @@
       "text": "horror backrooms",
       "score": 8.429,
       "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "horror monkey",
+      "score": 8.231,
+      "appearances": 43,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "horror mansion",
+      "score": 7.622,
+      "appearances": 37,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "horror story",
+      "score": 6.889,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "horror vc",
+      "score": 6.119,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "horror shop",
+      "score": 6.022,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "horror funny",
+      "score": 5.75,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "horror games obby",
+      "score": 5.694,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "horror indonesia",
+      "score": 5.326,
+      "appearances": 16,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "horror hotel",
+      "score": 4.808,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "horror games for kids",
+      "score": 4.767,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "horror escape",
+      "score": 4.601,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "horror clown",
+      "score": 4.548,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "horror bus",
+      "score": 4.351,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "horror gunung",
+      "score": 4.221,
+      "appearances": 13,
+      "bestRank": 3
+    },
+    {
+      "rank": 35,
+      "text": "horror game",
+      "score": 3.873,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "horror fnaf",
+      "score": 3.619,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "horror verity",
+      "score": 3.311,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "horror car",
+      "score": 3.294,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "horror analogico",
+      "score": 3.189,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "horror filipino",
+      "score": 3.156,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "horror 2 player",
+      "score": 3.142,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 42,
+      "text": "horror dinosaur",
+      "score": 3.111,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "horror drive",
+      "score": 3.049,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "horror daycare",
+      "score": 2.929,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "horror doors",
+      "score": 2.875,
+      "appearances": 8,
+      "bestRank": 2
+    },
+    {
+      "rank": 46,
+      "text": "horror run",
+      "score": 2.869,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "horror baby",
+      "score": 2.854,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "horror rp",
+      "score": 2.732,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "horror brookhaven",
+      "score": 2.691,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "horror carnival",
+      "score": 2.652,
+      "appearances": 6,
       "bestRank": 1
     }
   ],

@@ -196,3 +196,52 @@ ol.searches .text, ol.games .text { overflow-wrap: anywhere; }
 ol.games a { color: var(--text); font-weight: 600; text-decoration: none; }
 ol.games a:hover { color: var(--accent); }
 .found { display: block; color: var(--muted); font-size: 0.8rem; }
+
+nav.site-nav { display: flex; gap: 6px; margin-top: 12px; flex-wrap: wrap; }
+nav.site-nav a {
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--text);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+nav.site-nav a[aria-current="page"] {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--accent-text);
+  font-weight: 600;
+}
+
+.filter-label { display: block; font-weight: 600; font-size: 0.95rem; margin-bottom: 6px; }
+#genre-filter { margin-bottom: 12px; }
+.more { margin: 12px 0 0; font-size: 0.95rem; }
+
+ol.popular { list-style: none; margin: 0; padding: 0; }
+ol.popular li {
+  display: grid;
+  grid-template-columns: 2.2em 1fr auto;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 0;
+  border-top: 1px solid var(--border);
+}
+ol.popular li:first-child { border-top: 0; }
+ol.popular .pos { color: var(--muted); font-variant-numeric: tabular-nums; text-align: right; }
+ol.popular .text { overflow-wrap: anywhere; }
+ol.popular .count { text-align: right; line-height: 1.2; }
+ol.popular .count strong { color: var(--text); font-size: 1rem; }
+.tag {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 0 8px;
+  border-radius: 999px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.75rem;
+  text-decoration: none;
+  vertical-align: 1px;
+}
+.bar { display: block; height: 4px; margin-top: 5px; border-radius: 2px; background: var(--border); overflow: hidden; }
+.bar > span { display: block; height: 100%; background: var(--accent); border-radius: 2px; }

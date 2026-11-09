@@ -44,7 +44,7 @@ for (const file of fixtures) {
   test(`${file}: evidence sections are filled`, () => {
     const result = score(raw);
     assert.equal(result.keywords[0].text, raw.run.genre);
-    assert.ok(result.topSearches.length > 0 && result.topSearches.length <= 20);
+    assert.ok(result.topSearches.length > 0 && result.topSearches.length <= 50);
     assert.ok(result.topGames.length > 0);
     for (let i = 1; i < result.topGames.length; i++) {
       assert.ok(result.topGames[i - 1].playerCount >= result.topGames[i].playerCount);

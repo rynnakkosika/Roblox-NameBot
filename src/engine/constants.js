@@ -1,7 +1,7 @@
 // All tunable values for Roblox-NameBot. Logic modules read from here; tuning never touches
 // logic (constitution, Technical Constraints).
 
-export const ENGINE_VERSION = '1.1.0';
+export const ENGINE_VERSION = '1.2.0';
 export const SCHEMA_VERSION = 1;
 
 // Search budget (FR-001).
@@ -54,7 +54,7 @@ export const DIVERSITY_DECAY = 0.8;
 export const MIN_WORD_LENGTH = 2;
 
 // Result sizes (contracts/result-files.md).
-export const TOP_SEARCHES = 20;
+export const TOP_SEARCHES = 50;
 export const TOP_KEYWORDS = 30;
 export const TOP_GAMES = 30;
 

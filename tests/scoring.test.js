@@ -99,13 +99,13 @@ test('top games are deduplicated by universe and sorted by players', () => {
   assert.equal(top[0].rawName, '🔦 B');
 });
 
-test('top searches: 20 rows with rank, appearances and best rank', () => {
+test('top searches: 50 rows with rank, appearances and best rank', () => {
   const searches = [{ text: 'forest', suggestions: Array.from({ length: 10 }, (_, i) => `forest w${i}`) }];
-  for (let i = 0; i < 20; i++) {
+  for (let i = 0; i < 40; i++) {
     searches.push({ text: `forest ${i}`, suggestions: [`forest q${i}`, `forest r${i}`] });
   }
   const top = buildTopSearches(rankedSuggestions(aggregateSuggestions(searches, ['forest'])));
-  assert.equal(top.length, 20);
+  assert.equal(top.length, 50);
   assert.deepEqual(Object.keys(top[0]), ['rank', 'text', 'score', 'appearances', 'bestRank']);
   assert.equal(top[0].rank, 1);
   for (let i = 1; i < top.length; i++) assert.ok(top[i - 1].score >= top[i].score);

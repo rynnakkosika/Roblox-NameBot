@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "engineVersion": "1.1.0",
+  "engineVersion": "1.2.0",
   "run": {
     "runId": "20261109-104018-tower-defense",
     "genre": "tower defense",
@@ -635,6 +635,216 @@
       "score": 11.619,
       "appearances": 37,
       "bestRank": 3
+    },
+    {
+      "rank": 21,
+      "text": "tower defense scp",
+      "score": 10.922,
+      "appearances": 51,
+      "bestRank": 5
+    },
+    {
+      "rank": 22,
+      "text": "tower defense skibidi",
+      "score": 10.225,
+      "appearances": 38,
+      "bestRank": 5
+    },
+    {
+      "rank": 23,
+      "text": "tower defense fnaf",
+      "score": 8.214,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "tower defense brainrot",
+      "score": 8.133,
+      "appearances": 22,
+      "bestRank": 3
+    },
+    {
+      "rank": 25,
+      "text": "ww2 tower defense",
+      "score": 7.949,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "tower defense skibidi master",
+      "score": 7.514,
+      "appearances": 17,
+      "bestRank": 3
+    },
+    {
+      "rank": 27,
+      "text": "tower defense ww2",
+      "score": 6.816,
+      "appearances": 13,
+      "bestRank": 3
+    },
+    {
+      "rank": 28,
+      "text": "tower defense summon",
+      "score": 5.577,
+      "appearances": 11,
+      "bestRank": 3
+    },
+    {
+      "rank": 29,
+      "text": "tower defense rpg",
+      "score": 5.345,
+      "appearances": 15,
+      "bestRank": 2
+    },
+    {
+      "rank": 30,
+      "text": "tower defense slop",
+      "score": 5.267,
+      "appearances": 27,
+      "bestRank": 5
+    },
+    {
+      "rank": 31,
+      "text": "tower defense sprunki",
+      "score": 5.267,
+      "appearances": 16,
+      "bestRank": 3
+    },
+    {
+      "rank": 32,
+      "text": "tower defense stickman",
+      "score": 5.112,
+      "appearances": 23,
+      "bestRank": 6
+    },
+    {
+      "rank": 33,
+      "text": "tower defense hora de aventura",
+      "score": 5.049,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "tower defense garden",
+      "score": 4.957,
+      "appearances": 15,
+      "bestRank": 3
+    },
+    {
+      "rank": 35,
+      "text": "tower defense bob esponja",
+      "score": 4.802,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "tower defense poppy playtime",
+      "score": 4.648,
+      "appearances": 13,
+      "bestRank": 3
+    },
+    {
+      "rank": 37,
+      "text": "tower defense x doors",
+      "score": 4.493,
+      "appearances": 12,
+      "bestRank": 4
+    },
+    {
+      "rank": 38,
+      "text": "tower defense slap battle",
+      "score": 4.028,
+      "appearances": 26,
+      "bestRank": 7
+    },
+    {
+      "rank": 39,
+      "text": "tower defense dinosaur",
+      "score": 4.028,
+      "appearances": 10,
+      "bestRank": 3
+    },
+    {
+      "rank": 40,
+      "text": "tower defense cheese",
+      "score": 3.796,
+      "appearances": 8,
+      "bestRank": 2
+    },
+    {
+      "rank": 41,
+      "text": "tower defense jujutsu kaisen",
+      "score": 3.796,
+      "appearances": 7,
+      "bestRank": 2
+    },
+    {
+      "rank": 42,
+      "text": "tower defense forsaken",
+      "score": 3.733,
+      "appearances": 9,
+      "bestRank": 3
+    },
+    {
+      "rank": 43,
+      "text": "tower defense skibiti",
+      "score": 3.641,
+      "appearances": 8,
+      "bestRank": 3
+    },
+    {
+      "rank": 44,
+      "text": "tower defense x99999999 luck",
+      "score": 3.331,
+      "appearances": 9,
+      "bestRank": 4
+    },
+    {
+      "rank": 45,
+      "text": "tower defense zone",
+      "score": 3.331,
+      "appearances": 11,
+      "bestRank": 4
+    },
+    {
+      "rank": 46,
+      "text": "tower defense simulator x",
+      "score": 3.253,
+      "appearances": 14,
+      "bestRank": 4
+    },
+    {
+      "rank": 47,
+      "text": "tower defense toilet",
+      "score": 3.234,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "tower defense dinossauro",
+      "score": 3.176,
+      "appearances": 8,
+      "bestRank": 2
+    },
+    {
+      "rank": 49,
+      "text": "tower defense apple",
+      "score": 3.176,
+      "appearances": 7,
+      "bestRank": 3
+    },
+    {
+      "rank": 50,
+      "text": "tower defense game",
+      "score": 3.098,
+      "appearances": 10,
+      "bestRank": 4
     }
   ],
   "topGames": [
