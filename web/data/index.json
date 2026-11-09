@@ -2,6 +2,42 @@
   "schemaVersion": 1,
   "runs": [
     {
+      "runId": "20261109-153847-roleplay",
+      "genre": "roleplay",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-09T15:49:54Z",
+      "topName": "De Skibidi Toilet Roleplay"
+    },
+    {
+      "runId": "20261109-152741-survival",
+      "genre": "survival",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-09T15:38:47Z",
+      "topName": "Days Arctic Survival"
+    },
+    {
+      "runId": "20261109-151635-simulator",
+      "genre": "simulator",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-09T15:27:41Z",
+      "topName": "De Bus Simulator"
+    },
+    {
+      "runId": "20261109-150529-tycoon",
+      "genre": "tycoon",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-09T15:16:35Z",
+      "topName": "Del Youtuber Players Tycoon"
+    },
+    {
       "runId": "20261109-104018-tower-defense",
       "genre": "tower defense",
       "budget": 300,

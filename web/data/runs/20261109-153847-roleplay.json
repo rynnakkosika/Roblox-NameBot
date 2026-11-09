@@ -1,0 +1,1082 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.3.0",
+  "run": {
+    "runId": "20261109-153847-roleplay",
+    "genre": "roleplay",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-09T15:38:47Z",
+    "finishedAt": "2026-11-09T15:49:54Z",
+    "issue": null,
+    "genreWords": [
+      "roleplay"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "De Skibidi Toilet Roleplay",
+      "score": 139.924,
+      "words": [
+        "De",
+        "Skibidi",
+        "Toilet",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay skibidi toilet",
+        "roleplay de san diego",
+        "roleplay toilet ultra 2"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Brasil El Roleplay",
+      "score": 138.87,
+      "words": [
+        "Brasil",
+        "El",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay brasil",
+        "roleplay brasil beta",
+        "roleplay brasil el"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Fronteira San Diego Roleplay",
+      "score": 120.339,
+      "words": [
+        "Fronteira",
+        "San",
+        "Diego",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay fronteira",
+        "roleplay de san diego",
+        "roleplay fronteira san diego"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Brasil Roleplay",
+      "score": 109.028,
+      "words": [
+        "Brasil",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay brasil",
+        "roleplay brasil beta",
+        "roleplay brasil el"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Mako Sirena Roleplay",
+      "score": 95.647,
+      "words": [
+        "Mako",
+        "Sirena",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay mako sirenas",
+        "roleplay mako magic",
+        "roleplay mako sirena"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Brainrot Morphs Roleplay",
+      "score": 76.44,
+      "words": [
+        "Brainrot",
+        "Morphs",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay morphs",
+        "roleplay brainrot",
+        "roleplay steal a brainrot"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Skibidi Toilet Roleplay",
+      "score": 70.435,
+      "words": [
+        "Skibidi",
+        "Toilet",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay skibidi toilet",
+        "roleplay toilet ultra 2",
+        "roleplay dunia toilet 2"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "De San Diego Roleplay",
+      "score": 56.454,
+      "words": [
+        "De",
+        "San",
+        "Diego",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay de san diego",
+        "roleplay fronteira san diego",
+        "roleplay mágico de buddy"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "WW2 Military Roleplay",
+      "score": 50.815,
+      "words": [
+        "WW2",
+        "Military",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay military",
+        "ww2 roleplay",
+        "roleplay military training"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Steal Brainrot Roleplay",
+      "score": 49.848,
+      "words": [
+        "Steal",
+        "Brainrot",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay brainrot",
+        "roleplay steal an egg",
+        "roleplay steal a brainrot"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "School Life Roleplay",
+      "score": 47.153,
+      "words": [
+        "School",
+        "Life",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay school",
+        "roleplay life",
+        "roleplay city life"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Egg Morphs Roleplay",
+      "score": 43.382,
+      "words": [
+        "Egg",
+        "Morphs",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay morphs",
+        "roleplay steal an egg",
+        "roleplay morph"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Toilet World Roleplay",
+      "score": 40.514,
+      "words": [
+        "Toilet",
+        "World",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay skibidi toilet",
+        "roleplay toilet ultra 2",
+        "roleplay dunia toilet 2"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Fronteira San Roleplay",
+      "score": 37.284,
+      "words": [
+        "Fronteira",
+        "San",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay fronteira",
+        "roleplay de san diego",
+        "roleplay fronteira san diego"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Mako Magic Roleplay",
+      "score": 35.224,
+      "words": [
+        "Mako",
+        "Magic",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay mako sirenas",
+        "roleplay mako magic",
+        "roleplay is magic"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Military Roleplay",
+      "score": 33.518,
+      "words": [
+        "Military",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay military",
+        "roleplay military training"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "High School Roleplay",
+      "score": 33.039,
+      "words": [
+        "High",
+        "School",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay school",
+        "roleplay high school",
+        "roleplay school japanese"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Memasak Smarty Roleplay",
+      "score": 32.66,
+      "words": [
+        "Memasak",
+        "Smarty",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay memasak smarty",
+        "roleplay memasak",
+        "roleplay de cozinha do smarty"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "SCP Morphs Roleplay",
+      "score": 31.698,
+      "words": [
+        "SCP",
+        "Morphs",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay morphs",
+        "roleplay scp",
+        "roleplay morph"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Toilet Ultra Roleplay",
+      "score": 31.64,
+      "words": [
+        "Toilet",
+        "Ultra",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay skibidi toilet",
+        "roleplay toilet ultra 2",
+        "roleplay dunia toilet 2"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "De Fronteira Roleplay",
+      "score": 29.309,
+      "words": [
+        "De",
+        "Fronteira",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay fronteira",
+        "roleplay de san diego",
+        "roleplay fronteira san diego"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Steal Egg Roleplay",
+      "score": 28.383,
+      "words": [
+        "Steal",
+        "Egg",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay steal an egg",
+        "roleplay steal a brainrot",
+        "role play steal an egg"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Roube Um Brainrot Roleplay",
+      "score": 28.03,
+      "words": [
+        "Roube",
+        "Um",
+        "Brainrot",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay brainrot",
+        "roleplay steal a brainrot",
+        "roleplay de roube um ovo"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Kpop Demon Hunters Roleplay",
+      "score": 27.317,
+      "words": [
+        "Kpop",
+        "Demon",
+        "Hunters",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay kpop demon hunters",
+        "roleplay demon slayer"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Sirena Roleplay",
+      "score": 26.584,
+      "words": [
+        "Sirena",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "roleplay mako sirenas",
+        "roleplay mako sirena"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "roleplay",
+      "score": 962.351
+    },
+    {
+      "text": "brasil",
+      "score": 136.285
+    },
+    {
+      "text": "roleplay brasil",
+      "score": 135.295
+    },
+    {
+      "text": "roleplay mako",
+      "score": 54.028
+    },
+    {
+      "text": "toilet",
+      "score": 49.954
+    },
+    {
+      "text": "mako sirena",
+      "score": 49.845
+    },
+    {
+      "text": "roleplay skibidi",
+      "score": 48.807
+    },
+    {
+      "text": "skibidi toilet",
+      "score": 48.693
+    },
+    {
+      "text": "roleplay fronteira",
+      "score": 45.275
+    },
+    {
+      "text": "san diego",
+      "score": 44.169
+    },
+    {
+      "text": "military",
+      "score": 40.59
+    },
+    {
+      "text": "fronteira",
+      "score": 40.369
+    },
+    {
+      "text": "morphs",
+      "score": 39.523
+    },
+    {
+      "text": "roleplay de",
+      "score": 39.266
+    },
+    {
+      "text": "mako",
+      "score": 37.494
+    },
+    {
+      "text": "brainrot",
+      "score": 36.393
+    },
+    {
+      "text": "roleplay military",
+      "score": 35.438
+    },
+    {
+      "text": "skibidi",
+      "score": 34.594
+    },
+    {
+      "text": "sirena",
+      "score": 33.23
+    },
+    {
+      "text": "school",
+      "score": 32.642
+    },
+    {
+      "text": "roleplay morphs",
+      "score": 29.904
+    },
+    {
+      "text": "roleplay 99",
+      "score": 27.305
+    },
+    {
+      "text": "roleplay steal",
+      "score": 25.449
+    },
+    {
+      "text": "roleplay brainrot",
+      "score": 25.089
+    },
+    {
+      "text": "roleplay school",
+      "score": 25.024
+    },
+    {
+      "text": "diego",
+      "score": 24.937
+    },
+    {
+      "text": "san",
+      "score": 24.937
+    },
+    {
+      "text": "roleplay memasak",
+      "score": 21.224
+    },
+    {
+      "text": "steal",
+      "score": 20.731
+    },
+    {
+      "text": "militar",
+      "score": 20.232
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "roleplay brasil",
+      "score": 253.336,
+      "appearances": 362,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "roleplay mako sirenas",
+      "score": 98.374,
+      "appearances": 233,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "roleplay skibidi toilet",
+      "score": 86.926,
+      "appearances": 137,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "roleplay military",
+      "score": 70.411,
+      "appearances": 191,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "roleplay fronteira",
+      "score": 60.496,
+      "appearances": 139,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "roleplay morphs",
+      "score": 51.511,
+      "appearances": 119,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "roleplay school",
+      "score": 48.188,
+      "appearances": 113,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "roleplay brainrot",
+      "score": 47.793,
+      "appearances": 141,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "roleplay",
+      "score": 41.948,
+      "appearances": 56,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "roleplay militar",
+      "score": 40.465,
+      "appearances": 124,
+      "bestRank": 2
+    },
+    {
+      "rank": 11,
+      "text": "roleplay games",
+      "score": 34.972,
+      "appearances": 51,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "roleplay de san diego",
+      "score": 34.303,
+      "appearances": 66,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "roleplay steal an egg",
+      "score": 33.56,
+      "appearances": 85,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "roleplay fronteira san diego",
+      "score": 30.054,
+      "appearances": 60,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "roleplay or fight",
+      "score": 28.508,
+      "appearances": 57,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "roleplay universe",
+      "score": 27.851,
+      "appearances": 74,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "roleplay memasak smarty",
+      "score": 27.111,
+      "appearances": 45,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "roleplay 99 nights",
+      "score": 23.935,
+      "appearances": 46,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "roleplay titan apokaliptik",
+      "score": 22.552,
+      "appearances": 52,
+      "bestRank": 2
+    },
+    {
+      "rank": 20,
+      "text": "roleplay kpop demon hunters",
+      "score": 21.689,
+      "appearances": 51,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "roleplay toilet ultra 2",
+      "score": 20.518,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "wwe 25 roleplay",
+      "score": 20.217,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "roleplay forsaken",
+      "score": 19.365,
+      "appearances": 35,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "roleplay steal a brainrot",
+      "score": 17.339,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "roleplay games rp",
+      "score": 17.163,
+      "appearances": 44,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "roleplay game",
+      "score": 16.961,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "roleplay mágico de buddy",
+      "score": 16.576,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "roleplay san diego",
+      "score": 16.317,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "roleplay memasak",
+      "score": 15.337,
+      "appearances": 27,
+      "bestRank": 2
+    },
+    {
+      "rank": 30,
+      "text": "roleplay cars",
+      "score": 15.105,
+      "appearances": 54,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "ww2 roleplay",
+      "score": 14.965,
+      "appearances": 39,
+      "bestRank": 3
+    },
+    {
+      "rank": 32,
+      "text": "roleplay fnaf",
+      "score": 14.795,
+      "appearances": 30,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "roleplay program",
+      "score": 14.717,
+      "appearances": 33,
+      "bestRank": 2
+    },
+    {
+      "rank": 34,
+      "text": "roleplay brasil beta",
+      "score": 13.989,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "roleplay piggy",
+      "score": 13.923,
+      "appearances": 30,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "roleplay car games",
+      "score": 12.703,
+      "appearances": 48,
+      "bestRank": 3
+    },
+    {
+      "rank": 37,
+      "text": "roleplay dunia toilet 2",
+      "score": 12.672,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "roleplay sprunki",
+      "score": 12.548,
+      "appearances": 27,
+      "bestRank": 2
+    },
+    {
+      "rank": 39,
+      "text": "roleplay brasileiro",
+      "score": 11.82,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "roleplay 99 noites na floresta",
+      "score": 11.696,
+      "appearances": 24,
+      "bestRank": 2
+    },
+    {
+      "rank": 41,
+      "text": "roleplay mm2",
+      "score": 11.619,
+      "appearances": 26,
+      "bestRank": 2
+    },
+    {
+      "rank": 42,
+      "text": "roleplay studi rubah creampuff",
+      "score": 11.619,
+      "appearances": 29,
+      "bestRank": 3
+    },
+    {
+      "rank": 43,
+      "text": "roleplay gta",
+      "score": 11.464,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "roleplay medieval",
+      "score": 11.464,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "roleplay scp",
+      "score": 11.387,
+      "appearances": 37,
+      "bestRank": 2
+    },
+    {
+      "rank": 46,
+      "text": "roleplay country",
+      "score": 11.077,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "roleplay doors",
+      "score": 10.67,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "roleplay mic",
+      "score": 10.612,
+      "appearances": 36,
+      "bestRank": 2
+    },
+    {
+      "rank": 49,
+      "text": "roleplay mexico",
+      "score": 9.915,
+      "appearances": 25,
+      "bestRank": 2
+    },
+    {
+      "rank": 50,
+      "text": "roleplay world",
+      "score": 9.915,
+      "appearances": 21,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Brookhaven RP",
+      "rawName": "Brookhaven 🏡RP",
+      "playerCount": 364514,
+      "url": "https://www.roblox.com/games/4924922222/Brookhaven-RP",
+      "foundBy": "roleplay"
+    },
+    {
+      "name": "Berry Avenue RP",
+      "rawName": "Berry Avenue 🏠 RP",
+      "playerCount": 40361,
+      "url": "https://www.roblox.com/games/8481844229/Berry-Avenue-RP",
+      "foundBy": "roleplay"
+    },
+    {
+      "name": "LifeTogether RP",
+      "rawName": "LifeTogether 🏠 RP ",
+      "playerCount": 27302,
+      "url": "https://www.roblox.com/games/13967668166/LifeTogether-RP",
+      "foundBy": "roleplay"
+    },
+    {
+      "name": "Evermore High",
+      "rawName": "Evermore High 🦢",
+      "playerCount": 25180,
+      "url": "https://www.roblox.com/games/138636753681976/Evermore-High",
+      "foundBy": "roleplay school"
+    },
+    {
+      "name": "Emergency Hamburg",
+      "rawName": "Emergency Hamburg",
+      "playerCount": 17293,
+      "url": "https://www.roblox.com/games/7711635737/Emergency-Hamburg",
+      "foundBy": "roleplay"
+    },
+    {
+      "name": "Dubai RP",
+      "rawName": "Dubai 🏡 RP [Newborns! 👶]",
+      "playerCount": 13254,
+      "url": "https://www.roblox.com/games/122485613019196/Dubai-RP",
+      "foundBy": "roleplay"
+    },
+    {
+      "name": "NewSmith RP",
+      "rawName": "NewSmith 🏡 RP [Family! 👪]",
+      "playerCount": 10360,
+      "url": "https://www.roblox.com/games/16625391970/NewSmith-RP",
+      "foundBy": "roleplay"
+    },
+    {
+      "name": "San Diego Roleplay",
+      "rawName": "San Diego Roleplay",
+      "playerCount": 9563,
+      "url": "https://www.roblox.com/games/136020512003847/San-Diego-Roleplay",
+      "foundBy": "roleplay"
+    },
+    {
+      "name": "Blackhawk Rescue Mission 5",
+      "rawName": "Blackhawk Rescue Mission 5",
+      "playerCount": 7950,
+      "url": "https://www.roblox.com/games/2916899287/Blackhawk-Rescue-Mission-5",
+      "foundBy": "roleplay militar"
+    },
+    {
+      "name": "Metro Life City RP",
+      "rawName": "Metro Life 🏡 City RP",
+      "playerCount": 7275,
+      "url": "https://www.roblox.com/games/12985361032/Metro-Life-City-RP",
+      "foundBy": "roleplay"
+    },
+    {
+      "name": "Toilet World Roleplay 2",
+      "rawName": "[UPDATE] Toilet World Roleplay 2",
+      "playerCount": 6553,
+      "url": "https://www.roblox.com/games/135717153770519/Toilet-World-Roleplay-2",
+      "foundBy": "roleplay skibidi toilet"
+    },
+    {
+      "name": "SCP MORPH",
+      "rawName": "[UPD] SCP MORPH",
+      "playerCount": 3844,
+      "url": "https://www.roblox.com/games/71599043035739/SCP-MORPH",
+      "foundBy": "roleplay morphs"
+    },
+    {
+      "name": "Highschool Experience RP",
+      "rawName": "Highschool Experience RP",
+      "playerCount": 3017,
+      "url": "https://www.roblox.com/games/112333343527957/Highschool-Experience-RP",
+      "foundBy": "roleplay school"
+    },
+    {
+      "name": "Carousel - World School",
+      "rawName": "Carousel - World School 🏫",
+      "playerCount": 2358,
+      "url": "https://www.roblox.com/games/17599091344/Carrossel-Escola-Mundial",
+      "foundBy": "roleplay school"
+    },
+    {
+      "name": "GRAU SP",
+      "rawName": "[NEW] GRAU SP",
+      "playerCount": 2318,
+      "url": "https://www.roblox.com/games/101953291486308/GRAU-SP",
+      "foundBy": "roleplay brasil"
+    },
+    {
+      "name": "Bathtub Universe",
+      "rawName": "[UPDATE!] Bathtub Universe",
+      "playerCount": 1736,
+      "url": "https://www.roblox.com/games/140199277601307/Bathtub-Universe",
+      "foundBy": "roleplay skibidi toilet"
+    },
+    {
+      "name": "Армия Роблокса РП",
+      "rawName": "Армия Роблокса РП",
+      "playerCount": 1678,
+      "url": "https://www.roblox.com/games/18537079992/unnamed",
+      "foundBy": "roleplay military"
+    },
+    {
+      "name": "Apocalyptic Titans Roleplay",
+      "rawName": "(2 WEEKS) Apocalyptic Titans Roleplay",
+      "playerCount": 1595,
+      "url": "https://www.roblox.com/games/102917792916356/Apocalyptic-Titans-Roleplay",
+      "foundBy": "roleplay skibidi toilet"
+    },
+    {
+      "name": "Ultra Toilet Roleplay 2",
+      "rawName": "Ultra Toilet Roleplay 2",
+      "playerCount": 1471,
+      "url": "https://www.roblox.com/games/15270182488/Ultra-Toilet-Roleplay-2",
+      "foundBy": "roleplay skibidi toilet"
+    },
+    {
+      "name": "Mermaid Testing",
+      "rawName": "Mermaid Testing 🥭",
+      "playerCount": 1342,
+      "url": "https://www.roblox.com/games/5856880701/Mermaid-Testing",
+      "foundBy": "roleplay mako sirenas"
+    },
+    {
+      "name": "Steal An Egg ROLEPLAY",
+      "rawName": "Steal An Egg ROLEPLAY",
+      "playerCount": 1340,
+      "url": "https://www.roblox.com/games/107725109349532/Steal-An-Egg-ROLEPLAY",
+      "foundBy": "roleplay morphs"
+    },
+    {
+      "name": "Lethal Ape Morphs!",
+      "rawName": "Lethal Ape Morphs!",
+      "playerCount": 921,
+      "url": "https://www.roblox.com/games/135026674318944/Lethal-Ape-Morphs",
+      "foundBy": "roleplay morphs"
+    },
+    {
+      "name": "ريفن العسكرية ضعف النقاط",
+      "rawName": "ريفن العسكرية | ضعف النقاط",
+      "playerCount": 899,
+      "url": "https://www.roblox.com/games/98019373700822/unnamed",
+      "foundBy": "roleplay military"
+    },
+    {
+      "name": "High School Life RP",
+      "rawName": "High School Life RP",
+      "playerCount": 872,
+      "url": "https://www.roblox.com/games/95106067682145/High-School-Life-RP",
+      "foundBy": "roleplay school"
+    },
+    {
+      "name": "College Life RP",
+      "rawName": "[⚡UPD] College Life 🧑‍🎓 RP",
+      "playerCount": 839,
+      "url": "https://www.roblox.com/games/130787464001625/College-Life-RP",
+      "foundBy": "roleplay"
+    },
+    {
+      "name": "RP Synergy",
+      "rawName": "RP Synergy",
+      "playerCount": 815,
+      "url": "https://www.roblox.com/games/125299131646017/Sintonia-RP",
+      "foundBy": "roleplay brasil"
+    },
+    {
+      "name": "SCP & Siren Head Roleplay",
+      "rawName": "[💥UPDATEE!] SCP & Siren Head Roleplay",
+      "playerCount": 773,
+      "url": "https://www.roblox.com/games/17857806871/SCP-Siren-Head-Roleplay",
+      "foundBy": "roleplay morphs"
+    },
+    {
+      "name": "Brazilian Army RP",
+      "rawName": "Brazilian Army 🔊 RP",
+      "playerCount": 714,
+      "url": "https://www.roblox.com/games/73283852203739/Ex-rcito-Brasileiro-RP",
+      "foundBy": "roleplay brasil"
+    },
+    {
+      "name": "Liberty High School RP",
+      "rawName": "Liberty High School RP",
+      "playerCount": 690,
+      "url": "https://www.roblox.com/games/116782860677858/Liberty-High-School-RP",
+      "foundBy": "roleplay school"
+    },
+    {
+      "name": "SAE Roleplay Morphs",
+      "rawName": "SAE Roleplay Morphs",
+      "playerCount": 640,
+      "url": "https://www.roblox.com/games/119455647785252/SAE-Roleplay-Morphs",
+      "foundBy": "roleplay morphs"
+    }
+  ]
+}

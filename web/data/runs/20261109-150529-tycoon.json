@@ -1,0 +1,1087 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.3.0",
+  "run": {
+    "runId": "20261109-150529-tycoon",
+    "genre": "tycoon",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-09T15:05:29Z",
+    "finishedAt": "2026-11-09T15:16:35Z",
+    "issue": null,
+    "genreWords": [
+      "tycoon"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Del Youtuber Players Tycoon",
+      "score": 568.184,
+      "words": [
+        "Del",
+        "Youtuber",
+        "Players",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon 2 players",
+        "tycoon 3 players",
+        "tycoon de youtuber"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "De Dioses Elementales Tycoon",
+      "score": 455.217,
+      "words": [
+        "De",
+        "Dioses",
+        "Elementales",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de youtuber",
+        "tycoon de dioses",
+        "tycoon de armas"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "De Youtuber Tycoon",
+      "score": 348.547,
+      "words": [
+        "De",
+        "Youtuber",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de youtuber",
+        "tycoon de dioses",
+        "tycoon de armas"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Players Armas Tycoon",
+      "score": 332.113,
+      "words": [
+        "Players",
+        "Armas",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon 2 players",
+        "tycoon 3 players",
+        "tycoon de armas"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Players Hero Tycoon",
+      "score": 252.717,
+      "words": [
+        "Players",
+        "Hero",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon 2 players",
+        "tycoon 3 players",
+        "tycoon super hero"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "De Superheroes Tycoon",
+      "score": 249.938,
+      "words": [
+        "De",
+        "Superheroes",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de youtuber",
+        "tycoon de dioses",
+        "tycoon de armas"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "One Players Tycoon",
+      "score": 196.992,
+      "words": [
+        "One",
+        "Players",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon 2 players",
+        "tycoon 3 players",
+        "tycoon but one dropper"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "De Super Tycoon",
+      "score": 186.992,
+      "words": [
+        "De",
+        "Super",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de youtuber",
+        "tycoon de dioses",
+        "tycoon de armas"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Players Restaurant Tycoon",
+      "score": 156.355,
+      "words": [
+        "Players",
+        "Restaurant",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon 2 players",
+        "tycoon 3 players",
+        "tycoon restaurant"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "De Dioses Griegos Tycoon",
+      "score": 148.93,
+      "words": [
+        "De",
+        "Dioses",
+        "Griegos",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de youtuber",
+        "tycoon de dioses",
+        "tycoon de armas"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "But One Dropper Squared Tycoon",
+      "score": 132.197,
+      "words": [
+        "But",
+        "One",
+        "Dropper",
+        "Squared",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon but one dropper",
+        "tycoon one dropper",
+        "tycoon dropper"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Players Princess Tycoon",
+      "score": 124.81,
+      "words": [
+        "Players",
+        "Princess",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon 2 players",
+        "tycoon 3 players",
+        "tycoon princess"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "De Armas Tycoon",
+      "score": 114.208,
+      "words": [
+        "De",
+        "Armas",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de youtuber",
+        "tycoon de dioses",
+        "tycoon de armas"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Del Youtuber Tycoon",
+      "score": 111.44,
+      "words": [
+        "Del",
+        "Youtuber",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de youtuber",
+        "tycoon del youtuber",
+        "tycoon del ejército militar"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Players Mansion Tycoon",
+      "score": 98.126,
+      "words": [
+        "Players",
+        "Mansion",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon 2 players",
+        "tycoon 3 players",
+        "tycoon 1 player"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "De Poderes Elementares Tycoon",
+      "score": 91.257,
+      "words": [
+        "De",
+        "Poderes",
+        "Elementares",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de youtuber",
+        "tycoon de dioses",
+        "tycoon de armas"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Players House Tycoon",
+      "score": 76.927,
+      "words": [
+        "Players",
+        "House",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon 2 players",
+        "tycoon 3 players",
+        "tycoon 1 player"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Youtuber Tycoon",
+      "score": 75.644,
+      "words": [
+        "Youtuber",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de youtuber",
+        "tycoon del youtuber",
+        "tycoon youtuber"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Super Hero Tycoon",
+      "score": 73.123,
+      "words": [
+        "Super",
+        "Hero",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon super hero",
+        "tycoon hero",
+        "tycoon heroes"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "De Guerra Militar Tycoon",
+      "score": 70.379,
+      "words": [
+        "De",
+        "Guerra",
+        "Militar",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de youtuber",
+        "tycoon de dioses",
+        "tycoon de armas"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "But One Dropper Tycoon",
+      "score": 67.438,
+      "words": [
+        "But",
+        "One",
+        "Dropper",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon but one dropper",
+        "tycoon one dropper",
+        "tycoon dropper"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Secrets Tycoon",
+      "score": 64.162,
+      "words": [
+        "Secrets",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon secrets"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Players Rumah Tycoon",
+      "score": 61.304,
+      "words": [
+        "Players",
+        "Rumah",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon 2 players",
+        "tycoon 3 players",
+        "tycoon 1 player"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "De Restaurante Tycoon",
+      "score": 55.74,
+      "words": [
+        "De",
+        "Restaurante",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de youtuber",
+        "tycoon de dioses",
+        "tycoon de armas"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Players Anime Tycoon",
+      "score": 48.687,
+      "words": [
+        "Players",
+        "Anime",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon 2 players",
+        "tycoon 3 players",
+        "tycoon 1 player"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "tycoon",
+      "score": 1351.912
+    },
+    {
+      "text": "tycoon de",
+      "score": 486.42
+    },
+    {
+      "text": "players",
+      "score": 350.484
+    },
+    {
+      "text": "tycoon 2",
+      "score": 301.775
+    },
+    {
+      "text": "tycoon 3",
+      "score": 188.499
+    },
+    {
+      "text": "de youtubers",
+      "score": 148.202
+    },
+    {
+      "text": "youtuber",
+      "score": 147.243
+    },
+    {
+      "text": "de dioses",
+      "score": 112.794
+    },
+    {
+      "text": "de armas",
+      "score": 96.731
+    },
+    {
+      "text": "dioses",
+      "score": 74.998
+    },
+    {
+      "text": "armas",
+      "score": 64.541
+    },
+    {
+      "text": "secrets",
+      "score": 64.102
+    },
+    {
+      "text": "tycoon del",
+      "score": 64.102
+    },
+    {
+      "text": "tycoon but",
+      "score": 63.466
+    },
+    {
+      "text": "one dropper",
+      "score": 63.374
+    },
+    {
+      "text": "tycoon secrets",
+      "score": 62.288
+    },
+    {
+      "text": "but one",
+      "score": 62.243
+    },
+    {
+      "text": "de superheroes",
+      "score": 58.348
+    },
+    {
+      "text": "del youtuber",
+      "score": 56.603
+    },
+    {
+      "text": "super hero",
+      "score": 55.651
+    },
+    {
+      "text": "tycoon super",
+      "score": 53.156
+    },
+    {
+      "text": "hero",
+      "score": 43.311
+    },
+    {
+      "text": "super",
+      "score": 42.204
+    },
+    {
+      "text": "del",
+      "score": 41.612
+    },
+    {
+      "text": "superheroes",
+      "score": 38.592
+    },
+    {
+      "text": "dropper",
+      "score": 34.895
+    },
+    {
+      "text": "one",
+      "score": 33.648
+    },
+    {
+      "text": "but",
+      "score": 33.292
+    },
+    {
+      "text": "restaurant",
+      "score": 30.519
+    },
+    {
+      "text": "tycoon restaurant",
+      "score": 26.815
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "tycoon 2 players",
+      "score": 510.328,
+      "appearances": 712,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "tycoon 3 players",
+      "score": 374.467,
+      "appearances": 707,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "tycoon de youtuber",
+      "score": 290.488,
+      "appearances": 491,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "tycoon de dioses",
+      "score": 222.911,
+      "appearances": 604,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "tycoon de armas",
+      "score": 189.006,
+      "appearances": 606,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "tycoon secrets",
+      "score": 124.186,
+      "appearances": 445,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "tycoon but one dropper",
+      "score": 120.628,
+      "appearances": 203,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "tycoon de superheroes",
+      "score": 114.154,
+      "appearances": 321,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "tycoon del youtuber",
+      "score": 111.91,
+      "appearances": 193,
+      "bestRank": 2
+    },
+    {
+      "rank": 10,
+      "text": "tycoon super hero",
+      "score": 105.881,
+      "appearances": 275,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "tycoon",
+      "score": 61.259,
+      "appearances": 84,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "tycoon restaurant",
+      "score": 50.901,
+      "appearances": 125,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "tycoon princess",
+      "score": 45.73,
+      "appearances": 132,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "tycoon 1 player",
+      "score": 40.899,
+      "appearances": 224,
+      "bestRank": 2
+    },
+    {
+      "rank": 15,
+      "text": "tycoon games",
+      "score": 36.134,
+      "appearances": 77,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "tycoon de poderes",
+      "score": 35.579,
+      "appearances": 223,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "tycoons",
+      "score": 32.831,
+      "appearances": 55,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "tycoon house",
+      "score": 31.349,
+      "appearances": 81,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "tycoon tentara militer",
+      "score": 30.2,
+      "appearances": 101,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "tycoon criminal",
+      "score": 28.152,
+      "appearances": 84,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "tycoon mansion",
+      "score": 26.477,
+      "appearances": 75,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "tycoon rumah pohon",
+      "score": 19.491,
+      "appearances": 59,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "tycoon cortis",
+      "score": 19.219,
+      "appearances": 43,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "tycoon de restaurante 3",
+      "score": 18.259,
+      "appearances": 122,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "tycoon anime",
+      "score": 17.176,
+      "appearances": 36,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "tycoon zombie",
+      "score": 15.96,
+      "appearances": 39,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "tycoon del ejército militar",
+      "score": 14.591,
+      "appearances": 66,
+      "bestRank": 2
+    },
+    {
+      "rank": 28,
+      "text": "tycoon de balsa",
+      "score": 14.175,
+      "appearances": 63,
+      "bestRank": 3
+    },
+    {
+      "rank": 29,
+      "text": "tycoon 2 players princess",
+      "score": 14,
+      "appearances": 49,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "tycoon de madera",
+      "score": 13.401,
+      "appearances": 36,
+      "bestRank": 2
+    },
+    {
+      "rank": 31,
+      "text": "tycoon rumah",
+      "score": 12.162,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "tycoon elemental",
+      "score": 12.122,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "tycoon de princesas",
+      "score": 11.677,
+      "appearances": 76,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "tycoon militar",
+      "score": 10.28,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "tycoon 2 players superhero",
+      "score": 10.216,
+      "appearances": 38,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "tycoon naruto",
+      "score": 9.683,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "tycoon devosi dolce gabbana",
+      "score": 9.682,
+      "appearances": 54,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "tycoon 2 players halloween",
+      "score": 8.689,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "tycoon youtuber",
+      "score": 8.423,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "tycoon rng",
+      "score": 7.974,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "tycoon saya",
+      "score": 7.049,
+      "appearances": 29,
+      "bestRank": 5
+    },
+    {
+      "rank": 42,
+      "text": "tycoon simulator",
+      "score": 7.009,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "tycoon 2 players raid",
+      "score": 6.189,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "tycoon zoo",
+      "score": 6.072,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "tycoon halloween",
+      "score": 5.635,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 46,
+      "text": "tycoon barbie",
+      "score": 5.453,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "tycoon pizza",
+      "score": 5.298,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "tycoon 2 players pibble",
+      "score": 5.196,
+      "appearances": 34,
+      "bestRank": 2
+    },
+    {
+      "rank": 49,
+      "text": "tycoon fnaf",
+      "score": 5.093,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "tycoon daya ultra",
+      "score": 5.06,
+      "appearances": 15,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 893411,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "tycoon"
+    },
+    {
+      "name": "LINE UP! Metro Tycoon",
+      "rawName": "LINE UP! Metro Tycoon",
+      "playerCount": 12278,
+      "url": "https://www.roblox.com/games/76792629643884/LINE-UP-Metro-Tycoon",
+      "foundBy": "tycoon"
+    },
+    {
+      "name": "Military Army Tycoon",
+      "rawName": "[ 2x ] Military Army Tycoon",
+      "playerCount": 8048,
+      "url": "https://www.roblox.com/games/95409544559668/Military-Army-Tycoon",
+      "foundBy": "tycoon"
+    },
+    {
+      "name": "Build A Restaurant Restaurant Tycoon 3",
+      "rawName": "Build A Restaurant ⭐ Restaurant Tycoon 3",
+      "playerCount": 6888,
+      "url": "https://www.roblox.com/games/119048529960596/Build-A-Restaurant-Restaurant-Tycoon-3",
+      "foundBy": "tycoon 3 players"
+    },
+    {
+      "name": "Elemental Powers Tycoon",
+      "rawName": "Elemental Powers Tycoon",
+      "playerCount": 5561,
+      "url": "https://www.roblox.com/games/10253248401/Elemental-Powers-Tycoon",
+      "foundBy": "tycoon"
+    },
+    {
+      "name": "Mansion Tycoon",
+      "rawName": "Mansion Tycoon 🌴🏠",
+      "playerCount": 4459,
+      "url": "https://www.roblox.com/games/12912731475/Mansion-Tycoon",
+      "foundBy": "tycoon"
+    },
+    {
+      "name": "Giga Mansion Tycoon",
+      "rawName": "Giga Mansion Tycoon 🏝️",
+      "playerCount": 3841,
+      "url": "https://www.roblox.com/games/14238596528/Giga-Mansion-Tycoon",
+      "foundBy": "tycoon"
+    },
+    {
+      "name": "Cliff Mansion Tycoon",
+      "rawName": "[V4] Cliff Mansion Tycoon",
+      "playerCount": 3788,
+      "url": "https://www.roblox.com/games/88015023779741/Cliff-Mansion-Tycoon",
+      "foundBy": "tycoon de youtuber"
+    },
+    {
+      "name": "Trading Tycoon",
+      "rawName": "[🎃] Trading Tycoon",
+      "playerCount": 2969,
+      "url": "https://www.roblox.com/games/112241277471797/Trading-Tycoon",
+      "foundBy": "tycoon"
+    },
+    {
+      "name": "Youtuber Tycoon!",
+      "rawName": "🕹️[Arcade] Youtuber Tycoon!",
+      "playerCount": 2489,
+      "url": "https://www.roblox.com/games/7971857341/Youtuber-Tycoon",
+      "foundBy": "tycoon de youtuber"
+    },
+    {
+      "name": "Raft Tycoon",
+      "rawName": "🌊 Raft Tycoon",
+      "playerCount": 1850,
+      "url": "https://www.roblox.com/games/76137189788863/Raft-Tycoon",
+      "foundBy": "tycoon"
+    },
+    {
+      "name": "2 PLAYER Evolution Tycoon",
+      "rawName": "2 PLAYER Evolution Tycoon 🛸",
+      "playerCount": 1540,
+      "url": "https://www.roblox.com/games/125496078313264/2-PLAYER-Evolution-Tycoon",
+      "foundBy": "tycoon 2 players"
+    },
+    {
+      "name": "Mega Mansion Tycoon",
+      "rawName": "Mega Mansion Tycoon 🌴🛥️",
+      "playerCount": 1150,
+      "url": "https://www.roblox.com/games/8328351891/Mega-Mansion-Tycoon",
+      "foundBy": "tycoon de youtuber"
+    },
+    {
+      "name": "Tropical Resort Tycoon 2",
+      "rawName": "[🎃] Tropical Resort Tycoon 2 🌴",
+      "playerCount": 1083,
+      "url": "https://www.roblox.com/games/12338455185/Tropical-Resort-Tycoon-2",
+      "foundBy": "tycoon"
+    },
+    {
+      "name": "Infinite Tower Tycoon",
+      "rawName": "Infinite Tower Tycoon",
+      "playerCount": 977,
+      "url": "https://www.roblox.com/games/10272636261/Infinite-Tower-Tycoon",
+      "foundBy": "tycoon but one dropper"
+    },
+    {
+      "name": "Tycoon But One Dropper 2",
+      "rawName": "Tycoon But One Dropper 2",
+      "playerCount": 969,
+      "url": "https://www.roblox.com/games/139063887391814/Tycoon-But-One-Dropper-2",
+      "foundBy": "tycoon but one dropper"
+    },
+    {
+      "name": "Warfare Tycoon",
+      "rawName": "[ZOMBIES] Warfare Tycoon",
+      "playerCount": 926,
+      "url": "https://www.roblox.com/games/31490825/Warfare-Tycoon",
+      "foundBy": "tycoon de armas"
+    },
+    {
+      "name": "Gumball Tycoon",
+      "rawName": "Gumball Tycoon 🍬",
+      "playerCount": 830,
+      "url": "https://www.roblox.com/games/84740049688972/Gumball-Tycoon",
+      "foundBy": "tycoon but one dropper"
+    },
+    {
+      "name": "2 Player Pizza Tycoon",
+      "rawName": "2 Player Pizza Tycoon 🍕",
+      "playerCount": 709,
+      "url": "https://www.roblox.com/games/119156763806075/2-Player-Pizza-Tycoon",
+      "foundBy": "tycoon 2 players"
+    },
+    {
+      "name": "1 Youtuber Evolution",
+      "rawName": "[W3] +1 Youtuber Evolution",
+      "playerCount": 650,
+      "url": "https://www.roblox.com/games/139172293907695/1-Youtuber-Evolution",
+      "foundBy": "tycoon de youtuber"
+    },
+    {
+      "name": "Super Hero Tycoon",
+      "rawName": "Super Hero Tycoon",
+      "playerCount": 640,
+      "url": "https://www.roblox.com/games/574407221/Super-Hero-Tycoon",
+      "foundBy": "tycoon"
+    },
+    {
+      "name": "Content Creator Tycoon",
+      "rawName": "Content Creator Tycoon",
+      "playerCount": 637,
+      "url": "https://www.roblox.com/games/71852303862507/Content-Creator-Tycoon",
+      "foundBy": "tycoon de youtuber"
+    },
+    {
+      "name": "GOD TYCOON",
+      "rawName": "GOD TYCOON",
+      "playerCount": 622,
+      "url": "https://www.roblox.com/games/5310443220/GOD-TYCOON",
+      "foundBy": "tycoon de dioses"
+    },
+    {
+      "name": "melon river tycoon QUESTS",
+      "rawName": "melon river tycoon *QUESTS*",
+      "playerCount": 461,
+      "url": "https://www.roblox.com/games/17124607103/melon-river-tycoon-QUESTS",
+      "foundBy": "tycoon secrets"
+    },
+    {
+      "name": "Marvel and DC Super Heroes",
+      "rawName": "Marvel and DC Super Heroes",
+      "playerCount": 432,
+      "url": "https://www.roblox.com/games/6132958612/Marvel-and-DC-Super-Heroes",
+      "foundBy": "tycoon de superheroes"
+    },
+    {
+      "name": "Guns Tycoon",
+      "rawName": "Guns Tycoon",
+      "playerCount": 418,
+      "url": "https://www.roblox.com/games/18286009370/Guns-Tycoon",
+      "foundBy": "tycoon de armas"
+    },
+    {
+      "name": "2 Player Gym Tycoon",
+      "rawName": "2 Player Gym Tycoon 💪",
+      "playerCount": 410,
+      "url": "https://www.roblox.com/games/89393305902627/2-Player-Gym-Tycoon",
+      "foundBy": "tycoon 2 players"
+    },
+    {
+      "name": "Streamer Tycoon",
+      "rawName": "Streamer Tycoon",
+      "playerCount": 360,
+      "url": "https://www.roblox.com/games/110838858426924/Streamer-Tycoon",
+      "foundBy": "tycoon de youtuber"
+    },
+    {
+      "name": "Blind Mute and Deaf 3 player obby",
+      "rawName": "Blind, Mute and Deaf | 3 player obby ",
+      "playerCount": 359,
+      "url": "https://www.roblox.com/games/116224688060177/Blind-Mute-and-Deaf-3-player-obby",
+      "foundBy": "tycoon 3 players"
+    },
+    {
+      "name": "Be a YouTuber!",
+      "rawName": "Be a YouTuber! 🔴🎥",
+      "playerCount": 346,
+      "url": "https://www.roblox.com/games/120564326011184/Be-a-YouTuber",
+      "foundBy": "tycoon del youtuber"
+    }
+  ]
+}

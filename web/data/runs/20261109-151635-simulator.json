@@ -1,0 +1,1085 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.3.0",
+  "run": {
+    "runId": "20261109-151635-simulator",
+    "genre": "simulator",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-09T15:16:35Z",
+    "finishedAt": "2026-11-09T15:27:41Z",
+    "issue": null,
+    "genreWords": [
+      "simulator"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "De Bus Simulator",
+      "score": 186.275,
+      "words": [
+        "De",
+        "Bus",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulador de autobuses méxico",
+        "simulador de superpoder",
+        "simulator de voiture"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Supermarket Player Simulator",
+      "score": 140.234,
+      "words": [
+        "Supermarket",
+        "Player",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator 2 player",
+        "simulator supermarket",
+        "simulator 3 player"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "De Voiture Simulator",
+      "score": 133.448,
+      "words": [
+        "De",
+        "Voiture",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulador de autobuses méxico",
+        "simulador de superpoder",
+        "simulator de voiture"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "De Fuerza Simulator",
+      "score": 106.363,
+      "words": [
+        "De",
+        "Fuerza",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulador de autobuses méxico",
+        "simulador de superpoder",
+        "simulator de voiture"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Kecelakaan Pesawat Simulator",
+      "score": 102.777,
+      "words": [
+        "Kecelakaan",
+        "Pesawat",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator kecelakaan pesawat",
+        "simulator pesawat",
+        "simulator kecelakaan kereta"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "De Gym Simulator",
+      "score": 84.964,
+      "words": [
+        "De",
+        "Gym",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulador de autobuses méxico",
+        "simulador de superpoder",
+        "simulator bintang gym"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Bawah Tanah Simulator",
+      "score": 78.895,
+      "words": [
+        "Bawah",
+        "Tanah",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator bawah tanah",
+        "simulator kru tanah",
+        "simulator hewan bawah air"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Kekuatan Super Cakra Simulator",
+      "score": 77.01,
+      "words": [
+        "Kekuatan",
+        "Super",
+        "Cakra",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator kekuatan super cakra",
+        "simulator balapan hewan super",
+        "simulator kekuatan"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Player Simulator",
+      "score": 73.414,
+      "words": [
+        "Player",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator 2 player",
+        "simulator 3 player",
+        "simulator 2 players"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "De Avatar Simulator",
+      "score": 66.252,
+      "words": [
+        "De",
+        "Avatar",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulador de autobuses méxico",
+        "simulador de superpoder",
+        "simulator de voiture"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Hewan Peliharaan Simulator",
+      "score": 57.468,
+      "words": [
+        "Hewan",
+        "Peliharaan",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator x peliharaan",
+        "simulator hewan",
+        "simulator hewan laut"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "De Animales Simulator",
+      "score": 51.869,
+      "words": [
+        "De",
+        "Animales",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulador de autobuses méxico",
+        "simulador de superpoder",
+        "simulator de voiture"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Bus Jalan Pantura Simulator",
+      "score": 42.749,
+      "words": [
+        "Bus",
+        "Jalan",
+        "Pantura",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator de bus",
+        "simulator bus jalan pantura",
+        "simulator bus"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Bintang Gym Simulator",
+      "score": 42.372,
+      "words": [
+        "Bintang",
+        "Gym",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator bintang gym",
+        "simulator gym",
+        "simulator gym star"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Sepeda Ontel Simulator",
+      "score": 42.337,
+      "words": [
+        "Sepeda",
+        "Ontel",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator sepeda ontel",
+        "simulator ontel",
+        "simulator ontel purwodadi"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Kecelakaan Kapal Simulator",
+      "score": 41.886,
+      "words": [
+        "Kecelakaan",
+        "Kapal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator kecelakaan pesawat",
+        "simulator kapal tenggelam",
+        "simulator kecelakaan kereta"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Supermarket Jepang Simulator",
+      "score": 40.879,
+      "words": [
+        "Supermarket",
+        "Jepang",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator supermarket",
+        "simulator supermarket 2 player",
+        "simulator supermarket jepang"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Pesawat Indonesia Simulator",
+      "score": 40.768,
+      "words": [
+        "Pesawat",
+        "Indonesia",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator kecelakaan pesawat",
+        "simulator pesawat",
+        "simulator pjl indonesia"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "De Menu Gs4 Simulator",
+      "score": 40.671,
+      "words": [
+        "De",
+        "Menu",
+        "Gs4",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulador de autobuses méxico",
+        "simulador de superpoder",
+        "simulator de voiture"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Hewan Bawah Simulator",
+      "score": 39.289,
+      "words": [
+        "Hewan",
+        "Bawah",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator bawah tanah",
+        "simulator hewan",
+        "simulator hewan laut"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "De Voar Simulator",
+      "score": 32.203,
+      "words": [
+        "De",
+        "Voar",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulador de autobuses méxico",
+        "simulador de superpoder",
+        "simulator de voiture"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Supermarket Amerika Simulator",
+      "score": 31.897,
+      "words": [
+        "Supermarket",
+        "Amerika",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator supermarket",
+        "simulator supermarket 2 player",
+        "simulator supermarket jepang"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Kecelakaan Kereta Simulator",
+      "score": 31.595,
+      "words": [
+        "Kecelakaan",
+        "Kereta",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator kecelakaan pesawat",
+        "simulator kecelakaan kereta",
+        "simulator kecelakaan mobil"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Kekuatan Super Simulator",
+      "score": 31.073,
+      "words": [
+        "Kekuatan",
+        "Super",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator kekuatan super cakra",
+        "simulator balapan hewan super",
+        "simulator kekuatan"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Naik Pesawat Simulator",
+      "score": 29.374,
+      "words": [
+        "Naik",
+        "Pesawat",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator kecelakaan pesawat",
+        "simulator pesawat",
+        "simulator naik gerobak"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "simulator",
+      "score": 1039.313
+    },
+    {
+      "text": "simulator de",
+      "score": 192.869
+    },
+    {
+      "text": "simulator 2",
+      "score": 118.958
+    },
+    {
+      "text": "player",
+      "score": 91.768
+    },
+    {
+      "text": "simulator kecelakaan",
+      "score": 55.628
+    },
+    {
+      "text": "simulator x",
+      "score": 49.564
+    },
+    {
+      "text": "supermarket",
+      "score": 48.466
+    },
+    {
+      "text": "simulator supermarket",
+      "score": 46.279
+    },
+    {
+      "text": "kecelakaan pesawat",
+      "score": 44.694
+    },
+    {
+      "text": "bawah tanah",
+      "score": 42.864
+    },
+    {
+      "text": "simulator bawah",
+      "score": 42.864
+    },
+    {
+      "text": "pesawat",
+      "score": 42.793
+    },
+    {
+      "text": "kecelakaan",
+      "score": 37.636
+    },
+    {
+      "text": "x peliharaan",
+      "score": 36.677
+    },
+    {
+      "text": "bus",
+      "score": 34.323
+    },
+    {
+      "text": "simulator hewan",
+      "score": 34.063
+    },
+    {
+      "text": "hewan",
+      "score": 32.604
+    },
+    {
+      "text": "simulator kekuatan",
+      "score": 29.581
+    },
+    {
+      "text": "tanah",
+      "score": 28.782
+    },
+    {
+      "text": "bawah",
+      "score": 28.68
+    },
+    {
+      "text": "kekuatan super",
+      "score": 28.458
+    },
+    {
+      "text": "super cakra",
+      "score": 28.458
+    },
+    {
+      "text": "gym",
+      "score": 25.957
+    },
+    {
+      "text": "peliharaan",
+      "score": 24.658
+    },
+    {
+      "text": "simulator bintang",
+      "score": 23.448
+    },
+    {
+      "text": "de bus",
+      "score": 22.93
+    },
+    {
+      "text": "de fuerza",
+      "score": 22.897
+    },
+    {
+      "text": "bintang gym",
+      "score": 22.751
+    },
+    {
+      "text": "de voiture",
+      "score": 22.719
+    },
+    {
+      "text": "simulator bus",
+      "score": 21.75
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "simulator 2 player",
+      "score": 217.921,
+      "appearances": 366,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "simulator kecelakaan pesawat",
+      "score": 89.389,
+      "appearances": 156,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "simulator bawah tanah",
+      "score": 85.728,
+      "appearances": 130,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "simulator supermarket",
+      "score": 79.098,
+      "appearances": 122,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "simulator x peliharaan",
+      "score": 73.354,
+      "appearances": 179,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "simulator",
+      "score": 62.348,
+      "appearances": 82,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "simulator kekuatan super cakra",
+      "score": 56.916,
+      "appearances": 91,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "simulator hewan",
+      "score": 56.534,
+      "appearances": 98,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "simulator games",
+      "score": 51.624,
+      "appearances": 80,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "simulator bintang gym",
+      "score": 45.502,
+      "appearances": 90,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "simulator de voiture",
+      "score": 45.391,
+      "appearances": 119,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "simulator de fuerza",
+      "score": 45.159,
+      "appearances": 72,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "simulator de bus",
+      "score": 42.835,
+      "appearances": 90,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "simulator avatar",
+      "score": 38.463,
+      "appearances": 63,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "simulator sepeda ontel",
+      "score": 36.317,
+      "appearances": 75,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "simulator kapal tenggelam",
+      "score": 32.718,
+      "appearances": 72,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "simulator de animales",
+      "score": 28.97,
+      "appearances": 56,
+      "bestRank": 2
+    },
+    {
+      "rank": 18,
+      "text": "simulators",
+      "score": 28.885,
+      "appearances": 47,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "simulator avion",
+      "score": 25.232,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "simulator de voar",
+      "score": 24.245,
+      "appearances": 64,
+      "bestRank": 2
+    },
+    {
+      "rank": 21,
+      "text": "simulator 3 player",
+      "score": 22.898,
+      "appearances": 73,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "simulator x",
+      "score": 22.541,
+      "appearances": 49,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "simulator tycoon",
+      "score": 22.279,
+      "appearances": 51,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "simulator pesawat",
+      "score": 21.917,
+      "appearances": 42,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "simulator de animais",
+      "score": 21.224,
+      "appearances": 35,
+      "bestRank": 2
+    },
+    {
+      "rank": 26,
+      "text": "simulator car",
+      "score": 19.19,
+      "appearances": 54,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "simulator bus jalan pantura",
+      "score": 18.727,
+      "appearances": 52,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "simulator pelatihan",
+      "score": 18.128,
+      "appearances": 39,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "simulator pet 99",
+      "score": 18.126,
+      "appearances": 37,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "simulator 2 players",
+      "score": 17.283,
+      "appearances": 50,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "simulator de youtube",
+      "score": 16.809,
+      "appearances": 56,
+      "bestRank": 4
+    },
+    {
+      "rank": 32,
+      "text": "simulator de força",
+      "score": 16.809,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "simulator gym",
+      "score": 15.472,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "simulator kecelakaan kereta",
+      "score": 15.31,
+      "appearances": 51,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "simulator strong simulator",
+      "score": 14.407,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "simulator mobil",
+      "score": 13.536,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "simulator de corrida",
+      "score": 12.626,
+      "appearances": 38,
+      "bestRank": 4
+    },
+    {
+      "rank": 38,
+      "text": "simulator swat",
+      "score": 12.606,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "simulator motor",
+      "score": 12.484,
+      "appearances": 20,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "simulator pertempuran skibidi",
+      "score": 12.192,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "simulator mengambang",
+      "score": 11.987,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 42,
+      "text": "simulator ontel",
+      "score": 11.891,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "simulator de menu gs4",
+      "score": 11.588,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "simulator pelatihan titan",
+      "score": 11.512,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "simulator kuat",
+      "score": 11.232,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 46,
+      "text": "simulator superpower chakra",
+      "score": 10.38,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "simulator speed",
+      "score": 10.147,
+      "appearances": 24,
+      "bestRank": 2
+    },
+    {
+      "rank": 48,
+      "text": "simulator makan bola",
+      "score": 10.12,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "simulator hewan laut",
+      "score": 9.977,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "simulator de carro",
+      "score": 9.605,
+      "appearances": 33,
+      "bestRank": 3
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Throw Food For Animals",
+      "rawName": "Throw Food For Animals",
+      "playerCount": 233215,
+      "url": "https://www.roblox.com/games/120219252362013/Throw-Food-For-Animals",
+      "foundBy": "simulator"
+    },
+    {
+      "name": "Pet Simulator 99!",
+      "rawName": "🎭 [MINIGAMES] Pet Simulator 99! 🎃",
+      "playerCount": 53038,
+      "url": "https://www.roblox.com/games/8737899170/Pet-Simulator-99",
+      "foundBy": "simulator x peliharaan"
+    },
+    {
+      "name": "Tap Simulator REBORN",
+      "rawName": "[🌎2] Tap Simulator REBORN",
+      "playerCount": 39377,
+      "url": "https://www.roblox.com/games/72858262610964/Tap-Simulator-REBORN",
+      "foundBy": "simulator"
+    },
+    {
+      "name": "1 Venom Evolution",
+      "rawName": "[⚔️UPD] +1 Venom Evolution",
+      "playerCount": 31201,
+      "url": "https://www.roblox.com/games/116448925875915/1-Venom-Evolution",
+      "foundBy": "simulator"
+    },
+    {
+      "name": "Criminal Simulator",
+      "rawName": "[🏘️CITY] Criminal Simulator 💰",
+      "playerCount": 22426,
+      "url": "https://www.roblox.com/games/83048653078891/Criminal-Simulator",
+      "foundBy": "simulator"
+    },
+    {
+      "name": "Depth Incremental",
+      "rawName": "[UPD5 ✨] Depth Incremental",
+      "playerCount": 21023,
+      "url": "https://www.roblox.com/games/119101118479978/Depth-Incremental",
+      "foundBy": "simulator bawah tanah"
+    },
+    {
+      "name": "1 Spider Arm",
+      "rawName": "+1 Spider Arm🕷️",
+      "playerCount": 19462,
+      "url": "https://www.roblox.com/games/117734411290994/1-Spider-Arm",
+      "foundBy": "simulator"
+    },
+    {
+      "name": "Steal a Superpower!",
+      "rawName": "[⚡] Steal a Superpower!",
+      "playerCount": 19002,
+      "url": "https://www.roblox.com/games/74183246285569/Steal-a-Superpower",
+      "foundBy": "simulador de superpoder"
+    },
+    {
+      "name": "My Small Business",
+      "rawName": "🧸 My Small Business",
+      "playerCount": 12500,
+      "url": "https://www.roblox.com/games/136468592163527/My-Small-Business",
+      "foundBy": "simulator"
+    },
+    {
+      "name": "FERAL Animal Survival",
+      "rawName": "[RED PANDA🐼] FERAL 🐺 Animal Survival",
+      "playerCount": 9899,
+      "url": "https://www.roblox.com/games/108901361810209/FERAL-Animal-Survival",
+      "foundBy": "simulator hewan"
+    },
+    {
+      "name": "WRECKED",
+      "rawName": "WRECKED [Realistic Crashes]",
+      "playerCount": 8939,
+      "url": "https://www.roblox.com/games/77843690602580/WRECKED",
+      "foundBy": "simulator kecelakaan pesawat"
+    },
+    {
+      "name": "Run a Sari-Sari Store!",
+      "rawName": "[🛒] Run a Sari-Sari Store!",
+      "playerCount": 7907,
+      "url": "https://www.roblox.com/games/104178853788462/Run-a-Sari-Sari-Store",
+      "foundBy": "simulator supermarket"
+    },
+    {
+      "name": "Ride A Pet",
+      "rawName": "[♻️] Ride A Pet",
+      "playerCount": 6388,
+      "url": "https://www.roblox.com/games/124216119978534/Ride-A-Pet",
+      "foundBy": "simulator x peliharaan"
+    },
+    {
+      "name": "Dig to Escape",
+      "rawName": "⛏️Dig to Escape",
+      "playerCount": 4789,
+      "url": "https://www.roblox.com/games/92122513197996/Dig-to-Escape",
+      "foundBy": "simulator 2 player"
+    },
+    {
+      "name": "Train Pets for Eggs",
+      "rawName": "Train Pets for Eggs",
+      "playerCount": 4111,
+      "url": "https://www.roblox.com/games/100655715596680/Train-Pets-for-Eggs",
+      "foundBy": "simulator x peliharaan"
+    },
+    {
+      "name": "Burger Planet: Fast Food Simulator",
+      "rawName": "Burger Planet: Fast Food Simulator",
+      "playerCount": 4104,
+      "url": "https://www.roblox.com/games/121348681731705/Burger-Planet-Fast-Food-Simulator",
+      "foundBy": "simulator"
+    },
+    {
+      "name": "Survive Overnight in a Mega Store",
+      "rawName": "Survive Overnight in a Mega Store",
+      "playerCount": 3834,
+      "url": "https://www.roblox.com/games/127380660530951/Survive-Overnight-in-a-Mega-Store",
+      "foundBy": "simulator 2 player"
+    },
+    {
+      "name": "Terrashape",
+      "rawName": "Terrashape",
+      "playerCount": 3535,
+      "url": "https://www.roblox.com/games/133322439832183/Terrashape",
+      "foundBy": "simulator bawah tanah"
+    },
+    {
+      "name": "Scooter Duo",
+      "rawName": "Scooter Duo 🛴 [2 Player Obby]",
+      "playerCount": 3458,
+      "url": "https://www.roblox.com/games/121371815815493/Scooter-Duo",
+      "foundBy": "simulator 2 player"
+    },
+    {
+      "name": "Pilot Training Flight Simulator",
+      "rawName": "Pilot Training Flight Simulator",
+      "playerCount": 3301,
+      "url": "https://www.roblox.com/games/20321167/Pilot-Training-Flight-Simulator",
+      "foundBy": "simulator kecelakaan pesawat"
+    },
+    {
+      "name": "DEEPER",
+      "rawName": "DEEPER",
+      "playerCount": 3036,
+      "url": "https://www.roblox.com/games/71623596075319/DEEPER",
+      "foundBy": "simulator bawah tanah"
+    },
+    {
+      "name": "Animal Simulator",
+      "rawName": "Animal Simulator",
+      "playerCount": 2873,
+      "url": "https://www.roblox.com/games/5712833750/Animal-Simulator",
+      "foundBy": "simulator hewan"
+    },
+    {
+      "name": "AURA X",
+      "rawName": "AURA X [BROLY]",
+      "playerCount": 2862,
+      "url": "https://www.roblox.com/games/140409667345323/AURA-X",
+      "foundBy": "simulador de superpoder"
+    },
+    {
+      "name": "1 Ride Pets to Fight",
+      "rawName": "[💥UPD] +1 Ride Pets to Fight",
+      "playerCount": 2845,
+      "url": "https://www.roblox.com/games/127231827405683/1-Ride-Pets-to-Fight",
+      "foundBy": "simulator x peliharaan"
+    },
+    {
+      "name": "Savannah Life",
+      "rawName": "Savannah Life",
+      "playerCount": 2838,
+      "url": "https://www.roblox.com/games/18214855317/Savannah-Life",
+      "foundBy": "simulator hewan"
+    },
+    {
+      "name": "Renovate A House",
+      "rawName": "Renovate A House",
+      "playerCount": 2769,
+      "url": "https://www.roblox.com/games/74865107636750/Renovate-A-House",
+      "foundBy": "simulator"
+    },
+    {
+      "name": "Plane Crash Simulator",
+      "rawName": "[UPD] Plane Crash Simulator",
+      "playerCount": 2683,
+      "url": "https://www.roblox.com/games/98306159851135/Plane-Crash-Simulator",
+      "foundBy": "simulator kecelakaan pesawat"
+    },
+    {
+      "name": "Bus Driver Vietnam 2",
+      "rawName": "Bus Driver Vietnam 2",
+      "playerCount": 2585,
+      "url": "https://www.roblox.com/games/13705777238/Bus-Driver-Vietnam-2",
+      "foundBy": "simulador de autobuses méxico"
+    },
+    {
+      "name": "Get Your Superpowers!",
+      "rawName": "Get Your Superpowers!",
+      "playerCount": 2336,
+      "url": "https://www.roblox.com/games/113808375515342/Get-Your-Superpowers",
+      "foundBy": "simulador de superpoder"
+    },
+    {
+      "name": "Superhero ability arena",
+      "rawName": "Superhero ability arena",
+      "playerCount": 2058,
+      "url": "https://www.roblox.com/games/76954970533505/Superhero-ability-arena",
+      "foundBy": "simulador de superpoder"
+    }
+  ]
+}
