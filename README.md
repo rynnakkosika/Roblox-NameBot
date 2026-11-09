@@ -7,7 +7,17 @@ hakukenttään, kerää suosituimmat hakuehdotukset ja top-pelit
 pelaajamäärineen, pisteyttää sanat ja muodostaa hakukoneoptimoituja
 nimiehdotuksia (max 50 merkkiä).
 
-## Käyttö
+## Käyttö selaimessa (helpoin)
+
+1. Asenna Python osoitteesta python.org/downloads (rastita **Add Python to PATH**).
+2. Lataa repo: vihreä **Code**-nappi → **Download ZIP** ja pura se.
+3. Tuplaklikkaa **`Aja.bat`**. Selain aukeaa osoitteeseen http://localhost:8765.
+4. Kirjoita genre, paina **Hae nimet** ja odota. Nimet voi kopioida yhdellä klikkauksella.
+
+Pidä musta komentoikkuna auki niin kauan kuin käytät sivua – haut tehdään
+sen kautta omalta koneeltasi.
+
+## Käyttö komentoriviltä
 
 Tarvitaan vain Python 3 (ei lisäpaketteja).
 

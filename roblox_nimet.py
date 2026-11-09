@@ -154,7 +154,8 @@ def plan_queries(genre, found, done):
     return [q for q in dict.fromkeys(q.lower() for q in stage) if q not in done]
 
 
-def collect(genre, top, limit, cache_file, workers=4):
+def collect(genre, top, limit, cache_file, workers=4, progress=None):
+    """progress(vaihe, tehty, yhteensä, löydetyt) - valinnainen edistymisilmoitus."""
     cache = {}
     if cache_file and os.path.exists(cache_file):
         with open(cache_file, encoding="utf-8") as f:
@@ -185,6 +186,8 @@ def collect(genre, top, limit, cache_file, workers=4):
             for q, res in zip(batch, pool.map(lambda q: autocomplete(q, top), batch)):
                 queries[q] = res
             n = len(queries)
+            if progress:
+                progress("haut", n, limit, len(found_from(queries)))
             rate = n / max(time.time() - t0, 1)
             print(f"\r  hakuja {n}/{limit}  löydettyjä ehdotuksia {len(found_from(queries))}"
                   f"  ({rate:.1f}/s)   ", end="", flush=True)
@@ -201,6 +204,8 @@ def collect(genre, top, limit, cache_file, workers=4):
     games = {}
     for q in dict.fromkeys(game_queries):
         print(f"  top-pelit: {q}")
+        if progress:
+            progress("pelit", len(games), len(game_queries), len(found))
         for name, p in top_games(q, top):
             games[name] = max(p, games.get(name, 0))
         time.sleep(0.3)
@@ -273,30 +278,11 @@ def generate_names(seeds, score, phrase_score, n):
 
 # ---------------------------------------------------------------- main
 
-def main():
-    ap = argparse.ArgumentParser(description="Roblox-pelin nimiehdotukset hakudatan perusteella")
-    ap.add_argument("genre", nargs="+", help='pelin genre, esim. forest tai "tower defense"')
-    ap.add_argument("--hakuja", type=int, default=1000, help="montako hakua tehdään (oletus 1000)")
-    ap.add_argument("--top", type=int, default=10, help="ehdotuksia/pelejä per haku (oletus 10)")
-    ap.add_argument("--nimia", type=int, default=20, help="nimiehdotuksia (oletus 20)")
-    ap.add_argument("--uusi", action="store_true", help="älä käytä välimuistia")
-    args = ap.parse_args()
-
-    genre = " ".join(args.genre).lower().strip()
-    slug = re.sub(r"\W+", "_", genre)
-    cache_file = f"cache_{slug}.json"
-    if args.uusi and os.path.exists(cache_file):
-        os.remove(cache_file)
-    print(f"Genre: {genre}  |  hakuja: {args.hakuja}")
-    suggestions, games = collect(genre, args.top, args.hakuja, cache_file)
+def analyze(genre, suggestions, games, top=10, n_names=20):
+    """Palauttaa (tulos-dict, tekstiraportti)."""
     seeds = [genre]
-
-    if not suggestions and not games:
-        print("\nEi dataa. Tarkista nettiyhteys - Roblox on voinut myös muuttaa rajapintaa.")
-        sys.exit(1)
-
-    score, phrase_score = score_words(suggestions, games, args.top)
-    names = generate_names(seeds, score, phrase_score, args.nimia)
+    score, phrase_score = score_words(suggestions, games, top)
+    names = generate_names(seeds, score, phrase_score, n_names)
 
     lines = []
     lines.append("=== SUOSITUIMMAT HAKUEHDOTUKSET ===")
@@ -317,7 +303,42 @@ def main():
     lines.append("\nVinkki: lisää kuvaukseen myös muut avainsanat, ja nimen loppuun"
                  " voi myöhemmin lisätä tagin kuten [UPDATE].")
 
-    report = "\n".join(lines)
+    result = {
+        "genre": genre,
+        "names": [{"name": n, "score": round(s)} for n, s in names],
+        "keywords": [{"word": w, "score": round(c)} for w, c in score.most_common(25)],
+        "phrases": [{"phrase": p, "score": round(c)} for p, c in phrase_score.most_common(10)],
+        "suggestions": [{"query": s, "score": round(d["score"]), "rank": d["rank"] + 1,
+                         "hits": d["hits"]}
+                        for s, d in sorted(suggestions.items(), key=lambda kv: -kv[1]["score"])[:40]],
+        "total_suggestions": len(suggestions),
+        "games": [{"name": n, "players": p} for n, p in games[:25]],
+    }
+    return result, "\n".join(lines)
+
+
+def main():
+    ap = argparse.ArgumentParser(description="Roblox-pelin nimiehdotukset hakudatan perusteella")
+    ap.add_argument("genre", nargs="+", help='pelin genre, esim. forest tai "tower defense"')
+    ap.add_argument("--hakuja", type=int, default=1000, help="montako hakua tehdään (oletus 1000)")
+    ap.add_argument("--top", type=int, default=10, help="ehdotuksia/pelejä per haku (oletus 10)")
+    ap.add_argument("--nimia", type=int, default=20, help="nimiehdotuksia (oletus 20)")
+    ap.add_argument("--uusi", action="store_true", help="älä käytä välimuistia")
+    args = ap.parse_args()
+
+    genre = " ".join(args.genre).lower().strip()
+    slug = re.sub(r"\W+", "_", genre)
+    cache_file = f"cache_{slug}.json"
+    if args.uusi and os.path.exists(cache_file):
+        os.remove(cache_file)
+    print(f"Genre: {genre}  |  hakuja: {args.hakuja}")
+    suggestions, games = collect(genre, args.top, args.hakuja, cache_file)
+
+    if not suggestions and not games:
+        print("\nEi dataa. Tarkista nettiyhteys - Roblox on voinut myös muuttaa rajapintaa.")
+        sys.exit(1)
+
+    _, report = analyze(genre, suggestions, games, args.top, args.nimia)
     print("\n" + report)
     fname = f"roblox_nimet_{slug}.txt"
     with open(fname, "w", encoding="utf-8") as f:
