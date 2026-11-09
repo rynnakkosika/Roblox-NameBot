@@ -4,6 +4,7 @@ import {
   cleanDisplayName,
   cleanText,
   contentWords,
+  isNameWord,
   isTypeWord,
   sameStem,
   stem,
@@ -115,4 +116,12 @@ test('genre variants: misspellings and fuzzy matches, not real other words', asy
   assert.ok(!isGenreVariant('forests', ['forest']));
   assert.ok(!isGenreVariant('power', ['tower', 'defense']));
   assert.ok(!isGenreVariant('hospital', ['horror']));
+});
+
+test('foreign function words and number-bound words never appear in names', () => {
+  for (const w of ['de', 'del', 'el', 'da', 'yang', 'players', 'days', 'nights']) {
+    assert.ok(!isNameWord(w), w);
+  }
+  assert.ok(isNameWord('night'));
+  assert.ok(isNameWord('youtuber'));
 });

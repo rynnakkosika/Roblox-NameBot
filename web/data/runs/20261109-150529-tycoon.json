@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "engineVersion": "1.3.0",
+  "engineVersion": "1.4.0",
   "run": {
     "runId": "20261109-150529-tycoon",
     "genre": "tycoon",
@@ -19,163 +19,23 @@
   "names": [
     {
       "position": 1,
-      "name": "Del Youtuber Players Tycoon",
-      "score": 568.184,
+      "name": "Youtuber Tycoon",
+      "score": 215.688,
       "words": [
-        "Del",
         "Youtuber",
-        "Players",
         "Tycoon"
       ],
       "supportedBy": [
-        "tycoon 2 players",
-        "tycoon 3 players",
-        "tycoon de youtuber"
+        "tycoon de youtuber",
+        "tycoon del youtuber",
+        "tycoon youtuber"
       ]
     },
     {
       "position": 2,
-      "name": "De Dioses Elementales Tycoon",
-      "score": 455.217,
+      "name": "One Dropper Squared Tycoon",
+      "score": 121.381,
       "words": [
-        "De",
-        "Dioses",
-        "Elementales",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon de youtuber",
-        "tycoon de dioses",
-        "tycoon de armas"
-      ]
-    },
-    {
-      "position": 3,
-      "name": "De Youtuber Tycoon",
-      "score": 348.547,
-      "words": [
-        "De",
-        "Youtuber",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon de youtuber",
-        "tycoon de dioses",
-        "tycoon de armas"
-      ]
-    },
-    {
-      "position": 4,
-      "name": "Players Armas Tycoon",
-      "score": 332.113,
-      "words": [
-        "Players",
-        "Armas",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon 2 players",
-        "tycoon 3 players",
-        "tycoon de armas"
-      ]
-    },
-    {
-      "position": 5,
-      "name": "Players Hero Tycoon",
-      "score": 252.717,
-      "words": [
-        "Players",
-        "Hero",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon 2 players",
-        "tycoon 3 players",
-        "tycoon super hero"
-      ]
-    },
-    {
-      "position": 6,
-      "name": "De Superheroes Tycoon",
-      "score": 249.938,
-      "words": [
-        "De",
-        "Superheroes",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon de youtuber",
-        "tycoon de dioses",
-        "tycoon de armas"
-      ]
-    },
-    {
-      "position": 7,
-      "name": "One Players Tycoon",
-      "score": 196.992,
-      "words": [
-        "One",
-        "Players",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon 2 players",
-        "tycoon 3 players",
-        "tycoon but one dropper"
-      ]
-    },
-    {
-      "position": 8,
-      "name": "De Super Tycoon",
-      "score": 186.992,
-      "words": [
-        "De",
-        "Super",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon de youtuber",
-        "tycoon de dioses",
-        "tycoon de armas"
-      ]
-    },
-    {
-      "position": 9,
-      "name": "Players Restaurant Tycoon",
-      "score": 156.355,
-      "words": [
-        "Players",
-        "Restaurant",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon 2 players",
-        "tycoon 3 players",
-        "tycoon restaurant"
-      ]
-    },
-    {
-      "position": 10,
-      "name": "De Dioses Griegos Tycoon",
-      "score": 148.93,
-      "words": [
-        "De",
-        "Dioses",
-        "Griegos",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon de youtuber",
-        "tycoon de dioses",
-        "tycoon de armas"
-      ]
-    },
-    {
-      "position": 11,
-      "name": "But One Dropper Squared Tycoon",
-      "score": 132.197,
-      "words": [
-        "But",
         "One",
         "Dropper",
         "Squared",
@@ -188,114 +48,9 @@
       ]
     },
     {
-      "position": 12,
-      "name": "Players Princess Tycoon",
-      "score": 124.81,
-      "words": [
-        "Players",
-        "Princess",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon 2 players",
-        "tycoon 3 players",
-        "tycoon princess"
-      ]
-    },
-    {
-      "position": 13,
-      "name": "De Armas Tycoon",
-      "score": 114.208,
-      "words": [
-        "De",
-        "Armas",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon de youtuber",
-        "tycoon de dioses",
-        "tycoon de armas"
-      ]
-    },
-    {
-      "position": 14,
-      "name": "Del Youtuber Tycoon",
-      "score": 111.44,
-      "words": [
-        "Del",
-        "Youtuber",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon de youtuber",
-        "tycoon del youtuber",
-        "tycoon del ejército militar"
-      ]
-    },
-    {
-      "position": 15,
-      "name": "Players Mansion Tycoon",
-      "score": 98.126,
-      "words": [
-        "Players",
-        "Mansion",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon 2 players",
-        "tycoon 3 players",
-        "tycoon 1 player"
-      ]
-    },
-    {
-      "position": 16,
-      "name": "De Poderes Elementares Tycoon",
-      "score": 91.257,
-      "words": [
-        "De",
-        "Poderes",
-        "Elementares",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon de youtuber",
-        "tycoon de dioses",
-        "tycoon de armas"
-      ]
-    },
-    {
-      "position": 17,
-      "name": "Players House Tycoon",
-      "score": 76.927,
-      "words": [
-        "Players",
-        "House",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon 2 players",
-        "tycoon 3 players",
-        "tycoon 1 player"
-      ]
-    },
-    {
-      "position": 18,
-      "name": "Youtuber Tycoon",
-      "score": 75.644,
-      "words": [
-        "Youtuber",
-        "Tycoon"
-      ],
-      "supportedBy": [
-        "tycoon de youtuber",
-        "tycoon del youtuber",
-        "tycoon youtuber"
-      ]
-    },
-    {
-      "position": 19,
+      "position": 3,
       "name": "Super Hero Tycoon",
-      "score": 73.123,
+      "score": 114.376,
       "words": [
         "Super",
         "Hero",
@@ -308,27 +63,54 @@
       ]
     },
     {
-      "position": 20,
-      "name": "De Guerra Militar Tycoon",
-      "score": 70.379,
+      "position": 4,
+      "name": "Dioses Elementales Tycoon",
+      "score": 113.611,
       "words": [
-        "De",
-        "Guerra",
-        "Militar",
+        "Dioses",
+        "Elementales",
         "Tycoon"
       ],
       "supportedBy": [
-        "tycoon de youtuber",
         "tycoon de dioses",
-        "tycoon de armas"
+        "tycoon de dioses elementales",
+        "ticon de dioses"
       ]
     },
     {
-      "position": 21,
-      "name": "But One Dropper Tycoon",
-      "score": 67.438,
+      "position": 5,
+      "name": "Armas Tycoon",
+      "score": 96.638,
       "words": [
-        "But",
+        "Armas",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de armas",
+        "tycoon de armas de 2",
+        "ticoon de armas"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Dioses Griegos Tycoon",
+      "score": 90.238,
+      "words": [
+        "Dioses",
+        "Griegos",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de dioses",
+        "tycoon de dioses elementales",
+        "ticon de dioses"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "One Dropper Tycoon",
+      "score": 77.276,
+      "words": [
         "One",
         "Dropper",
         "Tycoon"
@@ -340,7 +122,21 @@
       ]
     },
     {
-      "position": 22,
+      "position": 8,
+      "name": "Dioses Tycoon",
+      "score": 71.935,
+      "words": [
+        "Dioses",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de dioses",
+        "tycoon de dioses elementales",
+        "ticon de dioses"
+      ]
+    },
+    {
+      "position": 9,
       "name": "Secrets Tycoon",
       "score": 64.162,
       "words": [
@@ -352,48 +148,234 @@
       ]
     },
     {
-      "position": 23,
-      "name": "Players Rumah Tycoon",
-      "score": 61.304,
+      "position": 10,
+      "name": "Superheroes Tycoon",
+      "score": 57.957,
       "words": [
-        "Players",
-        "Rumah",
+        "Superheroes",
         "Tycoon"
       ],
       "supportedBy": [
-        "tycoon 2 players",
-        "tycoon 3 players",
-        "tycoon 1 player"
+        "tycoon de superheroes",
+        "tycoon de superheroes de 2",
+        "tycon superheroes"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Hero Power Tycoon",
+      "score": 40.554,
+      "words": [
+        "Hero",
+        "Power",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon super hero",
+        "tycoon power",
+        "tycoon hero"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Pohon Super Tycoon",
+      "score": 39.145,
+      "words": [
+        "Pohon",
+        "Super",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon super hero",
+        "tycoon rumah pohon",
+        "tycoon de super héros"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Restaurant Tycoon",
+      "score": 31.053,
+      "words": [
+        "Restaurant",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon restaurant",
+        "tycoon restaurant 3",
+        "tycoon 2 players restaurant"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Only Dropper Tycoon",
+      "score": 29.028,
+      "words": [
+        "Only",
+        "Dropper",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon but one dropper",
+        "tycoon one dropper",
+        "tycoon dropper"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "One Drooper Tycoon",
+      "score": 28.374,
+      "words": [
+        "One",
+        "Drooper",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon but one dropper",
+        "tycoon one dropper",
+        "tycoon but one drooper"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Hero Tycoon",
+      "score": 28.328,
+      "words": [
+        "Hero",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon super hero",
+        "tycoon hero",
+        "tycoon heroes"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Tentara Militer Tycoon",
+      "score": 27.923,
+      "words": [
+        "Tentara",
+        "Militer",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon tentara militer",
+        "tycoon militer"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Mega Mansion Tycoon",
+      "score": 27.421,
+      "words": [
+        "Mega",
+        "Mansion",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon mansion",
+        "tycoon de la mansion",
+        "tycoon mansion tycoon"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Super Tycoon",
+      "score": 27.065,
+      "words": [
+        "Super",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon super hero",
+        "tycoon de super héros",
+        "tycoon de super heroes"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Princess Tycoon",
+      "score": 26.826,
+      "words": [
+        "Princess",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon princess",
+        "tycoon 2 players princess",
+        "tycoon princess 2 player"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Dropper Tycoon",
+      "score": 23.154,
+      "words": [
+        "Dropper",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon but one dropper",
+        "tycoon one dropper",
+        "tycoon dropper"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "One Tycoon",
+      "score": 22.444,
+      "words": [
+        "One",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon but one dropper",
+        "tycoon one dropper",
+        "tycoon but one drooper"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Poderes Elementares Tycoon",
+      "score": 22.063,
+      "words": [
+        "Poderes",
+        "Elementares",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "tycoon de poderes",
+        "tycoon de poderes elementares",
+        "tycoon poderes"
       ]
     },
     {
       "position": 24,
-      "name": "De Restaurante Tycoon",
-      "score": 55.74,
+      "name": "Rumah Pohon Tycoon",
+      "score": 21.075,
       "words": [
-        "De",
-        "Restaurante",
+        "Rumah",
+        "Pohon",
         "Tycoon"
       ],
       "supportedBy": [
-        "tycoon de youtuber",
-        "tycoon de dioses",
-        "tycoon de armas"
+        "tycoon rumah pohon",
+        "tycoon rumah",
+        "tycoon rumah tebing"
       ]
     },
     {
       "position": 25,
-      "name": "Players Anime Tycoon",
-      "score": 48.687,
+      "name": "Mansion Tycoon",
+      "score": 19.239,
       "words": [
-        "Players",
-        "Anime",
+        "Mansion",
         "Tycoon"
       ],
       "supportedBy": [
-        "tycoon 2 players",
-        "tycoon 3 players",
-        "tycoon 1 player"
+        "tycoon mansion",
+        "tycoon de la mansion",
+        "tycoon mansion tycoon"
       ]
     }
   ],
@@ -401,59 +383,51 @@
   "keywords": [
     {
       "text": "tycoon",
-      "score": 1351.912
-    },
-    {
-      "text": "tycoon de",
-      "score": 486.42
+      "score": 1542.431
     },
     {
       "text": "players",
-      "score": 350.484
+      "score": 350.639
     },
     {
       "text": "tycoon 2",
-      "score": 301.775
-    },
-    {
-      "text": "tycoon 3",
-      "score": 188.499
-    },
-    {
-      "text": "de youtubers",
-      "score": 148.202
+      "score": 304.081
     },
     {
       "text": "youtuber",
-      "score": 147.243
+      "score": 215.189
     },
     {
-      "text": "de dioses",
-      "score": 112.794
+      "text": "tycoon youtuber",
+      "score": 208.831
     },
     {
-      "text": "de armas",
-      "score": 96.731
+      "text": "tycoon 3",
+      "score": 188.664
+    },
+    {
+      "text": "tycoon dioses",
+      "score": 112.644
     },
     {
       "text": "dioses",
-      "score": 74.998
+      "score": 112.398
+    },
+    {
+      "text": "tycoon armas",
+      "score": 96.852
     },
     {
       "text": "armas",
-      "score": 64.541
+      "score": 96.638
     },
     {
       "text": "secrets",
       "score": 64.102
     },
     {
-      "text": "tycoon del",
-      "score": 64.102
-    },
-    {
-      "text": "tycoon but",
-      "score": 63.466
+      "text": "tycoon one",
+      "score": 64.086
     },
     {
       "text": "one dropper",
@@ -464,16 +438,12 @@
       "score": 62.288
     },
     {
-      "text": "but one",
-      "score": 62.243
+      "text": "tycoon superheroes",
+      "score": 58.366
     },
     {
-      "text": "de superheroes",
-      "score": 58.348
-    },
-    {
-      "text": "del youtuber",
-      "score": 56.603
+      "text": "superheroes",
+      "score": 57.957
     },
     {
       "text": "super hero",
@@ -481,43 +451,55 @@
     },
     {
       "text": "tycoon super",
-      "score": 53.156
-    },
-    {
-      "text": "hero",
-      "score": 43.311
-    },
-    {
-      "text": "super",
-      "score": 42.204
-    },
-    {
-      "text": "del",
-      "score": 41.612
-    },
-    {
-      "text": "superheroes",
-      "score": 38.592
+      "score": 53.664
     },
     {
       "text": "dropper",
-      "score": 34.895
+      "score": 45.222
     },
     {
       "text": "one",
-      "score": 33.648
+      "score": 43.836
     },
     {
-      "text": "but",
-      "score": 33.292
+      "text": "hero",
+      "score": 43.348
+    },
+    {
+      "text": "super",
+      "score": 42.289
     },
     {
       "text": "restaurant",
-      "score": 30.519
+      "score": 30.573
     },
     {
       "text": "tycoon restaurant",
-      "score": 26.815
+      "score": 26.977
+    },
+    {
+      "text": "princess",
+      "score": 26.721
+    },
+    {
+      "text": "tycoon princess",
+      "score": 23.345
+    },
+    {
+      "text": "mansion",
+      "score": 22.06
+    },
+    {
+      "text": "tycoon 1",
+      "score": 20.935
+    },
+    {
+      "text": "tycoon poderes",
+      "score": 20.797
+    },
+    {
+      "text": "poderes",
+      "score": 20.292
     }
   ],
   "topSearches": [

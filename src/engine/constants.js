@@ -1,7 +1,7 @@
 // All tunable values for Roblox-NameBot. Logic modules read from here; tuning never touches
 // logic (constitution, Technical Constraints).
 
-export const ENGINE_VERSION = '1.3.0';
+export const ENGINE_VERSION = '1.4.0';
 export const SCHEMA_VERSION = 1;
 
 // Search budget (FR-001).
@@ -60,12 +60,24 @@ export const TOP_GAMES = 30;
 
 // Words removed before scoring (FR-013). Includes update tags that survive emoji removal.
 export const FILLER_WORDS = new Set([
-  'a', 'an', 'the', 'of', 'and', 'or', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'from',
+  'a', 'an', 'the', 'of', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'from',
   'is', 'are', 'be', 'my', 'your', 'our', 'you', 'me', 'we', 'it', 'its', 'this', 'that',
   'game', 'games', 'roblox', 'rblx', 'new', 'best', 'top', 'official', 'free', 'beta', 'alpha',
   'update', 'updated', 'updates', 'upd', 'event', 'release', 'released', 'changes', 'fix',
   'fixed', 'fixes', 'sale', 'open', 'opened', 'reopened', 'soon', 'mini', 'hot', 'lobby',
   'testing', 'test', 'wip', 'demo', 'edition', 'version', 'ver', 'part', 'chapter',
+  // Function words of the other big Roblox search languages (Spanish, Portuguese, French,
+  // Indonesian, German): "tycoon de youtuber" should give "Youtuber Tycoon".
+  'de', 'del', 'el', 'la', 'las', 'los', 'lo', 'un', 'una', 'uno', 'y', 'e', 'en', 'con', 'por',
+  'para', 'da', 'do', 'das', 'dos', 'na', 'no', 'nos', 'um', 'uma', 'com', 'du', 'des', 'le',
+  'les', 'et', 'di', 'dan', 'yang', 'ke', 'der', 'und', 'mit',
+]);
+
+// Words that only make sense next to a number ("7 days", "2 player"). Numbers are dropped from
+// names, so these are kept out of names too; keywords and top searches still use them.
+export const NUMBER_BOUND_WORDS = new Set([
+  'player', 'players', 'days', 'nights', 'hours', 'minutes', 'seconds', 'weeks', 'months',
+  'years', 'floors', 'levels', 'stages', 'rounds', 'waves', 'times', 'vs',
 ]);
 
 // Game-type words: at most one per name and always last (FR-023). Lower case.

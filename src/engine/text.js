@@ -5,6 +5,7 @@ import {
   FILLER_WORDS,
   MAX_GENRE_CHARS,
   MIN_WORD_LENGTH,
+  NUMBER_BOUND_WORDS,
   STEM_EXCEPTIONS,
   TYPE_WORDS,
   WORD_CASE,
@@ -78,7 +79,8 @@ export function isNameWord(word) {
   return (
     /^[a-z][a-z0-9]*$/.test(word) &&
     word.length >= MIN_WORD_LENGTH &&
-    !isFiller(word)
+    !isFiller(word) &&
+    !NUMBER_BOUND_WORDS.has(word)
   );
 }
 
