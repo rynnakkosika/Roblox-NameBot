@@ -10,7 +10,7 @@ player counts, and suggests 25 names, best first.
 ## How a run works
 
 1. Type a genre on the page, pick the number of searches and tap **Start run**.
-2. A pre-filled GitHub issue opens. Submit it. Only the repository owner's issues start a run.
+2. A pre-filled GitHub issue opens. Submit it. Only issues from the repository owner or a collaborator (Settings → Collaborators) start a run.
 3. GitHub Actions runs the searches (about 6 / 14 / 25 minutes for 300 / 1000 / 2000 searches,
    kept under Roblox's rate limits), saves the result to `web/data/` and comments on the issue
    with a link to it.

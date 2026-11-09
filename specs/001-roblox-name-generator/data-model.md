@@ -11,7 +11,7 @@ Input that starts a run (from the issue form or `workflow_dispatch`).
 |---|---|---|
 | genre | string | trimmed, lower-cased for searching; 1–50 chars; `[a-z0-9 ]` after cleaning; at least one letter (FR-001) |
 | budget | int | one of 300, 1000, 2000; default 1000 |
-| requestedBy | string | GitHub login; must be the repo owner (R4) |
+| requestedBy | string | GitHub login; must be the repo owner or an invited collaborator (R4) |
 | issueNumber | int? | present when started from an issue |
 
 ## Run

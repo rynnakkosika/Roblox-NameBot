@@ -44,7 +44,7 @@ All findings below were checked against live Roblox endpoints on 2026-11-09.
 
 - **Decision**: the start form opens a pre-filled **GitHub issue form**
   (`/issues/new?template=run.yml&genre=…&budget=…`). Opening the issue (label `namebot-run`)
-  triggers the workflow, which only proceeds when `author_association == OWNER`. The workflow
+  triggers the workflow, which only proceeds when `author_association` is `OWNER` or `COLLABORATOR` (collaborators were allowed after the MVP). The workflow
   comments with the result link and closes the issue. `workflow_dispatch` with the same inputs is
   kept as a second way to start from the Actions tab.
 - **Rationale**: the user is signed in to GitHub on phone and desktop; no token is stored in the

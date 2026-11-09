@@ -49,7 +49,7 @@ no horizontal scrolling (FR-034).
 3. Back on the page the run shows as running with an ETA.
 4. Within ~8 minutes (SC-002) the issue gets a comment with the result link and closes; the
    result appears in the history.
-5. Open an issue as a non-owner account (or check the run log): the workflow job is skipped.
+5. Open an issue as an account that is neither the owner nor a collaborator (or check the run log): the workflow job is skipped.
 
 ## 5. Spot checks on the result
 

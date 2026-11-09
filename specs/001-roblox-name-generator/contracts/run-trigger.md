@@ -31,7 +31,7 @@ tower defense
 Triggers:
 
 - `issues: [opened]` — runs only if the issue has label `namebot-run` **and**
-  `github.event.issue.author_association == 'OWNER'`; otherwise the job is skipped silently.
+  `github.event.issue.author_association` is `OWNER` or `COLLABORATOR` (people the owner invited under Settings → Collaborators); otherwise the job is skipped silently.
 - `workflow_dispatch` with inputs `genre` (string) and `budget` (choice 300/1000/2000).
 
 Steps: checkout → `node src/collector/run.js --genre … --budget … [--issue N]` → commit

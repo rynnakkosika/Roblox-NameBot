@@ -23,12 +23,12 @@ permissions:
 
 jobs:
   run:
-    # Only the repository owner can start runs from an issue, so strangers cannot spend
-    # the owner's Actions minutes (research R4).
+    # Only the repository owner and invited collaborators can start runs from an issue, so
+    # strangers cannot spend the owner's Actions minutes (research R4).
     if: >-
       github.event_name == 'workflow_dispatch' ||
       (startsWith(github.event.issue.title, 'Run:') &&
-       github.event.issue.author_association == 'OWNER')
+       contains(fromJSON('["OWNER", "COLLABORATOR"]'), github.event.issue.author_association))
     runs-on: ubuntu-latest
     timeout-minutes: 45
     env:
