@@ -1,7 +1,7 @@
 // All tunable values for Roblox-NameBot. Logic modules read from here; tuning never touches
 // logic (constitution, Technical Constraints).
 
-export const ENGINE_VERSION = '1.2.0';
+export const ENGINE_VERSION = '1.3.0';
 export const SCHEMA_VERSION = 1;
 
 // Search budget (FR-001).
@@ -72,6 +72,8 @@ export const FILLER_WORDS = new Set([
 export const TYPE_WORDS = [
   'simulator', 'tycoon', 'obby', 'rp', 'roleplay', 'survival', 'defense', 'battlegrounds',
   'clicker', 'incremental', 'racing', 'shooter', 'story', 'escape', 'parkour', 'rpg',
+  // Roblox subgenres that work as a closing game-type word (Creator Hub genre list).
+  'sandbox', 'runner', 'royale', 'deathmatch', 'quiz', 'platformer', 'minigame',
 ];
 
 // Display case for words that are not plain Title Case.

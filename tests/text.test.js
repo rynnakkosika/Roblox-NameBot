@@ -65,6 +65,9 @@ test('type words are recognised in any case and number', () => {
   assert.ok(isTypeWord('battlegrounds'));
   assert.ok(isTypeWord('defense'));
   assert.ok(!isTypeWord('forest'));
+  assert.ok(isTypeWord('Sandbox'));
+  assert.ok(isTypeWord('minigames'));
+  assert.ok(isTypeWord('royale'));
 });
 
 test('titleCase handles acronyms', () => {
