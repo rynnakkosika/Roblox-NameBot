@@ -129,3 +129,15 @@ test('top search texts for game lookups skip the genre itself', () => {
   const searches = [{ text: 'forest', suggestions: ['forest', 'forest camp', 'forest tycoon'] }];
   assert.deepEqual(topSearchTexts(searches, 'forest', ['forest'], 9), ['forest camp', 'forest tycoon']);
 });
+
+test('top searches contain the genre; fuzzy and prefix matches are left out', () => {
+  const searches = [
+    {
+      text: 'forest',
+      suggestions: ['foresters', 'forest donation', 'first is owner', '99 nights in the forest', 'free stuff'],
+    },
+  ];
+  const texts = buildTopSearches(rankedSuggestions(aggregateSuggestions(searches, ['forest'])), ['forest']).map((s) => s.text);
+  assert.deepEqual(texts, ['forest donation', '99 nights in the forest']);
+  assert.equal(buildTopSearches(rankedSuggestions(aggregateSuggestions(searches, ['forest'])), ['forest'])[0].rank, 1);
+});

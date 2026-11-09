@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "engineVersion": "1.0.0",
+  "engineVersion": "1.1.0",
   "run": {
     "runId": "20261109-104018-tower-defense",
     "genre": "tower defense",

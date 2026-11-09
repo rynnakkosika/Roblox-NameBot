@@ -34,7 +34,7 @@ export function score(raw) {
     names,
     namesNote,
     keywords: buildKeywords(genre, genreWords, scores),
-    topSearches: buildTopSearches(ranked),
+    topSearches: buildTopSearches(ranked, genreWords),
     topGames: buildTopGames(games),
   };
 }

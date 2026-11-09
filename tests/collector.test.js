@@ -230,3 +230,16 @@ test('issue form body is parsed and validated', () => {
   assert.equal(readRequest({ ISSUE_BODY: '### Genre\n\nforest\n\n### Searches\n\n500' }).ok, false);
   assert.deepEqual(readRequest({ INPUT_GENRE: 'horror', INPUT_BUDGET: '' }), { ok: true, genre: 'horror', budget: 1000 });
 });
+
+test('rescore reproduces saved results exactly (SC-006)', async () => {
+  const { rescore } = await import('../src/collector/rescore.js');
+  const dir = await mkdtemp(path.join(tmpdir(), 'namebot-'));
+  try {
+    const { raw, result } = await collect({ genre: 'forest', budget: 300, client: fakeClient(), clock: fakeClock() });
+    await saveRun(dir, raw, result);
+    const report = await rescore({ data: dir, check: true });
+    assert.deepEqual(report.map((r) => r.status), ['identical']);
+  } finally {
+    await rm(dir, { recursive: true, force: true });
+  }
+});

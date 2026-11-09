@@ -218,8 +218,12 @@ export function buildKeywords(genre, genreWords, scores) {
   return out.slice(0, TOP_KEYWORDS);
 }
 
-export function buildTopSearches(ranked) {
-  return ranked.slice(0, TOP_SEARCHES).map((s, i) => ({
+/** Top searches that contain the genre; Roblox's prefix and fuzzy matches are left out. */
+export function buildTopSearches(ranked, genreWords = []) {
+  const relevant = genreWords.length
+    ? ranked.filter((s) => findPhrase(tokenize(s.text), genreWords) >= 0)
+    : ranked;
+  return relevant.slice(0, TOP_SEARCHES).map((s, i) => ({
     rank: i + 1,
     text: s.text,
     score: round(s.score),

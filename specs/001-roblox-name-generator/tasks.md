@@ -86,8 +86,8 @@ Engine `src/engine/`, collector `src/collector/`, viewer `index.html` + `web/`, 
 ### Implementation for User Story 2
 
 - [x] T028 [US2] Add `keywords`, `topSearches`, `topGames` to `score(raw)` output in src/engine/scoring.js and src/engine/index.js until T027 passes
-- [ ] T029 [US2] Render keywords with copy-all (comma-separated), top searches table (rank, text, appearances) and top games list (name, player count formatted, Roblox link, found-by search) in web/result.js
-- [ ] T030 [P] [US2] Show partial-run warning and data age ("collected 3 days ago") in the result header in web/result.js
+- [x] T029 [US2] Render keywords with copy-all (comma-separated), top searches table (rank, text, appearances) and top games list (name, player count formatted, Roblox link, found-by search) in web/result.js
+- [x] T030 [P] [US2] Show partial-run warning and data age ("collected 3 days ago") in the result header in web/result.js
 
 **Checkpoint**: US1 + US2 give names plus the evidence behind them.
 
@@ -107,7 +107,7 @@ Engine `src/engine/`, collector `src/collector/`, viewer `index.html` + `web/`, 
 
 - [x] T032 [US3] Render history from `web/data/index.json` (genre, date, budget, status, top name, newest first) on `#/` in web/start.js
 - [ ] T033 [US3] Fetch open `namebot-run` issues from `api.github.com/repos/{owner}/{repo}/issues` and show them as running with ETA; poll every 60 s while any is open; hide the section silently if the call fails in web/start.js
-- [ ] T034 [US3] Add `rescore.js --run <id> | --all [--check]` that re-scores raw files and reports "identical" or the diff in src/collector/rescore.js
+- [x] T034 [US3] Add `rescore.js --run <id> | --all [--check]` that re-scores raw files and reports "identical" or the diff in src/collector/rescore.js
 
 **Checkpoint**: all three stories work independently.
 
