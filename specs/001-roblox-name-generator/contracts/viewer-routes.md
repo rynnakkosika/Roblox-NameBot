@@ -7,7 +7,7 @@ step), hash routes so every result has its own link (FR-033).
 | Route | Shows |
 |---|---|
 | `#/` | Start form (genre, budget 300/1000/2000, "Start run" button → issue link), running runs with ETA, history list newest first (genre, date, budget, status, top name). |
-| `#/run/{runId}` | Header (genre, budget, searches made, status, collected at); Names (25, copy button each); Description keywords (copy-all as comma-separated); Top searches (20 rows: rank, text, appearances); Top games (name, players, link). |
+| `#/run/{runId}` | Header (genre, budget, searches made, status, collected at); Names (25, copy button each); Description keywords (copy-all as comma-separated); Top searches (20 rows: rank, text, popularity % of the top search with a bar, appearances); Top games (name, players, link). |
 
 Behaviour:
 
@@ -27,7 +27,7 @@ Behaviour:
 
 - A genre picker switches between "All genres" and one genre; the choice is in the address, so
   every view has its own link.
-- Popularity index 0–100: a search's score as a percentage of its genre's most popular search,
+- Popularity index 0–100, shown as a percentage: a search's score as a percentage of its genre's most popular search,
   because scores from runs of different sizes are not comparable. Logic in
   `src/engine/popular.js`.
 - The site header has "Names" and "Popular searches" links; result pages show 20 searches and

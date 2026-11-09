@@ -1,7 +1,9 @@
 // Result page: run header and the name suggestions with copy buttons.
 
 import { DATA_DIR } from './config.js';
+import { popularSearches } from '../src/engine/popular.js';
 import { copyButton, fetchJson, formatDate, h } from './dom.js';
+import { searchList } from './searches.js';
 
 export async function renderResult(root, runId) {
   root.replaceChildren(h('p', { class: 'muted' }, 'Loading result…'));
@@ -103,7 +105,7 @@ function keywords(result) {
 function topSearches(result) {
   const all = result.topSearches ?? [];
   if (!all.length) return null;
-  const rows = all.slice(0, 20);
+  const rows = popularSearches([result], { limit: 20 });
   const more = all.length > rows.length
     ? h(
         'p',
@@ -119,21 +121,9 @@ function topSearches(result) {
       'p',
       { class: 'muted' },
       'Ranked by how high and how often each appeared in Roblox search suggestions. ' +
-        'Roblox does not publish search counts.',
+        '100% = the most popular search; 50% = half as popular. Roblox does not publish search counts.',
     ),
-    h(
-      'ol',
-      { class: 'searches' },
-      rows.map((s) =>
-        h(
-          'li',
-          {},
-          h('span', { class: 'pos' }, String(s.rank)),
-          h('span', { class: 'text' }, s.text),
-          h('span', { class: 'count' }, `in ${s.appearances} searches`),
-        ),
-      ),
-    ),
+    searchList(rows, false),
     more,
   );
 }

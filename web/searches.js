@@ -70,7 +70,7 @@ export async function renderSearches(root, genre = null) {
       h(
         'p',
         { class: 'muted' },
-        'Popularity 100 = the most popular search of its genre. Roblox does not publish search ' +
+        'Popularity 100% = the most popular search of its genre; 50% = half as popular. Roblox does not publish search ' +
           'counts; popularity comes from how high and how often a search appeared in Roblox’s ' +
           'search suggestions.',
       ),
@@ -82,7 +82,7 @@ export async function renderSearches(root, genre = null) {
   );
 }
 
-function searchList(rows, showGenre) {
+export function searchList(rows, showGenre) {
   return h(
     'ol',
     { class: 'popular' },
@@ -102,8 +102,8 @@ function searchList(rows, showGenre) {
         ),
         h(
           'span',
-          { class: 'count', title: `Popularity ${r.index}, seen in ${r.appearances} searches` },
-          h('strong', {}, String(r.index)),
+          { class: 'count', title: `Popularity ${r.index}% of the genre's top search, seen in ${r.appearances} searches` },
+          h('strong', {}, `${r.index}%`),
           h('br'),
           `in ${r.appearances} searches`,
         ),
