@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - Node.js 20+ (no `npm install`; there are no dependencies).
-- A GitHub repository for the project (assumed `rynnakkosika/roblox-namebot`) with Pages set to
+- A GitHub repository for the project (assumed `rynnakkosika/Roblox-NameBot`) with Pages set to
   "Deploy from a branch → main / (root)" and Actions allowed to write (Settings → Actions →
   Workflow permissions → Read and write).
 
@@ -44,7 +44,7 @@ no horizontal scrolling (FR-034).
 
 ## 4. End-to-end on GitHub (from a phone)
 
-1. Open `https://rynnakkosika.github.io/roblox-namebot/`.
+1. Open `https://rynnakkosika.github.io/Roblox-NameBot/`.
 2. Enter "horror", choose 300, tap **Start run** → GitHub issue form opens pre-filled → submit.
 3. Back on the page the run shows as running with an ETA.
 4. Within ~8 minutes (SC-002) the issue gets a comment with the result link and closes; the

@@ -1,6 +1,6 @@
 // Where runs are started and how long they take. Change OWNER/REPO if the repository moves.
 export const OWNER = 'rynnakkosika';
-export const REPO = 'roblox-namebot';
+export const REPO = 'Roblox-NameBot';
 export const ISSUE_TEMPLATE = 'run.yml';
 export const SEARCHES_PER_MINUTE = 90;
 export const OVERHEAD_MINUTES = 2;

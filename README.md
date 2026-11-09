@@ -5,7 +5,7 @@ Finds a search-friendly name for a Roblox game from Roblox's own search data. Yo
 game search, collects the top 10 suggestions each time, looks up the top games and their
 player counts, and suggests 25 names, best first.
 
-**Use it:** <https://rynnakkosika.github.io/roblox-namebot/> (also on a phone).
+**Use it:** <https://rynnakkosika.github.io/Roblox-NameBot/> (also on a phone).
 
 ## How a run works
 
@@ -27,7 +27,7 @@ singular/plural pair, and near-identical names are dropped. Weights and word lis
 
 ## Set up the repository (once)
 
-1. Create the GitHub repository `roblox-namebot` and push this folder to `main`. If you use
+1. Create the GitHub repository `Roblox-NameBot` and push this folder to `main`. If you use
    another owner or name, change `OWNER`/`REPO` in [`web/config.js`](web/config.js).
 2. **Settings → Pages**: Deploy from a branch, `main`, folder `/ (root)`.
 3. **Settings → Actions → General → Workflow permissions**: Read and write.
