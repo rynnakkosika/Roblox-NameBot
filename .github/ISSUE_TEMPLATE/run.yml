@@ -1,0 +1,30 @@
+name: NameBot run
+description: Collect Roblox search data for a genre and suggest search-friendly game names.
+title: "Run: "
+labels: ["namebot-run"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Submitting this issue starts a run. When it is done, the bot comments with a link to
+        the result and closes the issue. 1000 searches take about 14 minutes.
+  - type: input
+    id: genre
+    attributes:
+      label: Genre
+      description: Letters, digits and spaces only, at most 50 characters.
+      placeholder: tower defense
+    validations:
+      required: true
+  - type: dropdown
+    id: budget
+    attributes:
+      label: Searches
+      description: More searches give better data but take longer (300 ≈ 6 min, 1000 ≈ 14 min, 2000 ≈ 25 min).
+      options:
+        - "300"
+        - "1000"
+        - "2000"
+      default: 1
+    validations:
+      required: true

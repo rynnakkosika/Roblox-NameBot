@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "runs": [
+    {
+      "runId": "20261109-104018-tower-defense",
+      "genre": "tower defense",
+      "budget": 300,
+      "searchesMade": 300,
+      "status": "complete",
+      "finishedAt": "2026-11-09T10:43:28Z",
+      "topName": "Skibidi Toilet Tower Defense"
+    },
+    {
+      "runId": "20261109-103710-horror",
+      "genre": "horror",
+      "budget": 300,
+      "searchesMade": 300,
+      "status": "complete",
+      "finishedAt": "2026-11-09T10:40:18Z",
+      "topName": "Horror Obby"
+    },
+    {
+      "runId": "20261109-103401-forest",
+      "genre": "forest",
+      "budget": 300,
+      "searchesMade": 300,
+      "status": "complete",
+      "finishedAt": "2026-11-09T10:37:10Z",
+      "topName": "Forest Donation"
+    }
+  ]
+}

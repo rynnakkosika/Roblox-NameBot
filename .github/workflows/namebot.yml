@@ -1,0 +1,120 @@
+name: NameBot run
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      genre:
+        description: Genre, for example "tower defense"
+        required: true
+        type: string
+      budget:
+        description: Number of searches
+        required: true
+        type: choice
+        options: ["300", "1000", "2000"]
+        default: "1000"
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+
+jobs:
+  run:
+    # Only the repository owner can start runs from an issue, so strangers cannot spend
+    # the owner's Actions minutes (research R4).
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (startsWith(github.event.issue.title, 'Run:') &&
+       github.event.issue.author_association == 'OWNER')
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      ISSUE_NUMBER: ${{ github.event.issue.number }}
+      GH_TOKEN: ${{ github.token }}
+      PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+      LOG_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Read request
+        id: req
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          INPUT_GENRE: ${{ inputs.genre }}
+          INPUT_BUDGET: ${{ inputs.budget }}
+        run: node src/collector/request.js
+
+      - name: Acknowledge
+        if: env.ISSUE_NUMBER != ''
+        env:
+          GENRE: ${{ steps.req.outputs.genre }}
+          BUDGET: ${{ steps.req.outputs.budget }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" \
+            --body "Started $BUDGET searches for \"$GENRE\". [Run log]($LOG_URL)"
+
+      - name: Collect and score
+        id: collect
+        env:
+          GENRE: ${{ steps.req.outputs.genre }}
+          BUDGET: ${{ steps.req.outputs.budget }}
+        run: |
+          set +e
+          node src/collector/run.js --genre "$GENRE" --budget "$BUDGET" --out out \
+            ${ISSUE_NUMBER:+--issue "$ISSUE_NUMBER"}
+          code=$?
+          if [ "$code" = "1" ]; then exit 1; fi
+          exit 0
+
+      - name: Publish results
+        env:
+          GENRE: ${{ steps.req.outputs.genre }}
+          RUN_ID: ${{ steps.collect.outputs.run_id }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          pushed=""
+          for i in 1 2 3 4; do
+            git fetch origin "$GITHUB_REF_NAME"
+            git reset --hard "origin/$GITHUB_REF_NAME"
+            node src/collector/publish.js --from out --data web/data
+            git add web/data
+            git commit -m "Add NameBot run $RUN_ID ($GENRE)"
+            if git push origin "HEAD:$GITHUB_REF_NAME"; then pushed=yes; break; fi
+            sleep $((i * 5))
+          done
+          if [ -z "$pushed" ]; then echo "Could not push results"; exit 1; fi
+          # Ask Pages to rebuild; pushes made with GITHUB_TOKEN may not trigger it by themselves.
+          gh api -X POST "repos/$GITHUB_REPOSITORY/pages/builds" > /dev/null || true
+
+      - name: Report result
+        if: env.ISSUE_NUMBER != ''
+        env:
+          RUN_ID: ${{ steps.collect.outputs.run_id }}
+          STATUS: ${{ steps.collect.outputs.status }}
+          TOP_NAME: ${{ steps.collect.outputs.top_name }}
+          SEARCHES: ${{ steps.collect.outputs.searches }}
+        run: |
+          note=""
+          if [ "$STATUS" = "partial" ]; then note=" (partial: Roblox kept refusing requests)"; fi
+          gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --body \
+            "Done$note: $SEARCHES searches. Top name: **$TOP_NAME**. Result: ${PAGES_URL}#/run/$RUN_ID (the page updates within a minute or two)."
+          gh issue close "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --reason completed
+
+      - name: Report failure
+        if: failure() && env.ISSUE_NUMBER != ''
+        env:
+          REQUEST_ERROR: ${{ steps.req.outputs.error }}
+        run: |
+          gh label create namebot-failed --repo "$GITHUB_REPOSITORY" --color B60205 --force > /dev/null || true
+          reason="${REQUEST_ERROR:-The run failed. See the run log.}"
+          gh issue comment "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --body "Failed: $reason [Run log]($LOG_URL)"
+          gh issue edit "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --add-label namebot-failed || true
+          gh issue close "$ISSUE_NUMBER" --repo "$GITHUB_REPOSITORY" --reason "not planned"

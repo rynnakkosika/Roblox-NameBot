@@ -1,0 +1,860 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.0.0",
+  "run": {
+    "runId": "20261109-103401-forest",
+    "genre": "forest",
+    "budget": 300,
+    "searchesMade": 300,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-09T10:34:01Z",
+    "finishedAt": "2026-11-09T10:37:10Z",
+    "issue": null,
+    "genreWords": [
+      "forest"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Forest Donation",
+      "score": 125.57,
+      "words": [
+        "Forest",
+        "Donation"
+      ],
+      "supportedBy": [
+        "forest donation",
+        "forest donations",
+        "forest donation event"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Forest Donation Survival",
+      "score": 70.826,
+      "words": [
+        "Forest",
+        "Donation",
+        "Survival"
+      ],
+      "supportedBy": [
+        "forest donation",
+        "forest survival",
+        "forest donations"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Nights Forest Incremental",
+      "score": 56.281,
+      "words": [
+        "Nights",
+        "Forest",
+        "Incremental"
+      ],
+      "supportedBy": [
+        "forest 99 nights in the forest",
+        "forest incremental",
+        "forest 99 nights"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Forest Survival",
+      "score": 49.049,
+      "words": [
+        "Forest",
+        "Survival"
+      ],
+      "supportedBy": [
+        "forest survival",
+        "forest survival game",
+        "first survival"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Forest Donation RPG",
+      "score": 47.267,
+      "words": [
+        "Forest",
+        "Donation",
+        "RPG"
+      ],
+      "supportedBy": [
+        "forest donation",
+        "forest rpg",
+        "forest donations"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Forest Incremental",
+      "score": 34.729,
+      "words": [
+        "Forest",
+        "Incremental"
+      ],
+      "supportedBy": [
+        "forest incremental"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Forest Donation Escape",
+      "score": 34.248,
+      "words": [
+        "Forest",
+        "Donation",
+        "Escape"
+      ],
+      "supportedBy": [
+        "forest donation",
+        "forest donations",
+        "first one keyboard escape"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Nights Forest Survival",
+      "score": 34.226,
+      "words": [
+        "Nights",
+        "Forest",
+        "Survival"
+      ],
+      "supportedBy": [
+        "forest 99 nights in the forest",
+        "forest survival",
+        "forest 99 nights"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Forest RPG",
+      "score": 31.136,
+      "words": [
+        "Forest",
+        "RPG"
+      ],
+      "supportedBy": [
+        "forest rpg"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Person Boxing Forest Survival",
+      "score": 26.759,
+      "words": [
+        "Person",
+        "Boxing",
+        "Forest",
+        "Survival"
+      ],
+      "supportedBy": [
+        "forest survival",
+        "first person boxing",
+        "first person shooter games"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Forest Donation RP",
+      "score": 25.933,
+      "words": [
+        "Forest",
+        "Donation",
+        "RP"
+      ],
+      "supportedBy": [
+        "forest donation",
+        "forest rp",
+        "forest donations"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Mega Owner Forest Incremental",
+      "score": 23.365,
+      "words": [
+        "Mega",
+        "Owner",
+        "Forest",
+        "Incremental"
+      ],
+      "supportedBy": [
+        "first is owner",
+        "forest incremental",
+        "first to join is owner"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Nights Forest Tycoon",
+      "score": 22.976,
+      "words": [
+        "Nights",
+        "Forest",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "forest 99 nights in the forest",
+        "forest 99 nights",
+        "first 3 player tycoon"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Forest Bound",
+      "score": 21.046,
+      "words": [
+        "Forest",
+        "Bound"
+      ],
+      "supportedBy": [
+        "forest bound"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Realistic Ragdoll Forest Survival",
+      "score": 18.347,
+      "words": [
+        "Realistic",
+        "Ragdoll",
+        "Forest",
+        "Survival"
+      ],
+      "supportedBy": [
+        "forest survival",
+        "forest survival game",
+        "first survival"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Pls Donate Forest RPG",
+      "score": 18.084,
+      "words": [
+        "Pls",
+        "Donate",
+        "Forest",
+        "RPG"
+      ],
+      "supportedBy": [
+        "forest rpg",
+        "forest donate"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Survive Overnight Forest Incremental",
+      "score": 17.211,
+      "words": [
+        "Survive",
+        "Overnight",
+        "Forest",
+        "Incremental"
+      ],
+      "supportedBy": [
+        "forest incremental"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Forest Donation Tycoon",
+      "score": 16.479,
+      "words": [
+        "Forest",
+        "Donation",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "forest donation",
+        "first 3 player tycoon",
+        "forest tycoon"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Nights Forest Escape",
+      "score": 15.831,
+      "words": [
+        "Nights",
+        "Forest",
+        "Escape"
+      ],
+      "supportedBy": [
+        "forest 99 nights in the forest",
+        "forest 99 nights",
+        "first one keyboard escape"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Forest Market",
+      "score": 14.991,
+      "words": [
+        "Forest",
+        "Market"
+      ],
+      "supportedBy": [
+        "forest market"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Chop Trees Forest Survival",
+      "score": 14.347,
+      "words": [
+        "Chop",
+        "Trees",
+        "Forest",
+        "Survival"
+      ],
+      "supportedBy": [
+        "forest survival",
+        "forest chop",
+        "forest survival game"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Forest Lava",
+      "score": 14.025,
+      "words": [
+        "Forest",
+        "Lava"
+      ],
+      "supportedBy": [
+        "forest lava",
+        "first the lava",
+        "first is lava"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Forest Horror",
+      "score": 13.737,
+      "words": [
+        "Forest",
+        "Horror"
+      ],
+      "supportedBy": [
+        "forest horror",
+        "forest horror game",
+        "forest horror games"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Dragon Adventure Forest RPG",
+      "score": 13.548,
+      "words": [
+        "Dragon",
+        "Adventure",
+        "Forest",
+        "RPG"
+      ],
+      "supportedBy": [
+        "forest rpg",
+        "forest adventure"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Blox Fruits Forest Incremental",
+      "score": 13.162,
+      "words": [
+        "Blox",
+        "Fruits",
+        "Forest",
+        "Incremental"
+      ],
+      "supportedBy": [
+        "forest incremental",
+        "frost fruits"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "forest",
+      "score": 229.033
+    },
+    {
+      "text": "donation",
+      "score": 40.415
+    },
+    {
+      "text": "forest donation",
+      "score": 36.096
+    },
+    {
+      "text": "forest 99",
+      "score": 36.096
+    },
+    {
+      "text": "nights forest",
+      "score": 20.648
+    },
+    {
+      "text": "survival",
+      "score": 20.046
+    },
+    {
+      "text": "nights",
+      "score": 19.9
+    },
+    {
+      "text": "incremental",
+      "score": 14.373
+    },
+    {
+      "text": "forest survival",
+      "score": 13.107
+    },
+    {
+      "text": "rpg",
+      "score": 10.261
+    },
+    {
+      "text": "forest rpg",
+      "score": 9.411
+    },
+    {
+      "text": "boxing",
+      "score": 9.175
+    },
+    {
+      "text": "forest incremental",
+      "score": 8.997
+    },
+    {
+      "text": "owner",
+      "score": 6.899
+    },
+    {
+      "text": "bound",
+      "score": 6.013
+    },
+    {
+      "text": "forest bound",
+      "score": 6.013
+    },
+    {
+      "text": "person",
+      "score": 5.743
+    },
+    {
+      "text": "escape",
+      "score": 5.618
+    },
+    {
+      "text": "ragdoll",
+      "score": 5.19
+    },
+    {
+      "text": "chop",
+      "score": 5.052
+    },
+    {
+      "text": "donate",
+      "score": 4.513
+    },
+    {
+      "text": "forest horror",
+      "score": 4.46
+    },
+    {
+      "text": "horror",
+      "score": 4.46
+    },
+    {
+      "text": "forest market",
+      "score": 4.283
+    },
+    {
+      "text": "market",
+      "score": 4.283
+    },
+    {
+      "text": "lava",
+      "score": 4.164
+    },
+    {
+      "text": "forest lava",
+      "score": 3.944
+    },
+    {
+      "text": "survive",
+      "score": 3.89
+    },
+    {
+      "text": "dragon",
+      "score": 3.642
+    },
+    {
+      "text": "overnight",
+      "score": 3.237
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "forest donation",
+      "score": 67.107,
+      "appearances": 91,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "forest 99 nights in the forest",
+      "score": 35.941,
+      "appearances": 77,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "foresters",
+      "score": 32.105,
+      "appearances": 49,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "forest",
+      "score": 25.375,
+      "appearances": 34,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "foresto",
+      "score": 25.003,
+      "appearances": 43,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "forest survival",
+      "score": 24.688,
+      "appearances": 54,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "forest rpg",
+      "score": 18.823,
+      "appearances": 38,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "first is owner",
+      "score": 17.94,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "forest incremental",
+      "score": 17.354,
+      "appearances": 37,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "first person boxing",
+      "score": 16.928,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "forest 99 forest",
+      "score": 14.485,
+      "appearances": 38,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "first game on roblox",
+      "score": 14.342,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "forest bound",
+      "score": 12.027,
+      "appearances": 30,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "forest demo",
+      "score": 10.705,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "first class flight",
+      "score": 9.201,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "forest market",
+      "score": 8.566,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "first day of school",
+      "score": 8.443,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "free stuff",
+      "score": 8.261,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "forest lava",
+      "score": 7.889,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "forest 99 in the forest",
+      "score": 7.436,
+      "appearances": 18,
+      "bestRank": 2
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Blox Fruits",
+      "rawName": "[🎃] Blox Fruits",
+      "playerCount": 238853,
+      "url": "https://www.roblox.com/games/2753915549/Blox-Fruits",
+      "foundBy": "forest rpg"
+    },
+    {
+      "name": "99 Nights in the Forest",
+      "rawName": "99 Nights in the Forest 🔦",
+      "playerCount": 122328,
+      "url": "https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest",
+      "foundBy": "forest"
+    },
+    {
+      "name": "Huss Valley",
+      "rawName": "[RANKED] Huss Valley",
+      "playerCount": 16794,
+      "url": "https://www.roblox.com/games/107535308163741/Huss-Valley",
+      "foundBy": "forest rpg"
+    },
+    {
+      "name": "Depth Incremental",
+      "rawName": "[UPD5 ✨] Depth Incremental",
+      "playerCount": 15022,
+      "url": "https://www.roblox.com/games/119101118479978/Depth-Incremental",
+      "foundBy": "forest"
+    },
+    {
+      "name": "Realistic Ragdoll Engine",
+      "rawName": "Realistic Ragdoll Engine 🩸",
+      "playerCount": 8572,
+      "url": "https://www.roblox.com/games/81230874545623/Realistic-Ragdoll-Engine",
+      "foundBy": "first person boxing"
+    },
+    {
+      "name": "1 Boxing Battle Evolution",
+      "rawName": "+1 Boxing Battle Evolution",
+      "playerCount": 8362,
+      "url": "https://www.roblox.com/games/81719261096515/1-Boxing-Battle-Evolution",
+      "foundBy": "first person boxing"
+    },
+    {
+      "name": "Dragon Adventures",
+      "rawName": "[🎃] Dragon Adventures 🐉",
+      "playerCount": 7237,
+      "url": "https://www.roblox.com/games/3475397644/Dragon-Adventures",
+      "foundBy": "forest rpg"
+    },
+    {
+      "name": "FERAL Animal Survival",
+      "rawName": "[RED PANDA🐼] FERAL 🐺 Animal Survival",
+      "playerCount": 5483,
+      "url": "https://www.roblox.com/games/108901361810209/FERAL-Animal-Survival",
+      "foundBy": "forest survival"
+    },
+    {
+      "name": "Steal a Forest",
+      "rawName": "Steal a Forest",
+      "playerCount": 3727,
+      "url": "https://www.roblox.com/games/140149493280576/Steal-a-Forest",
+      "foundBy": "forest"
+    },
+    {
+      "name": "Chop A Forest",
+      "rawName": "Chop A Forest",
+      "playerCount": 3627,
+      "url": "https://www.roblox.com/games/103363457515322/Chop-A-Forest",
+      "foundBy": "forest"
+    },
+    {
+      "name": "Mrbeast Island Escape",
+      "rawName": "Mrbeast Island Escape",
+      "playerCount": 2833,
+      "url": "https://www.roblox.com/games/108645230905176/Mrbeast-Island-Escape",
+      "foundBy": "forest survival"
+    },
+    {
+      "name": "Fust Survival",
+      "rawName": "Fust Survival [ALPHA TESTING LIVE]",
+      "playerCount": 2809,
+      "url": "https://www.roblox.com/games/79862723087324/Fust-Survival",
+      "foundBy": "forest survival"
+    },
+    {
+      "name": "Survive Overnight in a Mega Store",
+      "rawName": "Survive Overnight in a Mega Store",
+      "playerCount": 2747,
+      "url": "https://www.roblox.com/games/127380660530951/Survive-Overnight-in-a-Mega-Store",
+      "foundBy": "forest 99 nights in the forest"
+    },
+    {
+      "name": "Lumber Empire",
+      "rawName": "Lumber Empire",
+      "playerCount": 2666,
+      "url": "https://www.roblox.com/games/99686412871121/Lumber-Empire",
+      "foundBy": "forest rpg"
+    },
+    {
+      "name": "Dragon Soul Anime MMO",
+      "rawName": "[🎃] Dragon Soul | Anime MMO 🐲",
+      "playerCount": 2662,
+      "url": "https://www.roblox.com/games/8246874626/Dragon-Soul-Anime-MMO",
+      "foundBy": "forest rpg"
+    },
+    {
+      "name": "Deepwoken",
+      "rawName": "Deepwoken",
+      "playerCount": 2504,
+      "url": "https://www.roblox.com/games/4111023553/Deepwoken",
+      "foundBy": "forest rpg"
+    },
+    {
+      "name": "BRASS HELL BULLET INCREMENTAL",
+      "rawName": "[UPD3 💥]BRASS HELL BULLET INCREMENTAL",
+      "playerCount": 2490,
+      "url": "https://www.roblox.com/games/104347694974983/BRASS-HELL-BULLET-INCREMENTAL",
+      "foundBy": "forest incremental"
+    },
+    {
+      "name": "Survive Deep in the Woods",
+      "rawName": "Survive Deep in the Woods",
+      "playerCount": 2439,
+      "url": "https://www.roblox.com/games/139020444733179/Survive-Deep-in-the-Woods",
+      "foundBy": "forest"
+    },
+    {
+      "name": "PLS DONATE",
+      "rawName": "PLS DONATE 💸",
+      "playerCount": 2345,
+      "url": "https://www.roblox.com/games/8737602449/PLS-DONATE",
+      "foundBy": "forest donation"
+    },
+    {
+      "name": "Winch Log Simulator",
+      "rawName": "Winch Log Simulator [BETA]",
+      "playerCount": 1760,
+      "url": "https://www.roblox.com/games/98572303171584/Winch-Log-Simulator",
+      "foundBy": "foresters"
+    },
+    {
+      "name": "Ragdoll Robot Boxing",
+      "rawName": "[UPD] Ragdoll Robot Boxing",
+      "playerCount": 1729,
+      "url": "https://www.roblox.com/games/94491633857486/Ragdoll-Robot-Boxing",
+      "foundBy": "first person boxing"
+    },
+    {
+      "name": "Escape The Jungle",
+      "rawName": "[C5] Escape The Jungle",
+      "playerCount": 1632,
+      "url": "https://www.roblox.com/games/71977599723985/Escape-The-Jungle",
+      "foundBy": "foresto"
+    },
+    {
+      "name": "BONK! Ragdoll Boxing",
+      "rawName": "[BETA] BONK! Ragdoll Boxing 🥊",
+      "playerCount": 1620,
+      "url": "https://www.roblox.com/games/80473152446189/BONK-Ragdoll-Boxing",
+      "foundBy": "first person boxing"
+    },
+    {
+      "name": "Boxing Beta!",
+      "rawName": "[🎃] Boxing Beta! 🥊",
+      "playerCount": 1592,
+      "url": "https://www.roblox.com/games/6804602922/Boxing-Beta",
+      "foundBy": "first person boxing"
+    },
+    {
+      "name": "Forest Donations",
+      "rawName": "[🤑WORKS] Forest Donations",
+      "playerCount": 1494,
+      "url": "https://www.roblox.com/games/122345940779204/Forest-Donations",
+      "foundBy": "forest"
+    },
+    {
+      "name": "PLS WAIT",
+      "rawName": "[🤑WORKS] PLS WAIT 💸",
+      "playerCount": 1201,
+      "url": "https://www.roblox.com/games/12069083555/PLS-WAIT",
+      "foundBy": "forest donation"
+    },
+    {
+      "name": "24 Hours Overnight",
+      "rawName": "24 Hours Overnight",
+      "playerCount": 1084,
+      "url": "https://www.roblox.com/games/122802147482832/24-Hours-Overnight",
+      "foundBy": "forest 99 nights in the forest"
+    },
+    {
+      "name": "OPEN IT! MEGA OWNER PANEL",
+      "rawName": "💎 OPEN IT! MEGA OWNER PANEL",
+      "playerCount": 853,
+      "url": "https://www.roblox.com/games/129949482159387/OPEN-IT-MEGA-OWNER-PANEL",
+      "foundBy": "first is owner"
+    },
+    {
+      "name": "Fallen Survival",
+      "rawName": "[5X] Fallen Survival🏹",
+      "playerCount": 825,
+      "url": "https://www.roblox.com/games/10228136016/Fallen-Survival",
+      "foundBy": "forest survival"
+    },
+    {
+      "name": "EZ DONATE",
+      "rawName": "[🤑WORKS] EZ DONATE 💸",
+      "playerCount": 609,
+      "url": "https://www.roblox.com/games/81849429327090/EZ-DONATE",
+      "foundBy": "forest donation"
+    }
+  ]
+}

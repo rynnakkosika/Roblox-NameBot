@@ -1,0 +1,852 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.0.0",
+  "run": {
+    "runId": "20261109-104018-tower-defense",
+    "genre": "tower defense",
+    "budget": 300,
+    "searchesMade": 300,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-09T10:40:18Z",
+    "finishedAt": "2026-11-09T10:43:28Z",
+    "issue": null,
+    "genreWords": [
+      "tower",
+      "defense"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Skibidi Toilet Tower Defense",
+      "score": 384.655,
+      "words": [
+        "Skibidi",
+        "Toilet",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense skibidi toilet",
+        "tower defense skibidi",
+        "tower defense skibidi master"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Anime RNG Tower Defense",
+      "score": 294.85,
+      "words": [
+        "Anime",
+        "RNG",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense anime",
+        "tower defense rng",
+        "tower defense rng modded"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Spongebob Tower Defense",
+      "score": 289.642,
+      "words": [
+        "Spongebob",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense spongebob",
+        "tower divense spongebob"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Tower Defense",
+      "score": 282.315,
+      "words": [
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense simulator",
+        "tower defense skibidi toilet",
+        "tower defense spongebob"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Sakadung Apple Tower Defense",
+      "score": 279.666,
+      "words": [
+        "Sakadung",
+        "Apple",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense sakadung apple",
+        "tower defense apple"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "WW2 Tower Defense",
+      "score": 278.51,
+      "words": [
+        "WW2",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "ww2 tower defense",
+        "tower defense ww2"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Modded Tower Defense",
+      "score": 275.374,
+      "words": [
+        "Modded",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense simulator modded",
+        "tower defense modded",
+        "tower defense rng modded"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "All Star Tower Defense",
+      "score": 270.39,
+      "words": [
+        "All",
+        "Star",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense all star",
+        "tower defense star wars",
+        "tower defense brawl stars"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Slap Battle Tower Defense",
+      "score": 269.159,
+      "words": [
+        "Slap",
+        "Battle",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense slap battle",
+        "tower defense slap battles"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Hora De Aventura Tower Defense",
+      "score": 268.94,
+      "words": [
+        "Hora",
+        "De",
+        "Aventura",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense hora de aventura",
+        "tower defense de 2",
+        "tower defense de zumbi"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Sandbox Tower Defense",
+      "score": 268.821,
+      "words": [
+        "Sandbox",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense sandbox"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Retro Tower Defense",
+      "score": 268.575,
+      "words": [
+        "Retro",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense retro",
+        "tower defense simulator retro",
+        "tower defence retro"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Night Zombie Tower Defense",
+      "score": 268.215,
+      "words": [
+        "Night",
+        "Zombie",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense zombies",
+        "tower defense zombie",
+        "tower defense plants vs zombie"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Masters Tower Defense",
+      "score": 268.068,
+      "words": [
+        "Masters",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense skibidi master"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Sorcerer Tower Defense",
+      "score": 267.581,
+      "words": [
+        "Sorcerer",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense sorcerer"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Player Tower Defense",
+      "score": 267.355,
+      "words": [
+        "Player",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense 2 player"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Brainrot Tower Defense",
+      "score": 266.889,
+      "words": [
+        "Brainrot",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense brainrot"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Gear Troll Tower Defense",
+      "score": 266.861,
+      "words": [
+        "Gear",
+        "Troll",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Simpson Tower Defense",
+      "score": 266.523,
+      "words": [
+        "Simpson",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense simpsons",
+        "tower defense simpson"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "TDS Tower Defense",
+      "score": 266.406,
+      "words": [
+        "TDS",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Bob Esponja Tower Defense",
+      "score": 266.217,
+      "words": [
+        "Bob",
+        "Esponja",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense bob esponja",
+        "tower defense sponge bob"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Base Tower Defense",
+      "score": 266.165,
+      "words": [
+        "Base",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 23,
+      "name": "SCP Tower Defense",
+      "score": 266.136,
+      "words": [
+        "SCP",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense scp"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Dandys World Tower Defense",
+      "score": 266.029,
+      "words": [
+        "Dandys",
+        "World",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense world",
+        "tower defense dandys world"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Poppy Playtime Tower Defense",
+      "score": 265.981,
+      "words": [
+        "Poppy",
+        "Playtime",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower defense poppy playtime"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "tower defense",
+      "score": 524.99
+    },
+    {
+      "text": "tower",
+      "score": 358.389
+    },
+    {
+      "text": "defense",
+      "score": 356.954
+    },
+    {
+      "text": "defense simulator",
+      "score": 120.136
+    },
+    {
+      "text": "defense skibidi",
+      "score": 79.093
+    },
+    {
+      "text": "simulator",
+      "score": 73.963
+    },
+    {
+      "text": "skibidi toilet",
+      "score": 70.077
+    },
+    {
+      "text": "skibidi",
+      "score": 44.203
+    },
+    {
+      "text": "toilet",
+      "score": 42.421
+    },
+    {
+      "text": "defense x",
+      "score": 41.126
+    },
+    {
+      "text": "defense spongebob",
+      "score": 38.224
+    },
+    {
+      "text": "spongebob",
+      "score": 26.817
+    },
+    {
+      "text": "simulator rp",
+      "score": 24.128
+    },
+    {
+      "text": "anime",
+      "score": 18.421
+    },
+    {
+      "text": "simulator modded",
+      "score": 16.205
+    },
+    {
+      "text": "defense anime",
+      "score": 15.555
+    },
+    {
+      "text": "defense rng",
+      "score": 14.85
+    },
+    {
+      "text": "rng",
+      "score": 13.548
+    },
+    {
+      "text": "modded",
+      "score": 12.879
+    },
+    {
+      "text": "defense 2",
+      "score": 9.721
+    },
+    {
+      "text": "defense sandbox",
+      "score": 9.489
+    },
+    {
+      "text": "sakadung apple",
+      "score": 9.187
+    },
+    {
+      "text": "defense sakadung",
+      "score": 8.521
+    },
+    {
+      "text": "defense 67",
+      "score": 7.78
+    },
+    {
+      "text": "defense sorcerer",
+      "score": 7.63
+    },
+    {
+      "text": "defense tycoon",
+      "score": 6.739
+    },
+    {
+      "text": "apple",
+      "score": 6.652
+    },
+    {
+      "text": "defense modded",
+      "score": 6.534
+    },
+    {
+      "text": "sandbox",
+      "score": 6.326
+    },
+    {
+      "text": "defense retro",
+      "score": 6.15
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "tower defense simulator",
+      "score": 147.831,
+      "appearances": 195,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "tower defense skibidi toilet",
+      "score": 140.153,
+      "appearances": 216,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "tower defense spongebob",
+      "score": 76.448,
+      "appearances": 169,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "tower defense x",
+      "score": 57.743,
+      "appearances": 85,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "tower defense simulator rp",
+      "score": 48.255,
+      "appearances": 145,
+      "bestRank": 2
+    },
+    {
+      "rank": 6,
+      "text": "tower defense simulator modded",
+      "score": 32.411,
+      "appearances": 81,
+      "bestRank": 2
+    },
+    {
+      "rank": 7,
+      "text": "tower defense anime",
+      "score": 31.11,
+      "appearances": 60,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "tower defense rng",
+      "score": 27.689,
+      "appearances": 55,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "tower defense games",
+      "score": 23.218,
+      "appearances": 58,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "tower defense",
+      "score": 19.82,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "tower defense 2 player",
+      "score": 19.442,
+      "appearances": 46,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "tower defense sandbox",
+      "score": 18.978,
+      "appearances": 68,
+      "bestRank": 4
+    },
+    {
+      "rank": 13,
+      "text": "tower defense sakadung apple",
+      "score": 17.041,
+      "appearances": 42,
+      "bestRank": 4
+    },
+    {
+      "rank": 14,
+      "text": "tower defense 67",
+      "score": 15.56,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "tower defense sorcerer",
+      "score": 15.26,
+      "appearances": 44,
+      "bestRank": 4
+    },
+    {
+      "rank": 16,
+      "text": "tower defense x beta",
+      "score": 15.182,
+      "appearances": 38,
+      "bestRank": 2
+    },
+    {
+      "rank": 17,
+      "text": "tower defense tycoon",
+      "score": 13.478,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "tower defense modded",
+      "score": 12.529,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "tower defense retro",
+      "score": 12.299,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "tower defense simpsons",
+      "score": 11.619,
+      "appearances": 37,
+      "bestRank": 3
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Anime Adventures",
+      "rawName": "[☀️UPD 21🏖️] Anime Adventures",
+      "playerCount": 89942,
+      "url": "https://www.roblox.com/games/8304191830/Anime-Adventures",
+      "foundBy": "tower defense anime"
+    },
+    {
+      "name": "Cameraman Tower Defense",
+      "rawName": "[🌟FIX] Cameraman Tower Defense",
+      "playerCount": 39138,
+      "url": "https://www.roblox.com/games/132929771812494/Cameraman-Tower-Defense",
+      "foundBy": "tower defense"
+    },
+    {
+      "name": "Anime Dice",
+      "rawName": "[🍂] Anime Dice",
+      "playerCount": 34315,
+      "url": "https://www.roblox.com/games/113290951185459/Anime-Dice",
+      "foundBy": "tower defense anime"
+    },
+    {
+      "name": "Tower of Hell",
+      "rawName": "Tower of Hell",
+      "playerCount": 19986,
+      "url": "https://www.roblox.com/games/1962086868/Tower-of-Hell",
+      "foundBy": "tower defense anime"
+    },
+    {
+      "name": "Tower Defense Simulator",
+      "rawName": "Tower Defense Simulator",
+      "playerCount": 14236,
+      "url": "https://www.roblox.com/games/3260590327/Tower-Defense-Simulator",
+      "foundBy": "tower defense"
+    },
+    {
+      "name": "Toilet Tower Defense",
+      "rawName": "[✨CHANGES] Toilet Tower Defense",
+      "playerCount": 9621,
+      "url": "https://www.roblox.com/games/13775256536/Toilet-Tower-Defense",
+      "foundBy": "tower defense"
+    },
+    {
+      "name": "Toilet World Roleplay 2",
+      "rawName": "[UPDATE] Toilet World Roleplay 2",
+      "playerCount": 6889,
+      "url": "https://www.roblox.com/games/135717153770519/Toilet-World-Roleplay-2",
+      "foundBy": "tower defense skibidi toilet"
+    },
+    {
+      "name": "All Star Tower Defense",
+      "rawName": "[OG] All Star Tower Defense",
+      "playerCount": 3337,
+      "url": "https://www.roblox.com/games/4996049426/All-Star-Tower-Defense",
+      "foundBy": "tower defense anime"
+    },
+    {
+      "name": "Extreme Gear Troll Tower",
+      "rawName": "💥 Extreme Gear Troll Tower",
+      "playerCount": 3107,
+      "url": "https://www.roblox.com/games/103285721487694/Extreme-Gear-Troll-Tower",
+      "foundBy": "tower defense"
+    },
+    {
+      "name": "Alliance Tower Defense!",
+      "rawName": "[⭐ MINI-UPDATE ⭐] Alliance Tower Defense! ⚔️",
+      "playerCount": 3056,
+      "url": "https://www.roblox.com/games/99703116573266/Alliance-Tower-Defense",
+      "foundBy": "tower defense"
+    },
+    {
+      "name": "2X Tower Defense X: BETA",
+      "rawName": "2X 🎃| Tower Defense X: BETA",
+      "playerCount": 2944,
+      "url": "https://www.roblox.com/games/9503261072/2X-Tower-Defense-X-BETA",
+      "foundBy": "tower defense x"
+    },
+    {
+      "name": "Save the Krusty Krab",
+      "rawName": "Save the Krusty Krab 🍔",
+      "playerCount": 2935,
+      "url": "https://www.roblox.com/games/129332901430212/Save-the-Krusty-Krab",
+      "foundBy": "tower defense spongebob"
+    },
+    {
+      "name": "Skibidi Masters Tower Defense",
+      "rawName": "[🎃] Skibidi Masters Tower Defense",
+      "playerCount": 1449,
+      "url": "https://www.roblox.com/games/15111895255/Skibidi-Masters-Tower-Defense",
+      "foundBy": "tower defense skibidi toilet"
+    },
+    {
+      "name": "Survive The Night",
+      "rawName": "[PVP] Survive The Night",
+      "playerCount": 1349,
+      "url": "https://www.roblox.com/games/114125816375987/Survive-The-Night",
+      "foundBy": "tower defense 2 player"
+    },
+    {
+      "name": "The Battle Bricks",
+      "rawName": "The Battle Bricks",
+      "playerCount": 1328,
+      "url": "https://www.roblox.com/games/10834586502/The-Battle-Bricks",
+      "foundBy": "tower defense simulator"
+    },
+    {
+      "name": "Skibi Defense",
+      "rawName": "[ACT 3] Skibi Defense",
+      "playerCount": 1317,
+      "url": "https://www.roblox.com/games/14279693118/Skibi-Defense",
+      "foundBy": "tower defense skibidi toilet"
+    },
+    {
+      "name": "Anime RNG Defense",
+      "rawName": "[UPD] Anime RNG Defense",
+      "playerCount": 1207,
+      "url": "https://www.roblox.com/games/104693964860826/Anime-RNG-Defense",
+      "foundBy": "tower defense rng"
+    },
+    {
+      "name": "SNACK Defense!",
+      "rawName": "[X2!🔥] SNACK Defense! ",
+      "playerCount": 1199,
+      "url": "https://www.roblox.com/games/99714898369873/SNACK-Defense",
+      "foundBy": "tower defense"
+    },
+    {
+      "name": "Anime Tower Defense: Guardians of Lumina",
+      "rawName": "[🔥GOL🔥] Anime Tower Defense: Guardians of Lumina",
+      "playerCount": 1055,
+      "url": "https://www.roblox.com/games/138435820869473/Anime-Tower-Defense-Guardians-of-Lumina",
+      "foundBy": "tower defense x"
+    },
+    {
+      "name": "Fallen Survival",
+      "rawName": "[5X] Fallen Survival🏹",
+      "playerCount": 839,
+      "url": "https://www.roblox.com/games/10228136016/Fallen-Survival",
+      "foundBy": "tower defense x"
+    },
+    {
+      "name": "ACT 3 Retro Tower Defense",
+      "rawName": "☣️ ACT 3 | Retro Tower Defense",
+      "playerCount": 731,
+      "url": "https://www.roblox.com/games/98936097545088/ACT-3-Retro-Tower-Defense",
+      "foundBy": "tower defense anime"
+    },
+    {
+      "name": "Build a base RNG",
+      "rawName": "Build a base RNG",
+      "playerCount": 594,
+      "url": "https://www.roblox.com/games/99108783264633/Build-a-base-RNG",
+      "foundBy": "tower defense rng"
+    },
+    {
+      "name": "Toilet Masters Tower Defense",
+      "rawName": "[⌛NEW] Toilet Masters Tower Defense",
+      "playerCount": 562,
+      "url": "https://www.roblox.com/games/78656041389908/Toilet-Masters-Tower-Defense",
+      "foundBy": "tower defense skibidi toilet"
+    },
+    {
+      "name": "Skibidi Tower Defense",
+      "rawName": "[UPD] Skibidi Tower Defense",
+      "playerCount": 515,
+      "url": "https://www.roblox.com/games/15444929588/Skibidi-Tower-Defense",
+      "foundBy": "tower defense skibidi toilet"
+    },
+    {
+      "name": "Brainrot Tower Defense",
+      "rawName": "Brainrot Tower Defense",
+      "playerCount": 492,
+      "url": "https://www.roblox.com/games/111199269199811/Brainrot-Tower-Defense",
+      "foundBy": "tower defense simulator rp"
+    },
+    {
+      "name": "Sakadung Apple Tower Defense",
+      "rawName": "[UPDATE ✨] Sakadung Apple Tower Defense",
+      "playerCount": 462,
+      "url": "https://www.roblox.com/games/139459378578728/Sakadung-Apple-Tower-Defense",
+      "foundBy": "tower defense simulator"
+    },
+    {
+      "name": "1 Keyboard Tower Escape",
+      "rawName": "[🏆X99👟X111] +1 Keyboard Tower Escape",
+      "playerCount": 446,
+      "url": "https://www.roblox.com/games/110254673767537/1-Keyboard-Tower-Escape",
+      "foundBy": "tower defense x"
+    },
+    {
+      "name": "SpongeBob Tower Defense",
+      "rawName": "SpongeBob Tower Defense🍍",
+      "playerCount": 429,
+      "url": "https://www.roblox.com/games/123662243100680/SpongeBob-Tower-Defense",
+      "foundBy": "tower defense"
+    },
+    {
+      "name": "Angry Birds Tower Defense",
+      "rawName": "Angry Birds Tower Defense ",
+      "playerCount": 384,
+      "url": "https://www.roblox.com/games/95568014894521/Angry-Birds-Tower-Defense",
+      "foundBy": "tower defense"
+    },
+    {
+      "name": "Random Tower Defense",
+      "rawName": "[💻NEW SEASON] Random Tower Defense",
+      "playerCount": 325,
+      "url": "https://www.roblox.com/games/106624480457530/Random-Tower-Defense",
+      "foundBy": "tower defense rng"
+    }
+  ]
+}
