@@ -1,0 +1,1071 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-211244-pvp",
+    "genre": "pvp",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T21:12:44Z",
+    "finishedAt": "2026-11-10T21:23:51Z",
+    "issue": null,
+    "genreWords": [
+      "pvp"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "PvP Minecraft",
+      "score": 161.246,
+      "words": [
+        "PvP",
+        "Minecraft"
+      ],
+      "supportedBy": [
+        "pvp minecraft",
+        "pvp minecraft mace",
+        "pvp minecraft but guns"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "PvP MM2",
+      "score": 151.745,
+      "words": [
+        "PvP",
+        "MM2"
+      ],
+      "supportedBy": [
+        "pvp mm2",
+        "pvp 1 vs 1 mm2",
+        "pvp de mm2"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "PvP Minecraft Guns",
+      "score": 101.264,
+      "words": [
+        "PvP",
+        "Minecraft",
+        "Guns"
+      ],
+      "supportedBy": [
+        "pvp minecraft",
+        "pvp gun",
+        "pvp guns"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Roube Brainrot PvP RPG",
+      "score": 76.742,
+      "words": [
+        "Roube",
+        "Brainrot",
+        "PvP",
+        "RPG"
+      ],
+      "supportedBy": [
+        "pvp roube um brainrot",
+        "pvp rpg",
+        "pvp 1vs1 roba un brainrot"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "PvP Minecraft Mace",
+      "score": 73.827,
+      "words": [
+        "PvP",
+        "Minecraft",
+        "Mace"
+      ],
+      "supportedBy": [
+        "pvp minecraft",
+        "pvp mace",
+        "pvp minecraft mace"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "PvP MM2 Tycoon",
+      "score": 72.729,
+      "words": [
+        "PvP",
+        "MM2",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "pvp mm2",
+        "pvp tycoon",
+        "pvp 1 vs 1 mm2"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "PvP Aladia",
+      "score": 70.389,
+      "words": [
+        "PvP",
+        "Aladia"
+      ],
+      "supportedBy": [
+        "pvp aladia"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "PvP Civilization",
+      "score": 69.397,
+      "words": [
+        "PvP",
+        "Civilization"
+      ],
+      "supportedBy": [
+        "pvp civilization"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "PvP Tiro",
+      "score": 61.429,
+      "words": [
+        "PvP",
+        "Tiro"
+      ],
+      "supportedBy": [
+        "pvp tiro",
+        "pvp de tiro"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "PvP Trainer Roba Brainrot",
+      "score": 60.693,
+      "words": [
+        "PvP",
+        "Trainer",
+        "Roba",
+        "Brainrot"
+      ],
+      "supportedBy": [
+        "pvp roube um brainrot",
+        "pvp trainer",
+        "pvp 1vs1 roba un brainrot"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "PvP Gun",
+      "score": 60.519,
+      "words": [
+        "PvP",
+        "Gun"
+      ],
+      "supportedBy": [
+        "pvp gun",
+        "pvp guns",
+        "pvp minecraft but guns"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "PvP MM2 RP",
+      "score": 57.319,
+      "words": [
+        "PvP",
+        "MM2",
+        "RP"
+      ],
+      "supportedBy": [
+        "pvp mm2",
+        "pvp 1 vs 1 mm2",
+        "pvp gta rp"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "PvP Skibidi Toilet",
+      "score": 50.231,
+      "words": [
+        "PvP",
+        "Skibidi",
+        "Toilet"
+      ],
+      "supportedBy": [
+        "pvp skibidi toilet",
+        "pvp skibidi",
+        "pvp toilet"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "PvP Minecraft Battlegrounds",
+      "score": 48.888,
+      "words": [
+        "PvP",
+        "Minecraft",
+        "Battlegrounds"
+      ],
+      "supportedBy": [
+        "pvp minecraft",
+        "pvp minecraft mace",
+        "pvp minecraft but guns"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "PvP MM2 Escape",
+      "score": 40.341,
+      "words": [
+        "PvP",
+        "MM2",
+        "Escape"
+      ],
+      "supportedBy": [
+        "pvp mm2",
+        "pvp 1 vs 1 mm2",
+        "pvp de mm2"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "PvP Trainer",
+      "score": 40.156,
+      "words": [
+        "PvP",
+        "Trainer"
+      ],
+      "supportedBy": [
+        "pvp trainer",
+        "pvp sab trainer",
+        "pvp 1 trainer"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "PvP Gta RP",
+      "score": 38.78,
+      "words": [
+        "PvP",
+        "Gta",
+        "RP"
+      ],
+      "supportedBy": [
+        "pvp gta rp",
+        "pvp gta",
+        "pvp rp"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "PvP Minecraft Masse",
+      "score": 38.726,
+      "words": [
+        "PvP",
+        "Minecraft",
+        "Masse"
+      ],
+      "supportedBy": [
+        "pvp minecraft",
+        "pvp minecraft mace",
+        "pvp minecraft but guns"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "PvP Kit",
+      "score": 38.685,
+      "words": [
+        "PvP",
+        "Kit"
+      ],
+      "supportedBy": [
+        "pvp kit",
+        "pvp kit minecraft",
+        "pvp kits"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "PvP Mundo RPG",
+      "score": 37.52,
+      "words": [
+        "PvP",
+        "Mundo",
+        "RPG"
+      ],
+      "supportedBy": [
+        "pvp de mundo",
+        "pvp rpg",
+        "pvp con rpg"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "PvP Blox Fruit",
+      "score": 35.46,
+      "words": [
+        "PvP",
+        "Blox",
+        "Fruit"
+      ],
+      "supportedBy": [
+        "pvp blox fruit",
+        "pvp blox fruits",
+        "blox fruits"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Steal Brainrot PvP Tycoon",
+      "score": 34.9,
+      "words": [
+        "Steal",
+        "Brainrot",
+        "PvP",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "pvp roube um brainrot",
+        "pvp tycoon",
+        "pvp 1vs1 roba un brainrot"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "PvP MM2 Simulator",
+      "score": 32.197,
+      "words": [
+        "PvP",
+        "MM2",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pvp mm2",
+        "pvp 1 vs 1 mm2",
+        "pvp de mm2"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "PvP Minecraft Clava",
+      "score": 30.809,
+      "words": [
+        "PvP",
+        "Minecraft",
+        "Clava"
+      ],
+      "supportedBy": [
+        "pvp minecraft",
+        "pvp minecraft mace",
+        "pvp minecraft but guns"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "PvP Town",
+      "score": 30.505,
+      "words": [
+        "PvP",
+        "Town"
+      ],
+      "supportedBy": [
+        "pvp town",
+        "rp town life simulator"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "pvp",
+      "score": 914.928
+    },
+    {
+      "text": "pvp 1",
+      "score": 159.141
+    },
+    {
+      "text": "pvp 1vs1",
+      "score": 103.442
+    },
+    {
+      "text": "vs 1",
+      "score": 64.106
+    },
+    {
+      "text": "pvp minecraft",
+      "score": 62.838
+    },
+    {
+      "text": "minecraft",
+      "score": 60.624
+    },
+    {
+      "text": "mm2",
+      "score": 53.629
+    },
+    {
+      "text": "pvp mm2",
+      "score": 45.17
+    },
+    {
+      "text": "brainrot",
+      "score": 36.437
+    },
+    {
+      "text": "gun",
+      "score": 32.183
+    },
+    {
+      "text": "pvp gun",
+      "score": 28.999
+    },
+    {
+      "text": "pvp 2",
+      "score": 23.726
+    },
+    {
+      "text": "mundo",
+      "score": 21.119
+    },
+    {
+      "text": "pvp mundo",
+      "score": 21.119
+    },
+    {
+      "text": "aladia",
+      "score": 20.718
+    },
+    {
+      "text": "pvp aladia",
+      "score": 19.868
+    },
+    {
+      "text": "civilization",
+      "score": 19.828
+    },
+    {
+      "text": "pvp civilization",
+      "score": 19.828
+    },
+    {
+      "text": "pvp tiro",
+      "score": 17.706
+    },
+    {
+      "text": "tiro",
+      "score": 17.706
+    },
+    {
+      "text": "roube brainrot",
+      "score": 17.3
+    },
+    {
+      "text": "trainer",
+      "score": 17.236
+    },
+    {
+      "text": "pvp roube",
+      "score": 16.951
+    },
+    {
+      "text": "pvp trainer",
+      "score": 14.609
+    },
+    {
+      "text": "kit",
+      "score": 14.489
+    },
+    {
+      "text": "roba brainrot",
+      "score": 13.686
+    },
+    {
+      "text": "pvp gta",
+      "score": 13.319
+    },
+    {
+      "text": "pvp skibidi",
+      "score": 12.773
+    },
+    {
+      "text": "pvp kit",
+      "score": 12.445
+    },
+    {
+      "text": "arena",
+      "score": 11.454
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "pvp 1vs1",
+      "score": 180.806,
+      "appearances": 355,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "pvp 1 8",
+      "score": 131.805,
+      "appearances": 251,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "pvp 1 vs 1",
+      "score": 110.881,
+      "appearances": 243,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "pvp mm2",
+      "score": 75.53,
+      "appearances": 143,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "pvp minecraft",
+      "score": 69.202,
+      "appearances": 146,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "pvp games",
+      "score": 61.835,
+      "appearances": 126,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "pvp",
+      "score": 57.559,
+      "appearances": 80,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "pvp de mundo",
+      "score": 41.139,
+      "appearances": 66,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "pvp aladia",
+      "score": 39.737,
+      "appearances": 102,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "pvp civilization",
+      "score": 39.655,
+      "appearances": 85,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "pvp покати мир",
+      "score": 38.103,
+      "appearances": 66,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "pvp 1 9",
+      "score": 35.786,
+      "appearances": 95,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "pvp tiro",
+      "score": 34.87,
+      "appearances": 66,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "pvp game",
+      "score": 32.238,
+      "appearances": 70,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "pvp roube um brainrot",
+      "score": 32.229,
+      "appearances": 82,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "pvp 2 player",
+      "score": 30.147,
+      "appearances": 72,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "pvp gun",
+      "score": 28.966,
+      "appearances": 70,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "pvp trainer",
+      "score": 25.655,
+      "appearances": 37,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "pvp guns",
+      "score": 23.145,
+      "appearances": 63,
+      "bestRank": 2
+    },
+    {
+      "rank": 20,
+      "text": "pvp skibidi toilet",
+      "score": 21.441,
+      "appearances": 43,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "pvp rpg",
+      "score": 19.83,
+      "appearances": 61,
+      "bestRank": 3
+    },
+    {
+      "rank": 22,
+      "text": "pvp tycoon",
+      "score": 19.19,
+      "appearances": 44,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "pvp kit",
+      "score": 17.974,
+      "appearances": 30,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "pvp town",
+      "score": 17.424,
+      "appearances": 34,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "1 8 pvp club",
+      "score": 17.169,
+      "appearances": 38,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "pvp 1 vs 1 mm2",
+      "score": 16.417,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "pvp fivem",
+      "score": 14.829,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "pvp gta rp",
+      "score": 14.08,
+      "appearances": 36,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "pvp mace",
+      "score": 14.063,
+      "appearances": 36,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "pvp 1vs1 roba un brainrot",
+      "score": 13.321,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "pvp mundial",
+      "score": 12.42,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "pvp fantasi",
+      "score": 12.27,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "pvp gta",
+      "score": 11.938,
+      "appearances": 34,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "pvp в мире",
+      "score": 11.185,
+      "appearances": 16,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "pvp steal a brainrot",
+      "score": 10.999,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "pvp ragdoll",
+      "score": 10.964,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "pvp 2 người",
+      "score": 10.953,
+      "appearances": 27,
+      "bestRank": 2
+    },
+    {
+      "rank": 38,
+      "text": "pvp vendez vos pièces",
+      "score": 10.905,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "pvp favela",
+      "score": 10.782,
+      "appearances": 29,
+      "bestRank": 2
+    },
+    {
+      "rank": 40,
+      "text": "pvp blox fruit",
+      "score": 10.612,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "pvp krush",
+      "score": 10.612,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 42,
+      "text": "pvp blox fruits",
+      "score": 10.596,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "pvp roll a world",
+      "score": 10.101,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "pvp minecraft mace",
+      "score": 10.058,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "pvp arena",
+      "score": 9.849,
+      "appearances": 20,
+      "bestRank": 1
+    },
+    {
+      "rank": 46,
+      "text": "pvp sword fighting",
+      "score": 9.806,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "pvp 1vs1 brainrot",
+      "score": 9.596,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "pvp minecraft but guns",
+      "score": 9.415,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "pvp world",
+      "score": 8.828,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "pvp anime",
+      "score": 8.071,
+      "appearances": 17,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 498949,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "pvb"
+    },
+    {
+      "name": "Brookhaven RP",
+      "rawName": "Brookhaven 🏡RP",
+      "playerCount": 325094,
+      "url": "https://www.roblox.com/games/4924922222/Brookhaven-RP",
+      "foundBy": "pvb"
+    },
+    {
+      "name": "RIVALS",
+      "rawName": "RIVALS",
+      "playerCount": 96001,
+      "url": "https://www.roblox.com/games/17625359962/RIVALS",
+      "foundBy": "pvp"
+    },
+    {
+      "name": "Murderers VS Sheriffs",
+      "rawName": "[💀DUELS] Murderers VS Sheriffs",
+      "playerCount": 57174,
+      "url": "https://www.roblox.com/games/135856908115931/Murderers-VS-Sheriffs",
+      "foundBy": "pvp"
+    },
+    {
+      "name": "The Strongest Battlegrounds",
+      "rawName": "[HALLOWEEN] The Strongest Battlegrounds",
+      "playerCount": 38636,
+      "url": "https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds",
+      "foundBy": "pvp"
+    },
+    {
+      "name": "Unstable SMP FFA",
+      "rawName": "Unstable SMP FFA [JAVA PVP!]",
+      "playerCount": 13695,
+      "url": "https://www.roblox.com/games/76870565041704/Unstable-SMP-FFA",
+      "foundBy": "pvp"
+    },
+    {
+      "name": "RoWorld",
+      "rawName": "RoWorld [World PvP]",
+      "playerCount": 13477,
+      "url": "https://www.roblox.com/games/137151641329864/RoWorld",
+      "foundBy": "pvp de mundo"
+    },
+    {
+      "name": "Deagle Arena",
+      "rawName": "[DUELS⚔️] Deagle Arena",
+      "playerCount": 12906,
+      "url": "https://www.roblox.com/games/84556640895285/Deagle-Arena",
+      "foundBy": "pvp aladia"
+    },
+    {
+      "name": "Grow a Garden",
+      "rawName": "[🐪] Grow a Garden 🌶️",
+      "playerCount": 11457,
+      "url": "https://www.roblox.com/games/126884695634066/Grow-a-Garden",
+      "foundBy": "pvb"
+    },
+    {
+      "name": "Scare Your Neighbor",
+      "rawName": "Scare Your Neighbor",
+      "playerCount": 10062,
+      "url": "https://www.roblox.com/games/124710677460732/Scare-Your-Neighbor",
+      "foundBy": "pvb"
+    },
+    {
+      "name": "One Tap",
+      "rawName": "[FPS] One Tap",
+      "playerCount": 10040,
+      "url": "https://www.roblox.com/games/90568084448279/One-Tap",
+      "foundBy": "pvp"
+    },
+    {
+      "name": "KNIFE DUELS",
+      "rawName": "[UPD] KNIFE DUELS",
+      "playerCount": 5384,
+      "url": "https://www.roblox.com/games/112731528776884/KNIFE-DUELS",
+      "foundBy": "pvp 1vs1"
+    },
+    {
+      "name": "Murder Mystery DUELS",
+      "rawName": "Murder Mystery DUELS",
+      "playerCount": 5321,
+      "url": "https://www.roblox.com/games/128119795963270/Murder-Mystery-DUELS",
+      "foundBy": "pvp 1vs1"
+    },
+    {
+      "name": "Murder Duels",
+      "rawName": "Murder Duels",
+      "playerCount": 5044,
+      "url": "https://www.roblox.com/games/120851538706364/Murder-Duels",
+      "foundBy": "pvp mm2"
+    },
+    {
+      "name": "1 8 KIT PVP",
+      "rawName": "[Cosmetics!] 1.8 KIT PVP",
+      "playerCount": 4187,
+      "url": "https://www.roblox.com/games/72393956865647/1-8-KIT-PVP",
+      "foundBy": "pvp"
+    },
+    {
+      "name": "MM2: FFA",
+      "rawName": "MM2: FFA 🎯",
+      "playerCount": 3337,
+      "url": "https://www.roblox.com/games/133367454559528/MM2-FFA",
+      "foundBy": "pvp mm2"
+    },
+    {
+      "name": "Plants & Brainrots",
+      "rawName": "[💰] Plants & Brainrots 🌻",
+      "playerCount": 2395,
+      "url": "https://www.roblox.com/games/127742093697776/Plants-Brainrots",
+      "foundBy": "pvb"
+    },
+    {
+      "name": "Escape Tsunami For Brainrots!",
+      "rawName": "[🌊] Escape Tsunami For Brainrots!",
+      "playerCount": 2277,
+      "url": "https://www.roblox.com/games/131623223084840/Escape-Tsunami-For-Brainrots",
+      "foundBy": "pvb"
+    },
+    {
+      "name": "Respect PVP",
+      "rawName": "Respect PVP [BETA]",
+      "playerCount": 1968,
+      "url": "https://www.roblox.com/games/103921126484906/Respect-PVP",
+      "foundBy": "pvp aladia"
+    },
+    {
+      "name": "Pistol Arena",
+      "rawName": "Pistol Arena",
+      "playerCount": 1838,
+      "url": "https://www.roblox.com/games/87018676608089/Pistol-Arena",
+      "foundBy": "pvp 1 vs 1"
+    },
+    {
+      "name": "Strike: Warfare",
+      "rawName": "Strike: Warfare",
+      "playerCount": 1472,
+      "url": "https://www.roblox.com/games/130404059693601/Strike-Warfare",
+      "foundBy": "pvp aladia"
+    },
+    {
+      "name": "One Shot",
+      "rawName": "[1vs1] One Shot",
+      "playerCount": 1263,
+      "url": "https://www.roblox.com/games/111600158364583/One-Shot",
+      "foundBy": "pvp 1vs1"
+    },
+    {
+      "name": "WorldFront",
+      "rawName": "WorldFront ⚔️",
+      "playerCount": 1149,
+      "url": "https://www.roblox.com/games/86641898011566/WorldFront",
+      "foundBy": "pvp de mundo"
+    },
+    {
+      "name": "Block Wars",
+      "rawName": "[⚔️UPD] Block Wars",
+      "playerCount": 1073,
+      "url": "https://www.roblox.com/games/132768098780837/Block-Wars",
+      "foundBy": "pvp"
+    },
+    {
+      "name": "Control The World",
+      "rawName": "Control The World 👑",
+      "playerCount": 981,
+      "url": "https://www.roblox.com/games/112038493521489/Control-The-World",
+      "foundBy": "pvp de mundo"
+    },
+    {
+      "name": "MM2: PVP",
+      "rawName": "MM2: PVP",
+      "playerCount": 931,
+      "url": "https://www.roblox.com/games/83325975879599/MM2-PVP",
+      "foundBy": "pvp"
+    },
+    {
+      "name": "Minecraft 1 21 4",
+      "rawName": "Minecraft 1.21.4",
+      "playerCount": 924,
+      "url": "https://www.roblox.com/games/119098142857252/Minecraft-1-21-4",
+      "foundBy": "pvp minecraft"
+    },
+    {
+      "name": "5v5 Aim Trainer",
+      "rawName": "[🎯] 5v5 Aim Trainer",
+      "playerCount": 908,
+      "url": "https://www.roblox.com/games/70862359496750/5v5-Aim-Trainer",
+      "foundBy": "pvp mm2"
+    },
+    {
+      "name": "Combat Arena",
+      "rawName": "Combat Arena",
+      "playerCount": 887,
+      "url": "https://www.roblox.com/games/15694891095/Combat-Arena",
+      "foundBy": "pvp 1 vs 1"
+    },
+    {
+      "name": "Samurai DUELS",
+      "rawName": "Samurai DUELS",
+      "playerCount": 842,
+      "url": "https://www.roblox.com/games/72248722616845/Samurai-DUELS",
+      "foundBy": "pvp 1 vs 1"
+    }
+  ]
+}

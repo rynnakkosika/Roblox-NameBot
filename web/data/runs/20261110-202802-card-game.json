@@ -1,0 +1,873 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-202802-card-game",
+    "genre": "card game",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T20:28:02Z",
+    "finishedAt": "2026-11-10T20:39:09Z",
+    "issue": null,
+    "genreWords": [
+      "card",
+      "game"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Ride Down Card Game Obby",
+      "score": 26.125,
+      "words": [
+        "Ride",
+        "Down",
+        "Card",
+        "Game",
+        "Obby"
+      ],
+      "supportedBy": [
+        "car ride games",
+        "car ride game",
+        "scary games obby"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Card Game",
+      "score": 22.913,
+      "words": [
+        "Card",
+        "Game"
+      ],
+      "supportedBy": [
+        "card games",
+        "cart games",
+        "card game"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Build Tower Card Game Obby",
+      "score": 18.007,
+      "words": [
+        "Build",
+        "Tower",
+        "Card",
+        "Game",
+        "Obby"
+      ],
+      "supportedBy": [
+        "scary games obby",
+        "great game tower"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Ride Storm Card Game Simulator",
+      "score": 16.253,
+      "words": [
+        "Ride",
+        "Storm",
+        "Card",
+        "Game",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car game simulator",
+        "car ride games",
+        "car ride game"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Drive World Card Game Obby",
+      "score": 13.741,
+      "words": [
+        "Drive",
+        "World",
+        "Card",
+        "Game",
+        "Obby"
+      ],
+      "supportedBy": [
+        "scary games obby",
+        "scary game in the world",
+        "scary game in the whole world"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Steal Anime Card Game Simulator",
+      "score": 12.932,
+      "words": [
+        "Steal",
+        "Anime",
+        "Card",
+        "Game",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car game simulator",
+        "car games simulator",
+        "car merge simulator"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Create Football Card Game Racing",
+      "score": 10.967,
+      "words": [
+        "Create",
+        "Football",
+        "Card",
+        "Game",
+        "Racing"
+      ],
+      "supportedBy": [
+        "create a game",
+        "create games",
+        "create a game in roblox"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Kai Karate Card Game Obby",
+      "score": 10.008,
+      "words": [
+        "Kai",
+        "Karate",
+        "Card",
+        "Game",
+        "Obby"
+      ],
+      "supportedBy": [
+        "karate games",
+        "karate game",
+        "karate games on roblox"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Driving Empire Card Game Simulator",
+      "score": 8.805,
+      "words": [
+        "Driving",
+        "Empire",
+        "Card",
+        "Game",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car game simulator",
+        "car games simulator",
+        "car merge simulator"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Card Game Soccer",
+      "score": 8.72,
+      "words": [
+        "Card",
+        "Game",
+        "Soccer"
+      ],
+      "supportedBy": [
+        "card game soccer",
+        "card games soccer"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Card Game Ride Battlegrounds",
+      "score": 7.883,
+      "words": [
+        "Card",
+        "Game",
+        "Ride",
+        "Battlegrounds"
+      ],
+      "supportedBy": [
+        "car ride games",
+        "car ride game",
+        "cart ride tycoon"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Great Squid Card Game Obby",
+      "score": 7.435,
+      "words": [
+        "Great",
+        "Squid",
+        "Card",
+        "Game",
+        "Obby"
+      ],
+      "supportedBy": [
+        "great games",
+        "great game",
+        "scary games obby"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Build Tower Card Game Tycoon",
+      "score": 6.74,
+      "words": [
+        "Build",
+        "Tower",
+        "Card",
+        "Game",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "create games tycoon",
+        "cart ride tycoon",
+        "card shop tycoon"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Create Gym Card Game Racing",
+      "score": 6.637,
+      "words": [
+        "Create",
+        "Gym",
+        "Card",
+        "Game",
+        "Racing"
+      ],
+      "supportedBy": [
+        "create a game",
+        "create games",
+        "create a game in roblox"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Drive World Card Game Parkour",
+      "score": 6.017,
+      "words": [
+        "Drive",
+        "World",
+        "Card",
+        "Game",
+        "Parkour"
+      ],
+      "supportedBy": [
+        "cari game parkour",
+        "scary game in the world",
+        "scary game in the whole world"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Card Game Shop",
+      "score": 5.939,
+      "words": [
+        "Card",
+        "Game",
+        "Shop"
+      ],
+      "supportedBy": [
+        "card game shop",
+        "card shop tycoon"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Card Game Liar",
+      "score": 5.913,
+      "words": [
+        "Card",
+        "Game",
+        "Liar"
+      ],
+      "supportedBy": [
+        "card game liar"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Card Game Kart Simulator",
+      "score": 5.894,
+      "words": [
+        "Card",
+        "Game",
+        "Kart",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car game simulator",
+        "kart games",
+        "kart game"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Steal Anime Card Game",
+      "score": 5.874,
+      "words": [
+        "Steal",
+        "Anime",
+        "Card",
+        "Game"
+      ],
+      "supportedBy": [
+        "card game anime"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Ride Down Card Game",
+      "score": 5.702,
+      "words": [
+        "Ride",
+        "Down",
+        "Card",
+        "Game"
+      ],
+      "supportedBy": [
+        "car ride games",
+        "car ride game",
+        "cart ride tycoon"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Mudding Offroading Card Game Obby",
+      "score": 5.479,
+      "words": [
+        "Mudding",
+        "Offroading",
+        "Card",
+        "Game",
+        "Obby"
+      ],
+      "supportedBy": [
+        "scary games obby"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Card Game Football",
+      "score": 5.456,
+      "words": [
+        "Card",
+        "Game",
+        "Football"
+      ],
+      "supportedBy": [
+        "card game football",
+        "card football",
+        "create a football team"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Kai Karate Card Game",
+      "score": 4.7,
+      "words": [
+        "Kai",
+        "Karate",
+        "Card",
+        "Game"
+      ],
+      "supportedBy": [
+        "karate games",
+        "karate game",
+        "karate games on roblox"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Backseat Rally Card Game Simulator",
+      "score": 4.67,
+      "words": [
+        "Backseat",
+        "Rally",
+        "Card",
+        "Game",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car game simulator",
+        "car games simulator",
+        "car merge simulator"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Steal Egg Card Game",
+      "score": 4.611,
+      "words": [
+        "Steal",
+        "Egg",
+        "Card",
+        "Game"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "card game",
+      "score": 0
+    },
+    {
+      "text": "card",
+      "score": 90.64
+    },
+    {
+      "text": "ride",
+      "score": 10.903
+    },
+    {
+      "text": "obby",
+      "score": 8.136
+    },
+    {
+      "text": "build",
+      "score": 7.01
+    },
+    {
+      "text": "create",
+      "score": 5.988
+    },
+    {
+      "text": "drive",
+      "score": 5.426
+    },
+    {
+      "text": "karate",
+      "score": 5.008
+    },
+    {
+      "text": "anime",
+      "score": 4.721
+    },
+    {
+      "text": "simulator",
+      "score": 4.658
+    },
+    {
+      "text": "kart",
+      "score": 4.525
+    },
+    {
+      "text": "driving",
+      "score": 4.126
+    },
+    {
+      "text": "shop",
+      "score": 4.1
+    },
+    {
+      "text": "card soccer",
+      "score": 3.876
+    },
+    {
+      "text": "soccer",
+      "score": 3.876
+    },
+    {
+      "text": "steal",
+      "score": 3.644
+    },
+    {
+      "text": "world",
+      "score": 3.422
+    },
+    {
+      "text": "squid",
+      "score": 2.997
+    },
+    {
+      "text": "tower",
+      "score": 2.948
+    },
+    {
+      "text": "great",
+      "score": 2.945
+    },
+    {
+      "text": "egg",
+      "score": 2.848
+    },
+    {
+      "text": "liar",
+      "score": 2.834
+    },
+    {
+      "text": "down",
+      "score": 2.623
+    },
+    {
+      "text": "card shop",
+      "score": 2.535
+    },
+    {
+      "text": "football",
+      "score": 2.41
+    },
+    {
+      "text": "ninja",
+      "score": 2.345
+    },
+    {
+      "text": "card football",
+      "score": 2.308
+    },
+    {
+      "text": "empire",
+      "score": 2.116
+    },
+    {
+      "text": "mudding",
+      "score": 2.008
+    },
+    {
+      "text": "offroading",
+      "score": 2.008
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "card games",
+      "score": 42.739,
+      "appearances": 84,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "card game",
+      "score": 22.913,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "card game soccer",
+      "score": 4.844,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "card game football",
+      "score": 4.41,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "21 card game",
+      "score": 3.573,
+      "appearances": 17,
+      "bestRank": 4
+    },
+    {
+      "rank": 6,
+      "text": "card game liar",
+      "score": 3.079,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "card games soccer",
+      "score": 2.908,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "card game shop",
+      "score": 1.839,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "card games daycare games",
+      "score": 1.782,
+      "appearances": 3,
+      "bestRank": 3
+    },
+    {
+      "rank": 10,
+      "text": "card games to battle",
+      "score": 1.549,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "cart games card games",
+      "score": 0.93,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "card game ninja",
+      "score": 0.913,
+      "appearances": 2,
+      "bestRank": 2
+    },
+    {
+      "rank": 13,
+      "text": "card game anime",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "card game funny",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "card game pokemon",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 16,
+      "text": "card game car game",
+      "score": 0.62,
+      "appearances": 1,
+      "bestRank": 3
+    },
+    {
+      "rank": 17,
+      "text": "card game card game",
+      "score": 0.542,
+      "appearances": 1,
+      "bestRank": 4
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 497054,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "great games"
+    },
+    {
+      "name": "Driving Empire",
+      "rawName": "Driving Empire [🏁NASCAR Championship Weekend🏁]",
+      "playerCount": 17052,
+      "url": "https://www.roblox.com/games/3351674303/Driving-Empire",
+      "foundBy": "car game simulator"
+    },
+    {
+      "name": "Squid Game X",
+      "rawName": "[🦑] Squid Game X",
+      "playerCount": 11793,
+      "url": "https://www.roblox.com/games/7554888362/Squid-Game-X",
+      "foundBy": "great games"
+    },
+    {
+      "name": "Southern Mudding OffRoading",
+      "rawName": "[🚧UPD🚧] Southern Mudding 🚜 OffRoading",
+      "playerCount": 10370,
+      "url": "https://www.roblox.com/games/79480724066456/Southern-Mudding-OffRoading",
+      "foundBy": "cart games"
+    },
+    {
+      "name": "Ink Game",
+      "rawName": "[🎃] Ink Game",
+      "playerCount": 9336,
+      "url": "https://www.roblox.com/games/99567941238278/Ink-Game",
+      "foundBy": "great games"
+    },
+    {
+      "name": "Backseat Rally",
+      "rawName": "Backseat Rally",
+      "playerCount": 8411,
+      "url": "https://www.roblox.com/games/94278659624110/Backseat-Rally",
+      "foundBy": "car ride games"
+    },
+    {
+      "name": "Ride Storm",
+      "rawName": "[UPD] Ride Storm",
+      "playerCount": 7642,
+      "url": "https://www.roblox.com/games/12593620250/Ride-Storm",
+      "foundBy": "car ride games"
+    },
+    {
+      "name": "Push the Patient",
+      "rawName": "Push the Patient [1-2 PLAYER OBBY]",
+      "playerCount": 6390,
+      "url": "https://www.roblox.com/games/94227180343187/Push-the-Patient",
+      "foundBy": "cart game 2 player"
+    },
+    {
+      "name": "Anime Ability Arena",
+      "rawName": "Anime Ability Arena",
+      "playerCount": 5711,
+      "url": "https://www.roblox.com/games/108567435288296/Anime-Ability-Arena",
+      "foundBy": "great games"
+    },
+    {
+      "name": "Wacky Games",
+      "rawName": "[🤪] Wacky Games",
+      "playerCount": 4552,
+      "url": "https://www.roblox.com/games/73575643952083/Wacky-Games",
+      "foundBy": "great games"
+    },
+    {
+      "name": "Gym Star Simulator",
+      "rawName": "Gym Star Simulator 💪",
+      "playerCount": 3992,
+      "url": "https://www.roblox.com/games/70906625936847/Gym-Star-Simulator",
+      "foundBy": "karate games"
+    },
+    {
+      "name": "Drive a Cart Downhill!",
+      "rawName": "[UPD] Drive a Cart Downhill!",
+      "playerCount": 3173,
+      "url": "https://www.roblox.com/games/88286531172202/Drive-a-Cart-Downhill",
+      "foundBy": "cart games"
+    },
+    {
+      "name": "Scooter Duo",
+      "rawName": "Scooter Duo 🛴 [2 Player Obby]",
+      "playerCount": 2625,
+      "url": "https://www.roblox.com/games/121371815815493/Scooter-Duo",
+      "foundBy": "cart game 2 player"
+    },
+    {
+      "name": "Boxing Beta!",
+      "rawName": "[🎃] Boxing Beta! 🥊",
+      "playerCount": 2556,
+      "url": "https://www.roblox.com/games/6804602922/Boxing-Beta",
+      "foundBy": "karate games"
+    },
+    {
+      "name": "Car Zone Racing & Drifting",
+      "rawName": "[🎃] Car Zone 🏎️ Racing & Drifting",
+      "playerCount": 2382,
+      "url": "https://www.roblox.com/games/80200604311136/Car-Zone-Racing-Drifting",
+      "foundBy": "car game simulator"
+    },
+    {
+      "name": "Dash World",
+      "rawName": "Dash World",
+      "playerCount": 2249,
+      "url": "https://www.roblox.com/games/80607040330429/Dash-World",
+      "foundBy": "create games"
+    },
+    {
+      "name": "Drive World",
+      "rawName": "[BIKES] Drive World",
+      "playerCount": 2200,
+      "url": "https://www.roblox.com/games/10704789056/Drive-World",
+      "foundBy": "car game simulator"
+    },
+    {
+      "name": "My Trading Card Shop!",
+      "rawName": "[🃏UPD] My Trading Card Shop! [BETA]",
+      "playerCount": 2185,
+      "url": "https://www.roblox.com/games/104927460048415/My-Trading-Card-Shop",
+      "foundBy": "card game"
+    },
+    {
+      "name": "Anime Card Farm",
+      "rawName": "[UPD📖] Anime Card Farm",
+      "playerCount": 2088,
+      "url": "https://www.roblox.com/games/125039473548047/Anime-Card-Farm",
+      "foundBy": "card game"
+    },
+    {
+      "name": "Kart Of Hell",
+      "rawName": "[UPD] Kart Of Hell",
+      "playerCount": 1756,
+      "url": "https://www.roblox.com/games/76153324611685/Kart-Of-Hell",
+      "foundBy": "cart games"
+    },
+    {
+      "name": "Build Your Backrooms",
+      "rawName": "Build Your Backrooms",
+      "playerCount": 1570,
+      "url": "https://www.roblox.com/games/134363641369914/Build-Your-Backrooms",
+      "foundBy": "create a game"
+    },
+    {
+      "name": "Bobsled Ride Down a Mountainside",
+      "rawName": "Bobsled Ride Down a Mountainside",
+      "playerCount": 1478,
+      "url": "https://www.roblox.com/games/72317248326994/Bobsled-Ride-Down-a-Mountainside",
+      "foundBy": "cart games"
+    },
+    {
+      "name": "Easy Glass Bridge",
+      "rawName": "Easy Glass Bridge (Possible Squid Game)",
+      "playerCount": 1334,
+      "url": "https://www.roblox.com/games/8034026074/Easy-Glass-Bridge",
+      "foundBy": "great games"
+    },
+    {
+      "name": "Car Driving Ultimate",
+      "rawName": "[NEW UPDATE] Car Driving Ultimate",
+      "playerCount": 1297,
+      "url": "https://www.roblox.com/games/11145865512/Car-Driving-Ultimate",
+      "foundBy": "car game simulator"
+    },
+    {
+      "name": "Cluck or Hide!",
+      "rawName": "[🎃] Cluck or Hide!🐔",
+      "playerCount": 1170,
+      "url": "https://www.roblox.com/games/82539019711975/Cluck-or-Hide",
+      "foundBy": "great games"
+    },
+    {
+      "name": "Build an ASMR Tower",
+      "rawName": "Build an ASMR Tower",
+      "playerCount": 1083,
+      "url": "https://www.roblox.com/games/125306084071551/Build-an-ASMR-Tower",
+      "foundBy": "create a game"
+    },
+    {
+      "name": "Grapple Cart Obby",
+      "rawName": "[1 & 2 PLAYER] Grapple Cart Obby",
+      "playerCount": 1075,
+      "url": "https://www.roblox.com/games/117448312570314/Grapple-Cart-Obby",
+      "foundBy": "cart game"
+    },
+    {
+      "name": "GREAT SCHOOL BREAKOUT!",
+      "rawName": "GREAT SCHOOL BREAKOUT! (First Person Obby)",
+      "playerCount": 979,
+      "url": "https://www.roblox.com/games/9099326192/GREAT-SCHOOL-BREAKOUT",
+      "foundBy": "great games"
+    },
+    {
+      "name": "Obby Creator",
+      "rawName": "Obby Creator",
+      "playerCount": 970,
+      "url": "https://www.roblox.com/games/2913303231/Obby-Creator",
+      "foundBy": "create games"
+    },
+    {
+      "name": "Obby But You're on a Kart",
+      "rawName": "[W31] Obby But You're on a Kart",
+      "playerCount": 945,
+      "url": "https://www.roblox.com/games/109694820409483/Obby-But-Youre-on-a-Kart",
+      "foundBy": "cart games"
+    }
+  ]
+}

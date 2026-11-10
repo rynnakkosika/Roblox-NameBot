@@ -1,0 +1,1081 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-200536-clash",
+    "genre": "clash",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T20:05:36Z",
+    "finishedAt": "2026-11-10T20:16:45Z",
+    "issue": null,
+    "genreWords": [
+      "clash"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Clash Royale",
+      "score": 361.64,
+      "words": [
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale",
+        "clash royale battlegrounds",
+        "clash royale tower defense"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Brainrot Tower Clash Royale",
+      "score": 251.081,
+      "words": [
+        "Brainrot",
+        "Tower",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale",
+        "clash royale battlegrounds",
+        "clash of brainrots"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Clash Glitch Obby",
+      "score": 219.904,
+      "words": [
+        "Clash",
+        "Glitch",
+        "Obby"
+      ],
+      "supportedBy": [
+        "clash glitch obby",
+        "clashs glitch obby",
+        "clash glitch obby 2"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Clans Clash Royale",
+      "score": 184.07,
+      "words": [
+        "Clans",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale",
+        "clash of clans",
+        "clash royale battlegrounds"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Dragon Clash Royale",
+      "score": 144.748,
+      "words": [
+        "Dragon",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale",
+        "clash of dragons",
+        "clash royale battlegrounds"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Clash Glitch Battlegrounds",
+      "score": 115.639,
+      "words": [
+        "Clash",
+        "Glitch",
+        "Battlegrounds"
+      ],
+      "supportedBy": [
+        "clash glitch obby",
+        "clash royale battlegrounds",
+        "clash battlegrounds"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Ninja Clash Royale",
+      "score": 105.5,
+      "words": [
+        "Ninja",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale",
+        "clash royale battlegrounds",
+        "clash royale tower defense"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Clash Battlegrounds",
+      "score": 87.703,
+      "words": [
+        "Clash",
+        "Battlegrounds"
+      ],
+      "supportedBy": [
+        "clash royale battlegrounds",
+        "clash battlegrounds"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Clash Clans Obby",
+      "score": 84.754,
+      "words": [
+        "Clash",
+        "Clans",
+        "Obby"
+      ],
+      "supportedBy": [
+        "clash of clans",
+        "clash glitch obby",
+        "clashs glitch obby"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "RNG Clash Royale",
+      "score": 84.123,
+      "words": [
+        "RNG",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale",
+        "clash royale battlegrounds",
+        "clash royale tower defense"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Clash Brainrot Defense",
+      "score": 74.201,
+      "words": [
+        "Clash",
+        "Brainrot",
+        "Defense"
+      ],
+      "supportedBy": [
+        "clash of brainrots",
+        "clash royale tower defense",
+        "clash royale brainrot"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Empire Clash Royale",
+      "score": 66.598,
+      "words": [
+        "Empire",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale",
+        "clash royale battlegrounds",
+        "clash royale tower defense"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Clash Dragon Battlegrounds",
+      "score": 63.575,
+      "words": [
+        "Clash",
+        "Dragon",
+        "Battlegrounds"
+      ],
+      "supportedBy": [
+        "clash of dragons",
+        "clash royale battlegrounds",
+        "clash battlegrounds"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Clash Glitch Clicker",
+      "score": 61.642,
+      "words": [
+        "Clash",
+        "Glitch",
+        "Clicker"
+      ],
+      "supportedBy": [
+        "clash glitch obby",
+        "clashs glitch obby",
+        "clash glitch obby 2"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Land Plane Clash Royale",
+      "score": 52.877,
+      "words": [
+        "Land",
+        "Plane",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale",
+        "clash royale battlegrounds",
+        "clash royale tower defense"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Clash Clans Tycoon",
+      "score": 52.074,
+      "words": [
+        "Clash",
+        "Clans",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "clash of clans",
+        "clash royale tycoon",
+        "clash of clan"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Clash Brainrot Obby",
+      "score": 51.227,
+      "words": [
+        "Clash",
+        "Brainrot",
+        "Obby"
+      ],
+      "supportedBy": [
+        "clash glitch obby",
+        "clash of brainrots",
+        "clash royale brainrot"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Clash Tower Defense",
+      "score": 48.944,
+      "words": [
+        "Clash",
+        "Tower",
+        "Defense"
+      ],
+      "supportedBy": [
+        "clash royale tower defense",
+        "clash tower defense",
+        "classic tower defense"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Clash Glitch Per Difficulty",
+      "score": 44.927,
+      "words": [
+        "Clash",
+        "Glitch",
+        "Per",
+        "Difficulty"
+      ],
+      "supportedBy": [
+        "clash glitch obby",
+        "clashs glitch obby",
+        "clash glitch obby 2"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Titan Clash Battlegrounds",
+      "score": 43.315,
+      "words": [
+        "Titan",
+        "Clash",
+        "Battlegrounds"
+      ],
+      "supportedBy": [
+        "clash royale battlegrounds",
+        "clash battlegrounds",
+        "clash of titans"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "VR Clash Royale",
+      "score": 42.074,
+      "words": [
+        "VR",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale",
+        "clash royale battlegrounds",
+        "clash royale tower defense"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Clash Dragon Obby",
+      "score": 39.772,
+      "words": [
+        "Clash",
+        "Dragon",
+        "Obby"
+      ],
+      "supportedBy": [
+        "clash of dragons",
+        "clash glitch obby",
+        "clashs glitch obby"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Clash RNG",
+      "score": 36.602,
+      "words": [
+        "Clash",
+        "RNG"
+      ],
+      "supportedBy": [
+        "clash rng",
+        "clash royale rng"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Clash Clans Clicker",
+      "score": 35.631,
+      "words": [
+        "Clash",
+        "Clans",
+        "Clicker"
+      ],
+      "supportedBy": [
+        "clash of clans",
+        "clash clicker",
+        "clash royale clicker"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Royal Clash Battlegrounds",
+      "score": 34.167,
+      "words": [
+        "Royal",
+        "Clash",
+        "Battlegrounds"
+      ],
+      "supportedBy": [
+        "clash royale battlegrounds",
+        "clash battlegrounds",
+        "clash royal"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "clash",
+      "score": 408.622
+    },
+    {
+      "text": "clash royale",
+      "score": 140.792
+    },
+    {
+      "text": "royale",
+      "score": 115.404
+    },
+    {
+      "text": "clash glitch",
+      "score": 61.906
+    },
+    {
+      "text": "glitch obby",
+      "score": 58.39
+    },
+    {
+      "text": "brainrot",
+      "score": 47.457
+    },
+    {
+      "text": "battlegrounds",
+      "score": 45.592
+    },
+    {
+      "text": "clash clans",
+      "score": 45.46
+    },
+    {
+      "text": "glitch",
+      "score": 45.208
+    },
+    {
+      "text": "clans",
+      "score": 44.106
+    },
+    {
+      "text": "obby",
+      "score": 43.728
+    },
+    {
+      "text": "dragon",
+      "score": 39.209
+    },
+    {
+      "text": "clash dragons",
+      "score": 33.145
+    },
+    {
+      "text": "tower defense",
+      "score": 24.075
+    },
+    {
+      "text": "clash brainrots",
+      "score": 24.037
+    },
+    {
+      "text": "tower",
+      "score": 22.642
+    },
+    {
+      "text": "defense",
+      "score": 22.184
+    },
+    {
+      "text": "royale battlegrounds",
+      "score": 21.572
+    },
+    {
+      "text": "royale brainrot",
+      "score": 18.044
+    },
+    {
+      "text": "clash battlegrounds",
+      "score": 16.617
+    },
+    {
+      "text": "royale tower",
+      "score": 14.673
+    },
+    {
+      "text": "clash ninja",
+      "score": 14.065
+    },
+    {
+      "text": "ninja",
+      "score": 14.065
+    },
+    {
+      "text": "clicker",
+      "score": 13.436
+    },
+    {
+      "text": "obby 2",
+      "score": 13.292
+    },
+    {
+      "text": "rng",
+      "score": 13.22
+    },
+    {
+      "text": "clash rng",
+      "score": 13.013
+    },
+    {
+      "text": "empire",
+      "score": 10.227
+    },
+    {
+      "text": "clash empire",
+      "score": 8.867
+    },
+    {
+      "text": "tycoon",
+      "score": 8.393
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "clash royale",
+      "score": 118.137,
+      "appearances": 162,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "clash of clans",
+      "score": 70.56,
+      "appearances": 128,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "clash of dragons",
+      "score": 57.288,
+      "appearances": 116,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "clash glitch obby",
+      "score": 48.956,
+      "appearances": 74,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "clash royale battlegrounds",
+      "score": 43.144,
+      "appearances": 91,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "clash of brainrots",
+      "score": 39.5,
+      "appearances": 77,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "clash battlegrounds",
+      "score": 32.933,
+      "appearances": 57,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "clash royale tower defense",
+      "score": 29.345,
+      "appearances": 84,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "clash royale brainrot",
+      "score": 27.428,
+      "appearances": 89,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "clash of ninja",
+      "score": 26.503,
+      "appearances": 71,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "clash rng",
+      "score": 26.026,
+      "appearances": 50,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "clashs glitch obby",
+      "score": 18.454,
+      "appearances": 34,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "clash glitch obby 2",
+      "score": 17.453,
+      "appearances": 46,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "clash clicker",
+      "score": 15.879,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "clash royale clicker",
+      "score": 15.585,
+      "appearances": 53,
+      "bestRank": 2
+    },
+    {
+      "rank": 16,
+      "text": "clash royale tycoon",
+      "score": 15.322,
+      "appearances": 47,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "clash",
+      "score": 14.717,
+      "appearances": 36,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "clash royal",
+      "score": 13.245,
+      "appearances": 47,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "clash of clan",
+      "score": 12.239,
+      "appearances": 43,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "clashes glitch obby",
+      "score": 10.271,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "clash of empires",
+      "score": 9.76,
+      "appearances": 27,
+      "bestRank": 2
+    },
+    {
+      "rank": 22,
+      "text": "clash of the universes",
+      "score": 9.605,
+      "appearances": 31,
+      "bestRank": 2
+    },
+    {
+      "rank": 23,
+      "text": "clash of land",
+      "score": 9.063,
+      "appearances": 24,
+      "bestRank": 2
+    },
+    {
+      "rank": 24,
+      "text": "clash royale de brainrot",
+      "score": 8.659,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "clash vs brainrots",
+      "score": 8.521,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "clash empire",
+      "score": 7.823,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "clash of clans tycoon",
+      "score": 7.761,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "clash bots",
+      "score": 6.894,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "clash tower defense",
+      "score": 6.816,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "clash of titans",
+      "score": 5.964,
+      "appearances": 14,
+      "bestRank": 2
+    },
+    {
+      "rank": 31,
+      "text": "clashes vr",
+      "score": 5.964,
+      "appearances": 12,
+      "bestRank": 2
+    },
+    {
+      "rank": 32,
+      "text": "clash brainrot",
+      "score": 5.79,
+      "appearances": 16,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "clash titan",
+      "score": 5.635,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "clash of eras",
+      "score": 5.5,
+      "appearances": 20,
+      "bestRank": 3
+    },
+    {
+      "rank": 35,
+      "text": "clashs glitch obby 2",
+      "score": 5.406,
+      "appearances": 10,
+      "bestRank": 2
+    },
+    {
+      "rank": 36,
+      "text": "clash simulator",
+      "score": 5.267,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "clash of critters",
+      "score": 5.19,
+      "appearances": 17,
+      "bestRank": 5
+    },
+    {
+      "rank": 38,
+      "text": "clash royale quiz",
+      "score": 5.143,
+      "appearances": 18,
+      "bestRank": 5
+    },
+    {
+      "rank": 39,
+      "text": "clash royale pero roblox",
+      "score": 4.617,
+      "appearances": 15,
+      "bestRank": 2
+    },
+    {
+      "rank": 40,
+      "text": "clash vr",
+      "score": 4.57,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "clash power",
+      "score": 4.57,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 42,
+      "text": "clash glitch obby 1",
+      "score": 3.997,
+      "appearances": 13,
+      "bestRank": 2
+    },
+    {
+      "rank": 43,
+      "text": "clash ball",
+      "score": 3.95,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "clash of dragons roblox",
+      "score": 3.843,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "clashs glitch per difficulty",
+      "score": 3.641,
+      "appearances": 10,
+      "bestRank": 3
+    },
+    {
+      "rank": 46,
+      "text": "clash of dragon",
+      "score": 3.486,
+      "appearances": 14,
+      "bestRank": 2
+    },
+    {
+      "rank": 47,
+      "text": "clash rap",
+      "score": 3.486,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "clash glitch obby 3",
+      "score": 3.366,
+      "appearances": 10,
+      "bestRank": 3
+    },
+    {
+      "rank": 49,
+      "text": "clashes vr 2",
+      "score": 3.331,
+      "appearances": 7,
+      "bestRank": 3
+    },
+    {
+      "rank": 50,
+      "text": "clash glitch",
+      "score": 2.866,
+      "appearances": 5,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Jujutsu Shenanigans",
+      "rawName": "[🎃] Jujutsu Shenanigans",
+      "playerCount": 71383,
+      "url": "https://www.roblox.com/games/9391468976/Jujutsu-Shenanigans",
+      "foundBy": "clash battlegrounds"
+    },
+    {
+      "name": "The Strongest Battlegrounds",
+      "rawName": "[HALLOWEEN] The Strongest Battlegrounds",
+      "playerCount": 38856,
+      "url": "https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds",
+      "foundBy": "clash"
+    },
+    {
+      "name": "Huss Valley",
+      "rawName": "[🏆] Huss Valley",
+      "playerCount": 26162,
+      "url": "https://www.roblox.com/games/107535308163741/Huss-Valley",
+      "foundBy": "clash of clans"
+    },
+    {
+      "name": "Unstable SMP FFA",
+      "rawName": "Unstable SMP FFA [JAVA PVP!]",
+      "playerCount": 16378,
+      "url": "https://www.roblox.com/games/76870565041704/Unstable-SMP-FFA",
+      "foundBy": "clash battlegrounds"
+    },
+    {
+      "name": "RoWorld",
+      "rawName": "RoWorld [World PvP]",
+      "playerCount": 14934,
+      "url": "https://www.roblox.com/games/137151641329864/RoWorld",
+      "foundBy": "clash of clans"
+    },
+    {
+      "name": "Chaos Battlegrounds",
+      "rawName": "Chaos Battlegrounds",
+      "playerCount": 8509,
+      "url": "https://www.roblox.com/games/92311277052316/Chaos-Battlegrounds",
+      "foundBy": "clash"
+    },
+    {
+      "name": "Toilet Tower Defense",
+      "rawName": "[✨CHANGES] Toilet Tower Defense",
+      "playerCount": 7454,
+      "url": "https://www.roblox.com/games/13775256536/Toilet-Tower-Defense",
+      "foundBy": "clash royale tower defense"
+    },
+    {
+      "name": "Dragon Adventures",
+      "rawName": "[🎃] Dragon Adventures 🐉",
+      "playerCount": 6482,
+      "url": "https://www.roblox.com/games/3475397644/Dragon-Adventures",
+      "foundBy": "clash of dragons"
+    },
+    {
+      "name": "Kaiju Alpha",
+      "rawName": "[ Muto Prime ] Kaiju Alpha",
+      "playerCount": 6054,
+      "url": "https://www.roblox.com/games/127403135954624/Kaiju-Alpha",
+      "foundBy": "clash of dragons"
+    },
+    {
+      "name": "Command An Army",
+      "rawName": "[⚓ NAVAL] Command An Army",
+      "playerCount": 6035,
+      "url": "https://www.roblox.com/games/101770480176177/Command-An-Army",
+      "foundBy": "clash of clans"
+    },
+    {
+      "name": "Ability Arena",
+      "rawName": "Ability Arena 💥",
+      "playerCount": 5913,
+      "url": "https://www.roblox.com/games/110175021189594/Ability-Arena",
+      "foundBy": "clashbound"
+    },
+    {
+      "name": "Legends Battlegrounds",
+      "rawName": "Legends Battlegrounds",
+      "playerCount": 3804,
+      "url": "https://www.roblox.com/games/15269951959/Legends-Battlegrounds",
+      "foundBy": "clash royale battlegrounds"
+    },
+    {
+      "name": "HOW TO TRAIN YOUR DRAGON",
+      "rawName": "HOW TO TRAIN YOUR DRAGON",
+      "playerCount": 2167,
+      "url": "https://www.roblox.com/games/75663528075786/HOW-TO-TRAIN-YOUR-DRAGON",
+      "foundBy": "clash of dragons"
+    },
+    {
+      "name": "Plants & Brainrots",
+      "rawName": "[💰] Plants & Brainrots 🌻",
+      "playerCount": 2107,
+      "url": "https://www.roblox.com/games/127742093697776/Plants-Brainrots",
+      "foundBy": "clash of brainrots"
+    },
+    {
+      "name": "Ultimate Battlegrounds",
+      "rawName": "Ultimate Battlegrounds",
+      "playerCount": 2000,
+      "url": "https://www.roblox.com/games/11815767793/Ultimate-Battlegrounds",
+      "foundBy": "clash royale battlegrounds"
+    },
+    {
+      "name": "BEAT BOUNCE",
+      "rawName": "BEAT BOUNCE 🎶 (GEOMETRY DASH)",
+      "playerCount": 1748,
+      "url": "https://www.roblox.com/games/15598056478/BEAT-BOUNCE",
+      "foundBy": "clash glitch obby"
+    },
+    {
+      "name": "Sorcerer Tower Defense",
+      "rawName": "Sorcerer Tower Defense [NAOYA]",
+      "playerCount": 1681,
+      "url": "https://www.roblox.com/games/17720162456/Sorcerer-Tower-Defense",
+      "foundBy": "clash royale tower defense"
+    },
+    {
+      "name": "Alliance Tower Defense!",
+      "rawName": "[⭐ MINI-UPDATE ⭐] Alliance Tower Defense! ⚔️",
+      "playerCount": 1565,
+      "url": "https://www.roblox.com/games/99703116573266/Alliance-Tower-Defense",
+      "foundBy": "clash royale tower defense"
+    },
+    {
+      "name": "Chaotic Battlegrounds",
+      "rawName": "[FREE] Chaotic Battlegrounds",
+      "playerCount": 806,
+      "url": "https://www.roblox.com/games/109680150977787/Chaotic-Battlegrounds",
+      "foundBy": "clash royale battlegrounds"
+    },
+    {
+      "name": "Classic Arena",
+      "rawName": "[BOSS] Classic Arena",
+      "playerCount": 791,
+      "url": "https://www.roblox.com/games/18153851914/Classic-Arena",
+      "foundBy": "clashbound"
+    },
+    {
+      "name": "Kaiju Zero",
+      "rawName": "[NEW] Kaiju Zero",
+      "playerCount": 685,
+      "url": "https://www.roblox.com/games/105671544336127/Kaiju-Zero",
+      "foundBy": "clash of dragons"
+    },
+    {
+      "name": "Toilet Masters Tower Defense",
+      "rawName": "[⌛NEW] Toilet Masters Tower Defense",
+      "playerCount": 584,
+      "url": "https://www.roblox.com/games/78656041389908/Toilet-Masters-Tower-Defense",
+      "foundBy": "clash royale tower defense"
+    },
+    {
+      "name": "Be a General!",
+      "rawName": "Be a General!",
+      "playerCount": 549,
+      "url": "https://www.roblox.com/games/95504100861294/Be-a-General",
+      "foundBy": "clash of clans"
+    },
+    {
+      "name": "Angry Birds Tower Defense",
+      "rawName": "Angry Birds Tower Defense ",
+      "playerCount": 494,
+      "url": "https://www.roblox.com/games/95568014894521/Angry-Birds-Tower-Defense",
+      "foundBy": "clash royale tower defense"
+    },
+    {
+      "name": "Empire Clash",
+      "rawName": "👑 Empire Clash",
+      "playerCount": 371,
+      "url": "https://www.roblox.com/games/9588998913/Empire-Clash",
+      "foundBy": "clash"
+    },
+    {
+      "name": "No Cooldown Doomspire Brickbattle",
+      "rawName": "No Cooldown Doomspire Brickbattle",
+      "playerCount": 340,
+      "url": "https://www.roblox.com/games/79602128065352/No-Cooldown-Doomspire-Brickbattle",
+      "foundBy": "clash"
+    },
+    {
+      "name": "Mobian Mayhem",
+      "rawName": "Mobian Mayhem [REWORK COUNTDOWN]",
+      "playerCount": 318,
+      "url": "https://www.roblox.com/games/14569384529/Mobian-Mayhem",
+      "foundBy": "clashbound"
+    },
+    {
+      "name": "Expert's Glitch Obby",
+      "rawName": "[NEW] Expert's Glitch Obby",
+      "playerCount": 270,
+      "url": "https://www.roblox.com/games/111899561798597/Experts-Glitch-Obby",
+      "foundBy": "clash glitch obby"
+    },
+    {
+      "name": "Fight Others For Brainrots!",
+      "rawName": "Fight Others For Brainrots!",
+      "playerCount": 259,
+      "url": "https://www.roblox.com/games/75646865566926/Fight-Others-For-Brainrots",
+      "foundBy": "clash of brainrots"
+    },
+    {
+      "name": "Brainrot VS Mecha",
+      "rawName": "Brainrot VS Mecha",
+      "playerCount": 216,
+      "url": "https://www.roblox.com/games/113161907287934/Brainrot-VS-Mecha",
+      "foundBy": "clash of brainrots"
+    }
+  ]
+}

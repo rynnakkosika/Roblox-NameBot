@@ -1,0 +1,912 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-212351-strategy",
+    "genre": "strategy",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T21:23:51Z",
+    "finishedAt": "2026-11-10T21:34:58Z",
+    "issue": null,
+    "genreWords": [
+      "strategy"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Strategy War",
+      "score": 54.242,
+      "words": [
+        "Strategy",
+        "War"
+      ],
+      "supportedBy": [
+        "strategy war game",
+        "strategy war games",
+        "strategy war"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Strategy War Tycoon",
+      "score": 37.642,
+      "words": [
+        "Strategy",
+        "War",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "strategy war game",
+        "strategy war games",
+        "strategy war"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Strategy Twice",
+      "score": 30.422,
+      "words": [
+        "Strategy",
+        "Twice"
+      ],
+      "supportedBy": [
+        "strategy twice"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Strategy War Obby",
+      "score": 28.03,
+      "words": [
+        "Strategy",
+        "War",
+        "Obby"
+      ],
+      "supportedBy": [
+        "strategy war game",
+        "strategy war games",
+        "strategy war"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Strategy Animation",
+      "score": 24.171,
+      "words": [
+        "Strategy",
+        "Animation"
+      ],
+      "supportedBy": [
+        "strategy animation"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Strategy War Quiz",
+      "score": 21.879,
+      "words": [
+        "Strategy",
+        "War",
+        "Quiz"
+      ],
+      "supportedBy": [
+        "strategy war game",
+        "strategy war games",
+        "strategy war"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "WW2 Strategy Map",
+      "score": 19.838,
+      "words": [
+        "WW2",
+        "Strategy",
+        "Map"
+      ],
+      "supportedBy": [
+        "ww2 strategy map games",
+        "ww2 strategy game",
+        "ww2 strategy"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Strategy War Story",
+      "score": 17.136,
+      "words": [
+        "Strategy",
+        "War",
+        "Story"
+      ],
+      "supportedBy": [
+        "strategy war game",
+        "strategy war games",
+        "strategy war"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Strategy FPS",
+      "score": 16.689,
+      "words": [
+        "Strategy",
+        "FPS"
+      ],
+      "supportedBy": [
+        "strategy fps"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "World WW2 Strategy Tycoon",
+      "score": 14.765,
+      "words": [
+        "World",
+        "WW2",
+        "Strategy",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "ww2 strategy map games",
+        "ww2 strategy game",
+        "ww2 strategy"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Make Animations Strategy",
+      "score": 12.234,
+      "words": [
+        "Make",
+        "Animations",
+        "Strategy"
+      ],
+      "supportedBy": [
+        "strategy animation"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Twice Arena Strategy",
+      "score": 11.613,
+      "words": [
+        "Twice",
+        "Arena",
+        "Strategy"
+      ],
+      "supportedBy": [
+        "strategy twice"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Ragdoll War Strategy",
+      "score": 11.435,
+      "words": [
+        "Ragdoll",
+        "War",
+        "Strategy"
+      ],
+      "supportedBy": [
+        "strategy war game",
+        "strategy war games",
+        "strategy war"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Conquest WW2 Strategy",
+      "score": 10.058,
+      "words": [
+        "Conquest",
+        "WW2",
+        "Strategy"
+      ],
+      "supportedBy": [
+        "ww2 strategy map games",
+        "ww2 strategy game",
+        "ww2 strategy"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Meme Animations Strategy",
+      "score": 9.772,
+      "words": [
+        "Meme",
+        "Animations",
+        "Strategy"
+      ],
+      "supportedBy": [
+        "strategy animation"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Army Commander Strategy Obby",
+      "score": 9.657,
+      "words": [
+        "Army",
+        "Commander",
+        "Strategy",
+        "Obby"
+      ],
+      "supportedBy": [
+        "strategy obby",
+        "strategy obby music"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "War Rts Strategy",
+      "score": 8.876,
+      "words": [
+        "War",
+        "Rts",
+        "Strategy"
+      ],
+      "supportedBy": [
+        "strategy war game",
+        "strategy war games",
+        "strategy war"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Build Conquer Strategy Tycoon",
+      "score": 8.844,
+      "words": [
+        "Build",
+        "Conquer",
+        "Strategy",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "strategy conquer",
+        "strategy tycoon"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Think Twice Strategy",
+      "score": 7.887,
+      "words": [
+        "Think",
+        "Twice",
+        "Strategy"
+      ],
+      "supportedBy": [
+        "strategy twice"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Control Europe Strategy",
+      "score": 7.458,
+      "words": [
+        "Control",
+        "Europe",
+        "Strategy"
+      ],
+      "supportedBy": [
+        "strategy europe"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "World WW2 Strategy",
+      "score": 7.188,
+      "words": [
+        "World",
+        "WW2",
+        "Strategy"
+      ],
+      "supportedBy": [
+        "ww2 strategy map games",
+        "ww2 strategy game",
+        "ww2 strategy"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Medieval Army Strategy",
+      "score": 7.072,
+      "words": [
+        "Medieval",
+        "Army",
+        "Strategy"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 23,
+      "name": "Ground War Strategy",
+      "score": 7.018,
+      "words": [
+        "Ground",
+        "War",
+        "Strategy"
+      ],
+      "supportedBy": [
+        "strategy war game",
+        "strategy war games",
+        "strategy war"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "One Idol Strategy",
+      "score": 6.977,
+      "words": [
+        "One",
+        "Idol",
+        "Strategy"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Pixel Front Strategy",
+      "score": 6.529,
+      "words": [
+        "Pixel",
+        "Front",
+        "Strategy"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "strategy",
+      "score": 168.851
+    },
+    {
+      "text": "war",
+      "score": 30.235
+    },
+    {
+      "text": "strategy war",
+      "score": 22.981
+    },
+    {
+      "text": "animations",
+      "score": 12.383
+    },
+    {
+      "text": "twice",
+      "score": 10.171
+    },
+    {
+      "text": "ww2",
+      "score": 8.983
+    },
+    {
+      "text": "strategy twice",
+      "score": 8.1
+    },
+    {
+      "text": "ww2 strategy",
+      "score": 7.214
+    },
+    {
+      "text": "strategy map",
+      "score": 6.212
+    },
+    {
+      "text": "army",
+      "score": 5.799
+    },
+    {
+      "text": "fps",
+      "score": 5.268
+    },
+    {
+      "text": "conquer",
+      "score": 4.744
+    },
+    {
+      "text": "strategy animation",
+      "score": 4.715
+    },
+    {
+      "text": "strategy fps",
+      "score": 4.569
+    },
+    {
+      "text": "world",
+      "score": 4.485
+    },
+    {
+      "text": "one",
+      "score": 4.364
+    },
+    {
+      "text": "arena",
+      "score": 4.258
+    },
+    {
+      "text": "ragdoll",
+      "score": 4.179
+    },
+    {
+      "text": "map",
+      "score": 4.142
+    },
+    {
+      "text": "control",
+      "score": 3.852
+    },
+    {
+      "text": "tycoon",
+      "score": 3.551
+    },
+    {
+      "text": "kpop",
+      "score": 3.283
+    },
+    {
+      "text": "rts",
+      "score": 3.279
+    },
+    {
+      "text": "pixel",
+      "score": 3.245
+    },
+    {
+      "text": "europe",
+      "score": 3.186
+    },
+    {
+      "text": "build",
+      "score": 3.143
+    },
+    {
+      "text": "commander",
+      "score": 3.008
+    },
+    {
+      "text": "front",
+      "score": 2.936
+    },
+    {
+      "text": "egg",
+      "score": 2.851
+    },
+    {
+      "text": "steal",
+      "score": 2.851
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "strategy games",
+      "score": 35.734,
+      "appearances": 61,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "strategy game",
+      "score": 26.692,
+      "appearances": 45,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "strategy war game",
+      "score": 19.812,
+      "appearances": 35,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "strategy",
+      "score": 17.691,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "strategy twice",
+      "score": 16.2,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "strategy war games",
+      "score": 13.634,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "strategy war",
+      "score": 12.517,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "ww2 strategy map games",
+      "score": 12.425,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "strategy game roblox",
+      "score": 12.041,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "strategie",
+      "score": 11.017,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "strategy animation",
+      "score": 9.43,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "strategy fps",
+      "score": 9.137,
+      "appearances": 17,
+      "bestRank": 2
+    },
+    {
+      "rank": 13,
+      "text": "strategies",
+      "score": 5.116,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "strategy rts",
+      "score": 3.791,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "strategies for rare dinosaurs",
+      "score": 3.718,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "strategie spielen",
+      "score": 3.408,
+      "appearances": 5,
+      "bestRank": 2
+    },
+    {
+      "rank": 17,
+      "text": "strategy europe",
+      "score": 3.009,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "strategy conquer",
+      "score": 2.401,
+      "appearances": 4,
+      "bestRank": 2
+    },
+    {
+      "rank": 19,
+      "text": "strategie spiele",
+      "score": 2.246,
+      "appearances": 4,
+      "bestRank": 2
+    },
+    {
+      "rank": 20,
+      "text": "strategy obby",
+      "score": 2.246,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "strategie ganme",
+      "score": 2.202,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "strategy singleplayer",
+      "score": 1.859,
+      "appearances": 4,
+      "bestRank": 5
+    },
+    {
+      "rank": 23,
+      "text": "ww2 strategy game",
+      "score": 1.007,
+      "appearances": 2,
+      "bestRank": 4
+    },
+    {
+      "rank": 24,
+      "text": "ww2 strategy",
+      "score": 0.997,
+      "appearances": 3,
+      "bestRank": 6
+    },
+    {
+      "rank": 25,
+      "text": "strategy for brainrot",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "strategy obby music",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "strategy tycoon",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "strategie game",
+      "score": 0.62,
+      "appearances": 1,
+      "bestRank": 3
+    },
+    {
+      "rank": 29,
+      "text": "strategy ww2",
+      "score": 0.507,
+      "appearances": 3,
+      "bestRank": 8
+    },
+    {
+      "rank": 30,
+      "text": "strategie krieg",
+      "score": 0.31,
+      "appearances": 1,
+      "bestRank": 7
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 502872,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "strategy fps"
+    },
+    {
+      "name": "RIVALS",
+      "rawName": "RIVALS",
+      "playerCount": 96003,
+      "url": "https://www.roblox.com/games/17625359962/RIVALS",
+      "foundBy": "strategy fps"
+    },
+    {
+      "name": "Ragdoll Physics",
+      "rawName": "Ragdoll Physics 🩸",
+      "playerCount": 30630,
+      "url": "https://www.roblox.com/games/121868512253414/Ragdoll-Physics",
+      "foundBy": "strategy twice"
+    },
+    {
+      "name": "RoWorld",
+      "rawName": "RoWorld [World PvP]",
+      "playerCount": 13150,
+      "url": "https://www.roblox.com/games/137151641329864/RoWorld",
+      "foundBy": "strategy"
+    },
+    {
+      "name": "Deagle Arena",
+      "rawName": "[DUELS⚔️] Deagle Arena",
+      "playerCount": 12887,
+      "url": "https://www.roblox.com/games/84556640895285/Deagle-Arena",
+      "foundBy": "strategy fps"
+    },
+    {
+      "name": "One Tap",
+      "rawName": "[FPS] One Tap",
+      "playerCount": 9829,
+      "url": "https://www.roblox.com/games/90568084448279/One-Tap",
+      "foundBy": "strategy fps"
+    },
+    {
+      "name": "BloxStrike",
+      "rawName": "[ZOMBIES!] BloxStrike",
+      "playerCount": 9580,
+      "url": "https://www.roblox.com/games/114234929420007/BloxStrike",
+      "foundBy": "strategy fps"
+    },
+    {
+      "name": "Ragdoll Wars!",
+      "rawName": "Ragdoll Wars!",
+      "playerCount": 7450,
+      "url": "https://www.roblox.com/games/123701727018513/Ragdoll-Wars",
+      "foundBy": "strategy war"
+    },
+    {
+      "name": "Conquer The World WW2",
+      "rawName": "Conquer The World WW2 [🎨]",
+      "playerCount": 6221,
+      "url": "https://www.roblox.com/games/14422394494/Conquer-The-World-WW2",
+      "foundBy": "strategy"
+    },
+    {
+      "name": "Command An Army",
+      "rawName": "[⚓ NAVAL] Command An Army",
+      "playerCount": 5661,
+      "url": "https://www.roblox.com/games/101770480176177/Command-An-Army",
+      "foundBy": "strategy"
+    },
+    {
+      "name": "Pixel Arena",
+      "rawName": "[FPS] Pixel Arena",
+      "playerCount": 5097,
+      "url": "https://www.roblox.com/games/111631524090539/Pixel-Arena",
+      "foundBy": "strategy fps"
+    },
+    {
+      "name": "Operation One",
+      "rawName": "[ZOMBIES] Operation One",
+      "playerCount": 3398,
+      "url": "https://www.roblox.com/games/72920620366355/Operation-One",
+      "foundBy": "strategy fps"
+    },
+    {
+      "name": "Army Commander Tycoon",
+      "rawName": "Army Commander Tycoon [UPDATE 6]",
+      "playerCount": 3090,
+      "url": "https://www.roblox.com/games/119263815547952/Army-Commander-Tycoon",
+      "foundBy": "strategi perang"
+    },
+    {
+      "name": "Think Twice",
+      "rawName": "Think Twice",
+      "playerCount": 2771,
+      "url": "https://www.roblox.com/games/71376979720403/Think-Twice",
+      "foundBy": "strategy twice"
+    },
+    {
+      "name": "Countryball Conquest WW2",
+      "rawName": "Countryball Conquest WW2 [WW1 UPDATE]",
+      "playerCount": 2384,
+      "url": "https://www.roblox.com/games/80120745517483/Countryball-Conquest-WW2",
+      "foundBy": "strategy"
+    },
+    {
+      "name": "Control Europe",
+      "rawName": "Control Europe",
+      "playerCount": 2305,
+      "url": "https://www.roblox.com/games/124389216346675/Control-Europe",
+      "foundBy": "strategy"
+    },
+    {
+      "name": "Ground War",
+      "rawName": "Ground War",
+      "playerCount": 2255,
+      "url": "https://www.roblox.com/games/118367369949006/Ground-War",
+      "foundBy": "strategy war game"
+    },
+    {
+      "name": "Build and Conquer",
+      "rawName": "[SHIPS] Build and Conquer ",
+      "playerCount": 1959,
+      "url": "https://www.roblox.com/games/103767961452227/Build-and-Conquer",
+      "foundBy": "strategy"
+    },
+    {
+      "name": "Quickshot",
+      "rawName": "[FPS] Quickshot",
+      "playerCount": 1227,
+      "url": "https://www.roblox.com/games/102493848471029/Quickshot",
+      "foundBy": "strategy fps"
+    },
+    {
+      "name": "The Lost Front",
+      "rawName": "The Lost Front",
+      "playerCount": 1225,
+      "url": "https://www.roblox.com/games/102871156420149/The-Lost-Front",
+      "foundBy": "strategy fps"
+    },
+    {
+      "name": "WorldFront",
+      "rawName": "WorldFront ⚔️",
+      "playerCount": 1145,
+      "url": "https://www.roblox.com/games/86641898011566/WorldFront",
+      "foundBy": "strategy"
+    },
+    {
+      "name": "Rise of Nations",
+      "rawName": "Rise of Nations",
+      "playerCount": 1080,
+      "url": "https://www.roblox.com/games/2569453732/Rise-of-Nations",
+      "foundBy": "strategy"
+    },
+    {
+      "name": "Build a Medieval Army",
+      "rawName": "[⚔️] Build a Medieval Army",
+      "playerCount": 985,
+      "url": "https://www.roblox.com/games/891539556/Build-a-Medieval-Army",
+      "foundBy": "strategy"
+    },
+    {
+      "name": "Control The World",
+      "rawName": "Control The World 👑",
+      "playerCount": 953,
+      "url": "https://www.roblox.com/games/112038493521489/Control-The-World",
+      "foundBy": "strategy war games"
+    },
+    {
+      "name": "Warfare Tycoon",
+      "rawName": "[ZOMBIES] Warfare Tycoon",
+      "playerCount": 687,
+      "url": "https://www.roblox.com/games/31490825/Warfare-Tycoon",
+      "foundBy": "strategi perang"
+    },
+    {
+      "name": "Pixel Front",
+      "rawName": "Pixel Front [PvP]",
+      "playerCount": 606,
+      "url": "https://www.roblox.com/games/138110382920220/Pixel-Front",
+      "foundBy": "strategy war games"
+    },
+    {
+      "name": "Country War RTS",
+      "rawName": "Country War RTS",
+      "playerCount": 584,
+      "url": "https://www.roblox.com/games/124740268654741/Country-War-RTS",
+      "foundBy": "strategy"
+    },
+    {
+      "name": "Pick a KPOP Idol",
+      "rawName": "🍂 Pick a KPOP Idol",
+      "playerCount": 584,
+      "url": "https://www.roblox.com/games/117646996230424/Pick-a-KPOP-Idol",
+      "foundBy": "strategy twice"
+    },
+    {
+      "name": "R6 Animations",
+      "rawName": "[Butcher Vanity] R6 Animations",
+      "playerCount": 530,
+      "url": "https://www.roblox.com/games/74794684871990/R6-Animations",
+      "foundBy": "strategy animation"
+    },
+    {
+      "name": "Make An Animation!",
+      "rawName": "Make An Animation!",
+      "playerCount": 391,
+      "url": "https://www.roblox.com/games/85133542616654/Make-An-Animation",
+      "foundBy": "strategy animation"
+    }
+  ]
+}

@@ -1,0 +1,1081 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-201651-royale",
+    "genre": "royale",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T20:16:51Z",
+    "finishedAt": "2026-11-10T20:27:59Z",
+    "issue": null,
+    "genreWords": [
+      "royale"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "High Old Lobbies Royale",
+      "score": 168.096,
+      "words": [
+        "High",
+        "Old",
+        "Lobbies",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "High Lab Royale",
+      "score": 127.725,
+      "words": [
+        "High",
+        "Lab",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "High Dress Up Royale",
+      "score": 91.334,
+      "words": [
+        "High",
+        "Dress",
+        "Up",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "High School Royale",
+      "score": 72.702,
+      "words": [
+        "High",
+        "School",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "High Halo Royale",
+      "score": 56.036,
+      "words": [
+        "High",
+        "Halo",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "High Christmas Royale",
+      "score": 44.613,
+      "words": [
+        "High",
+        "Christmas",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "High Fairy Royale",
+      "score": 35.403,
+      "words": [
+        "High",
+        "Fairy",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "High Kingdom Royale",
+      "score": 28.307,
+      "words": [
+        "High",
+        "Kingdom",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Evermore High Royale",
+      "score": 22.621,
+      "words": [
+        "Evermore",
+        "High",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Real Life Royale",
+      "score": 20.848,
+      "words": [
+        "Real",
+        "Life",
+        "Royale"
+      ],
+      "supportedBy": [
+        "real minecraft",
+        "real car driving",
+        "real game"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "High Fountain Royale",
+      "score": 18.094,
+      "words": [
+        "High",
+        "Fountain",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Roller Coaster Royale",
+      "score": 16.471,
+      "words": [
+        "Roller",
+        "Coaster",
+        "Royale"
+      ],
+      "supportedBy": [
+        "roller coaster",
+        "roller for brainrot",
+        "roller coaster tycoon"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Old Lobbies Royale",
+      "score": 16.155,
+      "words": [
+        "Old",
+        "Lobbies",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high old lobbies",
+        "royale high old",
+        "royal high old"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Roll Life Royale",
+      "score": 14.929,
+      "words": [
+        "Roll",
+        "Life",
+        "Royale"
+      ],
+      "supportedBy": [
+        "roll",
+        "roll a lucky egg",
+        "roll tower"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "High UGC Royale",
+      "score": 14.454,
+      "words": [
+        "High",
+        "UGC",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Lab Royale",
+      "score": 12.795,
+      "words": [
+        "Lab",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high test lab",
+        "royal high test lab"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "High Campus Royale",
+      "score": 11.551,
+      "words": [
+        "High",
+        "Campus",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Real Brainrot Royale",
+      "score": 11.066,
+      "words": [
+        "Real",
+        "Brainrot",
+        "Royale"
+      ],
+      "supportedBy": [
+        "real minecraft",
+        "roller for brainrot",
+        "real car driving"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Old Brookhaven Royale",
+      "score": 10.312,
+      "words": [
+        "Old",
+        "Brookhaven",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high old lobbies",
+        "royale high old",
+        "real brookhaven"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Steal Egg Royale",
+      "score": 10.183,
+      "words": [
+        "Steal",
+        "Egg",
+        "Royale"
+      ],
+      "supportedBy": [
+        "roll a lucky egg",
+        "real steal a brainrot",
+        "roll an egg"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Rolife Life Royale",
+      "score": 9.972,
+      "words": [
+        "Rolife",
+        "Life",
+        "Royale"
+      ],
+      "supportedBy": [
+        "rolife",
+        "real life",
+        "role life"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "High Antigo Royale",
+      "score": 9.22,
+      "words": [
+        "High",
+        "Antigo",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale high",
+        "royale high test lab",
+        "royale high old lobbies"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Roll Coaster Royale",
+      "score": 9.083,
+      "words": [
+        "Roll",
+        "Coaster",
+        "Royale"
+      ],
+      "supportedBy": [
+        "roller coaster",
+        "roller coaster tycoon",
+        "roll"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Alto Royale",
+      "score": 8.998,
+      "words": [
+        "Alto",
+        "Royale"
+      ],
+      "supportedBy": [
+        "royale alto",
+        "royal alto"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Real School Royale",
+      "score": 7.963,
+      "words": [
+        "Real",
+        "School",
+        "Royale"
+      ],
+      "supportedBy": [
+        "real minecraft",
+        "royale high school",
+        "real car driving"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "royale",
+      "score": 159.982
+    },
+    {
+      "text": "royale high",
+      "score": 161.392
+    },
+    {
+      "text": "high",
+      "score": 132.05
+    },
+    {
+      "text": "high lab",
+      "score": 23.225
+    },
+    {
+      "text": "high old",
+      "score": 21.607
+    },
+    {
+      "text": "lab",
+      "score": 15.994
+    },
+    {
+      "text": "old",
+      "score": 13.035
+    },
+    {
+      "text": "old lobbies",
+      "score": 11.746
+    },
+    {
+      "text": "life",
+      "score": 11.108
+    },
+    {
+      "text": "real",
+      "score": 9.1
+    },
+    {
+      "text": "alto",
+      "score": 8.998
+    },
+    {
+      "text": "royale alto",
+      "score": 8.952
+    },
+    {
+      "text": "roll",
+      "score": 7.549
+    },
+    {
+      "text": "roller",
+      "score": 7.366
+    },
+    {
+      "text": "high school",
+      "score": 7.061
+    },
+    {
+      "text": "coaster",
+      "score": 6.574
+    },
+    {
+      "text": "school",
+      "score": 6.416
+    },
+    {
+      "text": "lobbies",
+      "score": 6.334
+    },
+    {
+      "text": "tycoon",
+      "score": 5.631
+    },
+    {
+      "text": "roleplay",
+      "score": 5.115
+    },
+    {
+      "text": "roller coaster",
+      "score": 5.061
+    },
+    {
+      "text": "egg",
+      "score": 4.897
+    },
+    {
+      "text": "high sandbox",
+      "score": 4.595
+    },
+    {
+      "text": "steal",
+      "score": 4.541
+    },
+    {
+      "text": "dress",
+      "score": 4.482
+    },
+    {
+      "text": "brainrot",
+      "score": 4.47
+    },
+    {
+      "text": "high dress",
+      "score": 4.191
+    },
+    {
+      "text": "rolife",
+      "score": 4.118
+    },
+    {
+      "text": "high halo",
+      "score": 4.078
+    },
+    {
+      "text": "obby",
+      "score": 4.075
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "royale high",
+      "score": 114.18,
+      "appearances": 154,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "royale high test lab",
+      "score": 45.366,
+      "appearances": 79,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "royale high old lobbies",
+      "score": 23.492,
+      "appearances": 62,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "royale alto",
+      "score": 17.904,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "royale high old",
+      "score": 12.811,
+      "appearances": 53,
+      "bestRank": 2
+    },
+    {
+      "rank": 6,
+      "text": "royale high school",
+      "score": 9.497,
+      "appearances": 39,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "royale high sandbox",
+      "score": 9.035,
+      "appearances": 35,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "royale high dress up",
+      "score": 8.102,
+      "appearances": 19,
+      "bestRank": 2
+    },
+    {
+      "rank": 9,
+      "text": "royale high halo",
+      "score": 7.613,
+      "appearances": 31,
+      "bestRank": 2
+    },
+    {
+      "rank": 10,
+      "text": "royale high christmas",
+      "score": 6.872,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "royale high quiz",
+      "score": 5.964,
+      "appearances": 17,
+      "bestRank": 2
+    },
+    {
+      "rank": 12,
+      "text": "royale obby",
+      "score": 4.878,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "royale high fountain",
+      "score": 4.728,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "royale battle",
+      "score": 4.528,
+      "appearances": 14,
+      "bestRank": 3
+    },
+    {
+      "rank": 15,
+      "text": "royale high test",
+      "score": 4.409,
+      "appearances": 23,
+      "bestRank": 5
+    },
+    {
+      "rank": 16,
+      "text": "royale brainrot",
+      "score": 3.966,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "royale high old lobby",
+      "score": 3.641,
+      "appearances": 7,
+      "bestRank": 2
+    },
+    {
+      "rank": 18,
+      "text": "royale high antigo",
+      "score": 3.625,
+      "appearances": 22,
+      "bestRank": 3
+    },
+    {
+      "rank": 19,
+      "text": "royale high ugc",
+      "score": 3.532,
+      "appearances": 10,
+      "bestRank": 2
+    },
+    {
+      "rank": 20,
+      "text": "royale high obby",
+      "score": 3.408,
+      "appearances": 6,
+      "bestRank": 2
+    },
+    {
+      "rank": 21,
+      "text": "royale clashers",
+      "score": 3.021,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "royale high fairy",
+      "score": 2.804,
+      "appearances": 9,
+      "bestRank": 3
+    },
+    {
+      "rank": 23,
+      "text": "royale high free",
+      "score": 2.772,
+      "appearances": 9,
+      "bestRank": 2
+    },
+    {
+      "rank": 24,
+      "text": "royale high legacy",
+      "score": 2.498,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "royale high school 2",
+      "score": 2.479,
+      "appearances": 7,
+      "bestRank": 2
+    },
+    {
+      "rank": 26,
+      "text": "royale würmer",
+      "score": 2.324,
+      "appearances": 8,
+      "bestRank": 5
+    },
+    {
+      "rank": 27,
+      "text": "royale clash",
+      "score": 2.169,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "royale high 1",
+      "score": 2.169,
+      "appearances": 7,
+      "bestRank": 4
+    },
+    {
+      "rank": 29,
+      "text": "royale high 2",
+      "score": 2.138,
+      "appearances": 9,
+      "bestRank": 3
+    },
+    {
+      "rank": 30,
+      "text": "royale high concepts",
+      "score": 2.095,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "royale high campus 3",
+      "score": 2.069,
+      "appearances": 8,
+      "bestRank": 2
+    },
+    {
+      "rank": 32,
+      "text": "royale high old map",
+      "score": 2.016,
+      "appearances": 5,
+      "bestRank": 3
+    },
+    {
+      "rank": 33,
+      "text": "royale high modded",
+      "score": 1.94,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "royale high classic",
+      "score": 1.828,
+      "appearances": 7,
+      "bestRank": 3
+    },
+    {
+      "rank": 35,
+      "text": "royale kingdom",
+      "score": 1.782,
+      "appearances": 3,
+      "bestRank": 2
+    },
+    {
+      "rank": 36,
+      "text": "royale rp",
+      "score": 1.627,
+      "appearances": 5,
+      "bestRank": 2
+    },
+    {
+      "rank": 37,
+      "text": "royale high princess school",
+      "score": 1.627,
+      "appearances": 6,
+      "bestRank": 6
+    },
+    {
+      "rank": 38,
+      "text": "royale high campus 2",
+      "score": 1.456,
+      "appearances": 6,
+      "bestRank": 2
+    },
+    {
+      "rank": 39,
+      "text": "royale high lobbies",
+      "score": 1.382,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "royale high hotel",
+      "score": 1.332,
+      "appearances": 7,
+      "bestRank": 6
+    },
+    {
+      "rank": 41,
+      "text": "royale game",
+      "score": 1.317,
+      "appearances": 4,
+      "bestRank": 6
+    },
+    {
+      "rank": 42,
+      "text": "royale high art class",
+      "score": 1.317,
+      "appearances": 3,
+      "bestRank": 5
+    },
+    {
+      "rank": 43,
+      "text": "royale high baking class",
+      "score": 1.286,
+      "appearances": 5,
+      "bestRank": 2
+    },
+    {
+      "rank": 44,
+      "text": "royale high rp",
+      "score": 1.162,
+      "appearances": 6,
+      "bestRank": 6
+    },
+    {
+      "rank": 45,
+      "text": "royale high enchantix",
+      "score": 1.146,
+      "appearances": 4,
+      "bestRank": 4
+    },
+    {
+      "rank": 46,
+      "text": "royale high campus",
+      "score": 1.084,
+      "appearances": 3,
+      "bestRank": 4
+    },
+    {
+      "rank": 47,
+      "text": "royale high halloween",
+      "score": 1.084,
+      "appearances": 3,
+      "bestRank": 4
+    },
+    {
+      "rank": 48,
+      "text": "royale high 3",
+      "score": 1.007,
+      "appearances": 3,
+      "bestRank": 6
+    },
+    {
+      "rank": 49,
+      "text": "royale high mermaid",
+      "score": 1.007,
+      "appearances": 3,
+      "bestRank": 3
+    },
+    {
+      "rank": 50,
+      "text": "royale highschool",
+      "score": 0.93,
+      "appearances": 4,
+      "bestRank": 6
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 525191,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "rywale"
+    },
+    {
+      "name": "Brookhaven RP",
+      "rawName": "Brookhaven 🏡RP",
+      "playerCount": 324936,
+      "url": "https://www.roblox.com/games/4924922222/Brookhaven-RP",
+      "foundBy": "royale"
+    },
+    {
+      "name": "RIVALS",
+      "rawName": "RIVALS",
+      "playerCount": 97031,
+      "url": "https://www.roblox.com/games/17625359962/RIVALS",
+      "foundBy": "royale"
+    },
+    {
+      "name": "Dress To Impress",
+      "rawName": "[🎃] Dress To Impress",
+      "playerCount": 51074,
+      "url": "https://www.roblox.com/games/15101393044/Dress-To-Impress",
+      "foundBy": "royale high"
+    },
+    {
+      "name": "Berry Avenue RP",
+      "rawName": "Berry Avenue 🏠 RP",
+      "playerCount": 46762,
+      "url": "https://www.roblox.com/games/8481844229/Berry-Avenue-RP",
+      "foundBy": "royale high"
+    },
+    {
+      "name": "LifeTogether RP",
+      "rawName": "LifeTogether 🏠 RP ",
+      "playerCount": 23566,
+      "url": "https://www.roblox.com/games/13967668166/LifeTogether-RP",
+      "foundBy": "role play"
+    },
+    {
+      "name": "Evermore High",
+      "rawName": "Evermore High 🦢",
+      "playerCount": 18448,
+      "url": "https://www.roblox.com/games/138636753681976/Evermore-High",
+      "foundBy": "royale"
+    },
+    {
+      "name": "1 Speed Keyboard Escape Candy & Chocolate",
+      "rawName": "+1 Speed Keyboard Escape | Candy & Chocolate",
+      "playerCount": 15296,
+      "url": "https://www.roblox.com/games/95082159892680/1-Speed-Keyboard-Escape-Candy-Chocolate",
+      "foundBy": "rywale"
+    },
+    {
+      "name": "Catalog Avatar Runway",
+      "rawName": "🎃 Catalog Avatar Runway",
+      "playerCount": 13317,
+      "url": "https://www.roblox.com/games/97577741629233/Catalog-Avatar-Runway",
+      "foundBy": "royale high test lab"
+    },
+    {
+      "name": "Dubai RP",
+      "rawName": "Dubai 🏡 RP [Newborns! 👶]",
+      "playerCount": 12950,
+      "url": "https://www.roblox.com/games/122485613019196/Dubai-RP",
+      "foundBy": "role play"
+    },
+    {
+      "name": "BloxStrike",
+      "rawName": "[ZOMBIES!] BloxStrike",
+      "playerCount": 12629,
+      "url": "https://www.roblox.com/games/114234929420007/BloxStrike",
+      "foundBy": "rywale"
+    },
+    {
+      "name": "Dreamville RP",
+      "rawName": "Dreamville 🏡 RP [Pets! 😺]",
+      "playerCount": 11222,
+      "url": "https://www.roblox.com/games/74395953411817/Dreamville-RP",
+      "foundBy": "role play"
+    },
+    {
+      "name": "Royale High",
+      "rawName": "Royale 🔥❄️ High",
+      "playerCount": 10590,
+      "url": "https://www.roblox.com/games/735030788/Royale-High",
+      "foundBy": "royale"
+    },
+    {
+      "name": "One Tap",
+      "rawName": "[FPS] One Tap",
+      "playerCount": 10178,
+      "url": "https://www.roblox.com/games/90568084448279/One-Tap",
+      "foundBy": "rywale"
+    },
+    {
+      "name": "San Diego Roleplay",
+      "rawName": "San Diego Roleplay",
+      "playerCount": 7819,
+      "url": "https://www.roblox.com/games/136020512003847/San-Diego-Roleplay",
+      "foundBy": "role play"
+    },
+    {
+      "name": "NewSmith RP",
+      "rawName": "NewSmith 🏡 RP [Family! 👪]",
+      "playerCount": 7382,
+      "url": "https://www.roblox.com/games/16625391970/NewSmith-RP",
+      "foundBy": "role play"
+    },
+    {
+      "name": "KNIFE DUELS",
+      "rawName": "[UPD] KNIFE DUELS",
+      "playerCount": 6244,
+      "url": "https://www.roblox.com/games/112731528776884/KNIFE-DUELS",
+      "foundBy": "rywale"
+    },
+    {
+      "name": "Murder Duels",
+      "rawName": "Murder Duels",
+      "playerCount": 5001,
+      "url": "https://www.roblox.com/games/120851538706364/Murder-Duels",
+      "foundBy": "rywale"
+    },
+    {
+      "name": "Highschool Experience RP",
+      "rawName": "Highschool Experience RP",
+      "playerCount": 3229,
+      "url": "https://www.roblox.com/games/112333343527957/Highschool-Experience-RP",
+      "foundBy": "role play"
+    },
+    {
+      "name": "Mansion Tycoon",
+      "rawName": "Mansion Tycoon 🌴🏠",
+      "playerCount": 3042,
+      "url": "https://www.roblox.com/games/12912731475/Mansion-Tycoon",
+      "foundBy": "royalty"
+    },
+    {
+      "name": "Theme Park Tycoon 2",
+      "rawName": "Theme Park Tycoon 2",
+      "playerCount": 2945,
+      "url": "https://www.roblox.com/games/69184822/Theme-Park-Tycoon-2",
+      "foundBy": "roller coaster"
+    },
+    {
+      "name": "SNIPESHOT",
+      "rawName": "SNIPESHOT",
+      "playerCount": 2339,
+      "url": "https://www.roblox.com/games/138651234618145/SNIPESHOT",
+      "foundBy": "rywale"
+    },
+    {
+      "name": "Build a Roller Coaster",
+      "rawName": "Build a Roller Coaster🎢",
+      "playerCount": 1578,
+      "url": "https://www.roblox.com/games/129768092435314/Build-a-Roller-Coaster",
+      "foundBy": "roller coaster"
+    },
+    {
+      "name": "Respect real life",
+      "rawName": "Respect real life",
+      "playerCount": 1467,
+      "url": "https://www.roblox.com/games/82067495722864/unnamed",
+      "foundBy": "rolife"
+    },
+    {
+      "name": "Ride & Steal a Royal Egg",
+      "rawName": "[🎃] Ride & Steal a Royal Egg",
+      "playerCount": 1167,
+      "url": "https://www.roblox.com/games/133907720474045/Ride-Steal-a-Royal-Egg",
+      "foundBy": "royale high"
+    },
+    {
+      "name": "College Life RP",
+      "rawName": "[⚡UPD] College Life 🧑‍🎓 RP",
+      "playerCount": 1122,
+      "url": "https://www.roblox.com/games/130787464001625/College-Life-RP",
+      "foundBy": "role play"
+    },
+    {
+      "name": "Seaside RP City RP",
+      "rawName": "Seaside RP🏡🌴 City RP",
+      "playerCount": 1068,
+      "url": "https://www.roblox.com/games/11862502039/Seaside-RP-City-RP",
+      "foundBy": "role play"
+    },
+    {
+      "name": "Cart Ride",
+      "rawName": "[🚂] Cart Ride",
+      "playerCount": 906,
+      "url": "https://www.roblox.com/games/11364087119/Cart-Ride",
+      "foundBy": "roller coaster"
+    },
+    {
+      "name": "Anime Life",
+      "rawName": "Anime Life",
+      "playerCount": 774,
+      "url": "https://www.roblox.com/games/111894976456494/Anime-Life",
+      "foundBy": "rolife"
+    },
+    {
+      "name": "Make Me Pretty!",
+      "rawName": "Make Me Pretty!",
+      "playerCount": 764,
+      "url": "https://www.roblox.com/games/85877039498187/Make-Me-Pretty",
+      "foundBy": "royale alto"
+    }
+  ]
+}

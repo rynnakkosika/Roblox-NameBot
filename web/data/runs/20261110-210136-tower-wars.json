@@ -1,0 +1,737 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-210136-tower-wars",
+    "genre": "tower wars",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T21:01:36Z",
+    "finishedAt": "2026-11-10T21:12:43Z",
+    "issue": null,
+    "genreWords": [
+      "tower",
+      "wars"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Cooldown Doomspire Tower Wars Defense",
+      "score": 44.821,
+      "words": [
+        "Cooldown",
+        "Doomspire",
+        "Tower",
+        "Wars",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower wars no cooldown",
+        "tower heroes defense",
+        "tower defense"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Tower Wars",
+      "score": 38.86,
+      "words": [
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": [
+        "tower wars",
+        "tower wars no cooldown",
+        "tower heroes"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Heroes Doors Tower Wars Obby",
+      "score": 34.922,
+      "words": [
+        "Heroes",
+        "Doors",
+        "Tower",
+        "Wars",
+        "Obby"
+      ],
+      "supportedBy": [
+        "tower heroes",
+        "tower heroes x doors",
+        "tower heros"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Would Rather Tower Wars Defense",
+      "score": 33.424,
+      "words": [
+        "Would",
+        "Rather",
+        "Tower",
+        "Wars",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower heroes defense",
+        "tower defense"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Tower Wars Walk Walls",
+      "score": 32.117,
+      "words": [
+        "Tower",
+        "Wars",
+        "Walk",
+        "Walls"
+      ],
+      "supportedBy": [
+        "tower wars walk on walls",
+        "tower wall hop",
+        "tower wall hop upin ipin"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Troll Hug Tower Wars RP",
+      "score": 29.966,
+      "words": [
+        "Troll",
+        "Hug",
+        "Tower",
+        "Wars",
+        "RP"
+      ],
+      "supportedBy": [
+        "tower heroes rp",
+        "tower heros rp",
+        "torre troll"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Tower Wars Cooldown Escape",
+      "score": 25.494,
+      "words": [
+        "Tower",
+        "Wars",
+        "Cooldown",
+        "Escape"
+      ],
+      "supportedBy": [
+        "tower wars no cooldown",
+        "terror escape",
+        "tower no cooldown"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Super Heroes Tower Wars Simulator",
+      "score": 24.19,
+      "words": [
+        "Super",
+        "Heroes",
+        "Tower",
+        "Wars",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "tower heroes",
+        "tower heroes x doors",
+        "tower heros"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Spiral Stair Tower Wars",
+      "score": 22.942,
+      "words": [
+        "Spiral",
+        "Stair",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 10,
+      "name": "Doomspire Brickbattle Tower Wars",
+      "score": 22.635,
+      "words": [
+        "Doomspire",
+        "Brickbattle",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 11,
+      "name": "Girls Outfit Tower Wars",
+      "score": 22.28,
+      "words": [
+        "Girls",
+        "Outfit",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 12,
+      "name": "Gear Slap Tower Wars",
+      "score": 21.786,
+      "words": [
+        "Gear",
+        "Slap",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": [
+        "trower slap",
+        "towrer slap",
+        "tower or slap"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Anime Adventures Tower Wars",
+      "score": 21.569,
+      "words": [
+        "Anime",
+        "Adventures",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 14,
+      "name": "Jump Rainbow Tower Wars Defense",
+      "score": 20.683,
+      "words": [
+        "Jump",
+        "Rainbow",
+        "Tower",
+        "Wars",
+        "Defense"
+      ],
+      "supportedBy": [
+        "tower heroes defense",
+        "tower defense"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Hop Troll Tower Wars",
+      "score": 20.44,
+      "words": [
+        "Hop",
+        "Troll",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": [
+        "tower wall hop",
+        "tower wall hop upin ipin",
+        "tower wall hop squishy"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Tower Wars Cooldown",
+      "score": 20.354,
+      "words": [
+        "Tower",
+        "Wars",
+        "Cooldown"
+      ],
+      "supportedBy": [
+        "tower wars no cooldown",
+        "tower no cooldown"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Wax Asmr Tower Wars",
+      "score": 20.222,
+      "words": [
+        "Wax",
+        "Asmr",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": [
+        "tower asmr",
+        "tower asmr biterush",
+        "tower asmr keyboard"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Phonk Edit Tower Wars",
+      "score": 19.968,
+      "words": [
+        "Phonk",
+        "Edit",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "All Star Tower Wars",
+      "score": 19.736,
+      "words": [
+        "All",
+        "Star",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 20,
+      "name": "Rather Boys Tower Wars",
+      "score": 19.043,
+      "words": [
+        "Rather",
+        "Boys",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Voxel Heroes Tower Wars",
+      "score": 18.838,
+      "words": [
+        "Voxel",
+        "Heroes",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": [
+        "tower heroes",
+        "tower heroes x doors",
+        "tower heros"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Cameraman Tower Wars",
+      "score": 18.158,
+      "words": [
+        "Cameraman",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 23,
+      "name": "Jail Hug Tower Wars",
+      "score": 18.078,
+      "words": [
+        "Jail",
+        "Hug",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Tower Wars Walk",
+      "score": 18.031,
+      "words": [
+        "Tower",
+        "Wars",
+        "Walk"
+      ],
+      "supportedBy": [
+        "tower wars walk on walls"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Easy Tower Wars",
+      "score": 17.982,
+      "words": [
+        "Easy",
+        "Tower",
+        "Wars"
+      ],
+      "supportedBy": [
+        "tower or easy"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "tower wars",
+      "score": 30.888
+    },
+    {
+      "text": "tower",
+      "score": 76.565
+    },
+    {
+      "text": "wars",
+      "score": 27.562
+    },
+    {
+      "text": "wars cooldown",
+      "score": 11.572
+    },
+    {
+      "text": "heroes",
+      "score": 11.119
+    },
+    {
+      "text": "cooldown",
+      "score": 10.573
+    },
+    {
+      "text": "defense",
+      "score": 8.062
+    },
+    {
+      "text": "walk walls",
+      "score": 7.095
+    },
+    {
+      "text": "wars walk",
+      "score": 7.095
+    },
+    {
+      "text": "troll",
+      "score": 6.891
+    },
+    {
+      "text": "rather",
+      "score": 6.33
+    },
+    {
+      "text": "would",
+      "score": 6.33
+    },
+    {
+      "text": "doomspire",
+      "score": 6.235
+    },
+    {
+      "text": "wall",
+      "score": 6.03
+    },
+    {
+      "text": "brickbattle",
+      "score": 5.292
+    },
+    {
+      "text": "tower heroes",
+      "score": 4.985
+    },
+    {
+      "text": "doors",
+      "score": 4.427
+    },
+    {
+      "text": "spiral",
+      "score": 4.058
+    },
+    {
+      "text": "tower defense",
+      "score": 4.034
+    },
+    {
+      "text": "outfit",
+      "score": 3.845
+    },
+    {
+      "text": "hug",
+      "score": 3.845
+    },
+    {
+      "text": "walk",
+      "score": 3.547
+    },
+    {
+      "text": "would rather",
+      "score": 3.165
+    },
+    {
+      "text": "anime",
+      "score": 3.077
+    },
+    {
+      "text": "gear",
+      "score": 3.051
+    },
+    {
+      "text": "doomspire brickbattle",
+      "score": 2.646
+    },
+    {
+      "text": "easy",
+      "score": 2.538
+    },
+    {
+      "text": "hop",
+      "score": 2.483
+    },
+    {
+      "text": "stair",
+      "score": 2.482
+    },
+    {
+      "text": "forest",
+      "score": 2.464
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "tower wars",
+      "score": 23.416,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "tower wars no cooldown",
+      "score": 23.145,
+      "appearances": 37,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "tower wars walk on walls",
+      "score": 14.19,
+      "appearances": 24,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "99 Nights in the Forest",
+      "rawName": "99 Nights in the Forest 🔦",
+      "playerCount": 84715,
+      "url": "https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest",
+      "foundBy": "tower heroes x doors"
+    },
+    {
+      "name": "Anime Adventures",
+      "rawName": "[☀️UPD 21🏖️] Anime Adventures",
+      "playerCount": 75201,
+      "url": "https://www.roblox.com/games/8304191830/Anime-Adventures",
+      "foundBy": "tower heroes doors"
+    },
+    {
+      "name": "Cameraman Tower Defense",
+      "rawName": "[🌟FIX] Cameraman Tower Defense",
+      "playerCount": 21970,
+      "url": "https://www.roblox.com/games/132929771812494/Cameraman-Tower-Defense",
+      "foundBy": "tower heroes doors"
+    },
+    {
+      "name": "DOORS",
+      "rawName": "DOORS 👁️",
+      "playerCount": 17247,
+      "url": "https://www.roblox.com/games/6516141723/DOORS",
+      "foundBy": "tower heroes"
+    },
+    {
+      "name": "TROLL Hug Tower",
+      "rawName": "TROLL Hug Tower",
+      "playerCount": 8587,
+      "url": "https://www.roblox.com/games/103037106396302/TROLL-Hug-Tower",
+      "foundBy": "tower wars walk on walls"
+    },
+    {
+      "name": "Ragdoll Wars!",
+      "rawName": "Ragdoll Wars!",
+      "playerCount": 7250,
+      "url": "https://www.roblox.com/games/123701727018513/Ragdoll-Wars",
+      "foundBy": "tower wars"
+    },
+    {
+      "name": "TROLL Jail Hug Tower",
+      "rawName": "TROLL Jail Hug Tower",
+      "playerCount": 5700,
+      "url": "https://www.roblox.com/games/74164633882084/TROLL-Jail-Hug-Tower",
+      "foundBy": "tower wars walk on walls"
+    },
+    {
+      "name": "Wax ASMR Tower",
+      "rawName": "[🌈🚂UPDATE] Wax ASMR Tower",
+      "playerCount": 5145,
+      "url": "https://www.roblox.com/games/107894105055312/Wax-ASMR-Tower",
+      "foundBy": "tower warna warni tinggi"
+    },
+    {
+      "name": "Voxel Heroes",
+      "rawName": "Voxel Heroes",
+      "playerCount": 4528,
+      "url": "https://www.roblox.com/games/93974548894972/Voxel-Heroes",
+      "foundBy": "tower heroes"
+    },
+    {
+      "name": "Phonk Edit Tower",
+      "rawName": "[🔥AURA] Phonk Edit Tower 🎶",
+      "playerCount": 4157,
+      "url": "https://www.roblox.com/games/101480963912212/Phonk-Edit-Tower",
+      "foundBy": "tower wars walk on walls"
+    },
+    {
+      "name": "All Star Tower Defense",
+      "rawName": "[OG] All Star Tower Defense",
+      "playerCount": 2714,
+      "url": "https://www.roblox.com/games/4996049426/All-Star-Tower-Defense",
+      "foundBy": "tower heroes x doors"
+    },
+    {
+      "name": "Towers of Fortune",
+      "rawName": "[🍀] Towers of Fortune",
+      "playerCount": 1816,
+      "url": "https://www.roblox.com/games/108114331578868/Towers-of-Fortune",
+      "foundBy": "tower wars no cooldown"
+    },
+    {
+      "name": "Would You Rather: Boys & Girls Outfit Tower!",
+      "rawName": "Would You Rather: Boys & Girls Outfit Tower!",
+      "playerCount": 1766,
+      "url": "https://www.roblox.com/games/84525826229916/Would-You-Rather-Boys-Girls-Outfit-Tower",
+      "foundBy": "tower heroes"
+    },
+    {
+      "name": "Tower Heroes",
+      "rawName": "Tower Heroes [UPD] 🎃 ",
+      "playerCount": 1482,
+      "url": "https://www.roblox.com/games/4646477729/Tower-Heroes",
+      "foundBy": "tower heroes"
+    },
+    {
+      "name": "Alliance Tower Defense!",
+      "rawName": "[⭐ MINI-UPDATE ⭐] Alliance Tower Defense! ⚔️",
+      "playerCount": 1442,
+      "url": "https://www.roblox.com/games/99703116573266/Alliance-Tower-Defense",
+      "foundBy": "tower heroes doors"
+    },
+    {
+      "name": "Bridge Battles!",
+      "rawName": "Bridge Battles!",
+      "playerCount": 1395,
+      "url": "https://www.roblox.com/games/114501358617756/Bridge-Battles",
+      "foundBy": "tower wars"
+    },
+    {
+      "name": "Mega Obby Fun",
+      "rawName": "Mega Obby Fun",
+      "playerCount": 1225,
+      "url": "https://www.roblox.com/games/16518256559/Mega-Obby-Fun",
+      "foundBy": "tower warna warni"
+    },
+    {
+      "name": "Pilfering Pirates",
+      "rawName": "Pilfering Pirates",
+      "playerCount": 1194,
+      "url": "https://www.roblox.com/games/6104994594/Pilfering-Pirates",
+      "foundBy": "tower wars"
+    },
+    {
+      "name": "Would You Rather: Queen Contest Outfit Tower",
+      "rawName": "Would You Rather: Queen Contest Outfit Tower👑",
+      "playerCount": 1067,
+      "url": "https://www.roblox.com/games/81780139969865/Would-You-Rather-Queen-Contest-Outfit-Tower",
+      "foundBy": "tower heroes x doors"
+    },
+    {
+      "name": "8-Bit Tower Defense",
+      "rawName": "[🎃] 8-Bit Tower Defense ",
+      "playerCount": 740,
+      "url": "https://www.roblox.com/games/110546355710189/8-Bit-Tower-Defense",
+      "foundBy": "tower heros"
+    },
+    {
+      "name": "Boba Tea Tower",
+      "rawName": "Boba Tea Tower (Boba Tower)",
+      "playerCount": 682,
+      "url": "https://www.roblox.com/games/13953602912/Boba-Tea-Tower",
+      "foundBy": "tower warna warni tinggi"
+    },
+    {
+      "name": "Gear Slap Tower",
+      "rawName": "[✋] Gear Slap Tower",
+      "playerCount": 571,
+      "url": "https://www.roblox.com/games/72845937010155/Gear-Slap-Tower",
+      "foundBy": "tower wars walk on walls"
+    },
+    {
+      "name": "YooBroxDD's DOORS RP",
+      "rawName": "YooBroxDD's DOORS RP 👁️",
+      "playerCount": 542,
+      "url": "https://www.roblox.com/games/17729873503/YooBroxDDs-DOORS-RP",
+      "foundBy": "tower heroes x doors"
+    },
+    {
+      "name": "Spiral Stair Tower",
+      "rawName": "Spiral Stair Tower",
+      "playerCount": 507,
+      "url": "https://www.roblox.com/games/73871058651498/Spiral-Stair-Tower",
+      "foundBy": "tour arc en ciel"
+    },
+    {
+      "name": "Guerra de Torres",
+      "rawName": "Guerra de Torres",
+      "playerCount": 500,
+      "url": "https://www.roblox.com/games/2556187419/Guerra-de-Torres",
+      "foundBy": "tower wars"
+    },
+    {
+      "name": "Marvel and DC Super Heroes",
+      "rawName": "Marvel and DC Super Heroes",
+      "playerCount": 375,
+      "url": "https://www.roblox.com/games/6132958612/Marvel-and-DC-Super-Heroes",
+      "foundBy": "tower heroes doors"
+    },
+    {
+      "name": "No Cooldown Doomspire Brickbattle",
+      "rawName": "No Cooldown Doomspire Brickbattle",
+      "playerCount": 340,
+      "url": "https://www.roblox.com/games/79602128065352/No-Cooldown-Doomspire-Brickbattle",
+      "foundBy": "tower wars"
+    },
+    {
+      "name": "Easy Auto Wall Hop Tower",
+      "rawName": "Easy Auto Wall Hop Tower",
+      "playerCount": 296,
+      "url": "https://www.roblox.com/games/94229259371229/Easy-Auto-Wall-Hop-Tower",
+      "foundBy": "tower wars walk on walls"
+    },
+    {
+      "name": "Murder Tower",
+      "rawName": "Murder Tower 🗡️",
+      "playerCount": 260,
+      "url": "https://www.roblox.com/games/71890222711680/Murder-Tower",
+      "foundBy": "tower heros"
+    },
+    {
+      "name": "Would You Rather: Super Hero Tower",
+      "rawName": "Would You Rather: Super Hero Tower 🦸",
+      "playerCount": 222,
+      "url": "https://www.roblox.com/games/93112257759142/Would-You-Rather-Super-Hero-Tower",
+      "foundBy": "tower heroes"
+    }
+  ]
+}

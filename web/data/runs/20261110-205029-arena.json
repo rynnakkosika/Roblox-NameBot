@@ -1,0 +1,1079 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-205029-arena",
+    "genre": "arena",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T20:50:29Z",
+    "finishedAt": "2026-11-10T21:01:36Z",
+    "issue": null,
+    "genreWords": [
+      "arena"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Arena Deagle",
+      "score": 416.119,
+      "words": [
+        "Arena",
+        "Deagle"
+      ],
+      "supportedBy": [
+        "arena deagle",
+        "arena de deagle",
+        "arena di deagle"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Arena Kemampuan",
+      "score": 283.559,
+      "words": [
+        "Arena",
+        "Kemampuan"
+      ],
+      "supportedBy": [
+        "arena kemampuan",
+        "arena kemampuan anime",
+        "arena kemampuan superhero"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Arena Asesinatos Survival",
+      "score": 236.115,
+      "words": [
+        "Arena",
+        "Asesinatos",
+        "Survival"
+      ],
+      "supportedBy": [
+        "arena de asesinatos",
+        "arena of survival",
+        "arena de asesinatos fps"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Zombies Anime Arena Survival",
+      "score": 188.513,
+      "words": [
+        "Zombies",
+        "Anime",
+        "Arena",
+        "Survival"
+      ],
+      "supportedBy": [
+        "arena of survival",
+        "arena de zombies",
+        "arena zombie"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Arena Deagle Battlegrounds",
+      "score": 155.623,
+      "words": [
+        "Arena",
+        "Deagle",
+        "Battlegrounds"
+      ],
+      "supportedBy": [
+        "arena deagle",
+        "arena de deagle",
+        "arena di deagle"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Habilidades Elemental Arena Survival",
+      "score": 140.412,
+      "words": [
+        "Habilidades",
+        "Elemental",
+        "Arena",
+        "Survival"
+      ],
+      "supportedBy": [
+        "arena of survival",
+        "arena de habilidades",
+        "arena sihir elemental"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Arena Kemampuan Superhero",
+      "score": 121.799,
+      "words": [
+        "Arena",
+        "Kemampuan",
+        "Superhero"
+      ],
+      "supportedBy": [
+        "arena kemampuan",
+        "arena kemampuan anime",
+        "arena kemampuan superhero"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Arena Deagle Defense",
+      "score": 119.478,
+      "words": [
+        "Arena",
+        "Deagle",
+        "Defense"
+      ],
+      "supportedBy": [
+        "arena deagle",
+        "arena tower defense",
+        "arena de deagle"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Arena Zombie",
+      "score": 117.102,
+      "words": [
+        "Arena",
+        "Zombie"
+      ],
+      "supportedBy": [
+        "arena de zombies",
+        "arena zombie",
+        "arène de zombies"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Arena Asesinatos FPS",
+      "score": 106.457,
+      "words": [
+        "Arena",
+        "Asesinatos",
+        "FPS"
+      ],
+      "supportedBy": [
+        "arena de asesinatos",
+        "arena de asesinatos fps",
+        "arena pembunuhan fps"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Kart Arena Survival",
+      "score": 100.238,
+      "words": [
+        "Kart",
+        "Arena",
+        "Survival"
+      ],
+      "supportedBy": [
+        "arena of survival",
+        "arena de karts",
+        "arena kart"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Arena Kemampuan Sihir",
+      "score": 97.133,
+      "words": [
+        "Arena",
+        "Kemampuan",
+        "Sihir"
+      ],
+      "supportedBy": [
+        "arena kemampuan",
+        "arena sihir elemental",
+        "arena kemampuan anime"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Arena Deagle Escape",
+      "score": 94.943,
+      "words": [
+        "Arena",
+        "Deagle",
+        "Escape"
+      ],
+      "supportedBy": [
+        "arena deagle",
+        "arena de deagle",
+        "arena di deagle"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Arena Pistolas Racing",
+      "score": 86.885,
+      "words": [
+        "Arena",
+        "Pistolas",
+        "Racing"
+      ],
+      "supportedBy": [
+        "arena de pistolas",
+        "arena pistola",
+        "arena pistolas"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Arena Asesinatos Royale",
+      "score": 84.491,
+      "words": [
+        "Arena",
+        "Asesinatos",
+        "Royale"
+      ],
+      "supportedBy": [
+        "arena de asesinatos",
+        "arena royale",
+        "arena de asesinatos fps"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Arena Habilidades Heroes",
+      "score": 80.006,
+      "words": [
+        "Arena",
+        "Habilidades",
+        "Heroes"
+      ],
+      "supportedBy": [
+        "arena de habilidades",
+        "arena de habilidades de anime",
+        "arena de habilidades de heroes"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Arena Zombie RNG",
+      "score": 76.168,
+      "words": [
+        "Arena",
+        "Zombie",
+        "RNG"
+      ],
+      "supportedBy": [
+        "arena de zombies",
+        "arena zombie",
+        "arène de zombies"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Peleas Arena Survival",
+      "score": 74.965,
+      "words": [
+        "Peleas",
+        "Arena",
+        "Survival"
+      ],
+      "supportedBy": [
+        "arena of survival",
+        "arena de peleas",
+        "arena de peleas de anime"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Arena Kemampuan Elemen",
+      "score": 74.499,
+      "words": [
+        "Arena",
+        "Kemampuan",
+        "Elemen"
+      ],
+      "supportedBy": [
+        "arena kemampuan",
+        "arena kemampuan anime",
+        "arena kemampuan superhero"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Arena Pistolas Aura",
+      "score": 68.329,
+      "words": [
+        "Arena",
+        "Pistolas",
+        "Aura"
+      ],
+      "supportedBy": [
+        "arena de pistolas",
+        "arena kemampuan aura",
+        "aura neon obby tower"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Arena Asesinatos",
+      "score": 66.76,
+      "words": [
+        "Arena",
+        "Asesinatos"
+      ],
+      "supportedBy": [
+        "arena de asesinatos",
+        "arena de asesinatos fps"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Arena Kart",
+      "score": 66.153,
+      "words": [
+        "Arena",
+        "Kart"
+      ],
+      "supportedBy": [
+        "arena de karts",
+        "arena kart",
+        "arena karts"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Arena Habilidades Naruto",
+      "score": 63.206,
+      "words": [
+        "Arena",
+        "Habilidades",
+        "Naruto"
+      ],
+      "supportedBy": [
+        "arena de habilidades",
+        "arena de habilidades de anime",
+        "arena de habilidades de heroes"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Arena Deagle Racing",
+      "score": 60.729,
+      "words": [
+        "Arena",
+        "Deagle",
+        "Racing"
+      ],
+      "supportedBy": [
+        "arena deagle",
+        "arena de deagle",
+        "arena di deagle"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Arena Zombies Plantas",
+      "score": 60.445,
+      "words": [
+        "Arena",
+        "Zombies",
+        "Plantas"
+      ],
+      "supportedBy": [
+        "arena de zombies",
+        "arena zombie",
+        "arène de zombies"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "arena",
+      "score": 1134.762
+    },
+    {
+      "text": "deagle",
+      "score": 122.642
+    },
+    {
+      "text": "arena deagle",
+      "score": 120.52
+    },
+    {
+      "text": "arena kemampuan",
+      "score": 95.348
+    },
+    {
+      "text": "kemampuan",
+      "score": 88.139
+    },
+    {
+      "text": "arena asesinatos",
+      "score": 87.089
+    },
+    {
+      "text": "asesinatos",
+      "score": 86.847
+    },
+    {
+      "text": "zombies",
+      "score": 82.749
+    },
+    {
+      "text": "survival",
+      "score": 70.483
+    },
+    {
+      "text": "arena zombie",
+      "score": 70.256
+    },
+    {
+      "text": "arena survival",
+      "score": 66.957
+    },
+    {
+      "text": "arena habilidades",
+      "score": 66.449
+    },
+    {
+      "text": "habilidades",
+      "score": 61.293
+    },
+    {
+      "text": "arena pistolas",
+      "score": 56.324
+    },
+    {
+      "text": "pistolas",
+      "score": 56.295
+    },
+    {
+      "text": "kart",
+      "score": 56.143
+    },
+    {
+      "text": "arena kart",
+      "score": 49.107
+    },
+    {
+      "text": "arena peleas",
+      "score": 44.631
+    },
+    {
+      "text": "peleas",
+      "score": 43.817
+    },
+    {
+      "text": "arena combate",
+      "score": 33.152
+    },
+    {
+      "text": "combate",
+      "score": 33.152
+    },
+    {
+      "text": "arenas movedizas",
+      "score": 31.601
+    },
+    {
+      "text": "movedizas",
+      "score": 31.151
+    },
+    {
+      "text": "elemental",
+      "score": 18.37
+    },
+    {
+      "text": "arena francotiradores",
+      "score": 17.932
+    },
+    {
+      "text": "francotiradores",
+      "score": 17.932
+    },
+    {
+      "text": "arena sihir",
+      "score": 16.558
+    },
+    {
+      "text": "sihir elemental",
+      "score": 16.558
+    },
+    {
+      "text": "arena leyenda",
+      "score": 15.647
+    },
+    {
+      "text": "leyenda",
+      "score": 15.647
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "arena deagle",
+      "score": 233.217,
+      "appearances": 334,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "arena de asesinatos",
+      "score": 172.726,
+      "appearances": 303,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "arena kemampuan",
+      "score": 147.745,
+      "appearances": 228,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "arena de superhéroes",
+      "score": 144.215,
+      "appearances": 306,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "arena of survival",
+      "score": 129.298,
+      "appearances": 360,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "arena de pistolas",
+      "score": 110.285,
+      "appearances": 308,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "arena de zombies",
+      "score": 109.678,
+      "appearances": 319,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "arena de habilidades",
+      "score": 100.558,
+      "appearances": 159,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "arena de karts",
+      "score": 95.474,
+      "appearances": 250,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "arena de peleas",
+      "score": 84.144,
+      "appearances": 250,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "arena de combate",
+      "score": 65.763,
+      "appearances": 139,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "arenas movedizas",
+      "score": 45.739,
+      "appearances": 121,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "arena de francotiradores",
+      "score": 35.864,
+      "appearances": 124,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "arena sihir elemental",
+      "score": 33.116,
+      "appearances": 87,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "arena de leyendas",
+      "score": 31.216,
+      "appearances": 65,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "arena",
+      "score": 30.101,
+      "appearances": 43,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "arena de pixeles",
+      "score": 29.125,
+      "appearances": 136,
+      "bestRank": 2
+    },
+    {
+      "rank": 18,
+      "text": "arena zombie",
+      "score": 28.501,
+      "appearances": 69,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "arena sniper",
+      "score": 24.69,
+      "appearances": 69,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "arena del asesino",
+      "score": 23.703,
+      "appearances": 69,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "arena de cuchillos",
+      "score": 21.689,
+      "appearances": 76,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "arena de magos",
+      "score": 21.224,
+      "appearances": 65,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "arena pertempuran",
+      "score": 21.107,
+      "appearances": 51,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "arena de aventura de spurs",
+      "score": 19.133,
+      "appearances": 42,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "arena do assassino",
+      "score": 17.583,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "arena de batalla de slugterra",
+      "score": 13.323,
+      "appearances": 36,
+      "bestRank": 3
+    },
+    {
+      "rank": 27,
+      "text": "arena movediza",
+      "score": 13.071,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "arena de chips cerebrales",
+      "score": 12.765,
+      "appearances": 63,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "arena kemampuan anime",
+      "score": 12.701,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "arena piksel",
+      "score": 12.339,
+      "appearances": 44,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "arena de aimbot",
+      "score": 10.689,
+      "appearances": 22,
+      "bestRank": 2
+    },
+    {
+      "rank": 32,
+      "text": "arena de magia elemental",
+      "score": 10.226,
+      "appearances": 62,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "arena clasica",
+      "score": 10.11,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "arena de batalha",
+      "score": 9.14,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "arena breakout",
+      "score": 8.733,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "arena de cohetes",
+      "score": 7.746,
+      "appearances": 17,
+      "bestRank": 3
+    },
+    {
+      "rank": 37,
+      "text": "arena de brainrot",
+      "score": 7.669,
+      "appearances": 23,
+      "bestRank": 4
+    },
+    {
+      "rank": 38,
+      "text": "arena tower defense",
+      "score": 7.564,
+      "appearances": 16,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "arena kemampuan superhero",
+      "score": 7.173,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "arena de habilidades de anime",
+      "score": 7.169,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "arena combat",
+      "score": 6.797,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 42,
+      "text": "arena football",
+      "score": 6.235,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "arena of blox",
+      "score": 6.042,
+      "appearances": 17,
+      "bestRank": 3
+    },
+    {
+      "rank": 44,
+      "text": "arena zumbi",
+      "score": 5.955,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "arena noży",
+      "score": 5.867,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 46,
+      "text": "arena de deagle",
+      "score": 5.732,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "arenas muertas",
+      "score": 5.577,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "arena umiejętności",
+      "score": 5.17,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "arena pistol",
+      "score": 5.133,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "arena kemampuan gojo",
+      "score": 5.054,
+      "appearances": 16,
+      "bestRank": 3
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 502131,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "arena deagle"
+    },
+    {
+      "name": "RIVALS",
+      "rawName": "RIVALS",
+      "playerCount": 96516,
+      "url": "https://www.roblox.com/games/17625359962/RIVALS",
+      "foundBy": "arena of survival"
+    },
+    {
+      "name": "Murderers VS Sheriffs",
+      "rawName": "[💀DUELS] Murderers VS Sheriffs",
+      "playerCount": 55688,
+      "url": "https://www.roblox.com/games/135856908115931/Murderers-VS-Sheriffs",
+      "foundBy": "arena de asesinatos"
+    },
+    {
+      "name": "Survive Your Ideas",
+      "rawName": "Survive Your Ideas",
+      "playerCount": 46378,
+      "url": "https://www.roblox.com/games/77900175935766/Survive-Your-Ideas",
+      "foundBy": "arena of survival"
+    },
+    {
+      "name": "The Strongest Battlegrounds",
+      "rawName": "[HALLOWEEN] The Strongest Battlegrounds",
+      "playerCount": 39932,
+      "url": "https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds",
+      "foundBy": "arena"
+    },
+    {
+      "name": "Deagle Arena",
+      "rawName": "[DUELS⚔️] Deagle Arena",
+      "playerCount": 13341,
+      "url": "https://www.roblox.com/games/84556640895285/Deagle-Arena",
+      "foundBy": "arena"
+    },
+    {
+      "name": "One Tap",
+      "rawName": "[FPS] One Tap",
+      "playerCount": 9897,
+      "url": "https://www.roblox.com/games/90568084448279/One-Tap",
+      "foundBy": "arena deagle"
+    },
+    {
+      "name": "Sniper Arena",
+      "rawName": "[🔥UPD] Sniper Arena",
+      "playerCount": 6774,
+      "url": "https://www.roblox.com/games/122446657157717/Sniper-Arena",
+      "foundBy": "arena"
+    },
+    {
+      "name": "Ability Arena",
+      "rawName": "Ability Arena 💥",
+      "playerCount": 5801,
+      "url": "https://www.roblox.com/games/110175021189594/Ability-Arena",
+      "foundBy": "arena"
+    },
+    {
+      "name": "Anime Ability Arena",
+      "rawName": "Anime Ability Arena",
+      "playerCount": 5729,
+      "url": "https://www.roblox.com/games/108567435288296/Anime-Ability-Arena",
+      "foundBy": "arena"
+    },
+    {
+      "name": "Pixel Arena",
+      "rawName": "[FPS] Pixel Arena",
+      "playerCount": 5236,
+      "url": "https://www.roblox.com/games/111631524090539/Pixel-Arena",
+      "foundBy": "arena"
+    },
+    {
+      "name": "Murder Mystery DUELS",
+      "rawName": "Murder Mystery DUELS",
+      "playerCount": 5156,
+      "url": "https://www.roblox.com/games/128119795963270/Murder-Mystery-DUELS",
+      "foundBy": "arena de asesinatos"
+    },
+    {
+      "name": "Murder Duels",
+      "rawName": "Murder Duels",
+      "playerCount": 5002,
+      "url": "https://www.roblox.com/games/120851538706364/Murder-Duels",
+      "foundBy": "arena deagle"
+    },
+    {
+      "name": "Zombie Rush Survival",
+      "rawName": "Zombie Rush Survival 🧟‍♂️",
+      "playerCount": 4608,
+      "url": "https://www.roblox.com/games/82457571485380/Zombie-Rush-Survival",
+      "foundBy": "arena of survival"
+    },
+    {
+      "name": "1 8 KIT PVP",
+      "rawName": "[Cosmetics!] 1.8 KIT PVP",
+      "playerCount": 4562,
+      "url": "https://www.roblox.com/games/72393956865647/1-8-KIT-PVP",
+      "foundBy": "arena de karts"
+    },
+    {
+      "name": "Murder Arena",
+      "rawName": "Murder Arena [FPS]",
+      "playerCount": 3874,
+      "url": "https://www.roblox.com/games/111475355188494/Murder-Arena",
+      "foundBy": "arena"
+    },
+    {
+      "name": "Legends Battlegrounds",
+      "rawName": "Legends Battlegrounds",
+      "playerCount": 3866,
+      "url": "https://www.roblox.com/games/15269951959/Legends-Battlegrounds",
+      "foundBy": "arena kemampuan"
+    },
+    {
+      "name": "Superhero Arena",
+      "rawName": "Superhero Arena",
+      "playerCount": 3197,
+      "url": "https://www.roblox.com/games/78710221869926/Superhero-Arena",
+      "foundBy": "arena de superhéroes"
+    },
+    {
+      "name": "Kart Arena",
+      "rawName": "[UPD] Kart Arena",
+      "playerCount": 2862,
+      "url": "https://www.roblox.com/games/83909223006012/Kart-Arena",
+      "foundBy": "arena de karts"
+    },
+    {
+      "name": "FPS AirDrop Arena",
+      "rawName": "FPS🎃AirDrop Arena [S6]🎃",
+      "playerCount": 2028,
+      "url": "https://www.roblox.com/games/93091759101123/FPS-AirDrop-Arena",
+      "foundBy": "arena of survival"
+    },
+    {
+      "name": "Pistol Arena",
+      "rawName": "Pistol Arena",
+      "playerCount": 1795,
+      "url": "https://www.roblox.com/games/87018676608089/Pistol-Arena",
+      "foundBy": "arena"
+    },
+    {
+      "name": "Kart Of Hell",
+      "rawName": "[UPD] Kart Of Hell",
+      "playerCount": 1769,
+      "url": "https://www.roblox.com/games/76153324611685/Kart-Of-Hell",
+      "foundBy": "arena de karts"
+    },
+    {
+      "name": "KartX Racing",
+      "rawName": "KartX Racing [NEW TRACK!]",
+      "playerCount": 1721,
+      "url": "https://www.roblox.com/games/80436333294247/KartX-Racing",
+      "foundBy": "arena de karts"
+    },
+    {
+      "name": "Survive Zombie Arena",
+      "rawName": "[🎃] Survive Zombie Arena",
+      "playerCount": 1575,
+      "url": "https://www.roblox.com/games/114204398207377/Survive-Zombie-Arena",
+      "foundBy": "arena de zombies"
+    },
+    {
+      "name": "Superhero ability arena",
+      "rawName": "Superhero ability arena",
+      "playerCount": 1344,
+      "url": "https://www.roblox.com/games/76954970533505/Superhero-ability-arena",
+      "foundBy": "arena kemampuan"
+    },
+    {
+      "name": "Elemental Magic Arena",
+      "rawName": "Elemental Magic Arena",
+      "playerCount": 1337,
+      "url": "https://www.roblox.com/games/7243409883/Elemental-Magic-Arena",
+      "foundBy": "arena kemampuan"
+    },
+    {
+      "name": "Kart To Formula",
+      "rawName": "Kart To Formula",
+      "playerCount": 1219,
+      "url": "https://www.roblox.com/games/88036608452063/Kart-To-Formula",
+      "foundBy": "arena de karts"
+    },
+    {
+      "name": "Flick",
+      "rawName": "[FPS] Flick",
+      "playerCount": 1050,
+      "url": "https://www.roblox.com/games/136801880565837/Flick",
+      "foundBy": "arena de pistolas"
+    },
+    {
+      "name": "Defend Bunker from Zombies",
+      "rawName": "Defend Bunker from Zombies 🧟",
+      "playerCount": 1030,
+      "url": "https://www.roblox.com/games/134361906638337/Defend-Bunker-from-Zombies",
+      "foundBy": "arena de zombies"
+    },
+    {
+      "name": "ONE TAP PISTOLS",
+      "rawName": "ONE TAP PISTOLS",
+      "playerCount": 1007,
+      "url": "https://www.roblox.com/games/140322231839637/ONE-TAP-PISTOLS",
+      "foundBy": "arena de pistolas"
+    }
+  ]
+}

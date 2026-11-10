@@ -1,0 +1,801 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-203917-deck",
+    "genre": "deck",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T20:39:17Z",
+    "finishedAt": "2026-11-10T20:50:28Z",
+    "issue": null,
+    "genreWords": [
+      "deck"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Decorate Backrooms Deck Obby",
+      "score": 24.861,
+      "words": [
+        "Decorate",
+        "Backrooms",
+        "Deck",
+        "Obby"
+      ],
+      "supportedBy": [
+        "decorate the backrooms",
+        "decorate your cell",
+        "duck 2 player obby"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Decorate House Deck Escape",
+      "score": 17.783,
+      "words": [
+        "Decorate",
+        "House",
+        "Deck",
+        "Escape"
+      ],
+      "supportedBy": [
+        "decorate the backrooms",
+        "decorate your cell",
+        "decorate"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Decorate Prison Deck RP",
+      "score": 13.495,
+      "words": [
+        "Decorate",
+        "Prison",
+        "Deck",
+        "RP"
+      ],
+      "supportedBy": [
+        "decorate the backrooms",
+        "decorate your cell",
+        "decorate"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Feather Family Deck Obby",
+      "score": 11.07,
+      "words": [
+        "Feather",
+        "Family",
+        "Deck",
+        "Obby"
+      ],
+      "supportedBy": [
+        "duck 2 player obby",
+        "duck obby",
+        "duck duck and family zone"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Steal Egg Deck Escape",
+      "score": 9.708,
+      "words": [
+        "Steal",
+        "Egg",
+        "Deck",
+        "Escape"
+      ],
+      "supportedBy": [
+        "duck escape",
+        "duck escape horror",
+        "depth egg chase"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Decorate Home Deck Incremental",
+      "score": 8.965,
+      "words": [
+        "Decorate",
+        "Home",
+        "Deck",
+        "Incremental"
+      ],
+      "supportedBy": [
+        "decorate the backrooms",
+        "decorate your cell",
+        "decorate"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Duckies Goose Deck RP",
+      "score": 8.951,
+      "words": [
+        "Duckies",
+        "Goose",
+        "Deck",
+        "RP"
+      ],
+      "supportedBy": [
+        "duck duck goose",
+        "duck duck goose games",
+        "duck goose"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Anime Card Deck Obby",
+      "score": 8.131,
+      "words": [
+        "Anime",
+        "Card",
+        "Deck",
+        "Obby"
+      ],
+      "supportedBy": [
+        "duck 2 player obby",
+        "duck obby",
+        "dog obby"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Build Backrooms Deck Simulator",
+      "score": 7.672,
+      "words": [
+        "Build",
+        "Backrooms",
+        "Deck",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "decorate the backrooms",
+        "duck simulator",
+        "duck simulator simulator"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Deck Wars",
+      "score": 7.629,
+      "words": [
+        "Deck",
+        "Wars"
+      ],
+      "supportedBy": [
+        "deck wars",
+        "deck war",
+        "back wars assustador"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Carry Friend Deck Escape",
+      "score": 6.832,
+      "words": [
+        "Carry",
+        "Friend",
+        "Deck",
+        "Escape"
+      ],
+      "supportedBy": [
+        "duck escape",
+        "duck escape horror",
+        "teclado asmr speed escape"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Decorate Room Deck Tycoon",
+      "score": 6.581,
+      "words": [
+        "Decorate",
+        "Room",
+        "Deck",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "decorate the backrooms",
+        "decorate your cell",
+        "decorate"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Speed Keyboard Deck RP",
+      "score": 6.419,
+      "words": [
+        "Speed",
+        "Keyboard",
+        "Deck",
+        "RP"
+      ],
+      "supportedBy": [
+        "decal rp",
+        "dead rails rp",
+        "dead by daylight rp"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Candy Chocolate Deck Obby",
+      "score": 6.015,
+      "words": [
+        "Candy",
+        "Chocolate",
+        "Deck",
+        "Obby"
+      ],
+      "supportedBy": [
+        "duck 2 player obby",
+        "duck obby",
+        "dog obby"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Deck Builder Rogue Like",
+      "score": 5.522,
+      "words": [
+        "Deck",
+        "Builder",
+        "Rogue",
+        "Like"
+      ],
+      "supportedBy": [
+        "deck builder rogue like",
+        "deck builder"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Think Twice Deck Escape",
+      "score": 4.91,
+      "words": [
+        "Think",
+        "Twice",
+        "Deck",
+        "Escape"
+      ],
+      "supportedBy": [
+        "duck escape",
+        "duck escape horror",
+        "teclado asmr speed escape"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Decorate Cell Deck",
+      "score": 4.893,
+      "words": [
+        "Decorate",
+        "Cell",
+        "Deck"
+      ],
+      "supportedBy": [
+        "decorate the backrooms",
+        "decorate your cell",
+        "decorate"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Renovate House Deck Incremental",
+      "score": 4.893,
+      "words": [
+        "Renovate",
+        "House",
+        "Deck",
+        "Incremental"
+      ],
+      "supportedBy": [
+        "decorate your house",
+        "decorate your own house",
+        "decorate house"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Musical Chairs Deck RP",
+      "score": 4.724,
+      "words": [
+        "Musical",
+        "Chairs",
+        "Deck",
+        "RP"
+      ],
+      "supportedBy": [
+        "decal rp",
+        "dead rails rp",
+        "dead by daylight rp"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Duckies Duo Deck Simulator",
+      "score": 4.644,
+      "words": [
+        "Duckies",
+        "Duo",
+        "Deck",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "ducky goose",
+        "duckies",
+        "duck simulator"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Prison Life Deck",
+      "score": 4.394,
+      "words": [
+        "Prison",
+        "Life",
+        "Deck"
+      ],
+      "supportedBy": [
+        "ducks prison run",
+        "decide my life",
+        "decorate your prison cell"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Feather Family Deck",
+      "score": 4.335,
+      "words": [
+        "Feather",
+        "Family",
+        "Deck"
+      ],
+      "supportedBy": [
+        "duck duck and family zone",
+        "duck family",
+        "duck duck y family zone"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Deck Detective Obby",
+      "score": 4.318,
+      "words": [
+        "Deck",
+        "Detective",
+        "Obby"
+      ],
+      "supportedBy": [
+        "duck detective",
+        "duck 2 player obby",
+        "duck obby"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Card Clash Deck",
+      "score": 4.302,
+      "words": [
+        "Card",
+        "Clash",
+        "Deck"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Steal Egg Deck",
+      "score": 4.127,
+      "words": [
+        "Steal",
+        "Egg",
+        "Deck"
+      ],
+      "supportedBy": [
+        "depth egg chase",
+        "depth egg chasse",
+        "depth egg chase code"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "deck",
+      "score": 8.468
+    },
+    {
+      "text": "decorate",
+      "score": 12.618
+    },
+    {
+      "text": "obby",
+      "score": 4.709
+    },
+    {
+      "text": "family",
+      "score": 4.589
+    },
+    {
+      "text": "backrooms",
+      "score": 4.517
+    },
+    {
+      "text": "escape",
+      "score": 3.791
+    },
+    {
+      "text": "house",
+      "score": 3.697
+    },
+    {
+      "text": "detective",
+      "score": 3.478
+    },
+    {
+      "text": "prison",
+      "score": 3.131
+    },
+    {
+      "text": "card",
+      "score": 3.088
+    },
+    {
+      "text": "goose",
+      "score": 3.035
+    },
+    {
+      "text": "build",
+      "score": 2.987
+    },
+    {
+      "text": "wars",
+      "score": 2.967
+    },
+    {
+      "text": "egg",
+      "score": 2.889
+    },
+    {
+      "text": "home",
+      "score": 2.858
+    },
+    {
+      "text": "steal",
+      "score": 2.848
+    },
+    {
+      "text": "room",
+      "score": 2.778
+    },
+    {
+      "text": "brookhaven",
+      "score": 2.766
+    },
+    {
+      "text": "duckies",
+      "score": 2.751
+    },
+    {
+      "text": "carry",
+      "score": 2.636
+    },
+    {
+      "text": "duo",
+      "score": 2.541
+    },
+    {
+      "text": "rivals",
+      "score": 2.521
+    },
+    {
+      "text": "deck wars",
+      "score": 2.511
+    },
+    {
+      "text": "hide",
+      "score": 2.503
+    },
+    {
+      "text": "builder",
+      "score": 2.335
+    },
+    {
+      "text": "speed",
+      "score": 2.091
+    },
+    {
+      "text": "keyboard",
+      "score": 2.086
+    },
+    {
+      "text": "candy",
+      "score": 2.082
+    },
+    {
+      "text": "chocolate",
+      "score": 2.082
+    },
+    {
+      "text": "friend",
+      "score": 2.055
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "deck wars",
+      "score": 3.407,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "deck links",
+      "score": 1.934,
+      "appearances": 4,
+      "bestRank": 2
+    },
+    {
+      "rank": 3,
+      "text": "deck builder rogue like",
+      "score": 1.146,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "deck drive",
+      "score": 1.084,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "deck builder",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "deck war",
+      "score": 0.757,
+      "appearances": 3,
+      "bestRank": 3
+    },
+    {
+      "rank": 7,
+      "text": "deck in the box",
+      "score": 0.465,
+      "appearances": 1,
+      "bestRank": 5
+    },
+    {
+      "rank": 8,
+      "text": "deck build",
+      "score": 0.387,
+      "appearances": 1,
+      "bestRank": 6
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 496126,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "duck duck goose"
+    },
+    {
+      "name": "Brookhaven RP",
+      "rawName": "Brookhaven 🏡RP",
+      "playerCount": 325755,
+      "url": "https://www.roblox.com/games/4924922222/Brookhaven-RP",
+      "foundBy": "deck"
+    },
+    {
+      "name": "RIVALS",
+      "rawName": "RIVALS",
+      "playerCount": 97044,
+      "url": "https://www.roblox.com/games/17625359962/RIVALS",
+      "foundBy": "duck duck and family zone"
+    },
+    {
+      "name": "1 Speed Keyboard Escape Candy & Chocolate",
+      "rawName": "+1 Speed Keyboard Escape | Candy & Chocolate",
+      "playerCount": 14564,
+      "url": "https://www.roblox.com/games/95082159892680/1-Speed-Keyboard-Escape-Candy-Chocolate",
+      "foundBy": "deck"
+    },
+    {
+      "name": "Prison Life",
+      "rawName": "Prison Life",
+      "playerCount": 5727,
+      "url": "https://www.roblox.com/games/155615604/Prison-Life",
+      "foundBy": "duck duck"
+    },
+    {
+      "name": "Hot Potato",
+      "rawName": "Hot Potato 🥔💥",
+      "playerCount": 4805,
+      "url": "https://www.roblox.com/games/72001091182267/Hot-Potato",
+      "foundBy": "duck duck goose"
+    },
+    {
+      "name": "Anime Card Clash",
+      "rawName": "[ 👻 🎃] Anime Card Clash",
+      "playerCount": 4590,
+      "url": "https://www.roblox.com/games/110829983956014/Anime-Card-Clash",
+      "foundBy": "deck"
+    },
+    {
+      "name": "Decorate Me!",
+      "rawName": "Decorate Me!",
+      "playerCount": 3324,
+      "url": "https://www.roblox.com/games/130498840648873/Decorate-Me",
+      "foundBy": "decorate the backrooms"
+    },
+    {
+      "name": "Feather Family",
+      "rawName": "Feather Family 🍂",
+      "playerCount": 3136,
+      "url": "https://www.roblox.com/games/1365404657/Feather-Family",
+      "foundBy": "duck duck and family zone"
+    },
+    {
+      "name": "Grab and Decorate",
+      "rawName": "Grab and Decorate",
+      "playerCount": 3032,
+      "url": "https://www.roblox.com/games/105273282801541/Grab-and-Decorate",
+      "foundBy": "decorate the backrooms"
+    },
+    {
+      "name": "Think Twice",
+      "rawName": "Think Twice",
+      "playerCount": 2951,
+      "url": "https://www.roblox.com/games/71376979720403/Think-Twice",
+      "foundBy": "duck obby"
+    },
+    {
+      "name": "Renovate A House",
+      "rawName": "Renovate A House",
+      "playerCount": 2917,
+      "url": "https://www.roblox.com/games/74865107636750/Renovate-A-House",
+      "foundBy": "decorate"
+    },
+    {
+      "name": "Musical Chairs",
+      "rawName": "Musical Chairs 🎵🪑",
+      "playerCount": 2896,
+      "url": "https://www.roblox.com/games/113323927469374/Musical-Chairs",
+      "foundBy": "duck duck goose"
+    },
+    {
+      "name": "Breach the Bastion: Spire Deck Builder",
+      "rawName": "[🧉BREWER] Breach the Bastion: Spire Deck Builder",
+      "playerCount": 2104,
+      "url": "https://www.roblox.com/games/96414749635381/Breach-the-Bastion-Spire-Deck-Builder",
+      "foundBy": "deck"
+    },
+    {
+      "name": "Build Your Backrooms",
+      "rawName": "Build Your Backrooms",
+      "playerCount": 1610,
+      "url": "https://www.roblox.com/games/134363641369914/Build-Your-Backrooms",
+      "foundBy": "decorate the backrooms"
+    },
+    {
+      "name": "Detective Duck",
+      "rawName": "[🎃🦆] Detective Duck",
+      "playerCount": 1408,
+      "url": "https://www.roblox.com/games/131572543049913/Detective-Duck",
+      "foundBy": "duck detective"
+    },
+    {
+      "name": "Dress My Room",
+      "rawName": "Dress My Room",
+      "playerCount": 1176,
+      "url": "https://www.roblox.com/games/97346690830559/Dress-My-Room",
+      "foundBy": "decorate the backrooms"
+    },
+    {
+      "name": "Cluck or Hide!",
+      "rawName": "[🎃] Cluck or Hide!🐔",
+      "playerCount": 1175,
+      "url": "https://www.roblox.com/games/82539019711975/Cluck-or-Hide",
+      "foundBy": "duck duck goose"
+    },
+    {
+      "name": "Raise Your Family!",
+      "rawName": "Raise Your Family!👶",
+      "playerCount": 1063,
+      "url": "https://www.roblox.com/games/107293158947727/Raise-Your-Family",
+      "foundBy": "duck duck and family zone"
+    },
+    {
+      "name": "Dog Walk",
+      "rawName": "Dog Walk 🐶 [2 Player Obby]",
+      "playerCount": 1023,
+      "url": "https://www.roblox.com/games/99758842280353/Dog-Walk",
+      "foundBy": "duck 2 player obby"
+    },
+    {
+      "name": "STAY INSIDE!",
+      "rawName": "STAY INSIDE! ",
+      "playerCount": 912,
+      "url": "https://www.roblox.com/games/94495283121683/STAY-INSIDE",
+      "foundBy": "decorate your cell"
+    },
+    {
+      "name": "DANGEROUS NIGHT",
+      "rawName": "DANGEROUS NIGHT [FURNISH THE BUNKER]",
+      "playerCount": 720,
+      "url": "https://www.roblox.com/games/109686116036889/DANGEROUS-NIGHT",
+      "foundBy": "decorate the backrooms"
+    },
+    {
+      "name": "Glide Tower",
+      "rawName": "Glide Tower",
+      "playerCount": 620,
+      "url": "https://www.roblox.com/games/71143154217953/Glide-Tower",
+      "foundBy": "duck obby"
+    },
+    {
+      "name": "My ASMR House",
+      "rawName": "My ASMR House 🏠",
+      "playerCount": 609,
+      "url": "https://www.roblox.com/games/113460023824827/My-ASMR-House",
+      "foundBy": "decorate your cell"
+    },
+    {
+      "name": "Gecko Duo",
+      "rawName": "Gecko Duo 🦎 [2 Player Obby]",
+      "playerCount": 460,
+      "url": "https://www.roblox.com/games/124599477478340/Gecko-Duo",
+      "foundBy": "duck 2 player obby"
+    },
+    {
+      "name": "Duckies!",
+      "rawName": "Duckies! 🐤 [2 Player Obby]",
+      "playerCount": 397,
+      "url": "https://www.roblox.com/games/101723587858956/Duckies",
+      "foundBy": "duck duck goose"
+    },
+    {
+      "name": "Duck Escape",
+      "rawName": "Duck Escape[Horror]",
+      "playerCount": 352,
+      "url": "https://www.roblox.com/games/131335589418319/Duck-Escape",
+      "foundBy": "duck duck goose"
+    },
+    {
+      "name": "Catch 1 Billion Ducks",
+      "rawName": "[Boss🔥] Catch 1 Billion Ducks",
+      "playerCount": 301,
+      "url": "https://www.roblox.com/games/100293509865504/Catch-1-Billion-Ducks",
+      "foundBy": "duck duck"
+    },
+    {
+      "name": "Undercroft: Deckbuilder Roguelike",
+      "rawName": "Undercroft: Deckbuilder Roguelike",
+      "playerCount": 301,
+      "url": "https://www.roblox.com/games/137031505439987/Undercroft-Deckbuilder-Roguelike",
+      "foundBy": "deck"
+    },
+    {
+      "name": "My Jail Cell!",
+      "rawName": "My Jail Cell!  (UPD)",
+      "playerCount": 297,
+      "url": "https://www.roblox.com/games/91746497060666/My-Jail-Cell",
+      "foundBy": "decorate your cell"
+    }
+  ]
+}

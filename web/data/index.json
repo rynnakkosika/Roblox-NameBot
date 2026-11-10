@@ -2,6 +2,105 @@
   "schemaVersion": 1,
   "runs": [
     {
+      "runId": "20261110-212351-strategy",
+      "genre": "strategy",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T21:34:58Z",
+      "topName": "Strategy War"
+    },
+    {
+      "runId": "20261110-211244-pvp",
+      "genre": "pvp",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T21:23:51Z",
+      "topName": "PvP Minecraft"
+    },
+    {
+      "runId": "20261110-210136-tower-wars",
+      "genre": "tower wars",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T21:12:43Z",
+      "topName": "Cooldown Doomspire Tower Wars Defense"
+    },
+    {
+      "runId": "20261110-205029-arena",
+      "genre": "arena",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T21:01:36Z",
+      "topName": "Arena Deagle"
+    },
+    {
+      "runId": "20261110-203917-deck",
+      "genre": "deck",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T20:50:28Z",
+      "topName": "Decorate Backrooms Deck Obby"
+    },
+    {
+      "runId": "20261110-202802-card-game",
+      "genre": "card game",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T20:39:09Z",
+      "topName": "Ride Down Card Game Obby"
+    },
+    {
+      "runId": "20261110-201651-royale",
+      "genre": "royale",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T20:27:59Z",
+      "topName": "High Old Lobbies Royale"
+    },
+    {
+      "runId": "20261110-200536-clash",
+      "genre": "clash",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T20:16:45Z",
+      "topName": "Clash Royale"
+    },
+    {
+      "runId": "20261110-195425-tower-defense",
+      "genre": "tower defense",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T20:05:32Z",
+      "topName": "Skibidi Toilet Tower Defense"
+    },
+    {
+      "runId": "20261110-194313-card-battle",
+      "genre": "card battle",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T19:54:23Z",
+      "topName": "Card Battle Anime Simulator"
+    },
+    {
+      "runId": "20261110-193203-clash-royale",
+      "genre": "clash royale",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T19:43:12Z",
+      "topName": "Brainrot Tower Clash Royale"
+    },
+    {
       "runId": "20261110-172044-village",
       "genre": "village",
       "budget": 1000,

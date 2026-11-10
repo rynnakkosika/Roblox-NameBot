@@ -1,0 +1,826 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-194313-card-battle",
+    "genre": "card battle",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T19:43:13Z",
+    "finishedAt": "2026-11-10T19:54:23Z",
+    "issue": null,
+    "genreWords": [
+      "card",
+      "battle"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Card Battle Anime Simulator",
+      "score": 67.451,
+      "words": [
+        "Card",
+        "Battle",
+        "Anime",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "card battles anime",
+        "card battle simulator",
+        "card battle anime"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Card Battle Prestige",
+      "score": 54.201,
+      "words": [
+        "Card",
+        "Battle",
+        "Prestige"
+      ],
+      "supportedBy": [
+        "card battles prestige",
+        "card battle prestige"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Card Battle Anime",
+      "score": 51.137,
+      "words": [
+        "Card",
+        "Battle",
+        "Anime"
+      ],
+      "supportedBy": [
+        "card battles anime",
+        "card battle anime"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Card Battle Infinity",
+      "score": 48.266,
+      "words": [
+        "Card",
+        "Battle",
+        "Infinity"
+      ],
+      "supportedBy": [
+        "card battles infinity",
+        "card battle infinity"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Card Battle RNG",
+      "score": 47.548,
+      "words": [
+        "Card",
+        "Battle",
+        "RNG"
+      ],
+      "supportedBy": [
+        "card battles rng",
+        "card battle rng"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Kart Arena Card Battle Royale",
+      "score": 41.793,
+      "words": [
+        "Kart",
+        "Arena",
+        "Card",
+        "Battle",
+        "Royale"
+      ],
+      "supportedBy": [
+        "kart battles",
+        "fort battle arena",
+        "car battle royale"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Card Battle Anime Minigames",
+      "score": 40.431,
+      "words": [
+        "Card",
+        "Battle",
+        "Anime",
+        "Minigames"
+      ],
+      "supportedBy": [
+        "card battles anime",
+        "card battle anime",
+        "rb battles minigames"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Smp Ffa Card Battle Defense",
+      "score": 38.416,
+      "words": [
+        "Smp",
+        "Ffa",
+        "Card",
+        "Battle",
+        "Defense"
+      ],
+      "supportedBy": [
+        "rap battles tower defense"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Card Battle",
+      "score": 38.162,
+      "words": [
+        "Card",
+        "Battle"
+      ],
+      "supportedBy": [
+        "card battles",
+        "card battles anime",
+        "card battles prestige"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Card Battle Sim",
+      "score": 38.104,
+      "words": [
+        "Card",
+        "Battle",
+        "Sim"
+      ],
+      "supportedBy": [
+        "card battle sim"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Choose Stronger Card Battle",
+      "score": 37.099,
+      "words": [
+        "Choose",
+        "Stronger",
+        "Card",
+        "Battle"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 12,
+      "name": "Crash Physics Card Battle",
+      "score": 37.047,
+      "words": [
+        "Crash",
+        "Physics",
+        "Card",
+        "Battle"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 13,
+      "name": "Around Nothing Card Battle",
+      "score": 36.986,
+      "words": [
+        "Around",
+        "Nothing",
+        "Card",
+        "Battle"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 14,
+      "name": "Thai Letters Card Battle",
+      "score": 36.952,
+      "words": [
+        "Thai",
+        "Letters",
+        "Card",
+        "Battle"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 15,
+      "name": "Card Battle Duels",
+      "score": 36.634,
+      "words": [
+        "Card",
+        "Battle",
+        "Duels"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 16,
+      "name": "Card Battle Rebirth",
+      "score": 36.592,
+      "words": [
+        "Card",
+        "Battle",
+        "Rebirth"
+      ],
+      "supportedBy": [
+        "card battle rebirth"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Card Battle Retro",
+      "score": 36.116,
+      "words": [
+        "Card",
+        "Battle",
+        "Retro"
+      ],
+      "supportedBy": [
+        "card battles retro"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Card Battle Unstable",
+      "score": 35.749,
+      "words": [
+        "Card",
+        "Battle",
+        "Unstable"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Card Battle Cat",
+      "score": 35.701,
+      "words": [
+        "Card",
+        "Battle",
+        "Cat"
+      ],
+      "supportedBy": [
+        "cat battles",
+        "cat battles games",
+        "cat battles modded"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Trading Card Battle",
+      "score": 35.694,
+      "words": [
+        "Trading",
+        "Card",
+        "Battle"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Steal Card Battle",
+      "score": 35.542,
+      "words": [
+        "Steal",
+        "Card",
+        "Battle"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Card Battle Word",
+      "score": 35.531,
+      "words": [
+        "Card",
+        "Battle",
+        "Word"
+      ],
+      "supportedBy": [
+        "word battles",
+        "word hunt battles"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Ability Card Battle",
+      "score": 35.52,
+      "words": [
+        "Ability",
+        "Card",
+        "Battle"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Button Card Battle",
+      "score": 35.509,
+      "words": [
+        "Button",
+        "Card",
+        "Battle"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Card Battle Clash",
+      "score": 35.461,
+      "words": [
+        "Card",
+        "Battle",
+        "Clash"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "card battle",
+      "score": 67.257
+    },
+    {
+      "text": "card",
+      "score": 70.681
+    },
+    {
+      "text": "battle",
+      "score": 70.731
+    },
+    {
+      "text": "anime",
+      "score": 22.791
+    },
+    {
+      "text": "battle anime",
+      "score": 13.455
+    },
+    {
+      "text": "battles prestige",
+      "score": 9.876
+    },
+    {
+      "text": "battles infinity",
+      "score": 7.737
+    },
+    {
+      "text": "prestige",
+      "score": 7.589
+    },
+    {
+      "text": "rng",
+      "score": 6.719
+    },
+    {
+      "text": "battle rng",
+      "score": 6.073
+    },
+    {
+      "text": "infinity",
+      "score": 5.756
+    },
+    {
+      "text": "anime card",
+      "score": 4.548
+    },
+    {
+      "text": "arena",
+      "score": 4.209
+    },
+    {
+      "text": "kart",
+      "score": 3.455
+    },
+    {
+      "text": "duels",
+      "score": 3.005
+    },
+    {
+      "text": "battle simulator",
+      "score": 2.89
+    },
+    {
+      "text": "simulator",
+      "score": 2.869
+    },
+    {
+      "text": "battles retro",
+      "score": 2.132
+    },
+    {
+      "text": "ffa",
+      "score": 2.121
+    },
+    {
+      "text": "smp",
+      "score": 2.121
+    },
+    {
+      "text": "unstable",
+      "score": 2.121
+    },
+    {
+      "text": "cat",
+      "score": 2.073
+    },
+    {
+      "text": "word",
+      "score": 1.903
+    },
+    {
+      "text": "ability",
+      "score": 1.892
+    },
+    {
+      "text": "button",
+      "score": 1.88
+    },
+    {
+      "text": "clash",
+      "score": 1.833
+    },
+    {
+      "text": "downhill",
+      "score": 1.754
+    },
+    {
+      "text": "drive",
+      "score": 1.754
+    },
+    {
+      "text": "farm",
+      "score": 1.661
+    },
+    {
+      "text": "shop",
+      "score": 1.652
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "card battles",
+      "score": 32.452,
+      "appearances": 44,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "card battles anime",
+      "score": 26.135,
+      "appearances": 39,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "card battles prestige",
+      "score": 10.199,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "card battles infinity",
+      "score": 9.565,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "card battle prestige",
+      "score": 8.045,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "card battles rng",
+      "score": 7.984,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "card battle infinity",
+      "score": 5.013,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "card battle simulator",
+      "score": 4.556,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "card battle",
+      "score": 4.533,
+      "appearances": 9,
+      "bestRank": 3
+    },
+    {
+      "rank": 10,
+      "text": "card battles retro",
+      "score": 4.264,
+      "appearances": 12,
+      "bestRank": 3
+    },
+    {
+      "rank": 11,
+      "text": "card battle rng",
+      "score": 4.163,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "card battle sim",
+      "score": 2.827,
+      "appearances": 6,
+      "bestRank": 3
+    },
+    {
+      "rank": 13,
+      "text": "card battle roblox",
+      "score": 1.452,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "card battle games",
+      "score": 1.375,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "card battles 2",
+      "score": 1.237,
+      "appearances": 2,
+      "bestRank": 2
+    },
+    {
+      "rank": 16,
+      "text": "card battle anime",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "card battle rebirth",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "card battle game",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 19,
+      "text": "card battle x",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 20,
+      "text": "card battles football",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Unstable SMP FFA",
+      "rawName": "Unstable SMP FFA [JAVA PVP!]",
+      "playerCount": 17439,
+      "url": "https://www.roblox.com/games/76870565041704/Unstable-SMP-FFA",
+      "foundBy": "card battles rng"
+    },
+    {
+      "name": "Anime Ability Arena",
+      "rawName": "Anime Ability Arena",
+      "playerCount": 6067,
+      "url": "https://www.roblox.com/games/108567435288296/Anime-Ability-Arena",
+      "foundBy": "card battles anime"
+    },
+    {
+      "name": "Button Battles",
+      "rawName": "Button Battles",
+      "playerCount": 5758,
+      "url": "https://www.roblox.com/games/80711496727566/Button-Battles",
+      "foundBy": "card battles retro"
+    },
+    {
+      "name": "Cat Battles",
+      "rawName": "Cat Battles 🐾",
+      "playerCount": 5367,
+      "url": "https://www.roblox.com/games/130906410042392/Cat-Battles",
+      "foundBy": "card battles prestige"
+    },
+    {
+      "name": "Anime Card Clash",
+      "rawName": "[ 👻 🎃] Anime Card Clash",
+      "playerCount": 4627,
+      "url": "https://www.roblox.com/games/110829983956014/Anime-Card-Clash",
+      "foundBy": "card battle"
+    },
+    {
+      "name": "Word Battle!",
+      "rawName": "[💬] Word Battle!",
+      "playerCount": 4566,
+      "url": "https://www.roblox.com/games/74300432420573/Word-Battle",
+      "foundBy": "card battles retro"
+    },
+    {
+      "name": "Drive a Cart Downhill!",
+      "rawName": "[UPD] Drive a Cart Downhill!",
+      "playerCount": 3218,
+      "url": "https://www.roblox.com/games/88286531172202/Drive-a-Cart-Downhill",
+      "foundBy": "cart battles"
+    },
+    {
+      "name": "Kart Arena",
+      "rawName": "[UPD] Kart Arena",
+      "playerCount": 3108,
+      "url": "https://www.roblox.com/games/83909223006012/Kart-Arena",
+      "foundBy": "cart battles"
+    },
+    {
+      "name": "Anime Card Farm",
+      "rawName": "[UPD📖] Anime Card Farm",
+      "playerCount": 2102,
+      "url": "https://www.roblox.com/games/125039473548047/Anime-Card-Farm",
+      "foundBy": "card battle"
+    },
+    {
+      "name": "My Trading Card Shop!",
+      "rawName": "[🃏UPD] My Trading Card Shop! [BETA]",
+      "playerCount": 2013,
+      "url": "https://www.roblox.com/games/104927460048415/My-Trading-Card-Shop",
+      "foundBy": "card battles retro"
+    },
+    {
+      "name": "Kart Of Hell",
+      "rawName": "[UPD] Kart Of Hell",
+      "playerCount": 1736,
+      "url": "https://www.roblox.com/games/76153324611685/Kart-Of-Hell",
+      "foundBy": "cart battles"
+    },
+    {
+      "name": "Car DUELS",
+      "rawName": "[UPD] Car DUELS",
+      "playerCount": 1645,
+      "url": "https://www.roblox.com/games/128589112094372/Car-DUELS",
+      "foundBy": "cart battles"
+    },
+    {
+      "name": "Choose the Stronger Anime!",
+      "rawName": "Choose the Stronger Anime!",
+      "playerCount": 1215,
+      "url": "https://www.roblox.com/games/111801263516291/Choose-the-Stronger-Anime",
+      "foundBy": "card battles anime"
+    },
+    {
+      "name": "Steal An Card",
+      "rawName": "Steal An Card",
+      "playerCount": 1153,
+      "url": "https://www.roblox.com/games/94162770421956/Steal-An-Card",
+      "foundBy": "card battles retro"
+    },
+    {
+      "name": "Plane Crash Physics",
+      "rawName": "Plane Crash Physics 💥",
+      "playerCount": 1093,
+      "url": "https://www.roblox.com/games/83882327995304/Plane-Crash-Physics",
+      "foundBy": "card battle simulator"
+    },
+    {
+      "name": "Card Battles: Prestige",
+      "rawName": "[ UPD 4 🏰 ] Card Battles: Prestige",
+      "playerCount": 1035,
+      "url": "https://www.roblox.com/games/77811814730971/Card-Battles-Prestige",
+      "foundBy": "card battle"
+    },
+    {
+      "name": "Race Battles",
+      "rawName": "Race Battles",
+      "playerCount": 1034,
+      "url": "https://www.roblox.com/games/119720112265064/Race-Battles",
+      "foundBy": "card battles retro"
+    },
+    {
+      "name": "cart ride around nothing",
+      "rawName": "cart ride around nothing",
+      "playerCount": 964,
+      "url": "https://www.roblox.com/games/10660791703/cart-ride-around-nothing",
+      "foundBy": "cart battles"
+    },
+    {
+      "name": "Thai Letters Battle",
+      "rawName": "Thai Letters Battle",
+      "playerCount": 899,
+      "url": "https://www.roblox.com/games/126700219837221/Thai-Letters-Battle",
+      "foundBy": "card battles retro"
+    },
+    {
+      "name": "Chaotic Battlegrounds",
+      "rawName": "[FREE] Chaotic Battlegrounds",
+      "playerCount": 770,
+      "url": "https://www.roblox.com/games/109680150977787/Chaotic-Battlegrounds",
+      "foundBy": "card battles infinity"
+    },
+    {
+      "name": "Anime Card Duels",
+      "rawName": "[UPD 3] Anime Card Duels",
+      "playerCount": 621,
+      "url": "https://www.roblox.com/games/114301290313191/Anime-Card-Duels",
+      "foundBy": "card battle"
+    },
+    {
+      "name": "Anime Card Battles: Rebirth",
+      "rawName": "Anime Card Battles: Rebirth",
+      "playerCount": 601,
+      "url": "https://www.roblox.com/games/130253630950453/Anime-Card-Battles-Rebirth",
+      "foundBy": "card battles prestige"
+    },
+    {
+      "name": "Skibidi Battle Simulator",
+      "rawName": "Skibidi Battle Simulator",
+      "playerCount": 237,
+      "url": "https://www.roblox.com/games/106033474760693/Skibidi-Battle-Simulator",
+      "foundBy": "card battle simulator"
+    },
+    {
+      "name": "Brainrot Card Battles",
+      "rawName": "[🪏Digging] Brainrot Card Battles",
+      "playerCount": 228,
+      "url": "https://www.roblox.com/games/124124395449044/Brainrot-Card-Battles",
+      "foundBy": "card battle"
+    },
+    {
+      "name": "Card RNG: Expansion",
+      "rawName": "[UPDATE] Card RNG: Expansion",
+      "playerCount": 122,
+      "url": "https://www.roblox.com/games/116512786685590/Card-RNG-Expansion",
+      "foundBy": "card battles rng"
+    },
+    {
+      "name": "Trade Anime Cards",
+      "rawName": "Trade Anime Cards",
+      "playerCount": 118,
+      "url": "https://www.roblox.com/games/82373163738096/Trade-Anime-Cards",
+      "foundBy": "card battles anime"
+    },
+    {
+      "name": "RNG Battles",
+      "rawName": "🍀 RNG Battles",
+      "playerCount": 80,
+      "url": "https://www.roblox.com/games/114696249619065/RNG-Battles",
+      "foundBy": "card battles rng"
+    },
+    {
+      "name": "Deck Wars",
+      "rawName": " [🎴 UPD 2] Deck Wars",
+      "playerCount": 66,
+      "url": "https://www.roblox.com/games/107903388587707/Deck-Wars",
+      "foundBy": "card battle"
+    },
+    {
+      "name": "Card Chaos",
+      "rawName": "[QOL🔨] Card Chaos💥",
+      "playerCount": 62,
+      "url": "https://www.roblox.com/games/83962596228244/Card-Chaos",
+      "foundBy": "card battle infinity"
+    },
+    {
+      "name": "Card Battles Infinity",
+      "rawName": "Card Battles Infinity",
+      "playerCount": 61,
+      "url": "https://www.roblox.com/games/100286745829320/Card-Battles-Infinity",
+      "foundBy": "card battles prestige"
+    }
+  ]
+}

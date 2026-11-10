@@ -1,0 +1,1026 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-193203-clash-royale",
+    "genre": "clash royale",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T19:32:03Z",
+    "finishedAt": "2026-11-10T19:43:12Z",
+    "issue": null,
+    "genreWords": [
+      "clash",
+      "royale"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Brainrot Tower Clash Royale",
+      "score": 165.805,
+      "words": [
+        "Brainrot",
+        "Tower",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale brainrot",
+        "clash royale tower defense",
+        "clash royale de brainrot"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Clash Royale",
+      "score": 130.741,
+      "words": [
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale battlegrounds",
+        "clash royale brainrot",
+        "clash royale tower defense"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Power RNG Clash Royale",
+      "score": 120.484,
+      "words": [
+        "Power",
+        "RNG",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale rng"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Steal Brainrot Clash Royale",
+      "score": 115.468,
+      "words": [
+        "Steal",
+        "Brainrot",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale brainrot",
+        "clash royale de brainrot",
+        "clash royale vs brainrots"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Line Up Clash Royale",
+      "score": 109.444,
+      "words": [
+        "Line",
+        "Up",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 6,
+      "name": "Smp Ffa Clash Royale",
+      "score": 108.247,
+      "words": [
+        "Smp",
+        "Ffa",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 7,
+      "name": "Anime Ability Clash Royale",
+      "score": 107.813,
+      "words": [
+        "Anime",
+        "Ability",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale anime"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Kit PvP Clash Royale",
+      "score": 107.685,
+      "words": [
+        "Kit",
+        "PvP",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 9,
+      "name": "Cliff Mansion Clash Royale",
+      "score": 107.383,
+      "words": [
+        "Cliff",
+        "Mansion",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 10,
+      "name": "Td Clash Royale",
+      "score": 107.37,
+      "words": [
+        "Td",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale td",
+        "clash royal td"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "All Star Clash Royale",
+      "score": 107.343,
+      "words": [
+        "All",
+        "Star",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 12,
+      "name": "Toilet Clash Royale",
+      "score": 106.815,
+      "words": [
+        "Toilet",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 13,
+      "name": "Guess Who Clash Royale",
+      "score": 106.232,
+      "words": [
+        "Guess",
+        "Who",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale guess who",
+        "clash royale guess"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Build Clash Royale",
+      "score": 106.076,
+      "words": [
+        "Build",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 15,
+      "name": "Evolution Clash Royale",
+      "score": 106.023,
+      "words": [
+        "Evolution",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale evolution"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Kj Clash Royale",
+      "score": 106.005,
+      "words": [
+        "Kj",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 17,
+      "name": "Legends Clash Royale",
+      "score": 105.918,
+      "words": [
+        "Legends",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 18,
+      "name": "Avatar Clash Royale",
+      "score": 105.847,
+      "words": [
+        "Avatar",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale avatars",
+        "clash royale avatar"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Sakadung Clash Royale",
+      "score": 105.844,
+      "words": [
+        "Sakadung",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 20,
+      "name": "Strongest Clash Royale",
+      "score": 105.771,
+      "words": [
+        "Strongest",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Unstable Clash Royale",
+      "score": 105.594,
+      "words": [
+        "Unstable",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Temu Clash Royale",
+      "score": 105.589,
+      "words": [
+        "Temu",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale of temu",
+        "clasch royal of temu",
+        "clash royale temu"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Metro Clash Royale",
+      "score": 105.514,
+      "words": [
+        "Metro",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Pero Clash Royale",
+      "score": 105.461,
+      "words": [
+        "Pero",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": [
+        "clash royale pero roblox"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Chaos Clash Royale",
+      "score": 105.438,
+      "words": [
+        "Chaos",
+        "Clash",
+        "Royale"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "clash royale",
+      "score": 206.943
+    },
+    {
+      "text": "clash",
+      "score": 146.052
+    },
+    {
+      "text": "royale",
+      "score": 145.441
+    },
+    {
+      "text": "brainrot",
+      "score": 36.218
+    },
+    {
+      "text": "royale brainrot",
+      "score": 33.38
+    },
+    {
+      "text": "battlegrounds",
+      "score": 31.055
+    },
+    {
+      "text": "tower defense",
+      "score": 27.475
+    },
+    {
+      "text": "defense",
+      "score": 27.06
+    },
+    {
+      "text": "royale battleground",
+      "score": 26.167
+    },
+    {
+      "text": "tower",
+      "score": 25.753
+    },
+    {
+      "text": "royale tower",
+      "score": 20.453
+    },
+    {
+      "text": "tycoon",
+      "score": 19.59
+    },
+    {
+      "text": "royale clicker",
+      "score": 16.742
+    },
+    {
+      "text": "clicker",
+      "score": 14.384
+    },
+    {
+      "text": "rng",
+      "score": 13.241
+    },
+    {
+      "text": "royale tycoon",
+      "score": 12.494
+    },
+    {
+      "text": "royale rng",
+      "score": 5.639
+    },
+    {
+      "text": "royale quiz",
+      "score": 4.779
+    },
+    {
+      "text": "royale td",
+      "score": 4.384
+    },
+    {
+      "text": "royale rp",
+      "score": 4.365
+    },
+    {
+      "text": "simulator",
+      "score": 4.122
+    },
+    {
+      "text": "royale evolution",
+      "score": 3.827
+    },
+    {
+      "text": "steal",
+      "score": 3.795
+    },
+    {
+      "text": "royale simulator",
+      "score": 3.78
+    },
+    {
+      "text": "royale avatar",
+      "score": 3.563
+    },
+    {
+      "text": "line",
+      "score": 3.42
+    },
+    {
+      "text": "power",
+      "score": 3.382
+    },
+    {
+      "text": "toilet",
+      "score": 3.343
+    },
+    {
+      "text": "quiz",
+      "score": 3.186
+    },
+    {
+      "text": "royale temu",
+      "score": 3.145
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "clash royale battlegrounds",
+      "score": 51.481,
+      "appearances": 85,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "clash royale brainrot",
+      "score": 43.16,
+      "appearances": 79,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "clash royale tower defense",
+      "score": 39.512,
+      "appearances": 75,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "clash royale clicker",
+      "score": 33.483,
+      "appearances": 66,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "clash royale",
+      "score": 27.27,
+      "appearances": 44,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "clash royale tycoon",
+      "score": 24.988,
+      "appearances": 58,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "clash royale de brainrot",
+      "score": 23.29,
+      "appearances": 46,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "clash royale rng",
+      "score": 11.278,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "clash royale quiz",
+      "score": 9.559,
+      "appearances": 16,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "clash royale td",
+      "score": 8.768,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "clash royale rp",
+      "score": 8.73,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "clash royale evolution",
+      "score": 7.653,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "clash royale simulator",
+      "score": 7.56,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "clash royale pero roblox",
+      "score": 5.968,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "clash royale of temu",
+      "score": 5.67,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "clash royale roblox",
+      "score": 5.66,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "clash royale games",
+      "score": 5.655,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "clash royale en roblox",
+      "score": 5.608,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "clash royale modded",
+      "score": 5.267,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "clash royale avatars",
+      "score": 5.19,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "clash royale clash royale",
+      "score": 4.802,
+      "appearances": 11,
+      "bestRank": 2
+    },
+    {
+      "rank": 22,
+      "text": "clash royale vs brainrots",
+      "score": 4.802,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "clash royale stehlen",
+      "score": 4.415,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "clash royale kartlarını bul",
+      "score": 3.97,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "clash royale but roblox",
+      "score": 3.873,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "clash royale no roblox",
+      "score": 3.439,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "clash royale bulma",
+      "score": 3.331,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "clash royale roleplay",
+      "score": 3.253,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "clash royale obby",
+      "score": 3.16,
+      "appearances": 8,
+      "bestRank": 3
+    },
+    {
+      "rank": 30,
+      "text": "clash royale 3d",
+      "score": 2.897,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "clash royale guess who",
+      "score": 2.614,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "clash royale guess",
+      "score": 2.399,
+      "appearances": 7,
+      "bestRank": 3
+    },
+    {
+      "rank": 33,
+      "text": "clash royale de construcción",
+      "score": 2.246,
+      "appearances": 4,
+      "bestRank": 2
+    },
+    {
+      "rank": 34,
+      "text": "clash royale morphs",
+      "score": 2.246,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "clash royale bulmaca",
+      "score": 2.091,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "clash royale steal",
+      "score": 2.091,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "clash royale avatar",
+      "score": 1.936,
+      "appearances": 3,
+      "bestRank": 2
+    },
+    {
+      "rank": 38,
+      "text": "clash royale moded",
+      "score": 1.839,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "clash royale outfits",
+      "score": 1.549,
+      "appearances": 3,
+      "bestRank": 3
+    },
+    {
+      "rank": 40,
+      "text": "clash royale tower",
+      "score": 1.394,
+      "appearances": 3,
+      "bestRank": 4
+    },
+    {
+      "rank": 41,
+      "text": "clash royale find",
+      "score": 1.264,
+      "appearances": 6,
+      "bestRank": 2
+    },
+    {
+      "rank": 42,
+      "text": "clash royale but in roblox",
+      "score": 1.239,
+      "appearances": 3,
+      "bestRank": 3
+    },
+    {
+      "rank": 43,
+      "text": "clash royale age perfect",
+      "score": 1.193,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "clash royale çal",
+      "score": 1.162,
+      "appearances": 3,
+      "bestRank": 6
+    },
+    {
+      "rank": 45,
+      "text": "clash royale on roblox",
+      "score": 1.084,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 46,
+      "text": "clash royale steal a brainrot",
+      "score": 0.868,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "clash royale battleground",
+      "score": 0.852,
+      "appearances": 2,
+      "bestRank": 5
+    },
+    {
+      "rank": 48,
+      "text": "clash royale in roblox",
+      "score": 0.775,
+      "appearances": 3,
+      "bestRank": 7
+    },
+    {
+      "rank": 49,
+      "text": "clash royale but on roblox",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 50,
+      "text": "clash royale card",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal a Brainrot",
+      "rawName": "[💀] Steal a Brainrot",
+      "playerCount": 115649,
+      "url": "https://www.roblox.com/games/109983668079237/Steal-a-Brainrot",
+      "foundBy": "clash royale brainrot"
+    },
+    {
+      "name": "The Strongest Battlegrounds",
+      "rawName": "[HALLOWEEN] The Strongest Battlegrounds",
+      "playerCount": 39655,
+      "url": "https://www.roblox.com/games/10449761463/The-Strongest-Battlegrounds",
+      "foundBy": "clash royale battlegrounds"
+    },
+    {
+      "name": "Unstable SMP FFA",
+      "rawName": "Unstable SMP FFA [JAVA PVP!]",
+      "playerCount": 17568,
+      "url": "https://www.roblox.com/games/76870565041704/Unstable-SMP-FFA",
+      "foundBy": "clash royale quiz"
+    },
+    {
+      "name": "LINE UP! Metro Tycoon",
+      "rawName": "LINE UP! Metro Tycoon",
+      "playerCount": 12159,
+      "url": "https://www.roblox.com/games/76792629643884/LINE-UP-Metro-Tycoon",
+      "foundBy": "clash royale tycoon"
+    },
+    {
+      "name": "Chaos Battlegrounds",
+      "rawName": "Chaos Battlegrounds",
+      "playerCount": 8563,
+      "url": "https://www.roblox.com/games/92311277052316/Chaos-Battlegrounds",
+      "foundBy": "clash royale battlegrounds"
+    },
+    {
+      "name": "Toilet Tower Defense",
+      "rawName": "[✨CHANGES] Toilet Tower Defense",
+      "playerCount": 7977,
+      "url": "https://www.roblox.com/games/13775256536/Toilet-Tower-Defense",
+      "foundBy": "clash royale tower defense"
+    },
+    {
+      "name": "1 8 KIT PVP",
+      "rawName": "[Cosmetics!] 1.8 KIT PVP",
+      "playerCount": 5556,
+      "url": "https://www.roblox.com/games/72393956865647/1-8-KIT-PVP",
+      "foundBy": "clash royale quiz"
+    },
+    {
+      "name": "Elemental Powers Tycoon",
+      "rawName": "Elemental Powers Tycoon",
+      "playerCount": 4443,
+      "url": "https://www.roblox.com/games/10253248401/Elemental-Powers-Tycoon",
+      "foundBy": "clash royale tycoon"
+    },
+    {
+      "name": "Legends Battlegrounds",
+      "rawName": "Legends Battlegrounds",
+      "playerCount": 3901,
+      "url": "https://www.roblox.com/games/15269951959/Legends-Battlegrounds",
+      "foundBy": "clash royale battlegrounds"
+    },
+    {
+      "name": "Cliff Mansion Tycoon",
+      "rawName": "[V4] Cliff Mansion Tycoon",
+      "playerCount": 2995,
+      "url": "https://www.roblox.com/games/88015023779741/Cliff-Mansion-Tycoon",
+      "foundBy": "clash royale tycoon"
+    },
+    {
+      "name": "All Star Tower Defense",
+      "rawName": "[OG] All Star Tower Defense",
+      "playerCount": 2758,
+      "url": "https://www.roblox.com/games/4996049426/All-Star-Tower-Defense",
+      "foundBy": "clash royale td"
+    },
+    {
+      "name": "Ultimate Battlegrounds",
+      "rawName": "Ultimate Battlegrounds",
+      "playerCount": 2180,
+      "url": "https://www.roblox.com/games/11815767793/Ultimate-Battlegrounds",
+      "foundBy": "clash royale battlegrounds"
+    },
+    {
+      "name": "Sorcerer Tower Defense",
+      "rawName": "Sorcerer Tower Defense [NAOYA]",
+      "playerCount": 1697,
+      "url": "https://www.roblox.com/games/17720162456/Sorcerer-Tower-Defense",
+      "foundBy": "clash royale tower defense"
+    },
+    {
+      "name": "Alliance Tower Defense!",
+      "rawName": "[⭐ MINI-UPDATE ⭐] Alliance Tower Defense! ⚔️",
+      "playerCount": 1609,
+      "url": "https://www.roblox.com/games/99703116573266/Alliance-Tower-Defense",
+      "foundBy": "clash royale tower defense"
+    },
+    {
+      "name": "Case Simulator RNG",
+      "rawName": "Case Simulator RNG [🔥UPD]",
+      "playerCount": 1595,
+      "url": "https://www.roblox.com/games/125906853713277/Case-Simulator-RNG",
+      "foundBy": "clash royale rng"
+    },
+    {
+      "name": "Power RNG",
+      "rawName": "[PART 1/2] Power RNG 👊",
+      "playerCount": 1305,
+      "url": "https://www.roblox.com/games/128683354289764/Power-RNG",
+      "foundBy": "clash royale rng"
+    },
+    {
+      "name": "SNACK Defense!",
+      "rawName": "[X2!🔥] SNACK Defense! ",
+      "playerCount": 1165,
+      "url": "https://www.roblox.com/games/99714898369873/SNACK-Defense",
+      "foundBy": "clash royale td"
+    },
+    {
+      "name": "Speed Clicker",
+      "rawName": "Speed Clicker ⚡",
+      "playerCount": 1065,
+      "url": "https://www.roblox.com/games/140374914197602/Speed-Clicker",
+      "foundBy": "clash royale clicker"
+    },
+    {
+      "name": "Dudes Battlegrounds",
+      "rawName": "Dudes Battlegrounds",
+      "playerCount": 943,
+      "url": "https://www.roblox.com/games/14835828495/Dudes-Battlegrounds",
+      "foundBy": "clash royale quiz"
+    },
+    {
+      "name": "KJ Test",
+      "rawName": "KJ Test",
+      "playerCount": 826,
+      "url": "https://www.roblox.com/games/75753413268977/KJ-Test",
+      "foundBy": "clash royale quiz"
+    },
+    {
+      "name": "Chaotic Battlegrounds",
+      "rawName": "[FREE] Chaotic Battlegrounds",
+      "playerCount": 770,
+      "url": "https://www.roblox.com/games/109680150977787/Chaotic-Battlegrounds",
+      "foundBy": "clash royale battlegrounds"
+    },
+    {
+      "name": "Toilet Masters Tower Defense",
+      "rawName": "[⌛NEW] Toilet Masters Tower Defense",
+      "playerCount": 607,
+      "url": "https://www.roblox.com/games/78656041389908/Toilet-Masters-Tower-Defense",
+      "foundBy": "clash royale tower defense"
+    },
+    {
+      "name": "Build a base RNG",
+      "rawName": "Build a base RNG",
+      "playerCount": 594,
+      "url": "https://www.roblox.com/games/99108783264633/Build-a-base-RNG",
+      "foundBy": "clash royale rng"
+    },
+    {
+      "name": "Hold the Last Line!",
+      "rawName": "[🔥Brainrot BOSS🤢]Hold the Last Line!🔫🧟‍♂️🧟‍♀️",
+      "playerCount": 567,
+      "url": "https://www.roblox.com/games/131068932321596/Hold-the-Last-Line",
+      "foundBy": "clash royale brainrot"
+    },
+    {
+      "name": "Super Hero Tycoon",
+      "rawName": "Super Hero Tycoon",
+      "playerCount": 535,
+      "url": "https://www.roblox.com/games/574407221/Super-Hero-Tycoon",
+      "foundBy": "clash royale tycoon"
+    },
+    {
+      "name": "Angry Birds Tower Defense",
+      "rawName": "Angry Birds Tower Defense ",
+      "playerCount": 517,
+      "url": "https://www.roblox.com/games/95568014894521/Angry-Birds-Tower-Defense",
+      "foundBy": "clash royale tower defense"
+    },
+    {
+      "name": "Sakadung Apple Tower Defense",
+      "rawName": "[UPDATE ✨] Sakadung Apple Tower Defense",
+      "playerCount": 390,
+      "url": "https://www.roblox.com/games/139459378578728/Sakadung-Apple-Tower-Defense",
+      "foundBy": "clash royale td"
+    },
+    {
+      "name": "Be a Brainrot",
+      "rawName": "Be a Brainrot",
+      "playerCount": 370,
+      "url": "https://www.roblox.com/games/105626692504093/Be-a-Brainrot",
+      "foundBy": "clash royale de brainrot"
+    },
+    {
+      "name": "Drill Blocks for Brainrots",
+      "rawName": "Drill Blocks for Brainrots",
+      "playerCount": 367,
+      "url": "https://www.roblox.com/games/78177131121429/Drill-Blocks-for-Brainrots",
+      "foundBy": "clash royale de brainrot"
+    },
+    {
+      "name": "Zombie Battle Tycoon",
+      "rawName": "[UPD] 🧟 Zombie Battle Tycoon 🧟",
+      "playerCount": 278,
+      "url": "https://www.roblox.com/games/11877743732/Zombie-Battle-Tycoon",
+      "foundBy": "clash royale tycoon"
+    }
+  ]
+}
