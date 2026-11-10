@@ -1,0 +1,1089 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-162513-escape",
+    "genre": "escape",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T16:25:13Z",
+    "finishedAt": "2026-11-10T16:36:18Z",
+    "issue": null,
+    "genreWords": [
+      "escape"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Tsunami Brainrot Escape",
+      "score": 446.755,
+      "words": [
+        "Tsunami",
+        "Brainrot",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape tsunami for brainrots",
+        "escape lava for brainrot",
+        "escape tsunami for lucky block"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "School Prison Escape",
+      "score": 309.502,
+      "words": [
+        "School",
+        "Prison",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape school",
+        "escape prison",
+        "escape school together"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Room Sealed Castle Escape",
+      "score": 269.18,
+      "words": [
+        "Room",
+        "Sealed",
+        "Castle",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape room",
+        "escape room 99",
+        "escape room the sealed castle"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Running Head Eyes Escape",
+      "score": 249.19,
+      "words": [
+        "Running",
+        "Head",
+        "Eyes",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape running head",
+        "escape running head 2",
+        "escape running head eyes"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Room Horror Escape",
+      "score": 212.392,
+      "words": [
+        "Room",
+        "Horror",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape room",
+        "escape room 99",
+        "escape room the sealed castle"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Lava Brainrot Escape",
+      "score": 191.004,
+      "words": [
+        "Lava",
+        "Brainrot",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape tsunami for brainrots",
+        "escape the lava",
+        "escape lava for brainrot"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Room Scary Escape",
+      "score": 169.186,
+      "words": [
+        "Room",
+        "Scary",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape room",
+        "escape room 99",
+        "escape room the sealed castle"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "School Together Escape",
+      "score": 164.461,
+      "words": [
+        "School",
+        "Together",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape school",
+        "escape school together",
+        "escape school obby"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Running Head Felipe Escape",
+      "score": 158.96,
+      "words": [
+        "Running",
+        "Head",
+        "Felipe",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape running head",
+        "escape running head 2",
+        "escape running head eyes"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Tsunami Lucky Block Escape",
+      "score": 151.67,
+      "words": [
+        "Tsunami",
+        "Lucky",
+        "Block",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape tsunami for brainrots",
+        "escape tsunami for lucky block",
+        "escape waves for lucky blocks"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Room Police Escape",
+      "score": 134.973,
+      "words": [
+        "Room",
+        "Police",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape room",
+        "escape room 99",
+        "escape police for brainrots"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "School Bully Escape",
+      "score": 131.064,
+      "words": [
+        "School",
+        "Bully",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape school",
+        "escape school together",
+        "escape school obby"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Quicksand Brainrot Escape",
+      "score": 120.067,
+      "words": [
+        "Quicksand",
+        "Brainrot",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape tsunami for brainrots",
+        "escape lava for brainrot",
+        "escape police for brainrots"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Buddy Prison Escape",
+      "score": 117.476,
+      "words": [
+        "Buddy",
+        "Prison",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape prison",
+        "escape buddy",
+        "escape from prison"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Room Deluxe Escape",
+      "score": 107.717,
+      "words": [
+        "Room",
+        "Deluxe",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape room",
+        "escape room 99",
+        "escape room the sealed castle"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Tsunami Eggs Escape",
+      "score": 106.129,
+      "words": [
+        "Tsunami",
+        "Eggs",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape tsunami for brainrots",
+        "escape tsunami for lucky block",
+        "escape quicksand for eggs"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "School Breakout Escape",
+      "score": 103.974,
+      "words": [
+        "School",
+        "Breakout",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape school",
+        "escape school together",
+        "escape school obby"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Running Head Girl Escape",
+      "score": 100.772,
+      "words": [
+        "Running",
+        "Head",
+        "Girl",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape running head",
+        "escape running head 2",
+        "escape running head eyes"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Maze Brainrot Escape",
+      "score": 94.083,
+      "words": [
+        "Maze",
+        "Brainrot",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape tsunami for brainrots",
+        "escape lava for brainrot",
+        "escape police for brainrots"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Verity Carnival Escape",
+      "score": 89.76,
+      "words": [
+        "Verity",
+        "Carnival",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape the carnival",
+        "escape verity",
+        "escape carnival"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Room Academy Escape",
+      "score": 84.526,
+      "words": [
+        "Room",
+        "Academy",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape room",
+        "escape room 99",
+        "escape room the sealed castle"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Tsunami Modded Escape",
+      "score": 84.209,
+      "words": [
+        "Tsunami",
+        "Modded",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape tsunami for brainrots",
+        "escape tsunami for lucky block",
+        "escape tsunami for brainrots m"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "School Team Work Escape",
+      "score": 83.141,
+      "words": [
+        "School",
+        "Team",
+        "Work",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape school",
+        "escape school together",
+        "escape school obby"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Pizza Prison Escape",
+      "score": 78.86,
+      "words": [
+        "Pizza",
+        "Prison",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape prison",
+        "escape papa pizza",
+        "escape from prison"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Jail Brainrots Escape",
+      "score": 74.521,
+      "words": [
+        "Jail",
+        "Brainrots",
+        "Escape"
+      ],
+      "supportedBy": [
+        "escape tsunami for brainrots",
+        "escape lava for brainrot",
+        "escape police for brainrots"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "escape",
+      "score": 1524.558
+    },
+    {
+      "text": "escape room",
+      "score": 265.594
+    },
+    {
+      "text": "room",
+      "score": 257.402
+    },
+    {
+      "text": "escape tsunami",
+      "score": 234.383
+    },
+    {
+      "text": "tsunami brainrots",
+      "score": 214.411
+    },
+    {
+      "text": "escape school",
+      "score": 195.795
+    },
+    {
+      "text": "school",
+      "score": 195.644
+    },
+    {
+      "text": "brainrots",
+      "score": 177.673
+    },
+    {
+      "text": "obby",
+      "score": 167.163
+    },
+    {
+      "text": "tsunami",
+      "score": 161.877
+    },
+    {
+      "text": "escape running",
+      "score": 127.561
+    },
+    {
+      "text": "escape obby",
+      "score": 127.152
+    },
+    {
+      "text": "running head",
+      "score": 125.44
+    },
+    {
+      "text": "prison",
+      "score": 112.888
+    },
+    {
+      "text": "escape prison",
+      "score": 97.574
+    },
+    {
+      "text": "head",
+      "score": 96.007
+    },
+    {
+      "text": "running",
+      "score": 85.943
+    },
+    {
+      "text": "carnival",
+      "score": 81.754
+    },
+    {
+      "text": "escape carnival",
+      "score": 77.171
+    },
+    {
+      "text": "lava",
+      "score": 54.493
+    },
+    {
+      "text": "escape lava",
+      "score": 49.511
+    },
+    {
+      "text": "teclado",
+      "score": 46.507
+    },
+    {
+      "text": "escape teclado",
+      "score": 43.832
+    },
+    {
+      "text": "keyboard",
+      "score": 33.983
+    },
+    {
+      "text": "escape buddy",
+      "score": 33.443
+    },
+    {
+      "text": "buddy",
+      "score": 33.043
+    },
+    {
+      "text": "escape keyboard",
+      "score": 23.973
+    },
+    {
+      "text": "escape zoo",
+      "score": 15.127
+    },
+    {
+      "text": "zoo",
+      "score": 15.119
+    },
+    {
+      "text": "lucky blocks",
+      "score": 14.223
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "escape room",
+      "score": 452.9,
+      "appearances": 674,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "escape tsunami for brainrots",
+      "score": 411.018,
+      "appearances": 653,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "escape school",
+      "score": 314.588,
+      "appearances": 641,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "escape running head",
+      "score": 207.71,
+      "appearances": 602,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "escape obby",
+      "score": 204.781,
+      "appearances": 485,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "escape prison",
+      "score": 172.736,
+      "appearances": 404,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "escape the carnival",
+      "score": 144.006,
+      "appearances": 526,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "escape del teclado",
+      "score": 82.312,
+      "appearances": 358,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "escape the lava",
+      "score": 65.808,
+      "appearances": 428,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "escape buddy",
+      "score": 62.994,
+      "appearances": 143,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "escape",
+      "score": 44.377,
+      "appearances": 62,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "escape keyboard",
+      "score": 40.799,
+      "appearances": 95,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "escape the zoo",
+      "score": 27.006,
+      "appearances": 97,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "escape the momster",
+      "score": 24.652,
+      "appearances": 74,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "escape from granny",
+      "score": 24.587,
+      "appearances": 59,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "escape lava for brainrot",
+      "score": 23.82,
+      "appearances": 55,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "escape papa pizza",
+      "score": 18.022,
+      "appearances": 139,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "escape school together",
+      "score": 13.867,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "escape school obby",
+      "score": 13.45,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "escape obby school",
+      "score": 12.917,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "escape tsunami for lucky block",
+      "score": 12.797,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "escape room 99",
+      "score": 12.759,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "escape police for brainrots",
+      "score": 11.951,
+      "appearances": 34,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "escape room the sealed castle",
+      "score": 11.777,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "escape quicksand",
+      "score": 11.694,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "escape del mono",
+      "score": 11.437,
+      "appearances": 45,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "escape school bully obby",
+      "score": 10.829,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "escape room obby",
+      "score": 10.246,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "escape obby scary",
+      "score": 10.015,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "escape maze for brainrot",
+      "score": 9.811,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "escape waves for lucky blocks",
+      "score": 9.364,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "escape piggy obby",
+      "score": 9.279,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "escape room deluxe",
+      "score": 9.241,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "escape de lengua",
+      "score": 8.908,
+      "appearances": 49,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "escape grandma",
+      "score": 8.701,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "escape house arrest simulator",
+      "score": 8.627,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "escape running head 2",
+      "score": 8.601,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "escape baby bobby",
+      "score": 8.4,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "escape verity",
+      "score": 8.346,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "escape obby for brainrots",
+      "score": 8.256,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "escape cheese",
+      "score": 7.881,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 42,
+      "text": "escape rooms",
+      "score": 7.343,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "escape the funnel",
+      "score": 6.971,
+      "appearances": 28,
+      "bestRank": 6
+    },
+    {
+      "rank": 44,
+      "text": "escape da vovó",
+      "score": 6.971,
+      "appearances": 20,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "escape running head eyes",
+      "score": 6.886,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 46,
+      "text": "escape running head 3",
+      "score": 6.815,
+      "appearances": 30,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "escape robux",
+      "score": 6.564,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "escape room 5",
+      "score": 6.512,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "escape school team work obby",
+      "score": 6.202,
+      "appearances": 24,
+      "bestRank": 4
+    },
+    {
+      "rank": 50,
+      "text": "escape waves for brain rot",
+      "score": 6.147,
+      "appearances": 12,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "1 Speed Keyboard Escape Candy & Chocolate",
+      "rawName": "+1 Speed Keyboard Escape | Candy & Chocolate",
+      "playerCount": 22457,
+      "url": "https://www.roblox.com/games/95082159892680/1-Speed-Keyboard-Escape-Candy-Chocolate",
+      "foundBy": "escape"
+    },
+    {
+      "name": "BARRY'S PRISON RUN!",
+      "rawName": "🚨BARRY'S PRISON RUN! (OBBY)",
+      "playerCount": 13301,
+      "url": "https://www.roblox.com/games/8712817601/BARRYS-PRISON-RUN",
+      "foundBy": "escape"
+    },
+    {
+      "name": "Prison Life",
+      "rawName": "Prison Life",
+      "playerCount": 5415,
+      "url": "https://www.roblox.com/games/155615604/Prison-Life",
+      "foundBy": "escape prison"
+    },
+    {
+      "name": "Riot City Prison Escape",
+      "rawName": "[🐫New Heist!] Riot City 🚨 Prison Escape",
+      "playerCount": 5013,
+      "url": "https://www.roblox.com/games/113745337705295/Riot-City-Prison-Escape",
+      "foundBy": "escape prison"
+    },
+    {
+      "name": "Escape Running Head",
+      "rawName": "Escape Running Head",
+      "playerCount": 4769,
+      "url": "https://www.roblox.com/games/6205205961/Escape-Running-Head",
+      "foundBy": "escape"
+    },
+    {
+      "name": "Jailbreak",
+      "rawName": "Jailbreak 🍁🍁",
+      "playerCount": 4732,
+      "url": "https://www.roblox.com/games/606849621/Jailbreak",
+      "foundBy": "escape prison"
+    },
+    {
+      "name": "Dig to Escape",
+      "rawName": "⛏️Dig to Escape",
+      "playerCount": 4652,
+      "url": "https://www.roblox.com/games/92122513197996/Dig-to-Escape",
+      "foundBy": "escape"
+    },
+    {
+      "name": "Escape Tsunami For Brainrots!",
+      "rawName": "[🌊] Escape Tsunami For Brainrots!",
+      "playerCount": 3387,
+      "url": "https://www.roblox.com/games/131623223084840/Escape-Tsunami-For-Brainrots",
+      "foundBy": "escape"
+    },
+    {
+      "name": "Punch Out Of Prison",
+      "rawName": "Punch Out Of Prison",
+      "playerCount": 3237,
+      "url": "https://www.roblox.com/games/87263150662976/Punch-Out-Of-Prison",
+      "foundBy": "escape prison"
+    },
+    {
+      "name": "Team School Breakout!",
+      "rawName": "Team School Breakout! (TEAMWORK OBBY)",
+      "playerCount": 3225,
+      "url": "https://www.roblox.com/games/14301835518/Team-School-Breakout",
+      "foundBy": "escape school"
+    },
+    {
+      "name": "Escape Waves For Lucky Blocks",
+      "rawName": "Escape Waves For Lucky Blocks",
+      "playerCount": 2861,
+      "url": "https://www.roblox.com/games/119579217517090/Escape-Waves-For-Lucky-Blocks",
+      "foundBy": "escape tsunami for brainrots"
+    },
+    {
+      "name": "The Floor Is LAVA!",
+      "rawName": "The Floor Is LAVA!🔥",
+      "playerCount": 2797,
+      "url": "https://www.roblox.com/games/815405518/The-Floor-Is-LAVA",
+      "foundBy": "escape the lava"
+    },
+    {
+      "name": "Prison RP",
+      "rawName": "Prison RP 🚨",
+      "playerCount": 2211,
+      "url": "https://www.roblox.com/games/107377364123237/Prison-RP",
+      "foundBy": "escape prison"
+    },
+    {
+      "name": "Escape The Carnival of Terror Obby!",
+      "rawName": "Escape The Carnival of Terror Obby! ",
+      "playerCount": 2094,
+      "url": "https://www.roblox.com/games/6153766069/Escape-The-Carnival-of-Terror-Obby",
+      "foundBy": "escape"
+    },
+    {
+      "name": "Escape The Jungle",
+      "rawName": "[C5] Escape The Jungle",
+      "playerCount": 1875,
+      "url": "https://www.roblox.com/games/71977599723985/Escape-The-Jungle",
+      "foundBy": "escape"
+    },
+    {
+      "name": "GREAT SCHOOL BREAKOUT!",
+      "rawName": "GREAT SCHOOL BREAKOUT! (First Person Obby)",
+      "playerCount": 1845,
+      "url": "https://www.roblox.com/games/9099326192/GREAT-SCHOOL-BREAKOUT",
+      "foundBy": "escape"
+    },
+    {
+      "name": "1 Speed Beach Keyboard Escape",
+      "rawName": "🏖️ +1 Speed Beach Keyboard Escape",
+      "playerCount": 1725,
+      "url": "https://www.roblox.com/games/84315667725978/1-Speed-Beach-Keyboard-Escape",
+      "foundBy": "escape del teclado"
+    },
+    {
+      "name": "Escape The Lava",
+      "rawName": "Escape The Lava 🔥",
+      "playerCount": 1458,
+      "url": "https://www.roblox.com/games/140481779622210/Escape-The-Lava",
+      "foundBy": "escape the lava"
+    },
+    {
+      "name": "Escape Prison with a Toothpick",
+      "rawName": "[CHAPTER 2] Escape Prison with a Toothpick",
+      "playerCount": 1391,
+      "url": "https://www.roblox.com/games/97558736105724/Escape-Prison-with-a-Toothpick",
+      "foundBy": "escape prison"
+    },
+    {
+      "name": "VERITY'S PIZZERIA RUN!",
+      "rawName": "VERITY'S PIZZERIA RUN! (Obby)",
+      "playerCount": 1316,
+      "url": "https://www.roblox.com/games/122109241424385/VERITYS-PIZZERIA-RUN",
+      "foundBy": "escape obby"
+    },
+    {
+      "name": "Escape Papa Pizza's Pizzeria!",
+      "rawName": "Escape Papa Pizza's Pizzeria! (SCARY OBBY)",
+      "playerCount": 1302,
+      "url": "https://www.roblox.com/games/6939111033/Escape-Papa-Pizzas-Pizzeria",
+      "foundBy": "escape"
+    },
+    {
+      "name": "ESCAPE CLUB Escape Rooms",
+      "rawName": "ESCAPE CLUB | Escape Rooms",
+      "playerCount": 1279,
+      "url": "https://www.roblox.com/games/127014048665608/unnamed",
+      "foundBy": "escape room"
+    },
+    {
+      "name": "Escape Traffic",
+      "rawName": "Escape Traffic",
+      "playerCount": 1216,
+      "url": "https://www.roblox.com/games/80313924189207/Escape-Traffic",
+      "foundBy": "escape room"
+    },
+    {
+      "name": "The Button Room",
+      "rawName": "The Button Room",
+      "playerCount": 1186,
+      "url": "https://www.roblox.com/games/106187832607756/The-Button-Room",
+      "foundBy": "escape room"
+    },
+    {
+      "name": "Escape Playground Obby",
+      "rawName": "Escape Playground Obby",
+      "playerCount": 749,
+      "url": "https://www.roblox.com/games/76870741008359/Escape-Playground-Obby",
+      "foundBy": "escape"
+    },
+    {
+      "name": "Escape Angry Head",
+      "rawName": "Escape Angry Head",
+      "playerCount": 719,
+      "url": "https://www.roblox.com/games/16867505761/Escape-Angry-Head",
+      "foundBy": "escape running head"
+    },
+    {
+      "name": "1 TREADMILL THE BEST!",
+      "rawName": "+1 TREADMILL THE BEST!",
+      "playerCount": 704,
+      "url": "https://www.roblox.com/games/112520542193137/1-TREADMILL-THE-BEST",
+      "foundBy": "escape del teclado"
+    },
+    {
+      "name": "CHOPPER'S CARNIVAL BREAKOUT",
+      "rawName": "CHOPPER'S CARNIVAL BREAKOUT (SCARY OBBY)",
+      "playerCount": 635,
+      "url": "https://www.roblox.com/games/18849239381/CHOPPERS-CARNIVAL-BREAKOUT",
+      "foundBy": "escape the carnival"
+    },
+    {
+      "name": "TSUNAMI TYCOON X9000000 s ETFB",
+      "rawName": "💸 TSUNAMI TYCOON X9000000/s ETFB",
+      "playerCount": 635,
+      "url": "https://www.roblox.com/games/102940632365660/TSUNAMI-TYCOON-X9000000-s-ETFB",
+      "foundBy": "escape tsunami for brainrots"
+    },
+    {
+      "name": "Survive LAVA for Brainrots!",
+      "rawName": "Survive LAVA for Brainrots!",
+      "playerCount": 628,
+      "url": "https://www.roblox.com/games/119987266683883/Survive-LAVA-for-Brainrots",
+      "foundBy": "escape the lava"
+    }
+  ]
+}

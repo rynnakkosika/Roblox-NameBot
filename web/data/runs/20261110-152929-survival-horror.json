@@ -1,0 +1,690 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-152929-survival-horror",
+    "genre": "survival horror",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T15:29:29Z",
+    "finishedAt": "2026-11-10T15:40:37Z",
+    "issue": null,
+    "genreWords": [
+      "survival",
+      "horror"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Steal Brainrots Survival Horror",
+      "score": 34.714,
+      "words": [
+        "Steal",
+        "Brainrots",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": [
+        "survive horror for brainrot"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Survival Horror",
+      "score": 33.055,
+      "words": [
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": [
+        "survival horror games",
+        "survival horror game",
+        "survival horror"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Bunker Zombies Survival Horror",
+      "score": 29.584,
+      "words": [
+        "Bunker",
+        "Zombies",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 4,
+      "name": "Lethal Ape Survival Horror",
+      "score": 29.531,
+      "words": [
+        "Lethal",
+        "Ape",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 5,
+      "name": "Run Brainrots Survival Horror",
+      "score": 27.678,
+      "words": [
+        "Run",
+        "Brainrots",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": [
+        "survive horror for brainrot"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Malam Sama Survival Horror",
+      "score": 26.669,
+      "words": [
+        "Malam",
+        "Sama",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 7,
+      "name": "Scary Elevator Survival Horror",
+      "score": 26.608,
+      "words": [
+        "Scary",
+        "Elevator",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 8,
+      "name": "Survival Horror Camping",
+      "score": 25.847,
+      "words": [
+        "Survival",
+        "Horror",
+        "Camping"
+      ],
+      "supportedBy": [
+        "survival horror camping games"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Apocalypse Survival Horror",
+      "score": 25.819,
+      "words": [
+        "Apocalypse",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": [
+        "survival the apocalypse",
+        "survive the apocalypse tycoon"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Overnight Mega Survival Horror",
+      "score": 25.56,
+      "words": [
+        "Overnight",
+        "Mega",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 11,
+      "name": "Natural Disaster Survival Horror",
+      "score": 25.39,
+      "words": [
+        "Natural",
+        "Disaster",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": [
+        "survive horror disaster"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Fatal Baboons Survival Horror",
+      "score": 25.369,
+      "words": [
+        "Fatal",
+        "Baboons",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 13,
+      "name": "Alone Anomalies Survival Horror",
+      "score": 25.366,
+      "words": [
+        "Alone",
+        "Anomalies",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 14,
+      "name": "Scare Neighbor Survival Horror",
+      "score": 25.113,
+      "words": [
+        "Scare",
+        "Neighbor",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 15,
+      "name": "South Hell Survival Horror",
+      "score": 24.649,
+      "words": [
+        "South",
+        "Hell",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 16,
+      "name": "Ate Them Survival Horror",
+      "score": 24.43,
+      "words": [
+        "Ate",
+        "Them",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 17,
+      "name": "Zombies Rush Survival Horror",
+      "score": 23.545,
+      "words": [
+        "Zombies",
+        "Rush",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 18,
+      "name": "Build Survival Horror",
+      "score": 23.528,
+      "words": [
+        "Build",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Forest Survival Horror",
+      "score": 23.152,
+      "words": [
+        "Forest",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 20,
+      "name": "Ideas Survival Horror",
+      "score": 22.963,
+      "words": [
+        "Ideas",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Experience Survival Horror",
+      "score": 22.669,
+      "words": [
+        "Experience",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Opah Survival Horror",
+      "score": 22.612,
+      "words": [
+        "Opah",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 23,
+      "name": "Backrooms Survival Horror",
+      "score": 22.41,
+      "words": [
+        "Backrooms",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Store Survival Horror",
+      "score": 22.355,
+      "words": [
+        "Store",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Sunyi Survival Horror",
+      "score": 22.33,
+      "words": [
+        "Sunyi",
+        "Survival",
+        "Horror"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "survival horror",
+      "score": 41.221
+    },
+    {
+      "text": "survival",
+      "score": 46.848
+    },
+    {
+      "text": "horror",
+      "score": 43.645
+    },
+    {
+      "text": "brainrots",
+      "score": 10.961
+    },
+    {
+      "text": "zombies",
+      "score": 5.996
+    },
+    {
+      "text": "apocalypse",
+      "score": 5.208
+    },
+    {
+      "text": "nights",
+      "score": 4.765
+    },
+    {
+      "text": "horror camping",
+      "score": 4.488
+    },
+    {
+      "text": "elevator",
+      "score": 4.001
+    },
+    {
+      "text": "ape",
+      "score": 3.965
+    },
+    {
+      "text": "lethal",
+      "score": 3.965
+    },
+    {
+      "text": "malam",
+      "score": 3.557
+    },
+    {
+      "text": "camping",
+      "score": 2.992
+    },
+    {
+      "text": "build",
+      "score": 2.917
+    },
+    {
+      "text": "overnight",
+      "score": 2.769
+    },
+    {
+      "text": "anomalies",
+      "score": 2.719
+    },
+    {
+      "text": "run",
+      "score": 2.652
+    },
+    {
+      "text": "bunker",
+      "score": 2.587
+    },
+    {
+      "text": "forest",
+      "score": 2.541
+    },
+    {
+      "text": "steal",
+      "score": 2.514
+    },
+    {
+      "text": "tycoon",
+      "score": 2.441
+    },
+    {
+      "text": "ideas",
+      "score": 2.352
+    },
+    {
+      "text": "baboons",
+      "score": 2.115
+    },
+    {
+      "text": "fatal",
+      "score": 2.115
+    },
+    {
+      "text": "experience",
+      "score": 2.059
+    },
+    {
+      "text": "neighbor",
+      "score": 2.001
+    },
+    {
+      "text": "scare",
+      "score": 2.001
+    },
+    {
+      "text": "opah",
+      "score": 2.001
+    },
+    {
+      "text": "sama",
+      "score": 2.001
+    },
+    {
+      "text": "lethal ape",
+      "score": 1.982
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "survival horror games",
+      "score": 32.191,
+      "appearances": 50,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "survival horror game",
+      "score": 28.831,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "survival horror",
+      "score": 12.444,
+      "appearances": 16,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "survival horror camping games",
+      "score": 8.976,
+      "appearances": 17,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "99 Nights in the Forest",
+      "rawName": "99 Nights in the Forest 🔦",
+      "playerCount": 120778,
+      "url": "https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest",
+      "foundBy": "survival horror camping games"
+    },
+    {
+      "name": "Steal a Brainrot",
+      "rawName": "[💀] Steal a Brainrot",
+      "playerCount": 106613,
+      "url": "https://www.roblox.com/games/109983668079237/Steal-a-Brainrot",
+      "foundBy": "survive horror for brainrot"
+    },
+    {
+      "name": "Survive Your Ideas",
+      "rawName": "Survive Your Ideas",
+      "playerCount": 50696,
+      "url": "https://www.roblox.com/games/77900175935766/Survive-Your-Ideas",
+      "foundBy": "survivial horror"
+    },
+    {
+      "name": "Fatal Baboons",
+      "rawName": "[🧪NEW LAB] Fatal Baboons",
+      "playerCount": 16982,
+      "url": "https://www.roblox.com/games/93660722909304/Fatal-Baboons",
+      "foundBy": "survival horror"
+    },
+    {
+      "name": "Lethal Ape Experience",
+      "rawName": "[🎃] Lethal Ape Experience",
+      "playerCount": 13098,
+      "url": "https://www.roblox.com/games/117713779364528/Lethal-Ape-Experience",
+      "foundBy": "survival horror"
+    },
+    {
+      "name": "Scare Your Neighbor",
+      "rawName": "Scare Your Neighbor",
+      "playerCount": 10042,
+      "url": "https://www.roblox.com/games/124710677460732/Scare-Your-Neighbor",
+      "foundBy": "survive horror game tycoon"
+    },
+    {
+      "name": "MALAM SAMA OPAH",
+      "rawName": "MALAM SAMA OPAH ",
+      "playerCount": 10040,
+      "url": "https://www.roblox.com/games/91246277860636/MALAM-SAMA-OPAH",
+      "foundBy": "survival horor"
+    },
+    {
+      "name": "Survive the Apocalypse",
+      "rawName": "[⚒️UPD] 🧟 Survive the Apocalypse",
+      "playerCount": 7476,
+      "url": "https://www.roblox.com/games/90148635862803/Survive-the-Apocalypse",
+      "foundBy": "survival the apocalypse"
+    },
+    {
+      "name": "Natural Disaster Survival",
+      "rawName": "Natural Disaster Survival",
+      "playerCount": 6581,
+      "url": "https://www.roblox.com/games/189707/Natural-Disaster-Survival",
+      "foundBy": "survival horror camping games"
+    },
+    {
+      "name": "Lethal Ape",
+      "rawName": "Lethal Ape (Big Update)",
+      "playerCount": 6488,
+      "url": "https://www.roblox.com/games/15318113891/Lethal-Ape",
+      "foundBy": "survival horor"
+    },
+    {
+      "name": "Zombie Rush Survival",
+      "rawName": "Zombie Rush Survival 🧟‍♂️",
+      "playerCount": 5839,
+      "url": "https://www.roblox.com/games/82457571485380/Zombie-Rush-Survival",
+      "foundBy": "survival the apocalypse"
+    },
+    {
+      "name": "Backrooms",
+      "rawName": "Backrooms",
+      "playerCount": 3962,
+      "url": "https://www.roblox.com/games/9273658706/Backrooms",
+      "foundBy": "survival horror"
+    },
+    {
+      "name": "South Hell",
+      "rawName": "South Hell [HORROR]",
+      "playerCount": 3887,
+      "url": "https://www.roblox.com/games/119901987045648/South-Hell",
+      "foundBy": "survivial horror"
+    },
+    {
+      "name": "الشايب",
+      "rawName": "الشايب [رعب]",
+      "playerCount": 3308,
+      "url": "https://www.roblox.com/games/105392365120750/unnamed",
+      "foundBy": "survivial horror"
+    },
+    {
+      "name": "Survive Overnight in a Mega Store",
+      "rawName": "Survive Overnight in a Mega Store",
+      "playerCount": 3082,
+      "url": "https://www.roblox.com/games/127380660530951/Survive-Overnight-in-a-Mega-Store",
+      "foundBy": "survival horror"
+    },
+    {
+      "name": "Build to Survive",
+      "rawName": "Build to Survive 🛠️ ",
+      "playerCount": 3075,
+      "url": "https://www.roblox.com/games/6382584061/Build-to-Survive",
+      "foundBy": "survive horror game tycoon"
+    },
+    {
+      "name": "SUNYI",
+      "rawName": "SUNYI [HORROR]",
+      "playerCount": 2742,
+      "url": "https://www.roblox.com/games/94629611849859/SUNYI",
+      "foundBy": "survival horor"
+    },
+    {
+      "name": "Survive the Killer!",
+      "rawName": "🔪Survive the Killer!",
+      "playerCount": 2662,
+      "url": "https://www.roblox.com/games/4580204640/Survive-the-Killer",
+      "foundBy": "survive horror game"
+    },
+    {
+      "name": "he ate them",
+      "rawName": "he ate them. [HORROR]",
+      "playerCount": 2480,
+      "url": "https://www.roblox.com/games/127877871885165/he-ate-them",
+      "foundBy": "survival horror"
+    },
+    {
+      "name": "Home Alone: Anomalies",
+      "rawName": "Home Alone: Anomalies",
+      "playerCount": 1806,
+      "url": "https://www.roblox.com/games/87468080405188/Home-Alone-Anomalies",
+      "foundBy": "survival horor"
+    },
+    {
+      "name": "Fear Elevator",
+      "rawName": "Fear Elevator 😱",
+      "playerCount": 1407,
+      "url": "https://www.roblox.com/games/6383408360/Fear-Elevator",
+      "foundBy": "survival horror"
+    },
+    {
+      "name": "Defend Bunker from Zombies",
+      "rawName": "Defend Bunker from Zombies 🧟",
+      "playerCount": 1331,
+      "url": "https://www.roblox.com/games/134361906638337/Defend-Bunker-from-Zombies",
+      "foundBy": "survival the apocalypse"
+    },
+    {
+      "name": "Deadly Camp",
+      "rawName": "Deadly Camp [⛺]",
+      "playerCount": 1300,
+      "url": "https://www.roblox.com/games/17157963133/Deadly-Camp",
+      "foundBy": "survival horror camping games"
+    },
+    {
+      "name": "Malam Bersama Kaka",
+      "rawName": "Malam Bersama Kaka [HOROR]",
+      "playerCount": 1295,
+      "url": "https://www.roblox.com/games/106473672978445/Malam-Bersama-Kaka",
+      "foundBy": "survival horor"
+    },
+    {
+      "name": "Apocalypse Rising 2",
+      "rawName": "Apocalypse Rising 2",
+      "playerCount": 1282,
+      "url": "https://www.roblox.com/games/863266079/Apocalypse-Rising-2",
+      "foundBy": "survival the apocalypse"
+    },
+    {
+      "name": "Fallen Survival",
+      "rawName": "[5X] Fallen Survival🏹",
+      "playerCount": 1274,
+      "url": "https://www.roblox.com/games/10228136016/Fallen-Survival",
+      "foundBy": "survival horor"
+    },
+    {
+      "name": "Insane Elevator!",
+      "rawName": "Insane Elevator!",
+      "playerCount": 1249,
+      "url": "https://www.roblox.com/games/4104106043/Insane-Elevator",
+      "foundBy": "survive horror games"
+    },
+    {
+      "name": "Run For Brainrots!",
+      "rawName": "Run For Brainrots!",
+      "playerCount": 972,
+      "url": "https://www.roblox.com/games/94702395375549/Run-For-Brainrots",
+      "foundBy": "survive horror for brainrot"
+    },
+    {
+      "name": "DANGEROUS NIGHT",
+      "rawName": "DANGEROUS NIGHT [FURNISH THE BUNKER]",
+      "playerCount": 850,
+      "url": "https://www.roblox.com/games/109686116036889/DANGEROUS-NIGHT",
+      "foundBy": "survival horror camping games"
+    },
+    {
+      "name": "PREHISTORIC",
+      "rawName": "PREHISTORIC [HORROR]",
+      "playerCount": 659,
+      "url": "https://www.roblox.com/games/73642977127763/PREHISTORIC",
+      "foundBy": "survival horror"
+    }
+  ]
+}

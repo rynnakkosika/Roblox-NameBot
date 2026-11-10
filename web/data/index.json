@@ -2,6 +2,105 @@
   "schemaVersion": 1,
   "runs": [
     {
+      "runId": "20261110-172044-village",
+      "genre": "village",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T17:31:50Z",
+      "topName": "Versus Zombies Village Survival"
+    },
+    {
+      "runId": "20261110-170938-lake",
+      "genre": "lake",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T17:20:43Z",
+      "topName": "Lake Territory"
+    },
+    {
+      "runId": "20261110-165831-swamp",
+      "genre": "swamp",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T17:09:37Z",
+      "topName": "Slap Tower Swamp Simulator"
+    },
+    {
+      "runId": "20261110-164725-co-op-horror",
+      "genre": "co op horror",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T16:58:31Z",
+      "topName": "Co Op Horror Doors Escape"
+    },
+    {
+      "runId": "20261110-163618-nights",
+      "genre": "nights",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T16:47:24Z",
+      "topName": "Nights Forest Roleplay"
+    },
+    {
+      "runId": "20261110-162513-escape",
+      "genre": "escape",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T16:36:18Z",
+      "topName": "Tsunami Brainrot Escape"
+    },
+    {
+      "runId": "20261110-161407-killer",
+      "genre": "killer",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T16:25:12Z",
+      "topName": "Killer Not Murder Mystery"
+    },
+    {
+      "runId": "20261110-160301-monster",
+      "genre": "monster",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T16:14:06Z",
+      "topName": "Monster Trucks"
+    },
+    {
+      "runId": "20261110-155153-scary",
+      "genre": "scary",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T16:02:59Z",
+      "topName": "Scary Shawarma"
+    },
+    {
+      "runId": "20261110-154045-horror",
+      "genre": "horror",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T15:51:52Z",
+      "topName": "Horror Obby"
+    },
+    {
+      "runId": "20261110-152929-survival-horror",
+      "genre": "survival horror",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-10T15:40:37Z",
+      "topName": "Steal Brainrots Survival Horror"
+    },
+    {
       "runId": "20261109-153847-roleplay",
       "genre": "roleplay",
       "budget": 1000,

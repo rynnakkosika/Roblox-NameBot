@@ -1,0 +1,989 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-170938-lake",
+    "genre": "lake",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T17:09:38Z",
+    "finishedAt": "2026-11-10T17:20:43Z",
+    "issue": null,
+    "genreWords": [
+      "lake"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Lake Territory",
+      "score": 68.092,
+      "words": [
+        "Lake",
+        "Territory"
+      ],
+      "supportedBy": [
+        "lake territory",
+        "lake territory reborn",
+        "lake territory warrior cats"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Lake County Stables",
+      "score": 67.072,
+      "words": [
+        "Lake",
+        "County",
+        "Stables"
+      ],
+      "supportedBy": [
+        "lake county stables",
+        "lake country stables",
+        "lake county stables equest"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Make Movie Lake Simulator",
+      "score": 50.742,
+      "words": [
+        "Make",
+        "Movie",
+        "Lake",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "make a movie",
+        "make a cartoon",
+        "make a pancake"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Lake Ozark",
+      "score": 40.518,
+      "words": [
+        "Lake",
+        "Ozark"
+      ],
+      "supportedBy": [
+        "lake ozark",
+        "lake ozark racing"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Lake Territory Reborn",
+      "score": 38.121,
+      "words": [
+        "Lake",
+        "Territory",
+        "Reborn"
+      ],
+      "supportedBy": [
+        "lake territory",
+        "lake territory reborn",
+        "lakeside tales reborn"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Steal Egg Lake RP",
+      "score": 38.036,
+      "words": [
+        "Steal",
+        "Egg",
+        "Lake",
+        "RP"
+      ],
+      "supportedBy": [
+        "fake an egg",
+        "like together rp",
+        "fake an egg modded"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Make Tower Lake Roleplay",
+      "score": 30.599,
+      "words": [
+        "Make",
+        "Tower",
+        "Lake",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "make a movie",
+        "make a cartoon",
+        "make a pancake"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Lake Block",
+      "score": 29.919,
+      "words": [
+        "Lake",
+        "Block"
+      ],
+      "supportedBy": [
+        "lake block",
+        "take a lucky block",
+        "lucky block world"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Lake Territory Warrior Cats",
+      "score": 29.708,
+      "words": [
+        "Lake",
+        "Territory",
+        "Warrior",
+        "Cats"
+      ],
+      "supportedBy": [
+        "lake territory",
+        "lake territory reborn",
+        "lake territory warrior cats"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Lake County Stables Equest",
+      "score": 26.79,
+      "words": [
+        "Lake",
+        "County",
+        "Stables",
+        "Equest"
+      ],
+      "supportedBy": [
+        "lake county stables",
+        "lake country stables",
+        "lake county stables equest"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Fake Egg Lake Simulator",
+      "score": 25.797,
+      "words": [
+        "Fake",
+        "Egg",
+        "Lake",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "fake an egg",
+        "fake a brainrot",
+        "fake mm2"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Make Hospital Lake Survival",
+      "score": 22.819,
+      "words": [
+        "Make",
+        "Hospital",
+        "Lake",
+        "Survival"
+      ],
+      "supportedBy": [
+        "make a movie",
+        "make a cartoon",
+        "make a pancake"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Lake Territory Tycoon",
+      "score": 18.774,
+      "words": [
+        "Lake",
+        "Territory",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "lake territory",
+        "lake territory reborn",
+        "make a movie tycoon"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Steal Egg Lake Obby",
+      "score": 17.31,
+      "words": [
+        "Steal",
+        "Egg",
+        "Lake",
+        "Obby"
+      ],
+      "supportedBy": [
+        "fake an egg",
+        "make a obby",
+        "fake an egg modded"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Bake Die Lake Simulator",
+      "score": 16.97,
+      "words": [
+        "Bake",
+        "Die",
+        "Lake",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "bake or die",
+        "fake dead or die",
+        "bake or died"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Lake Ozark Racing",
+      "score": 16.588,
+      "words": [
+        "Lake",
+        "Ozark",
+        "Racing"
+      ],
+      "supportedBy": [
+        "lake ozark",
+        "lake ozark racing"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Make Up Lake",
+      "score": 16.454,
+      "words": [
+        "Make",
+        "Up",
+        "Lake"
+      ],
+      "supportedBy": [
+        "make a movie",
+        "make a cartoon",
+        "make a pancake"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Lake Falls Medical",
+      "score": 14.399,
+      "words": [
+        "Lake",
+        "Falls",
+        "Medical"
+      ],
+      "supportedBy": [
+        "lakefalls medical",
+        "lake falls medical",
+        "lakefalls medical gp simulator"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Lake Box",
+      "score": 14.047,
+      "words": [
+        "Lake",
+        "Box"
+      ],
+      "supportedBy": [
+        "lake box games",
+        "lake box",
+        "like box"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Make Troll Lake",
+      "score": 13.071,
+      "words": [
+        "Make",
+        "Troll",
+        "Lake"
+      ],
+      "supportedBy": [
+        "make a movie",
+        "make a cartoon",
+        "make a pancake"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Lake Territory RP",
+      "score": 12.987,
+      "words": [
+        "Lake",
+        "Territory",
+        "RP"
+      ],
+      "supportedBy": [
+        "lake territory",
+        "lake territory reborn",
+        "like together rp"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Fake Egg Lake",
+      "score": 11.838,
+      "words": [
+        "Fake",
+        "Egg",
+        "Lake"
+      ],
+      "supportedBy": [
+        "fake an egg",
+        "fake a brainrot",
+        "fake mm2"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Lake County",
+      "score": 11.531,
+      "words": [
+        "Lake",
+        "County"
+      ],
+      "supportedBy": [
+        "lake county stables",
+        "lake county stables equest",
+        "oak county stables testing"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Hug Pass Lake Roleplay",
+      "score": 11.418,
+      "words": [
+        "Hug",
+        "Pass",
+        "Lake",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "like or pass",
+        "like or pass games",
+        "like or pass avatar"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Boys Girls Lake Simulator",
+      "score": 10.714,
+      "words": [
+        "Boys",
+        "Girls",
+        "Lake",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "lakefalls medical gp simulator",
+        "leg lifting simulator",
+        "make it louder simulator"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "lake",
+      "score": 80.67
+    },
+    {
+      "text": "make",
+      "score": 28.141
+    },
+    {
+      "text": "lake territory",
+      "score": 23.854
+    },
+    {
+      "text": "territory",
+      "score": 22.566
+    },
+    {
+      "text": "egg",
+      "score": 19.107
+    },
+    {
+      "text": "county stables",
+      "score": 15.581
+    },
+    {
+      "text": "lake county",
+      "score": 15.537
+    },
+    {
+      "text": "ozark",
+      "score": 12.227
+    },
+    {
+      "text": "lake ozark",
+      "score": 12.134
+    },
+    {
+      "text": "stables",
+      "score": 11.864
+    },
+    {
+      "text": "steal",
+      "score": 11.032
+    },
+    {
+      "text": "county",
+      "score": 10.248
+    },
+    {
+      "text": "movie",
+      "score": 9.332
+    },
+    {
+      "text": "die",
+      "score": 9.313
+    },
+    {
+      "text": "block",
+      "score": 8.666
+    },
+    {
+      "text": "lake block",
+      "score": 8.501
+    },
+    {
+      "text": "fake",
+      "score": 7.88
+    },
+    {
+      "text": "simulator",
+      "score": 7.605
+    },
+    {
+      "text": "box",
+      "score": 6.805
+    },
+    {
+      "text": "lake box",
+      "score": 6.739
+    },
+    {
+      "text": "tower",
+      "score": 6.108
+    },
+    {
+      "text": "steal egg",
+      "score": 5.511
+    },
+    {
+      "text": "medical",
+      "score": 5.286
+    },
+    {
+      "text": "hospital",
+      "score": 5.211
+    },
+    {
+      "text": "hug",
+      "score": 5.157
+    },
+    {
+      "text": "pass",
+      "score": 4.788
+    },
+    {
+      "text": "bake",
+      "score": 4.654
+    },
+    {
+      "text": "girls",
+      "score": 4.414
+    },
+    {
+      "text": "boys",
+      "score": 4.387
+    },
+    {
+      "text": "territory reborn",
+      "score": 4.259
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "lake territory",
+      "score": 33.599,
+      "appearances": 60,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "lake county stables",
+      "score": 29.402,
+      "appearances": 47,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "lake ozark",
+      "score": 22.224,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "lake block",
+      "score": 17.002,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "lake box games",
+      "score": 9.605,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "lake territory reborn",
+      "score": 7.449,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "lake ellis",
+      "score": 5.655,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "lake house",
+      "score": 5.633,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "lake sipping",
+      "score": 5.015,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "lake falls medical",
+      "score": 4.863,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "lake box",
+      "score": 3.873,
+      "appearances": 6,
+      "bestRank": 2
+    },
+    {
+      "rank": 12,
+      "text": "lake territory warrior cats",
+      "score": 2.51,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "lake country stables",
+      "score": 2.479,
+      "appearances": 4,
+      "bestRank": 2
+    },
+    {
+      "rank": 14,
+      "text": "lake quill",
+      "score": 2.324,
+      "appearances": 4,
+      "bestRank": 2
+    },
+    {
+      "rank": 15,
+      "text": "lake county stables equest",
+      "score": 1.673,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "lake or pass",
+      "score": 1.639,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "lake view hospital",
+      "score": 1.549,
+      "appearances": 3,
+      "bestRank": 3
+    },
+    {
+      "rank": 18,
+      "text": "lake huss",
+      "score": 1.512,
+      "appearances": 4,
+      "bestRank": 4
+    },
+    {
+      "rank": 19,
+      "text": "lake",
+      "score": 1.397,
+      "appearances": 2,
+      "bestRank": 2
+    },
+    {
+      "rank": 20,
+      "text": "lake ozark racing",
+      "score": 1.394,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "lake territories",
+      "score": 0.976,
+      "appearances": 3,
+      "bestRank": 4
+    },
+    {
+      "rank": 22,
+      "text": "lake side",
+      "score": 0.93,
+      "appearances": 2,
+      "bestRank": 4
+    },
+    {
+      "rank": 23,
+      "text": "lake territory beta",
+      "score": 0.79,
+      "appearances": 2,
+      "bestRank": 2
+    },
+    {
+      "rank": 24,
+      "text": "lake territory reborn beta",
+      "score": 0.79,
+      "appearances": 2,
+      "bestRank": 2
+    },
+    {
+      "rank": 25,
+      "text": "lake of hell",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 26,
+      "text": "lake showcase",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 27,
+      "text": "lake phone",
+      "score": 0.62,
+      "appearances": 1,
+      "bestRank": 3
+    },
+    {
+      "rank": 28,
+      "text": "lake drink",
+      "score": 0.542,
+      "appearances": 1,
+      "bestRank": 4
+    },
+    {
+      "rank": 29,
+      "text": "lake view",
+      "score": 0.542,
+      "appearances": 1,
+      "bestRank": 4
+    },
+    {
+      "rank": 30,
+      "text": "lake wood",
+      "score": 0.465,
+      "appearances": 1,
+      "bestRank": 5
+    },
+    {
+      "rank": 31,
+      "text": "lake diving",
+      "score": 0.31,
+      "appearances": 1,
+      "bestRank": 7
+    },
+    {
+      "rank": 32,
+      "text": "lake territories reborn",
+      "score": 0.279,
+      "appearances": 1,
+      "bestRank": 5
+    },
+    {
+      "rank": 33,
+      "text": "lake bucket",
+      "score": 0.232,
+      "appearances": 1,
+      "bestRank": 8
+    },
+    {
+      "rank": 34,
+      "text": "lake house horror",
+      "score": 0.18,
+      "appearances": 1,
+      "bestRank": 8
+    },
+    {
+      "rank": 35,
+      "text": "lake falls medical simulator",
+      "score": 0.139,
+      "appearances": 1,
+      "bestRank": 6
+    },
+    {
+      "rank": 36,
+      "text": "lake falls medical roblox",
+      "score": 0.112,
+      "appearances": 1,
+      "bestRank": 7
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 740587,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "fake an egg"
+    },
+    {
+      "name": "DONT SPLASH",
+      "rawName": "DONT SPLASH",
+      "playerCount": 57481,
+      "url": "https://www.roblox.com/games/119958473240233/DONT-SPLASH",
+      "foundBy": "lake"
+    },
+    {
+      "name": "Sell Fries!",
+      "rawName": "Sell Fries! [Anomaly] 🍟",
+      "playerCount": 21247,
+      "url": "https://www.roblox.com/games/94891079210424/Sell-Fries",
+      "foundBy": "bake or die"
+    },
+    {
+      "name": "Fake an Egg",
+      "rawName": "[🧪] Fake an Egg",
+      "playerCount": 13633,
+      "url": "https://www.roblox.com/games/97289366402005/Fake-an-Egg",
+      "foundBy": "fake an egg"
+    },
+    {
+      "name": "Bike For Egg!",
+      "rawName": "Bike For Egg!",
+      "playerCount": 12239,
+      "url": "https://www.roblox.com/games/74023858073178/Bike-For-Egg",
+      "foundBy": "fake an egg"
+    },
+    {
+      "name": "TROLL Hug Tower",
+      "rawName": "TROLL Hug Tower",
+      "playerCount": 11392,
+      "url": "https://www.roblox.com/games/103037106396302/TROLL-Hug-Tower",
+      "foundBy": "like or pass"
+    },
+    {
+      "name": "My Movie",
+      "rawName": "🎥My Movie",
+      "playerCount": 7067,
+      "url": "https://www.roblox.com/games/13600218266/My-Movie",
+      "foundBy": "make a movie"
+    },
+    {
+      "name": "Survive the Apocalypse",
+      "rawName": "[⚒️UPD] 🧟 Survive the Apocalypse",
+      "playerCount": 6586,
+      "url": "https://www.roblox.com/games/90148635862803/Survive-the-Apocalypse",
+      "foundBy": "bake or die"
+    },
+    {
+      "name": "Warrior Cats: Ultimate Edition",
+      "rawName": "Warrior Cats: Ultimate Edition",
+      "playerCount": 6241,
+      "url": "https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition",
+      "foundBy": "lake territory"
+    },
+    {
+      "name": "Maple Hospital",
+      "rawName": "Maple Hospital 🍂",
+      "playerCount": 5752,
+      "url": "https://www.roblox.com/games/8704997000/Maple-Hospital",
+      "foundBy": "lakefalls medical"
+    },
+    {
+      "name": "Mog to Steal an Egg",
+      "rawName": "Mog to Steal an Egg",
+      "playerCount": 4330,
+      "url": "https://www.roblox.com/games/77922212238973/Mog-to-Steal-an-Egg",
+      "foundBy": "fake an egg"
+    },
+    {
+      "name": "Clip It",
+      "rawName": "Clip It 😂🎬👗",
+      "playerCount": 4244,
+      "url": "https://www.roblox.com/games/11765402359/Clip-It",
+      "foundBy": "make a movie"
+    },
+    {
+      "name": "Bake or Die",
+      "rawName": "🍁 Bake or Die 💀 ",
+      "playerCount": 3863,
+      "url": "https://www.roblox.com/games/86479448397834/Bake-or-Die",
+      "foundBy": "bake or die"
+    },
+    {
+      "name": "Ro-BassFishing",
+      "rawName": "Ro-BassFishing [MASSIVEE UPDATE]",
+      "playerCount": 3170,
+      "url": "https://www.roblox.com/games/91708067709254/Ro-BassFishing",
+      "foundBy": "lake ozark"
+    },
+    {
+      "name": "Strideway",
+      "rawName": " [UPD] Strideway",
+      "playerCount": 2928,
+      "url": "https://www.roblox.com/games/17035967585/Strideway",
+      "foundBy": "lake county stables"
+    },
+    {
+      "name": "Would You Rather: Boys & Girls Outfit Tower!",
+      "rawName": "Would You Rather: Boys & Girls Outfit Tower!",
+      "playerCount": 2925,
+      "url": "https://www.roblox.com/games/84525826229916/Would-You-Rather-Boys-Girls-Outfit-Tower",
+      "foundBy": "like or pass"
+    },
+    {
+      "name": "Hug TROLL Tower",
+      "rawName": "Hug TROLL Tower 🤗",
+      "playerCount": 2916,
+      "url": "https://www.roblox.com/games/76516147328757/Hug-TROLL-Tower",
+      "foundBy": "like or pass"
+    },
+    {
+      "name": "Hide to Steal Eggs",
+      "rawName": "Hide to Steal Eggs",
+      "playerCount": 2819,
+      "url": "https://www.roblox.com/games/138903917604369/Hide-to-Steal-Eggs",
+      "foundBy": "fake an egg"
+    },
+    {
+      "name": "Build A Steal An Egg",
+      "rawName": "Build A Steal An Egg",
+      "playerCount": 2415,
+      "url": "https://www.roblox.com/games/129293217952280/Build-A-Steal-An-Egg",
+      "foundBy": "fake an egg"
+    },
+    {
+      "name": "LCS: EQuest",
+      "rawName": "LCS: EQuest",
+      "playerCount": 2287,
+      "url": "https://www.roblox.com/games/75178747054941/LCS-EQuest",
+      "foundBy": "lake county stables"
+    },
+    {
+      "name": "Broodwing",
+      "rawName": "[Peregrine Falcon] Broodwing",
+      "playerCount": 2231,
+      "url": "https://www.roblox.com/games/116189555550783/Broodwing",
+      "foundBy": "lake territory"
+    },
+    {
+      "name": "Lakefalls Medical: GP Simulator",
+      "rawName": "[👶] Lakefalls Medical: GP Simulator 🩺",
+      "playerCount": 1996,
+      "url": "https://www.roblox.com/games/110233092317096/Lakefalls-Medical-GP-Simulator",
+      "foundBy": "lakefalls medical"
+    },
+    {
+      "name": "A Lion's Pride Beta - Lion RP",
+      "rawName": "A Lion's Pride Beta - Lion RP 🦁",
+      "playerCount": 1787,
+      "url": "https://www.roblox.com/games/9922455303/A-Lions-Pride-Beta-Lion-RP",
+      "foundBy": "lake territory"
+    },
+    {
+      "name": "Crown or Jail",
+      "rawName": "Crown or Jail",
+      "playerCount": 1676,
+      "url": "https://www.roblox.com/games/119067038100380/Crown-or-Jail",
+      "foundBy": "like or pass"
+    },
+    {
+      "name": "Make The Character",
+      "rawName": "Make The Character 🧩",
+      "playerCount": 1486,
+      "url": "https://www.roblox.com/games/75002740376179/Make-The-Character",
+      "foundBy": "make a cartoon"
+    },
+    {
+      "name": "Cross Rivers for Animals",
+      "rawName": "[🐣] Cross Rivers for Animals",
+      "playerCount": 1370,
+      "url": "https://www.roblox.com/games/87043539966079/Cross-Rivers-for-Animals",
+      "foundBy": "lake territory"
+    },
+    {
+      "name": "6 Boys Vs 6 Girls - Vote for the BEST",
+      "rawName": "6 Boys Vs 6 Girls - Vote for the BEST",
+      "playerCount": 1061,
+      "url": "https://www.roblox.com/games/80136945409921/6-Boys-Vs-6-Girls-Vote-for-the-BEST",
+      "foundBy": "like or pass"
+    },
+    {
+      "name": "Steal An Egg ROLEPLAY",
+      "rawName": "Steal An Egg ROLEPLAY",
+      "playerCount": 1061,
+      "url": "https://www.roblox.com/games/107725109349532/Steal-An-Egg-ROLEPLAY",
+      "foundBy": "fake an egg"
+    },
+    {
+      "name": "Tundra: Ice Age Survival",
+      "rawName": "[GIANT SLOTH 🦥] Tundra: Ice Age Survival [ALPHA]",
+      "playerCount": 957,
+      "url": "https://www.roblox.com/games/83887832215068/Tundra-Ice-Age-Survival",
+      "foundBy": "lake territory"
+    },
+    {
+      "name": "Boat Crash Simulator",
+      "rawName": "Boat Crash Simulator",
+      "playerCount": 932,
+      "url": "https://www.roblox.com/games/114979615449754/Boat-Crash-Simulator",
+      "foundBy": "lake ozark"
+    }
+  ]
+}

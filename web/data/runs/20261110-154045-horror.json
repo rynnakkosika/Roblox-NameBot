@@ -1,0 +1,1077 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-154045-horror",
+    "genre": "horror",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T15:40:45Z",
+    "finishedAt": "2026-11-10T15:51:52Z",
+    "issue": null,
+    "genreWords": [
+      "horror"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Horror Obby",
+      "score": 888.894,
+      "words": [
+        "Horror",
+        "Obby"
+      ],
+      "supportedBy": [
+        "horror obby",
+        "horror games obby",
+        "horror obby escape"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Shawarma Shop Horror Obby",
+      "score": 559.653,
+      "words": [
+        "Shawarma",
+        "Shop",
+        "Horror",
+        "Obby"
+      ],
+      "supportedBy": [
+        "horror obby",
+        "horror shawarma",
+        "horror shop"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Horror Shawarma",
+      "score": 434.23,
+      "words": [
+        "Horror",
+        "Shawarma"
+      ],
+      "supportedBy": [
+        "horror shawarma",
+        "horror shawarma kiosk",
+        "horror shawarma truck"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "School Multiplayer Horror Obby",
+      "score": 384.136,
+      "words": [
+        "School",
+        "Multiplayer",
+        "Horror",
+        "Obby"
+      ],
+      "supportedBy": [
+        "horror obby",
+        "horror school",
+        "horror games obby"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Elevator Scary Horror Obby",
+      "score": 297.388,
+      "words": [
+        "Elevator",
+        "Scary",
+        "Horror",
+        "Obby"
+      ],
+      "supportedBy": [
+        "horror obby",
+        "horror elevator",
+        "horror games obby"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Horror School",
+      "score": 281.103,
+      "words": [
+        "Horror",
+        "School"
+      ],
+      "supportedBy": [
+        "horror school",
+        "horror school trip",
+        "horror school games"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Horror Opah",
+      "score": 261.462,
+      "words": [
+        "Horror",
+        "Opah"
+      ],
+      "supportedBy": [
+        "horror opah",
+        "horor opah upin ipin",
+        "horror opah anomali"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Midnight Hospital Horror Obby",
+      "score": 218.08,
+      "words": [
+        "Midnight",
+        "Hospital",
+        "Horror",
+        "Obby"
+      ],
+      "supportedBy": [
+        "horror obby",
+        "horror hospital",
+        "horror games obby"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Horror Shawarma Story",
+      "score": 203.748,
+      "words": [
+        "Horror",
+        "Shawarma",
+        "Story"
+      ],
+      "supportedBy": [
+        "horror shawarma",
+        "horror story",
+        "horror games story"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Horror Elevator",
+      "score": 201.369,
+      "words": [
+        "Horror",
+        "Elevator"
+      ],
+      "supportedBy": [
+        "horror elevator",
+        "horror elevator scary",
+        "horror elevator game"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Impact Horror Obby",
+      "score": 169.39,
+      "words": [
+        "Impact",
+        "Horror",
+        "Obby"
+      ],
+      "supportedBy": [
+        "horror obby",
+        "horror impact",
+        "horror games obby"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Horror Shawarma Tycoon",
+      "score": 150.422,
+      "words": [
+        "Horror",
+        "Shawarma",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "horror shawarma",
+        "horror tycoon",
+        "horror shawarma kiosk"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Horror Shop",
+      "score": 142.353,
+      "words": [
+        "Horror",
+        "Shop"
+      ],
+      "supportedBy": [
+        "horror shop",
+        "horror shawarma shop",
+        "horror shop game"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Backrooms Water Horror Obby",
+      "score": 135.441,
+      "words": [
+        "Backrooms",
+        "Water",
+        "Horror",
+        "Obby"
+      ],
+      "supportedBy": [
+        "horror obby",
+        "horror water",
+        "horror games obby"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Horror School Escape",
+      "score": 133.093,
+      "words": [
+        "Horror",
+        "School",
+        "Escape"
+      ],
+      "supportedBy": [
+        "horror school",
+        "horror obby escape",
+        "horror school trip"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Horror Story",
+      "score": 132.524,
+      "words": [
+        "Horror",
+        "Story"
+      ],
+      "supportedBy": [
+        "horror story",
+        "horror games story",
+        "horror stories"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Horror Hospital",
+      "score": 125.554,
+      "words": [
+        "Horror",
+        "Hospital"
+      ],
+      "supportedBy": [
+        "horror hospital",
+        "horror hospital escape",
+        "horror hospital obby"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Horror Impact",
+      "score": 112.323,
+      "words": [
+        "Horror",
+        "Impact"
+      ],
+      "supportedBy": [
+        "horror impact",
+        "horror impact static",
+        "horror impacts"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Cat Hat Horror Obby",
+      "score": 107.774,
+      "words": [
+        "Cat",
+        "Hat",
+        "Horror",
+        "Obby"
+      ],
+      "supportedBy": [
+        "horror obby",
+        "horror cat in the hat",
+        "horror games obby"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Horror Shawarma Kiosk",
+      "score": 107.286,
+      "words": [
+        "Horror",
+        "Shawarma",
+        "Kiosk"
+      ],
+      "supportedBy": [
+        "horror shawarma",
+        "horror shawarma kiosk",
+        "horror shawarma truck"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Horror Opah Tycoon",
+      "score": 103.895,
+      "words": [
+        "Horror",
+        "Opah",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "horror opah",
+        "horror tycoon",
+        "horor opah upin ipin"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Horror School Trip",
+      "score": 94.463,
+      "words": [
+        "Horror",
+        "School",
+        "Trip"
+      ],
+      "supportedBy": [
+        "horror school",
+        "horror school trip",
+        "horror school games"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Horror MM2",
+      "score": 94.289,
+      "words": [
+        "Horror",
+        "MM2"
+      ],
+      "supportedBy": [
+        "horror mm2",
+        "terror analogico mm2"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Horror Elevator Survival",
+      "score": 87.513,
+      "words": [
+        "Horror",
+        "Elevator",
+        "Survival"
+      ],
+      "supportedBy": [
+        "horror elevator",
+        "horror elevator scary",
+        "horror elevator game"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Horror Spider",
+      "score": 86.296,
+      "words": [
+        "Horror",
+        "Spider"
+      ],
+      "supportedBy": [
+        "horror spider",
+        "horror spider game",
+        "horreur spider"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "horror",
+      "score": 1880.366
+    },
+    {
+      "text": "horror obby",
+      "score": 238.801
+    },
+    {
+      "text": "obby",
+      "score": 238.104
+    },
+    {
+      "text": "horror shawarma",
+      "score": 164.725
+    },
+    {
+      "text": "shawarma",
+      "score": 163.132
+    },
+    {
+      "text": "school",
+      "score": 113.607
+    },
+    {
+      "text": "horror school",
+      "score": 111.51
+    },
+    {
+      "text": "elevator",
+      "score": 88.415
+    },
+    {
+      "text": "horror elevator",
+      "score": 82.292
+    },
+    {
+      "text": "opah",
+      "score": 76.554
+    },
+    {
+      "text": "horror opah",
+      "score": 74.967
+    },
+    {
+      "text": "shop",
+      "score": 58.469
+    },
+    {
+      "text": "horror shop",
+      "score": 52.576
+    },
+    {
+      "text": "hospital",
+      "score": 49.637
+    },
+    {
+      "text": "story",
+      "score": 48.574
+    },
+    {
+      "text": "horror story",
+      "score": 46.139
+    },
+    {
+      "text": "horror hospital",
+      "score": 44.108
+    },
+    {
+      "text": "horror impact",
+      "score": 40.417
+    },
+    {
+      "text": "impact",
+      "score": 40.381
+    },
+    {
+      "text": "tycoon",
+      "score": 32.199
+    },
+    {
+      "text": "horror tycoon",
+      "score": 32.058
+    },
+    {
+      "text": "water",
+      "score": 29.496
+    },
+    {
+      "text": "mm2",
+      "score": 26.945
+    },
+    {
+      "text": "horror mm2",
+      "score": 26.937
+    },
+    {
+      "text": "horror water",
+      "score": 26.386
+    },
+    {
+      "text": "spider",
+      "score": 24.85
+    },
+    {
+      "text": "tower",
+      "score": 24.846
+    },
+    {
+      "text": "horror spider",
+      "score": 24.838
+    },
+    {
+      "text": "escape",
+      "score": 21.896
+    },
+    {
+      "text": "horror tower",
+      "score": 21.825
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "horror games",
+      "score": 419.911,
+      "appearances": 594,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "horror obby",
+      "score": 412.337,
+      "appearances": 642,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "horror shawarma",
+      "score": 297.293,
+      "appearances": 525,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "horror school",
+      "score": 182.016,
+      "appearances": 470,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "horror opah",
+      "score": 147.424,
+      "appearances": 335,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "horror elevator",
+      "score": 122.15,
+      "appearances": 237,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "horror shop",
+      "score": 93.185,
+      "appearances": 363,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "horror hospital",
+      "score": 85.251,
+      "appearances": 223,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "horror impact",
+      "score": 79.814,
+      "appearances": 181,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "horror story",
+      "score": 69.725,
+      "appearances": 294,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "horror tycoon",
+      "score": 63.095,
+      "appearances": 163,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "horror",
+      "score": 55.919,
+      "appearances": 79,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "horror mm2",
+      "score": 53.875,
+      "appearances": 154,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "horror spider",
+      "score": 49.028,
+      "appearances": 218,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "horror water",
+      "score": 46.08,
+      "appearances": 114,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "horror cat in the hat",
+      "score": 39.336,
+      "appearances": 110,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "horror tower",
+      "score": 39.185,
+      "appearances": 140,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "horror mansion",
+      "score": 36.014,
+      "appearances": 157,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "horror aufzug",
+      "score": 35.767,
+      "appearances": 88,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "horror games obby",
+      "score": 30.26,
+      "appearances": 69,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "horror monkey",
+      "score": 29.73,
+      "appearances": 201,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "horror games for kids",
+      "score": 24.332,
+      "appearances": 114,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "horror anomaly",
+      "score": 20.555,
+      "appearances": 61,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "horror 2 player",
+      "score": 19.722,
+      "appearances": 49,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "horror house",
+      "score": 18.028,
+      "appearances": 60,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "horror hotel",
+      "score": 17.726,
+      "appearances": 67,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "horror indonesia",
+      "score": 17.042,
+      "appearances": 44,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "horror backrooms",
+      "score": 16.649,
+      "appearances": 54,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "horror experience",
+      "score": 16.642,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "horror gunung",
+      "score": 15.255,
+      "appearances": 50,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "horror obby escape",
+      "score": 12.499,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "horror games 2 player",
+      "score": 12.373,
+      "appearances": 38,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "horror games with guns",
+      "score": 12.324,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "horror games story",
+      "score": 12.211,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "horror hide and seek",
+      "score": 11.076,
+      "appearances": 45,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "horror movie",
+      "score": 9.901,
+      "appearances": 50,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "horror bus",
+      "score": 9.773,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "horror gas station",
+      "score": 9.387,
+      "appearances": 25,
+      "bestRank": 2
+    },
+    {
+      "rank": 39,
+      "text": "horror game",
+      "score": 9.295,
+      "appearances": 12,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "horror vc",
+      "score": 9.14,
+      "appearances": 12,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "horror ice cream",
+      "score": 9.068,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 42,
+      "text": "horror elevator scary",
+      "score": 9.053,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "horror elevator game",
+      "score": 8.999,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "horror halloween",
+      "score": 8.423,
+      "appearances": 37,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "horror my little pony",
+      "score": 8.315,
+      "appearances": 45,
+      "bestRank": 1
+    },
+    {
+      "rank": 46,
+      "text": "horror rp",
+      "score": 8.197,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "horror obby water",
+      "score": 8.185,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "horror shawarma kiosk",
+      "score": 8.121,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "horror stories",
+      "score": 8.009,
+      "appearances": 34,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "horror school trip",
+      "score": 7.916,
+      "appearances": 25,
+      "bestRank": 2
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Sell Fries!",
+      "rawName": "Sell Fries! [Anomaly] 🍟",
+      "playerCount": 20122,
+      "url": "https://www.roblox.com/games/94891079210424/Sell-Fries",
+      "foundBy": "horror shawarma"
+    },
+    {
+      "name": "Fatal Baboons",
+      "rawName": "[🧪NEW LAB] Fatal Baboons",
+      "playerCount": 17004,
+      "url": "https://www.roblox.com/games/93660722909304/Fatal-Baboons",
+      "foundBy": "horror opah"
+    },
+    {
+      "name": "MOUSE",
+      "rawName": "MOUSE 🐭",
+      "playerCount": 13508,
+      "url": "https://www.roblox.com/games/81688312343760/MOUSE",
+      "foundBy": "horror"
+    },
+    {
+      "name": "Lethal Ape Experience",
+      "rawName": "[🎃] Lethal Ape Experience",
+      "playerCount": 13138,
+      "url": "https://www.roblox.com/games/117713779364528/Lethal-Ape-Experience",
+      "foundBy": "horror impact"
+    },
+    {
+      "name": "PINKIE PROMISE",
+      "rawName": "PINKIE PROMISE [HORROR]",
+      "playerCount": 12412,
+      "url": "https://www.roblox.com/games/75815532269840/PINKIE-PROMISE",
+      "foundBy": "horror story"
+    },
+    {
+      "name": "Animal Hospital",
+      "rawName": "Animal Hospital (Anomaly) 🧪",
+      "playerCount": 12383,
+      "url": "https://www.roblox.com/games/78515283254292/Animal-Hospital",
+      "foundBy": "horror hospital"
+    },
+    {
+      "name": "MALAM SAMA OPAH",
+      "rawName": "MALAM SAMA OPAH ",
+      "playerCount": 9247,
+      "url": "https://www.roblox.com/games/91246277860636/MALAM-SAMA-OPAH",
+      "foundBy": "horror opah"
+    },
+    {
+      "name": "Lethal Ape",
+      "rawName": "Lethal Ape (Big Update)",
+      "playerCount": 6285,
+      "url": "https://www.roblox.com/games/15318113891/Lethal-Ape",
+      "foundBy": "horror opah"
+    },
+    {
+      "name": "Aisles Of The Locust",
+      "rawName": "Aisles Of The Locust [CHAPTER 4]",
+      "playerCount": 4910,
+      "url": "https://www.roblox.com/games/134728380684025/Aisles-Of-The-Locust",
+      "foundBy": "horror shop"
+    },
+    {
+      "name": "Backrooms",
+      "rawName": "Backrooms",
+      "playerCount": 4066,
+      "url": "https://www.roblox.com/games/9273658706/Backrooms",
+      "foundBy": "horror"
+    },
+    {
+      "name": "South Hell",
+      "rawName": "South Hell [HORROR]",
+      "playerCount": 3819,
+      "url": "https://www.roblox.com/games/119901987045648/South-Hell",
+      "foundBy": "horror impact"
+    },
+    {
+      "name": "الشايب",
+      "rawName": "الشايب [رعب]",
+      "playerCount": 3233,
+      "url": "https://www.roblox.com/games/105392365120750/unnamed",
+      "foundBy": "horror story"
+    },
+    {
+      "name": "Survive Overnight in a Mega Store",
+      "rawName": "Survive Overnight in a Mega Store",
+      "playerCount": 3097,
+      "url": "https://www.roblox.com/games/127380660530951/Survive-Overnight-in-a-Mega-Store",
+      "foundBy": "horror shawarma"
+    },
+    {
+      "name": "Scary Shawarma Kiosk: the ANOMALY",
+      "rawName": "Scary Shawarma Kiosk: the ANOMALY [horror]",
+      "playerCount": 3043,
+      "url": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY",
+      "foundBy": "horror shawarma"
+    },
+    {
+      "name": "Ice Cream Shop",
+      "rawName": "Ice Cream Shop [Anomaly] 🍦",
+      "playerCount": 2783,
+      "url": "https://www.roblox.com/games/89178939262183/Ice-Cream-Shop",
+      "foundBy": "horror shop"
+    },
+    {
+      "name": "he ate them",
+      "rawName": "he ate them. [HORROR]",
+      "playerCount": 2543,
+      "url": "https://www.roblox.com/games/127877871885165/he-ate-them",
+      "foundBy": "horror"
+    },
+    {
+      "name": "SUNYI",
+      "rawName": "SUNYI [HORROR]",
+      "playerCount": 2496,
+      "url": "https://www.roblox.com/games/94629611849859/SUNYI",
+      "foundBy": "horror school"
+    },
+    {
+      "name": "Climb Scary Worm Tower 3",
+      "rawName": "Climb Scary Worm Tower 3",
+      "playerCount": 2276,
+      "url": "https://www.roblox.com/games/136070094363960/Climb-Scary-Worm-Tower-3",
+      "foundBy": "horror obby"
+    },
+    {
+      "name": "Escape The Carnival of Terror Obby!",
+      "rawName": "Escape The Carnival of Terror Obby! ",
+      "playerCount": 2259,
+      "url": "https://www.roblox.com/games/6153766069/Escape-The-Carnival-of-Terror-Obby",
+      "foundBy": "horror obby"
+    },
+    {
+      "name": "GREAT SCHOOL BREAKOUT!",
+      "rawName": "GREAT SCHOOL BREAKOUT! (First Person Obby)",
+      "playerCount": 1989,
+      "url": "https://www.roblox.com/games/9099326192/GREAT-SCHOOL-BREAKOUT",
+      "foundBy": "horror school"
+    },
+    {
+      "name": "THRESHOLD",
+      "rawName": "[UPD 2.1 🎃] THRESHOLD",
+      "playerCount": 1928,
+      "url": "https://www.roblox.com/games/78453398695059/THRESHOLD",
+      "foundBy": "horror impact"
+    },
+    {
+      "name": "Break In",
+      "rawName": "Break In (Story)",
+      "playerCount": 1910,
+      "url": "https://www.roblox.com/games/3851622790/Break-In",
+      "foundBy": "horror story"
+    },
+    {
+      "name": "Cheese Escape",
+      "rawName": "Cheese Escape [Horror]",
+      "playerCount": 1485,
+      "url": "https://www.roblox.com/games/5777099015/Cheese-Escape",
+      "foundBy": "horror"
+    },
+    {
+      "name": "Escape Papa Pizza's Pizzeria!",
+      "rawName": "Escape Papa Pizza's Pizzeria! (SCARY OBBY)",
+      "playerCount": 1465,
+      "url": "https://www.roblox.com/games/6939111033/Escape-Papa-Pizzas-Pizzeria",
+      "foundBy": "horror"
+    },
+    {
+      "name": "Fear Elevator",
+      "rawName": "Fear Elevator 😱",
+      "playerCount": 1372,
+      "url": "https://www.roblox.com/games/6383408360/Fear-Elevator",
+      "foundBy": "horror obby"
+    },
+    {
+      "name": "Motel Maniac",
+      "rawName": "Motel Maniac [HORROR]",
+      "playerCount": 1364,
+      "url": "https://www.roblox.com/games/89544555099898/Motel-Maniac",
+      "foundBy": "horror"
+    },
+    {
+      "name": "Field Trip Z",
+      "rawName": "Field Trip Z",
+      "playerCount": 1336,
+      "url": "https://www.roblox.com/games/4954096313/Field-Trip-Z",
+      "foundBy": "horror school"
+    },
+    {
+      "name": "Insane Elevator!",
+      "rawName": "Insane Elevator!",
+      "playerCount": 1292,
+      "url": "https://www.roblox.com/games/4104106043/Insane-Elevator",
+      "foundBy": "horror elevator"
+    },
+    {
+      "name": "Insane Elevator Testing",
+      "rawName": "Insane Elevator Testing",
+      "playerCount": 1142,
+      "url": "https://www.roblox.com/games/9120716669/Insane-Elevator-Testing",
+      "foundBy": "horror elevator"
+    },
+    {
+      "name": "The Morgue Shift",
+      "rawName": "[🎃] The Morgue Shift",
+      "playerCount": 993,
+      "url": "https://www.roblox.com/games/122093998639862/The-Morgue-Shift",
+      "foundBy": "horror hospital"
+    }
+  ]
+}

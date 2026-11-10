@@ -1,0 +1,715 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-164725-co-op-horror",
+    "genre": "co op horror",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T16:47:25Z",
+    "finishedAt": "2026-11-10T16:58:31Z",
+    "issue": null,
+    "genreWords": [
+      "co",
+      "op",
+      "horror"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Co Op Horror Doors Escape",
+      "score": 18.564,
+      "words": [
+        "Co",
+        "Op",
+        "Horror",
+        "Doors",
+        "Escape"
+      ],
+      "supportedBy": [
+        "door horror game"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Co Op Horror Doors Survival",
+      "score": 12.069,
+      "words": [
+        "Co",
+        "Op",
+        "Horror",
+        "Doors",
+        "Survival"
+      ],
+      "supportedBy": [
+        "door horror game"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Backrooms Co Op Horror Escape",
+      "score": 11.851,
+      "words": [
+        "Backrooms",
+        "Co",
+        "Op",
+        "Horror",
+        "Escape"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 4,
+      "name": "He Ate Co Op Horror",
+      "score": 9.934,
+      "words": [
+        "He",
+        "Ate",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 5,
+      "name": "Village Shop Co Op Horror",
+      "score": 9.41,
+      "words": [
+        "Village",
+        "Shop",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": [
+        "shop horror game"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Co Op Horror Doors RP",
+      "score": 9.251,
+      "words": [
+        "Co",
+        "Op",
+        "Horror",
+        "Doors",
+        "RP"
+      ],
+      "supportedBy": [
+        "door horror game"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Scary Midnight Co Op Horror",
+      "score": 8.703,
+      "words": [
+        "Scary",
+        "Midnight",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 8,
+      "name": "Co Op Horror Night Escape",
+      "score": 8.57,
+      "words": [
+        "Co",
+        "Op",
+        "Horror",
+        "Night",
+        "Escape"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 9,
+      "name": "Fear Elevator Co Op Horror",
+      "score": 8.495,
+      "words": [
+        "Fear",
+        "Elevator",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 10,
+      "name": "Sell Fries Co Op Horror",
+      "score": 8.26,
+      "words": [
+        "Sell",
+        "Fries",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 11,
+      "name": "Fatal Baboons Co Op Horror",
+      "score": 8.15,
+      "words": [
+        "Fatal",
+        "Baboons",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 12,
+      "name": "Scare Neighbor Co Op Horror",
+      "score": 7.935,
+      "words": [
+        "Scare",
+        "Neighbor",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 13,
+      "name": "South Hell Co Op Horror",
+      "score": 7.525,
+      "words": [
+        "South",
+        "Hell",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 14,
+      "name": "Malam Sama Co Op Horror",
+      "score": 7.503,
+      "words": [
+        "Malam",
+        "Sama",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 15,
+      "name": "Unseen Liminality Co Op Horror",
+      "score": 7.489,
+      "words": [
+        "Unseen",
+        "Liminality",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 16,
+      "name": "Mega Store Co Op Horror",
+      "score": 7.36,
+      "words": [
+        "Mega",
+        "Store",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 17,
+      "name": "Survive Overnight Co Op Horror",
+      "score": 7.36,
+      "words": [
+        "Survive",
+        "Overnight",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 18,
+      "name": "Ice Cream Co Op Horror",
+      "score": 7.282,
+      "words": [
+        "Ice",
+        "Cream",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Backrooms Co Op Horror Survival",
+      "score": 7.255,
+      "words": [
+        "Backrooms",
+        "Co",
+        "Op",
+        "Horror",
+        "Survival"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 20,
+      "name": "Alone Anomalies Co Op Horror",
+      "score": 7.098,
+      "words": [
+        "Alone",
+        "Anomalies",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Motel Maniac Co Op Horror",
+      "score": 7.015,
+      "words": [
+        "Motel",
+        "Maniac",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Papa Pizzas Co Op Horror",
+      "score": 6.927,
+      "words": [
+        "Papa",
+        "Pizzas",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 23,
+      "name": "Ate Them Co Op Horror",
+      "score": 6.762,
+      "words": [
+        "Ate",
+        "Them",
+        "Co",
+        "Op",
+        "Horror"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Co Op Horror Nightmare Escape",
+      "score": 6.295,
+      "words": [
+        "Co",
+        "Op",
+        "Horror",
+        "Nightmare",
+        "Escape"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Co Op Horror Doors",
+      "score": 6.157,
+      "words": [
+        "Co",
+        "Op",
+        "Horror",
+        "Doors"
+      ],
+      "supportedBy": [
+        "door horror game"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "co op horror",
+      "score": 0
+    },
+    {
+      "text": "co",
+      "score": 3.458
+    },
+    {
+      "text": "op",
+      "score": 3.458
+    },
+    {
+      "text": "horror",
+      "score": 2.413
+    },
+    {
+      "text": "doors",
+      "score": 8.63
+    },
+    {
+      "text": "backrooms",
+      "score": 4.88
+    },
+    {
+      "text": "escape",
+      "score": 4.36
+    },
+    {
+      "text": "night",
+      "score": 3.456
+    },
+    {
+      "text": "scary",
+      "score": 3.129
+    },
+    {
+      "text": "elevator",
+      "score": 3.123
+    },
+    {
+      "text": "shop",
+      "score": 3.06
+    },
+    {
+      "text": "ate",
+      "score": 2.907
+    },
+    {
+      "text": "village",
+      "score": 2.626
+    },
+    {
+      "text": "nightmare",
+      "score": 2.361
+    },
+    {
+      "text": "fries",
+      "score": 2.163
+    },
+    {
+      "text": "sell",
+      "score": 2.163
+    },
+    {
+      "text": "baboons",
+      "score": 2.114
+    },
+    {
+      "text": "fatal",
+      "score": 2.114
+    },
+    {
+      "text": "survival",
+      "score": 2.041
+    },
+    {
+      "text": "neighbor",
+      "score": 2.018
+    },
+    {
+      "text": "scare",
+      "score": 2.018
+    },
+    {
+      "text": "midnight",
+      "score": 1.974
+    },
+    {
+      "text": "hell",
+      "score": 1.836
+    },
+    {
+      "text": "south",
+      "score": 1.836
+    },
+    {
+      "text": "malam",
+      "score": 1.826
+    },
+    {
+      "text": "sama",
+      "score": 1.826
+    },
+    {
+      "text": "liminality",
+      "score": 1.82
+    },
+    {
+      "text": "unseen",
+      "score": 1.82
+    },
+    {
+      "text": "mega",
+      "score": 1.763
+    },
+    {
+      "text": "overnight",
+      "score": 1.763
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "co op horror games",
+      "score": 2.924,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "co op horror",
+      "score": 2.659,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "co op horror extraction",
+      "score": 0.465,
+      "appearances": 1,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "DOORS",
+      "rawName": "DOORS 👁️",
+      "playerCount": 21226,
+      "url": "https://www.roblox.com/games/6516141723/DOORS",
+      "foundBy": "coop horror"
+    },
+    {
+      "name": "Sell Fries!",
+      "rawName": "Sell Fries! [Anomaly] 🍟",
+      "playerCount": 21149,
+      "url": "https://www.roblox.com/games/94891079210424/Sell-Fries",
+      "foundBy": "shop horror game"
+    },
+    {
+      "name": "Fatal Baboons",
+      "rawName": "[🧪NEW LAB] Fatal Baboons",
+      "playerCount": 16901,
+      "url": "https://www.roblox.com/games/93660722909304/Fatal-Baboons",
+      "foundBy": "good horror game"
+    },
+    {
+      "name": "Scare Your Neighbor",
+      "rawName": "Scare Your Neighbor",
+      "playerCount": 10864,
+      "url": "https://www.roblox.com/games/124710677460732/Scare-Your-Neighbor",
+      "foundBy": "good horror games"
+    },
+    {
+      "name": "South Hell",
+      "rawName": "South Hell [HORROR]",
+      "playerCount": 4700,
+      "url": "https://www.roblox.com/games/119901987045648/South-Hell",
+      "foundBy": "good horror games"
+    },
+    {
+      "name": "MALAM SAMA OPAH",
+      "rawName": "MALAM SAMA OPAH ",
+      "playerCount": 4490,
+      "url": "https://www.roblox.com/games/91246277860636/MALAM-SAMA-OPAH",
+      "foundBy": "coop horror"
+    },
+    {
+      "name": "Unseen Liminality",
+      "rawName": "Unseen Liminality",
+      "playerCount": 4365,
+      "url": "https://www.roblox.com/games/82797688803922/Unseen-Liminality",
+      "foundBy": "top horror games"
+    },
+    {
+      "name": "Backrooms",
+      "rawName": "Backrooms",
+      "playerCount": 3919,
+      "url": "https://www.roblox.com/games/9273658706/Backrooms",
+      "foundBy": "top horror games"
+    },
+    {
+      "name": "الشايب",
+      "rawName": "الشايب [رعب]",
+      "playerCount": 3399,
+      "url": "https://www.roblox.com/games/105392365120750/unnamed",
+      "foundBy": "top horror games"
+    },
+    {
+      "name": "Survive Overnight in a Mega Store",
+      "rawName": "Survive Overnight in a Mega Store",
+      "playerCount": 3352,
+      "url": "https://www.roblox.com/games/127380660530951/Survive-Overnight-in-a-Mega-Store",
+      "foundBy": "top horror game"
+    },
+    {
+      "name": "Ice Cream Shop",
+      "rawName": "Ice Cream Shop [Anomaly] 🍦",
+      "playerCount": 2859,
+      "url": "https://www.roblox.com/games/89178939262183/Ice-Cream-Shop",
+      "foundBy": "shop horror game"
+    },
+    {
+      "name": "he ate them",
+      "rawName": "he ate them. [HORROR]",
+      "playerCount": 2769,
+      "url": "https://www.roblox.com/games/127877871885165/he-ate-them",
+      "foundBy": "co op horror"
+    },
+    {
+      "name": "THRESHOLD",
+      "rawName": "[UPD 2.1 🎃] THRESHOLD",
+      "playerCount": 1983,
+      "url": "https://www.roblox.com/games/78453398695059/THRESHOLD",
+      "foundBy": "co op horror"
+    },
+    {
+      "name": "Home Alone: Anomalies",
+      "rawName": "Home Alone: Anomalies",
+      "playerCount": 1958,
+      "url": "https://www.roblox.com/games/87468080405188/Home-Alone-Anomalies",
+      "foundBy": "top horror games"
+    },
+    {
+      "name": "Backrooms Company",
+      "rawName": "[UPDATE] Backrooms Company",
+      "playerCount": 1815,
+      "url": "https://www.roblox.com/games/109423220190564/Backrooms-Company",
+      "foundBy": "co op horror"
+    },
+    {
+      "name": "Motel Maniac",
+      "rawName": "Motel Maniac [HORROR]",
+      "playerCount": 1652,
+      "url": "https://www.roblox.com/games/89544555099898/Motel-Maniac",
+      "foundBy": "good horror games"
+    },
+    {
+      "name": "Cheese Escape",
+      "rawName": "Cheese Escape [Horror]",
+      "playerCount": 1516,
+      "url": "https://www.roblox.com/games/5777099015/Cheese-Escape",
+      "foundBy": "kid horror games"
+    },
+    {
+      "name": "Fear Elevator",
+      "rawName": "Fear Elevator 😱",
+      "playerCount": 1457,
+      "url": "https://www.roblox.com/games/6383408360/Fear-Elevator",
+      "foundBy": "top horror games"
+    },
+    {
+      "name": "Escape Papa Pizza's Pizzeria!",
+      "rawName": "Escape Papa Pizza's Pizzeria! (SCARY OBBY)",
+      "playerCount": 1382,
+      "url": "https://www.roblox.com/games/6939111033/Escape-Papa-Pizzas-Pizzeria",
+      "foundBy": "good horror games"
+    },
+    {
+      "name": "M E G Endless Reality",
+      "rawName": "[UPDATE] M.E.G. Endless Reality",
+      "playerCount": 1286,
+      "url": "https://www.roblox.com/games/98629859043211/M-E-G-Endless-Reality",
+      "foundBy": "co op horror"
+    },
+    {
+      "name": "Insane Elevator!",
+      "rawName": "Insane Elevator!",
+      "playerCount": 1208,
+      "url": "https://www.roblox.com/games/4104106043/Insane-Elevator",
+      "foundBy": "top horror game"
+    },
+    {
+      "name": "FNAF: Co-op",
+      "rawName": "FNAF: Co-op",
+      "playerCount": 913,
+      "url": "https://www.roblox.com/games/12495498157/FNAF-Co-op",
+      "foundBy": "co op horror"
+    },
+    {
+      "name": "Chained in Backrooms",
+      "rawName": "Chained in Backrooms",
+      "playerCount": 807,
+      "url": "https://www.roblox.com/games/103731330407395/Chained-in-Backrooms",
+      "foundBy": "co op horror"
+    },
+    {
+      "name": "PREHISTORIC",
+      "rawName": "PREHISTORIC [HORROR]",
+      "playerCount": 801,
+      "url": "https://www.roblox.com/games/73642977127763/PREHISTORIC",
+      "foundBy": "coop horror"
+    },
+    {
+      "name": "IT WANTS IN",
+      "rawName": "🎃 IT WANTS IN [HORROR]",
+      "playerCount": 762,
+      "url": "https://www.roblox.com/games/104376435116540/IT-WANTS-IN",
+      "foundBy": "good horror games"
+    },
+    {
+      "name": "Keep the Door Locked",
+      "rawName": "Keep the Door Locked🔒[UPDATE]",
+      "playerCount": 738,
+      "url": "https://www.roblox.com/games/124338404742585/Keep-the-Door-Locked",
+      "foundBy": "door horror game"
+    },
+    {
+      "name": "ANALOG",
+      "rawName": "ANALOG 📂[HORROR]",
+      "playerCount": 722,
+      "url": "https://www.roblox.com/games/105916934349181/ANALOG",
+      "foundBy": "co op horror"
+    },
+    {
+      "name": "Scary Grocery: The Night Shift",
+      "rawName": "[🎃] Scary Grocery: The Night Shift [HORROR]",
+      "playerCount": 684,
+      "url": "https://www.roblox.com/games/96153864779911/Scary-Grocery-The-Night-Shift",
+      "foundBy": "shop horror game"
+    },
+    {
+      "name": "Z ec's DOORS RP",
+      "rawName": "[ESTATE] Z_ec's DOORS RP 👁️",
+      "playerCount": 597,
+      "url": "https://www.roblox.com/games/89027314170829/Z-ecs-DOORS-RP",
+      "foundBy": "door horror game"
+    },
+    {
+      "name": "It Hears The Water",
+      "rawName": "It Hears The Water [DONT SPLASH]",
+      "playerCount": 539,
+      "url": "https://www.roblox.com/games/91673151576922/It-Hears-The-Water",
+      "foundBy": "top horror games"
+    }
+  ]
+}

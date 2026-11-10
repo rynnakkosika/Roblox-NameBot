@@ -1,0 +1,1082 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-155153-scary",
+    "genre": "scary",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T15:51:53Z",
+    "finishedAt": "2026-11-10T16:02:59Z",
+    "issue": null,
+    "genreWords": [
+      "scary"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Scary Shawarma",
+      "score": 793.865,
+      "words": [
+        "Scary",
+        "Shawarma"
+      ],
+      "supportedBy": [
+        "scary shawarma",
+        "scary shawarma truck",
+        "scary shawarma ice cream"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Baboon Elevator Scary Obby",
+      "score": 681.275,
+      "words": [
+        "Baboon",
+        "Elevator",
+        "Scary",
+        "Obby"
+      ],
+      "supportedBy": [
+        "scary baboon",
+        "scary elevator",
+        "scary obby"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Scary Sushi",
+      "score": 623.357,
+      "words": [
+        "Scary",
+        "Sushi"
+      ],
+      "supportedBy": [
+        "scary sushi",
+        "scary sushi chapter 1",
+        "scary sushi restaurant"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Scary Obby",
+      "score": 461.778,
+      "words": [
+        "Scary",
+        "Obby"
+      ],
+      "supportedBy": [
+        "scary obby",
+        "scary games obby",
+        "scary obby tower"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Scary Baboon",
+      "score": 445.046,
+      "words": [
+        "Scary",
+        "Baboon"
+      ],
+      "supportedBy": [
+        "scary baboon",
+        "scary baboon elevator",
+        "scary baboon rp"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Scary Elevator",
+      "score": 429.477,
+      "words": [
+        "Scary",
+        "Elevator"
+      ],
+      "supportedBy": [
+        "scary elevator",
+        "scary baboon elevator",
+        "scary elevator 2"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Scary Shawarma Escape",
+      "score": 318.021,
+      "words": [
+        "Scary",
+        "Shawarma",
+        "Escape"
+      ],
+      "supportedBy": [
+        "scary shawarma",
+        "scary shawarma truck",
+        "scary escape room"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Scary Spelling",
+      "score": 314.746,
+      "words": [
+        "Scary",
+        "Spelling"
+      ],
+      "supportedBy": [
+        "scary spelling",
+        "scary spelling bee",
+        "scary spellings"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Scary Sushi Obby",
+      "score": 275.138,
+      "words": [
+        "Scary",
+        "Sushi",
+        "Obby"
+      ],
+      "supportedBy": [
+        "scary sushi",
+        "scary obby",
+        "scary games obby"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Scary Shawarma Ice Cream",
+      "score": 253.78,
+      "words": [
+        "Scary",
+        "Shawarma",
+        "Ice",
+        "Cream"
+      ],
+      "supportedBy": [
+        "scary shawarma",
+        "scary shawarma truck",
+        "scary shawarma ice cream"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Scary Grocery",
+      "score": 210.273,
+      "words": [
+        "Scary",
+        "Grocery"
+      ],
+      "supportedBy": [
+        "scary grocery",
+        "scary grocery the night shift",
+        "secure a grocery store"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Scary Sushi Story",
+      "score": 204.376,
+      "words": [
+        "Scary",
+        "Sushi",
+        "Story"
+      ],
+      "supportedBy": [
+        "scary sushi",
+        "scary stories",
+        "scary games story"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Scary Shawarma Truck",
+      "score": 198.316,
+      "words": [
+        "Scary",
+        "Shawarma",
+        "Truck"
+      ],
+      "supportedBy": [
+        "scary shawarma",
+        "scary shawarma truck",
+        "scary shawarma ice cream"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Simon Says Scary Obby",
+      "score": 198.005,
+      "words": [
+        "Simon",
+        "Says",
+        "Scary",
+        "Obby"
+      ],
+      "supportedBy": [
+        "scary obby",
+        "scary simon says",
+        "scary games obby"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Scary Baboon Elevator",
+      "score": 191.584,
+      "words": [
+        "Scary",
+        "Baboon",
+        "Elevator"
+      ],
+      "supportedBy": [
+        "scary baboon",
+        "scary elevator",
+        "scary baboon elevator"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Scary Shawarma Kiosk Anomalies",
+      "score": 158.21,
+      "words": [
+        "Scary",
+        "Shawarma",
+        "Kiosk",
+        "Anomalies"
+      ],
+      "supportedBy": [
+        "scary shawarma",
+        "scary shawarma truck",
+        "scary shawarma ice cream"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Scary Sushi RP",
+      "score": 155.381,
+      "words": [
+        "Scary",
+        "Sushi",
+        "RP"
+      ],
+      "supportedBy": [
+        "scary sushi",
+        "scary sushi chapter 1",
+        "scary baboon rp"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Gorilla Tag Scary Obby",
+      "score": 151.833,
+      "words": [
+        "Gorilla",
+        "Tag",
+        "Scary",
+        "Obby"
+      ],
+      "supportedBy": [
+        "scary obby",
+        "scary gorilla tag",
+        "scary games obby"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Scary Baboon Reborn",
+      "score": 144.712,
+      "words": [
+        "Scary",
+        "Baboon",
+        "Reborn"
+      ],
+      "supportedBy": [
+        "scary baboon",
+        "scary baboon elevator",
+        "scary baboon rp"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Scary Elevator Survive",
+      "score": 138.944,
+      "words": [
+        "Scary",
+        "Elevator",
+        "Survive"
+      ],
+      "supportedBy": [
+        "scary elevator",
+        "scary baboon elevator",
+        "scary elevator 2"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Scary Spelling Bee",
+      "score": 133.353,
+      "words": [
+        "Scary",
+        "Spelling",
+        "Bee"
+      ],
+      "supportedBy": [
+        "scary spelling",
+        "scary spelling bee",
+        "scary spellings"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Scary Shawarma Kids",
+      "score": 123.906,
+      "words": [
+        "Scary",
+        "Shawarma",
+        "Kids"
+      ],
+      "supportedBy": [
+        "scary shawarma",
+        "scary games for kids",
+        "scary shawarma truck"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Scary Sushi Restaurant",
+      "score": 122.504,
+      "words": [
+        "Scary",
+        "Sushi",
+        "Restaurant"
+      ],
+      "supportedBy": [
+        "scary sushi",
+        "scary sushi chapter 1",
+        "scary sushi restaurant"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Worm Tower Scary Obby",
+      "score": 119.829,
+      "words": [
+        "Worm",
+        "Tower",
+        "Scary",
+        "Obby"
+      ],
+      "supportedBy": [
+        "scary obby",
+        "scary games obby",
+        "scary obby tower"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Scary Baboon Reimagined",
+      "score": 113.161,
+      "words": [
+        "Scary",
+        "Baboon",
+        "Reimagined"
+      ],
+      "supportedBy": [
+        "scary baboon",
+        "scary baboon elevator",
+        "scary baboon rp"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "scary",
+      "score": 1840.343
+    },
+    {
+      "text": "scary shawarma",
+      "score": 249.99
+    },
+    {
+      "text": "shawarma",
+      "score": 241.419
+    },
+    {
+      "text": "scary sushi",
+      "score": 198.354
+    },
+    {
+      "text": "sushi",
+      "score": 190.181
+    },
+    {
+      "text": "scary baboon",
+      "score": 182.363
+    },
+    {
+      "text": "elevator",
+      "score": 179.389
+    },
+    {
+      "text": "baboon",
+      "score": 175.498
+    },
+    {
+      "text": "scary elevator",
+      "score": 170.124
+    },
+    {
+      "text": "obby",
+      "score": 160.716
+    },
+    {
+      "text": "scary obby",
+      "score": 160.361
+    },
+    {
+      "text": "spelling",
+      "score": 99.002
+    },
+    {
+      "text": "scary spelling",
+      "score": 97.975
+    },
+    {
+      "text": "grocery",
+      "score": 61.431
+    },
+    {
+      "text": "scary grocery",
+      "score": 61.282
+    },
+    {
+      "text": "teacher",
+      "score": 31.989
+    },
+    {
+      "text": "simon says",
+      "score": 30.972
+    },
+    {
+      "text": "tower",
+      "score": 30.078
+    },
+    {
+      "text": "scary simon",
+      "score": 29.004
+    },
+    {
+      "text": "scary teacher",
+      "score": 28.964
+    },
+    {
+      "text": "says",
+      "score": 26.45
+    },
+    {
+      "text": "gorilla tag",
+      "score": 26.179
+    },
+    {
+      "text": "scary gorilla",
+      "score": 26.171
+    },
+    {
+      "text": "simon",
+      "score": 23.539
+    },
+    {
+      "text": "escape",
+      "score": 20.741
+    },
+    {
+      "text": "story",
+      "score": 19.715
+    },
+    {
+      "text": "scary story",
+      "score": 19.079
+    },
+    {
+      "text": "tag",
+      "score": 18.879
+    },
+    {
+      "text": "gorilla",
+      "score": 17.464
+    },
+    {
+      "text": "worm tower",
+      "score": 12.071
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "scary shawarma",
+      "score": 427.45,
+      "appearances": 627,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "scary games",
+      "score": 362.81,
+      "appearances": 557,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "scary sushi",
+      "score": 333.999,
+      "appearances": 648,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "scary baboon",
+      "score": 289.628,
+      "appearances": 586,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "scary elevator",
+      "score": 272.395,
+      "appearances": 645,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "scary obby",
+      "score": 255.969,
+      "appearances": 601,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "scary spelling",
+      "score": 166.756,
+      "appearances": 619,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "scary grocery",
+      "score": 118.202,
+      "appearances": 504,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "scary simon says",
+      "score": 56.918,
+      "appearances": 368,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "scary teacher",
+      "score": 51.484,
+      "appearances": 184,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "scary gorilla tag",
+      "score": 51.082,
+      "appearances": 327,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "scary",
+      "score": 44.997,
+      "appearances": 62,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "scary games obby",
+      "score": 18.235,
+      "appearances": 51,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "scary baboon elevator",
+      "score": 17.148,
+      "appearances": 44,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "scary games for kids",
+      "score": 16.321,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "scary stories",
+      "score": 14.62,
+      "appearances": 49,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "scary obby tower",
+      "score": 14.031,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "scary worm tower",
+      "score": 12.599,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "scary shawarma truck",
+      "score": 12.298,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "scary tower",
+      "score": 11.864,
+      "appearances": 53,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "scary games story",
+      "score": 11.704,
+      "appearances": 34,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "scary elevator 2",
+      "score": 11.694,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "scary school",
+      "score": 11.444,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "scary spelling bee",
+      "score": 10.718,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "scary brookhaven",
+      "score": 10.663,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "scary escape room",
+      "score": 10.428,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "scary sushi chapter 1",
+      "score": 10.339,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "scary shawarma ice cream",
+      "score": 9.682,
+      "appearances": 27,
+      "bestRank": 2
+    },
+    {
+      "rank": 29,
+      "text": "scary baboon rp",
+      "score": 9.63,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "scary baboon reborn",
+      "score": 9.417,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "scary obby escape",
+      "score": 9.306,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "scary game",
+      "score": 9.295,
+      "appearances": 12,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "scary obby games",
+      "score": 9.188,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "scary shawarma kiosk",
+      "score": 9.109,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "scary elevator testing",
+      "score": 8.879,
+      "appearances": 27,
+      "bestRank": 2
+    },
+    {
+      "rank": 36,
+      "text": "scary cat in the hat",
+      "score": 8.824,
+      "appearances": 16,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "scary troll tower",
+      "score": 8.301,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "scary shawarma 67",
+      "score": 8.274,
+      "appearances": 27,
+      "bestRank": 3
+    },
+    {
+      "rank": 39,
+      "text": "scary games cat in the hat",
+      "score": 8.243,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "scary games 2 player",
+      "score": 7.828,
+      "appearances": 33,
+      "bestRank": 2
+    },
+    {
+      "rank": 41,
+      "text": "scary baboon beta",
+      "score": 7.517,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 42,
+      "text": "scary spellings",
+      "score": 7.405,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "scary elevator survive the",
+      "score": 7.378,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "scary games on roblox",
+      "score": 7.372,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "scary ice cream game",
+      "score": 7.032,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 46,
+      "text": "scary elevator games",
+      "score": 6.801,
+      "appearances": 24,
+      "bestRank": 2
+    },
+    {
+      "rank": 47,
+      "text": "scary story",
+      "score": 6.647,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "scary elevator 2017",
+      "score": 6.435,
+      "appearances": 20,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "scary mm2",
+      "score": 6.117,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "scary sushi restaurant",
+      "score": 6.117,
+      "appearances": 24,
+      "bestRank": 2
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Sell Fries!",
+      "rawName": "Sell Fries! [Anomaly] 🍟",
+      "playerCount": 20269,
+      "url": "https://www.roblox.com/games/94891079210424/Sell-Fries",
+      "foundBy": "scary shawarma"
+    },
+    {
+      "name": "Fatal Baboons",
+      "rawName": "[🧪NEW LAB] Fatal Baboons",
+      "playerCount": 17019,
+      "url": "https://www.roblox.com/games/93660722909304/Fatal-Baboons",
+      "foundBy": "scary baboon"
+    },
+    {
+      "name": "Lethal Ape Experience",
+      "rawName": "[🎃] Lethal Ape Experience",
+      "playerCount": 12903,
+      "url": "https://www.roblox.com/games/117713779364528/Lethal-Ape-Experience",
+      "foundBy": "scary baboon"
+    },
+    {
+      "name": "Mukbang Game !",
+      "rawName": "Mukbang Game [Testing]🫓🍲!",
+      "playerCount": 10618,
+      "url": "https://www.roblox.com/games/74188431054457/Mukbang-Game",
+      "foundBy": "scary sushi"
+    },
+    {
+      "name": "Scare Your Neighbor",
+      "rawName": "Scare Your Neighbor",
+      "playerCount": 10263,
+      "url": "https://www.roblox.com/games/124710677460732/Scare-Your-Neighbor",
+      "foundBy": "scary"
+    },
+    {
+      "name": "MALAM SAMA OPAH",
+      "rawName": "MALAM SAMA OPAH ",
+      "playerCount": 7959,
+      "url": "https://www.roblox.com/games/91246277860636/MALAM-SAMA-OPAH",
+      "foundBy": "scary"
+    },
+    {
+      "name": "Lethal Ape",
+      "rawName": "Lethal Ape (Big Update)",
+      "playerCount": 6065,
+      "url": "https://www.roblox.com/games/15318113891/Lethal-Ape",
+      "foundBy": "scary baboon"
+    },
+    {
+      "name": "Say Cheese!",
+      "rawName": "📸 Say Cheese! [STORY]",
+      "playerCount": 5279,
+      "url": "https://www.roblox.com/games/100453542816833/Say-Cheese",
+      "foundBy": "scary sushi"
+    },
+    {
+      "name": "Color or Die",
+      "rawName": "Color or Die 🎨",
+      "playerCount": 3554,
+      "url": "https://www.roblox.com/games/12931609417/Color-or-Die",
+      "foundBy": "scary simon says"
+    },
+    {
+      "name": "Mr Mix",
+      "rawName": "Mr.Mix",
+      "playerCount": 3115,
+      "url": "https://www.roblox.com/games/18948446518/Mr-Mix",
+      "foundBy": "scary sushi"
+    },
+    {
+      "name": "Survive Overnight in a Mega Store",
+      "rawName": "Survive Overnight in a Mega Store",
+      "playerCount": 3100,
+      "url": "https://www.roblox.com/games/127380660530951/Survive-Overnight-in-a-Mega-Store",
+      "foundBy": "scary grocery"
+    },
+    {
+      "name": "Scary Shawarma Kiosk: the ANOMALY",
+      "rawName": "Scary Shawarma Kiosk: the ANOMALY [horror]",
+      "playerCount": 2950,
+      "url": "https://www.roblox.com/games/137826330724902/Scary-Shawarma-Kiosk-the-ANOMALY",
+      "foundBy": "scary shawarma"
+    },
+    {
+      "name": "Ice Cream Shop",
+      "rawName": "Ice Cream Shop [Anomaly] 🍦",
+      "playerCount": 2902,
+      "url": "https://www.roblox.com/games/89178939262183/Ice-Cream-Shop",
+      "foundBy": "scary grocery"
+    },
+    {
+      "name": "he ate them",
+      "rawName": "he ate them. [HORROR]",
+      "playerCount": 2675,
+      "url": "https://www.roblox.com/games/127877871885165/he-ate-them",
+      "foundBy": "scary"
+    },
+    {
+      "name": "Death Order: Simon Says",
+      "rawName": "Death Order: Simon Says",
+      "playerCount": 2661,
+      "url": "https://www.roblox.com/games/18666738837/Death-Order-Simon-Says",
+      "foundBy": "scary simon says"
+    },
+    {
+      "name": "Escape The Carnival of Terror Obby!",
+      "rawName": "Escape The Carnival of Terror Obby! ",
+      "playerCount": 2258,
+      "url": "https://www.roblox.com/games/6153766069/Escape-The-Carnival-of-Terror-Obby",
+      "foundBy": "scary obby"
+    },
+    {
+      "name": "Climb Scary Worm Tower 3",
+      "rawName": "Climb Scary Worm Tower 3",
+      "playerCount": 2207,
+      "url": "https://www.roblox.com/games/136070094363960/Climb-Scary-Worm-Tower-3",
+      "foundBy": "scary obby"
+    },
+    {
+      "name": "GREAT SCHOOL BREAKOUT!",
+      "rawName": "GREAT SCHOOL BREAKOUT! (First Person Obby)",
+      "playerCount": 1980,
+      "url": "https://www.roblox.com/games/9099326192/GREAT-SCHOOL-BREAKOUT",
+      "foundBy": "scary teacher"
+    },
+    {
+      "name": "Home Alone: Anomalies",
+      "rawName": "Home Alone: Anomalies",
+      "playerCount": 1954,
+      "url": "https://www.roblox.com/games/87468080405188/Home-Alone-Anomalies",
+      "foundBy": "scary"
+    },
+    {
+      "name": "Silly Simon Says",
+      "rawName": "Silly Simon Says",
+      "playerCount": 1752,
+      "url": "https://www.roblox.com/games/12397515839/Silly-Simon-Says",
+      "foundBy": "scary simon says"
+    },
+    {
+      "name": "Lethal ape Remixed",
+      "rawName": "Lethal ape Remixed (Beta)",
+      "playerCount": 1496,
+      "url": "https://www.roblox.com/games/86225558060596/Lethal-ape-Remixed",
+      "foundBy": "scary baboon"
+    },
+    {
+      "name": "Cheese Escape",
+      "rawName": "Cheese Escape [Horror]",
+      "playerCount": 1479,
+      "url": "https://www.roblox.com/games/5777099015/Cheese-Escape",
+      "foundBy": "scary"
+    },
+    {
+      "name": "Fear Elevator",
+      "rawName": "Fear Elevator 😱",
+      "playerCount": 1432,
+      "url": "https://www.roblox.com/games/6383408360/Fear-Elevator",
+      "foundBy": "scary elevator"
+    },
+    {
+      "name": "Escape Papa Pizza's Pizzeria!",
+      "rawName": "Escape Papa Pizza's Pizzeria! (SCARY OBBY)",
+      "playerCount": 1421,
+      "url": "https://www.roblox.com/games/6939111033/Escape-Papa-Pizzas-Pizzeria",
+      "foundBy": "scary"
+    },
+    {
+      "name": "Motel Maniac",
+      "rawName": "Motel Maniac [HORROR]",
+      "playerCount": 1380,
+      "url": "https://www.roblox.com/games/89544555099898/Motel-Maniac",
+      "foundBy": "scary"
+    },
+    {
+      "name": "Spelling Race",
+      "rawName": "Spelling Race",
+      "playerCount": 1341,
+      "url": "https://www.roblox.com/games/17664585395/Spelling-Race",
+      "foundBy": "scary spelling"
+    },
+    {
+      "name": "Insane Elevator!",
+      "rawName": "Insane Elevator!",
+      "playerCount": 1178,
+      "url": "https://www.roblox.com/games/4104106043/Insane-Elevator",
+      "foundBy": "scary elevator"
+    },
+    {
+      "name": "Insane Elevator Testing",
+      "rawName": "Insane Elevator Testing",
+      "playerCount": 1132,
+      "url": "https://www.roblox.com/games/9120716669/Insane-Elevator-Testing",
+      "foundBy": "scary elevator"
+    },
+    {
+      "name": "Math Murder",
+      "rawName": "Math Murder",
+      "playerCount": 923,
+      "url": "https://www.roblox.com/games/127707120843339/Math-Murder",
+      "foundBy": "scary spelling"
+    },
+    {
+      "name": "Be a Teacher!",
+      "rawName": "Be a Teacher!",
+      "playerCount": 887,
+      "url": "https://www.roblox.com/games/77029236360021/Be-a-Teacher",
+      "foundBy": "scary spelling"
+    }
+  ]
+}

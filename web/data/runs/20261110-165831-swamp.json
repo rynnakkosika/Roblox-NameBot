@@ -1,0 +1,873 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-165831-swamp",
+    "genre": "swamp",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T16:58:31Z",
+    "finishedAt": "2026-11-10T17:09:37Z",
+    "issue": null,
+    "genreWords": [
+      "swamp"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Slap Tower Swamp Simulator",
+      "score": 98.86,
+      "words": [
+        "Slap",
+        "Tower",
+        "Swamp",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "slap tower 2",
+        "slap tower",
+        "swamp simulator 2"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Troll Tower Swamp Simulator",
+      "score": 47.904,
+      "words": [
+        "Troll",
+        "Tower",
+        "Swamp",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "slap tower 2",
+        "slap tower",
+        "swamp simulator 2"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Slap Tower Swamp Survival",
+      "score": 36.22,
+      "words": [
+        "Slap",
+        "Tower",
+        "Swamp",
+        "Survival"
+      ],
+      "supportedBy": [
+        "slap tower 2",
+        "slap tower",
+        "slap tower 3"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Animal Sim Swamp Simulator",
+      "score": 29.549,
+      "words": [
+        "Animal",
+        "Sim",
+        "Swamp",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "swamp simulator 2",
+        "swamp simulator",
+        "swamp sim"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Swamp Simulator",
+      "score": 22.421,
+      "words": [
+        "Swamp",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "swamp simulator 2",
+        "swamp simulator",
+        "shampoo simulator"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Slap Tower Swamp Obby",
+      "score": 22.058,
+      "words": [
+        "Slap",
+        "Tower",
+        "Swamp",
+        "Obby"
+      ],
+      "supportedBy": [
+        "slap tower 2",
+        "slap tower",
+        "slap tower 3"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Dont Swim Swamp Simulator",
+      "score": 17.188,
+      "words": [
+        "Dont",
+        "Swim",
+        "Swamp",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "swamp simulator 2",
+        "swamp simulator",
+        "shampoo simulator"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Gear Slap Swamp Tycoon",
+      "score": 16.735,
+      "words": [
+        "Gear",
+        "Slap",
+        "Swamp",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "slap tower 2",
+        "slap tower",
+        "slap tower 3"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Edit Tower Swamp Defense",
+      "score": 14.819,
+      "words": [
+        "Edit",
+        "Tower",
+        "Swamp",
+        "Defense"
+      ],
+      "supportedBy": [
+        "slap tower 2",
+        "slap tower",
+        "slap tower 3"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Swamp Sim",
+      "score": 13.359,
+      "words": [
+        "Swamp",
+        "Sim"
+      ],
+      "supportedBy": [
+        "swamp sim"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Hears Water Swamp Simulator",
+      "score": 13.281,
+      "words": [
+        "Hears",
+        "Water",
+        "Swamp",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "swamp simulator 2",
+        "swamp simulator",
+        "shampoo simulator"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Troll Slap Swamp Roleplay",
+      "score": 11.886,
+      "words": [
+        "Troll",
+        "Slap",
+        "Swamp",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "slap tower 2",
+        "slap tower",
+        "slap tower 3"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Tower Phonk Swamp",
+      "score": 11.479,
+      "words": [
+        "Tower",
+        "Phonk",
+        "Swamp"
+      ],
+      "supportedBy": [
+        "slap tower 2",
+        "slap tower",
+        "slap tower 3"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Bee Swarm Swamp Simulator",
+      "score": 10.087,
+      "words": [
+        "Bee",
+        "Swarm",
+        "Swamp",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "swamp simulator 2",
+        "swamp simulator",
+        "shampoo simulator"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Slap Fish Swamp",
+      "score": 9.008,
+      "words": [
+        "Slap",
+        "Fish",
+        "Swamp"
+      ],
+      "supportedBy": [
+        "slap tower 2",
+        "slap tower",
+        "slap tower 3"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Glide Tower Swamp",
+      "score": 8.844,
+      "words": [
+        "Glide",
+        "Tower",
+        "Swamp"
+      ],
+      "supportedBy": [
+        "slap tower 2",
+        "slap tower",
+        "slap tower 3"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Insane Troll Swamp Survival",
+      "score": 8.607,
+      "words": [
+        "Insane",
+        "Troll",
+        "Swamp",
+        "Survival"
+      ],
+      "supportedBy": [
+        "swamp survival",
+        "slap tower troll",
+        "zombie survival games"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Winch Log Swamp Simulator",
+      "score": 7.824,
+      "words": [
+        "Winch",
+        "Log",
+        "Swamp",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "swamp simulator 2",
+        "swamp simulator",
+        "shampoo simulator"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Slap Aura Swamp",
+      "score": 7.128,
+      "words": [
+        "Slap",
+        "Aura",
+        "Swamp"
+      ],
+      "supportedBy": [
+        "slap tower 2",
+        "slap tower",
+        "slap tower 3"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Pinning Tower Swamp",
+      "score": 7.062,
+      "words": [
+        "Pinning",
+        "Tower",
+        "Swamp"
+      ],
+      "supportedBy": [
+        "slap tower 2",
+        "slap tower",
+        "slap tower 3"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Firefighting Sim Swamp",
+      "score": 6.555,
+      "words": [
+        "Firefighting",
+        "Sim",
+        "Swamp"
+      ],
+      "supportedBy": [
+        "swamp sim"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Dont Splash Swamp Survival",
+      "score": 6.46,
+      "words": [
+        "Dont",
+        "Splash",
+        "Swamp",
+        "Survival"
+      ],
+      "supportedBy": [
+        "swamp survival",
+        "zombie survival games",
+        "zombie survival"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Quicksand Engine Swamp Simulator",
+      "score": 6.233,
+      "words": [
+        "Quicksand",
+        "Engine",
+        "Swamp",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "swamp simulator 2",
+        "swamp simulator",
+        "shampoo simulator"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Swamp Life",
+      "score": 5.832,
+      "words": [
+        "Swamp",
+        "Life"
+      ],
+      "supportedBy": [
+        "swamp life",
+        "vampire life"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Gear Troll Swamp",
+      "score": 5.757,
+      "words": [
+        "Gear",
+        "Troll",
+        "Swamp"
+      ],
+      "supportedBy": [
+        "slap tower troll",
+        "somplak tower troll obby",
+        "slap troll tower"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "swamp",
+      "score": 27.421
+    },
+    {
+      "text": "tower",
+      "score": 31.895
+    },
+    {
+      "text": "slap",
+      "score": 25.743
+    },
+    {
+      "text": "simulator",
+      "score": 18.605
+    },
+    {
+      "text": "slap tower",
+      "score": 15.64
+    },
+    {
+      "text": "swamp simulator",
+      "score": 10.988
+    },
+    {
+      "text": "troll",
+      "score": 9.143
+    },
+    {
+      "text": "sim",
+      "score": 7.891
+    },
+    {
+      "text": "simulator 2",
+      "score": 5.837
+    },
+    {
+      "text": "water",
+      "score": 4.594
+    },
+    {
+      "text": "animal",
+      "score": 4.534
+    },
+    {
+      "text": "gear",
+      "score": 4.525
+    },
+    {
+      "text": "dont",
+      "score": 4.359
+    },
+    {
+      "text": "swim",
+      "score": 3.707
+    },
+    {
+      "text": "swamp sim",
+      "score": 3.523
+    },
+    {
+      "text": "survival",
+      "score": 3.195
+    },
+    {
+      "text": "phonk",
+      "score": 3.109
+    },
+    {
+      "text": "edit",
+      "score": 3.098
+    },
+    {
+      "text": "troll slap",
+      "score": 2.588
+    },
+    {
+      "text": "tower 2",
+      "score": 2.464
+    },
+    {
+      "text": "splash",
+      "score": 2.379
+    },
+    {
+      "text": "quicksand",
+      "score": 2.346
+    },
+    {
+      "text": "bee",
+      "score": 2.256
+    },
+    {
+      "text": "swarm",
+      "score": 2.256
+    },
+    {
+      "text": "feral",
+      "score": 2.053
+    },
+    {
+      "text": "hears",
+      "score": 2.027
+    },
+    {
+      "text": "insane",
+      "score": 2.024
+    },
+    {
+      "text": "firefighting",
+      "score": 1.881
+    },
+    {
+      "text": "physics",
+      "score": 1.777
+    },
+    {
+      "text": "log",
+      "score": 1.735
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "swamp simulator 2",
+      "score": 11.587,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "swamp simulator",
+      "score": 10.389,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "swamp sim",
+      "score": 7.047,
+      "appearances": 12,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "swamp game",
+      "score": 4.715,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "swamp life",
+      "score": 3.331,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "swamp simulador 2",
+      "score": 3.067,
+      "appearances": 6,
+      "bestRank": 2
+    },
+    {
+      "rank": 7,
+      "text": "swamp survival",
+      "score": 1.969,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "swamp a fish",
+      "score": 1.782,
+      "appearances": 3,
+      "bestRank": 2
+    },
+    {
+      "rank": 9,
+      "text": "swamp tycoon",
+      "score": 1.549,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "swamp location",
+      "score": 1.317,
+      "appearances": 2,
+      "bestRank": 2
+    },
+    {
+      "rank": 11,
+      "text": "swamp",
+      "score": 0.9,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 12,
+      "text": "swamp bodies",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "swamp of sadness",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "swamp realm",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "swamp riders",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "swamps",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "swamp riders speed simulator",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 18,
+      "text": "swamp tawer",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 19,
+      "text": "swamp monster",
+      "score": 0.465,
+      "appearances": 1,
+      "bestRank": 5
+    }
+  ],
+  "topGames": [
+    {
+      "name": "DONT SPLASH",
+      "rawName": "DONT SPLASH",
+      "playerCount": 57155,
+      "url": "https://www.roblox.com/games/119958473240233/DONT-SPLASH",
+      "foundBy": "swamp"
+    },
+    {
+      "name": "Bee Swarm Simulator",
+      "rawName": "Bee Swarm Simulator",
+      "playerCount": 32572,
+      "url": "https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator",
+      "foundBy": "swamp simulator"
+    },
+    {
+      "name": "صيد الضب ان",
+      "rawName": "صيد الضبّان",
+      "playerCount": 26396,
+      "url": "https://www.roblox.com/games/82347957379349/unnamed",
+      "foundBy": "swamp"
+    },
+    {
+      "name": "FERAL Animal Survival",
+      "rawName": "[GORILLA🦍] FERAL 🐺 Animal Survival",
+      "playerCount": 12757,
+      "url": "https://www.roblox.com/games/108901361810209/FERAL-Animal-Survival",
+      "foundBy": "swamp sim"
+    },
+    {
+      "name": "DONT SWIM",
+      "rawName": "DONT SWIM 🚫🏊",
+      "playerCount": 9154,
+      "url": "https://www.roblox.com/games/79468627835394/DONT-SWIM",
+      "foundBy": "swamp"
+    },
+    {
+      "name": "Firefighting Sim",
+      "rawName": "Firefighting Sim 🚒",
+      "playerCount": 5773,
+      "url": "https://www.roblox.com/games/102476635575386/Firefighting-Sim",
+      "foundBy": "swamp simulator 2"
+    },
+    {
+      "name": "Phonk Edit Tower",
+      "rawName": "[🔥AURA] Phonk Edit Tower 🎶",
+      "playerCount": 5375,
+      "url": "https://www.roblox.com/games/101480963912212/Phonk-Edit-Tower",
+      "foundBy": "slap tower 2"
+    },
+    {
+      "name": "Water Physics",
+      "rawName": "[WORKSHOP] Water Physics",
+      "playerCount": 3577,
+      "url": "https://www.roblox.com/games/6128441278/Water-Physics",
+      "foundBy": "swamp simulator"
+    },
+    {
+      "name": "محاكي التشاليح",
+      "rawName": "🚗 محاكي التشاليح 🔧 ",
+      "playerCount": 3074,
+      "url": "https://www.roblox.com/games/99334295553984/unnamed",
+      "foundBy": "swamp simulator 2"
+    },
+    {
+      "name": "Winch Log Simulator",
+      "rawName": "Winch Log Simulator [BETA]",
+      "playerCount": 2957,
+      "url": "https://www.roblox.com/games/98572303171584/Winch-Log-Simulator",
+      "foundBy": "swamp simulator"
+    },
+    {
+      "name": "Gear Troll Slap Tower",
+      "rawName": "Gear Troll Slap Tower 💥",
+      "playerCount": 1211,
+      "url": "https://www.roblox.com/games/88951201927122/Gear-Troll-Slap-Tower",
+      "foundBy": "slap tower"
+    },
+    {
+      "name": "Glide Tower",
+      "rawName": "Glide Tower",
+      "playerCount": 887,
+      "url": "https://www.roblox.com/games/71143154217953/Glide-Tower",
+      "foundBy": "slap tower"
+    },
+    {
+      "name": "Gear Slap Tower",
+      "rawName": "[✋] Gear Slap Tower",
+      "playerCount": 789,
+      "url": "https://www.roblox.com/games/72845937010155/Gear-Slap-Tower",
+      "foundBy": "slap tower 2"
+    },
+    {
+      "name": "INSANE Troll Slap Tower",
+      "rawName": "INSANE Troll Slap Tower 😈",
+      "playerCount": 742,
+      "url": "https://www.roblox.com/games/110470672231288/INSANE-Troll-Slap-Tower",
+      "foundBy": "slap tower"
+    },
+    {
+      "name": "Troll is a pinning tower 2",
+      "rawName": "Troll is a pinning tower 2",
+      "playerCount": 657,
+      "url": "https://www.roblox.com/games/83312952548612/2",
+      "foundBy": "slap tower 2"
+    },
+    {
+      "name": "Animal Sim: Underwater",
+      "rawName": "Animal Sim: Underwater",
+      "playerCount": 565,
+      "url": "https://www.roblox.com/games/13110267312/Animal-Sim-Underwater",
+      "foundBy": "swamp simulator 2"
+    },
+    {
+      "name": "It Hears The Water",
+      "rawName": "It Hears The Water [DONT SPLASH]",
+      "playerCount": 538,
+      "url": "https://www.roblox.com/games/91673151576922/It-Hears-The-Water",
+      "foundBy": "swamp"
+    },
+    {
+      "name": "Sell Shrimps!",
+      "rawName": "Sell Shrimps! [Anomaly] 🦐",
+      "playerCount": 410,
+      "url": "https://www.roblox.com/games/119209431125869/Sell-Shrimps",
+      "foundBy": "swamp sim"
+    },
+    {
+      "name": "Junkyard Simulator",
+      "rawName": "Junkyard Simulator",
+      "playerCount": 404,
+      "url": "https://www.roblox.com/games/111888054056100/Junkyard-Simulator",
+      "foundBy": "swamp simulator 2"
+    },
+    {
+      "name": "Quicksand",
+      "rawName": "Quicksand",
+      "playerCount": 279,
+      "url": "https://www.roblox.com/games/71739455261863/Quicksand",
+      "foundBy": "swamp"
+    },
+    {
+      "name": "Submerged",
+      "rawName": "Submerged [BETA]",
+      "playerCount": 279,
+      "url": "https://www.roblox.com/games/89567479974950/Submerged",
+      "foundBy": "swamp sim"
+    },
+    {
+      "name": "Aura Phonk Edit Tower",
+      "rawName": "[🔥MAX] Aura Phonk Edit Tower🎵",
+      "playerCount": 254,
+      "url": "https://www.roblox.com/games/128528280100727/Aura-Phonk-Edit-Tower",
+      "foundBy": "slap tower 13"
+    },
+    {
+      "name": "Quicksand Engine",
+      "rawName": "Quicksand Engine ",
+      "playerCount": 175,
+      "url": "https://www.roblox.com/games/111313645048627/Quicksand-Engine",
+      "foundBy": "swamp"
+    },
+    {
+      "name": "Troll slap tower 2",
+      "rawName": "Troll slap tower 2",
+      "playerCount": 174,
+      "url": "https://www.roblox.com/games/137679660887080/Troll-slap-tower-2",
+      "foundBy": "slap tower 2"
+    },
+    {
+      "name": "World Sim",
+      "rawName": "World Sim🌍 ",
+      "playerCount": 165,
+      "url": "https://www.roblox.com/games/83900135839110/World-Sim",
+      "foundBy": "swamp sim"
+    },
+    {
+      "name": "Snake Simulator",
+      "rawName": "Snake Simulator",
+      "playerCount": 146,
+      "url": "https://www.roblox.com/games/18199234764/Snake-Simulator",
+      "foundBy": "swamp simulator 2"
+    },
+    {
+      "name": "Swim for Animals!",
+      "rawName": "Swim for Animals!",
+      "playerCount": 136,
+      "url": "https://www.roblox.com/games/103007715319569/Swim-for-Animals",
+      "foundBy": "swamp simulator 2"
+    },
+    {
+      "name": "Slap Laser Obby",
+      "rawName": "Slap Laser Obby",
+      "playerCount": 130,
+      "url": "https://www.roblox.com/games/111695898741609/Slap-Laser-Obby",
+      "foundBy": "slap tower 3"
+    },
+    {
+      "name": "Slap Tower 4",
+      "rawName": "Slap Tower 4 🖐️",
+      "playerCount": 118,
+      "url": "https://www.roblox.com/games/86082995079744/Slap-Tower-4",
+      "foundBy": "slap tower 2"
+    },
+    {
+      "name": "Clone Tower",
+      "rawName": "Clone Tower",
+      "playerCount": 100,
+      "url": "https://www.roblox.com/games/140293690452727/Clone-Tower",
+      "foundBy": "slap tower x"
+    }
+  ]
+}

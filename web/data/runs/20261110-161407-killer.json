@@ -1,0 +1,1080 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-161407-killer",
+    "genre": "killer",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T16:14:07Z",
+    "finishedAt": "2026-11-10T16:25:12Z",
+    "issue": null,
+    "genreWords": [
+      "killer"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Killer Not Murder Mystery",
+      "score": 236.457,
+      "words": [
+        "Killer",
+        "Not",
+        "Murder",
+        "Mystery"
+      ],
+      "supportedBy": [
+        "killer or not",
+        "killer or not killer",
+        "killer or not mm2"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Killer Not MM2",
+      "score": 173.82,
+      "words": [
+        "Killer",
+        "Not",
+        "MM2"
+      ],
+      "supportedBy": [
+        "killer or not",
+        "killer or not killer",
+        "killer or not mm2"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Killer Clown",
+      "score": 163.805,
+      "words": [
+        "Killer",
+        "Clown"
+      ],
+      "supportedBy": [
+        "killer clown",
+        "killer clowns from 2016",
+        "killer clowns from outer space"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Killer Stairs",
+      "score": 154.107,
+      "words": [
+        "Killer",
+        "Stairs"
+      ],
+      "supportedBy": [
+        "killer stairs",
+        "killer stair",
+        "color stairs"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Killer Not Obby",
+      "score": 132.939,
+      "words": [
+        "Killer",
+        "Not",
+        "Obby"
+      ],
+      "supportedBy": [
+        "killer or not",
+        "killer or not killer",
+        "killer or not mm2"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Killer Not Tycoon",
+      "score": 105.81,
+      "words": [
+        "Killer",
+        "Not",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "killer or not",
+        "killer or not killer",
+        "killer or not mm2"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Killer Die Escape",
+      "score": 99.842,
+      "words": [
+        "Killer",
+        "Die",
+        "Escape"
+      ],
+      "supportedBy": [
+        "killer or die",
+        "kill or die",
+        "killer clown escape"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Killer Clown Tower",
+      "score": 92.531,
+      "words": [
+        "Killer",
+        "Clown",
+        "Tower"
+      ],
+      "supportedBy": [
+        "killer clown",
+        "killer tower",
+        "killer clowns from 2016"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Killer Survivor Story",
+      "score": 84.02,
+      "words": [
+        "Killer",
+        "Survivor",
+        "Story"
+      ],
+      "supportedBy": [
+        "killer or survivor",
+        "killer vs survivor",
+        "killer story"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Killer Innocent Simulator",
+      "score": 83.604,
+      "words": [
+        "Killer",
+        "Innocent",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "killer or innocent",
+        "killer simulator",
+        "kill realistic npcs simulator"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Killer Not Modded",
+      "score": 81.884,
+      "words": [
+        "Killer",
+        "Not",
+        "Modded"
+      ],
+      "supportedBy": [
+        "killer or not",
+        "killer or not killer",
+        "killer or not mm2"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Killer Die",
+      "score": 74.855,
+      "words": [
+        "Killer",
+        "Die"
+      ],
+      "supportedBy": [
+        "killer or die",
+        "kill or die",
+        "kill or die mm2"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Killer Clown Outer Space",
+      "score": 72.399,
+      "words": [
+        "Killer",
+        "Clown",
+        "Outer",
+        "Space"
+      ],
+      "supportedBy": [
+        "killer clown",
+        "killer clowns from 2016",
+        "killer clowns from outer space"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Killer Egg",
+      "score": 66.027,
+      "words": [
+        "Killer",
+        "Egg"
+      ],
+      "supportedBy": [
+        "killer egg",
+        "killer egg event",
+        "killer eggs"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Sheriff Duels Killer Survival",
+      "score": 65.883,
+      "words": [
+        "Sheriff",
+        "Duels",
+        "Killer",
+        "Survival"
+      ],
+      "supportedBy": [
+        "killer vs sheriff",
+        "killer or sheriff",
+        "killers vs sheriffs"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Killer Not Mmv",
+      "score": 65.374,
+      "words": [
+        "Killer",
+        "Not",
+        "Mmv"
+      ],
+      "supportedBy": [
+        "killer or not",
+        "killer or not killer",
+        "killer or not mm2"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Killer Survivor",
+      "score": 64.366,
+      "words": [
+        "Killer",
+        "Survivor"
+      ],
+      "supportedBy": [
+        "killer or survivor",
+        "killer vs survivor",
+        "killer and survivor"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Killer Innocent",
+      "score": 62.721,
+      "words": [
+        "Killer",
+        "Innocent"
+      ],
+      "supportedBy": [
+        "killer or innocent",
+        "killer versus innocent",
+        "killer are innocent"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Killer Stairs Two",
+      "score": 58.319,
+      "words": [
+        "Killer",
+        "Stairs",
+        "Two"
+      ],
+      "supportedBy": [
+        "killer stairs",
+        "killer stair",
+        "color stairs"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Killer Not Real",
+      "score": 52.236,
+      "words": [
+        "Killer",
+        "Not",
+        "Real"
+      ],
+      "supportedBy": [
+        "killer or not",
+        "killer or not killer",
+        "killer or not mm2"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Killer Die Obby",
+      "score": 51.956,
+      "words": [
+        "Killer",
+        "Die",
+        "Obby"
+      ],
+      "supportedBy": [
+        "killer or die",
+        "kill or die",
+        "killer clown obby"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Killer Clown Reborn",
+      "score": 51.551,
+      "words": [
+        "Killer",
+        "Clown",
+        "Reborn"
+      ],
+      "supportedBy": [
+        "killer clown",
+        "killer clowns from 2016",
+        "killer clowns from outer space"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Killer Versus Sheriff",
+      "score": 49.855,
+      "words": [
+        "Killer",
+        "Versus",
+        "Sheriff"
+      ],
+      "supportedBy": [
+        "killer vs sheriff",
+        "killer or sheriff",
+        "killers vs sheriffs"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Killer Survivor Tycoon",
+      "score": 45.044,
+      "words": [
+        "Killer",
+        "Survivor",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "killer or survivor",
+        "killer vs survivor",
+        "killer tycoon"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Killer Innocent Escape",
+      "score": 44.648,
+      "words": [
+        "Killer",
+        "Innocent",
+        "Escape"
+      ],
+      "supportedBy": [
+        "killer or innocent",
+        "killer clown escape",
+        "killer escape"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "killer",
+      "score": 851.5
+    },
+    {
+      "text": "killer not",
+      "score": 139.726
+    },
+    {
+      "text": "not",
+      "score": 127.42
+    },
+    {
+      "text": "killer vs",
+      "score": 81.436
+    },
+    {
+      "text": "killer clown",
+      "score": 69.587
+    },
+    {
+      "text": "die",
+      "score": 65.314
+    },
+    {
+      "text": "vs sheriff",
+      "score": 63.796
+    },
+    {
+      "text": "clown",
+      "score": 62.273
+    },
+    {
+      "text": "sheriff",
+      "score": 56.07
+    },
+    {
+      "text": "survivor",
+      "score": 55.004
+    },
+    {
+      "text": "innocent",
+      "score": 52.787
+    },
+    {
+      "text": "killer die",
+      "score": 51.453
+    },
+    {
+      "text": "killer innocent",
+      "score": 51.229
+    },
+    {
+      "text": "stairs",
+      "score": 48.716
+    },
+    {
+      "text": "killer survivor",
+      "score": 47.188
+    },
+    {
+      "text": "killer stairs",
+      "score": 44.492
+    },
+    {
+      "text": "mystery",
+      "score": 21.654
+    },
+    {
+      "text": "killer egg",
+      "score": 21.155
+    },
+    {
+      "text": "egg",
+      "score": 21.094
+    },
+    {
+      "text": "tower",
+      "score": 15.208
+    },
+    {
+      "text": "killer arena",
+      "score": 15.15
+    },
+    {
+      "text": "arena",
+      "score": 14.816
+    },
+    {
+      "text": "not killer",
+      "score": 14.512
+    },
+    {
+      "text": "mm2",
+      "score": 14.165
+    },
+    {
+      "text": "killer tower",
+      "score": 12.723
+    },
+    {
+      "text": "murder",
+      "score": 12.529
+    },
+    {
+      "text": "clown 2016",
+      "score": 11.818
+    },
+    {
+      "text": "vs survivor",
+      "score": 11.723
+    },
+    {
+      "text": "not mm2",
+      "score": 11.656
+    },
+    {
+      "text": "killer mystery",
+      "score": 11.414
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "killer or not",
+      "score": 208.839,
+      "appearances": 294,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "killer vs sheriff",
+      "score": 113.259,
+      "appearances": 240,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "killer or die",
+      "score": 100.378,
+      "appearances": 225,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "killer or innocent",
+      "score": 99.243,
+      "appearances": 212,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "killer or survivor",
+      "score": 87.87,
+      "appearances": 231,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "killer stairs",
+      "score": 83.145,
+      "appearances": 127,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "killer clown",
+      "score": 66.738,
+      "appearances": 115,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "killer",
+      "score": 53.285,
+      "appearances": 72,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "killer games",
+      "score": 42.67,
+      "appearances": 96,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "killer game",
+      "score": 42.072,
+      "appearances": 82,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "killer egg",
+      "score": 34.356,
+      "appearances": 58,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "killer or not killer",
+      "score": 25.657,
+      "appearances": 117,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "killer vs survivor",
+      "score": 23.447,
+      "appearances": 104,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "killer or not mm2",
+      "score": 23.311,
+      "appearances": 87,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "killer tower",
+      "score": 20.66,
+      "appearances": 42,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "killer clowns from 2016",
+      "score": 20.462,
+      "appearances": 51,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "killers",
+      "score": 19.8,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "killer mystery",
+      "score": 18.106,
+      "appearances": 30,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "killer in purple",
+      "score": 17.219,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "killer vs hider",
+      "score": 16.344,
+      "appearances": 45,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "killers arena",
+      "score": 16.027,
+      "appearances": 39,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "killer clowns from outer space",
+      "score": 12.758,
+      "appearances": 39,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "killer tycoon",
+      "score": 12.394,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "killers in area 51",
+      "score": 11.387,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "killer clown obby",
+      "score": 11.315,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "killer arena",
+      "score": 11.289,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "killer bean",
+      "score": 11.232,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "killer piggy",
+      "score": 10.602,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "killer or sheriff",
+      "score": 9.398,
+      "appearances": 36,
+      "bestRank": 3
+    },
+    {
+      "rank": 30,
+      "text": "killer or no",
+      "score": 8.701,
+      "appearances": 50,
+      "bestRank": 5
+    },
+    {
+      "rank": 31,
+      "text": "killer animation",
+      "score": 8.288,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "killer brain",
+      "score": 7.978,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "killer family",
+      "score": 7.823,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "killer elevator",
+      "score": 6.894,
+      "appearances": 12,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "killers vs sheriffs",
+      "score": 6.894,
+      "appearances": 16,
+      "bestRank": 2
+    },
+    {
+      "rank": 36,
+      "text": "killer jenna",
+      "score": 6.816,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "killer story",
+      "score": 6.816,
+      "appearances": 13,
+      "bestRank": 2
+    },
+    {
+      "rank": 38,
+      "text": "killer or nor",
+      "score": 6.662,
+      "appearances": 22,
+      "bestRank": 5
+    },
+    {
+      "rank": 39,
+      "text": "killer girl",
+      "score": 6.584,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "killer game killer game",
+      "score": 6.406,
+      "appearances": 19,
+      "bestRank": 2
+    },
+    {
+      "rank": 41,
+      "text": "killer or not murder mystery",
+      "score": 6.047,
+      "appearances": 31,
+      "bestRank": 2
+    },
+    {
+      "rank": 42,
+      "text": "killer brain rot",
+      "score": 6.042,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "killer clown escape",
+      "score": 5.749,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "killer clowns",
+      "score": 5.744,
+      "appearances": 25,
+      "bestRank": 3
+    },
+    {
+      "rank": 45,
+      "text": "killer killer",
+      "score": 5.19,
+      "appearances": 20,
+      "bestRank": 4
+    },
+    {
+      "rank": 46,
+      "text": "killer catnap",
+      "score": 5.112,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "killer wall",
+      "score": 4.802,
+      "appearances": 11,
+      "bestRank": 3
+    },
+    {
+      "rank": 48,
+      "text": "killer in purple 2",
+      "score": 4.136,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "killer frog",
+      "score": 4.105,
+      "appearances": 9,
+      "bestRank": 2
+    },
+    {
+      "rank": 50,
+      "text": "killer or not modded",
+      "score": 4.098,
+      "appearances": 22,
+      "bestRank": 3
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Murder Mystery 2",
+      "rawName": "Murder Mystery 2",
+      "playerCount": 561334,
+      "url": "https://www.roblox.com/games/142823291/Murder-Mystery-2",
+      "foundBy": "killer vs sheriff"
+    },
+    {
+      "name": "Violence District",
+      "rawName": "[WEEK 3 🎃 x BUTCHER] Violence District",
+      "playerCount": 50044,
+      "url": "https://www.roblox.com/games/93978595733734/Violence-District",
+      "foundBy": "killer"
+    },
+    {
+      "name": "Murderers VS Sheriffs",
+      "rawName": "[💀DUELS] Murderers VS Sheriffs",
+      "playerCount": 29531,
+      "url": "https://www.roblox.com/games/135856908115931/Murderers-VS-Sheriffs",
+      "foundBy": "killer vs sheriff"
+    },
+    {
+      "name": "KRN: Crosshair",
+      "rawName": "🎃 KRN: Crosshair",
+      "playerCount": 11689,
+      "url": "https://www.roblox.com/games/129382295065915/KRN-Crosshair",
+      "foundBy": "killer or not"
+    },
+    {
+      "name": "Scare Your Neighbor",
+      "rawName": "Scare Your Neighbor",
+      "playerCount": 10642,
+      "url": "https://www.roblox.com/games/124710677460732/Scare-Your-Neighbor",
+      "foundBy": "kill your friends"
+    },
+    {
+      "name": "Ragdoll Reality",
+      "rawName": "Ragdoll Reality 🩸",
+      "playerCount": 9551,
+      "url": "https://www.roblox.com/games/127932298993998/Ragdoll-Reality",
+      "foundBy": "killer"
+    },
+    {
+      "name": "MVSD Murderers VS Sheriffs Duels",
+      "rawName": "MVSD | Murderers VS Sheriffs Duels",
+      "playerCount": 8390,
+      "url": "https://www.roblox.com/games/12355337193/MVSD-Murderers-VS-Sheriffs-Duels",
+      "foundBy": "killer vs sheriff"
+    },
+    {
+      "name": "1 Upgrade Per Kill",
+      "rawName": "+1 Upgrade Per Kill",
+      "playerCount": 6863,
+      "url": "https://www.roblox.com/games/113273588963037/1-Upgrade-Per-Kill",
+      "foundBy": "killer"
+    },
+    {
+      "name": "Killer or Innocent",
+      "rawName": "🙈 Killer or Innocent",
+      "playerCount": 5658,
+      "url": "https://www.roblox.com/games/120951586797306/Killer-or-Innocent",
+      "foundBy": "killer"
+    },
+    {
+      "name": "Murder Mystery DUELS",
+      "rawName": "Murder Mystery DUELS",
+      "playerCount": 5024,
+      "url": "https://www.roblox.com/games/128119795963270/Murder-Mystery-DUELS",
+      "foundBy": "killer or innocent"
+    },
+    {
+      "name": "Traitor VS Sheriff DUELS",
+      "rawName": "[🎃] Traitor VS Sheriff DUELS",
+      "playerCount": 4080,
+      "url": "https://www.roblox.com/games/119068914321553/Traitor-VS-Sheriff-DUELS",
+      "foundBy": "killer vs sheriff"
+    },
+    {
+      "name": "Color or Die",
+      "rawName": "Color or Die 🎨",
+      "playerCount": 3727,
+      "url": "https://www.roblox.com/games/12931609417/Color-or-Die",
+      "foundBy": "killer or die"
+    },
+    {
+      "name": "MM2 Aim Trainer 2",
+      "rawName": "[🦇] MM2 Aim Trainer 2",
+      "playerCount": 3222,
+      "url": "https://www.roblox.com/games/135193469413243/MM2-Aim-Trainer-2",
+      "foundBy": "killer or innocent"
+    },
+    {
+      "name": "Who is the killer",
+      "rawName": "[👽] Who is the killer?",
+      "playerCount": 3183,
+      "url": "https://www.roblox.com/games/125364060164263/Who-is-the-killer",
+      "foundBy": "killer or innocent"
+    },
+    {
+      "name": "Suspect",
+      "rawName": "🚨Suspect",
+      "playerCount": 3045,
+      "url": "https://www.roblox.com/games/121268060261990/Suspect",
+      "foundBy": "killer"
+    },
+    {
+      "name": "Survive the Killer!",
+      "rawName": "🔪Survive the Killer!",
+      "playerCount": 2777,
+      "url": "https://www.roblox.com/games/4580204640/Survive-the-Killer",
+      "foundBy": "killer"
+    },
+    {
+      "name": "The Mad Murderer X",
+      "rawName": "The Mad Murderer X",
+      "playerCount": 2330,
+      "url": "https://www.roblox.com/games/8317834514/The-Mad-Murderer-X",
+      "foundBy": "killer"
+    },
+    {
+      "name": "Escape The Carnival of Terror Obby!",
+      "rawName": "Escape The Carnival of Terror Obby! ",
+      "playerCount": 2149,
+      "url": "https://www.roblox.com/games/6153766069/Escape-The-Carnival-of-Terror-Obby",
+      "foundBy": "killer clown"
+    },
+    {
+      "name": "MM2: PVP",
+      "rawName": "MM2: PVP",
+      "playerCount": 2148,
+      "url": "https://www.roblox.com/games/83325975879599/MM2-PVP",
+      "foundBy": "killer vs sheriff"
+    },
+    {
+      "name": "Fake Dead or DIE",
+      "rawName": "Fake Dead or DIE 💀",
+      "playerCount": 2028,
+      "url": "https://www.roblox.com/games/98570521143306/Fake-Dead-or-DIE",
+      "foundBy": "kill or die"
+    },
+    {
+      "name": "The Dank Murderer X",
+      "rawName": "The Dank Murderer X",
+      "playerCount": 2022,
+      "url": "https://www.roblox.com/games/15930174396/The-Dank-Murderer-X",
+      "foundBy": "killer or survivor"
+    },
+    {
+      "name": "Climb 1 000 Stairs",
+      "rawName": "Climb 1,000 Stairs",
+      "playerCount": 1995,
+      "url": "https://www.roblox.com/games/5702593762/Climb-1-000-Stairs",
+      "foundBy": "killer stairs"
+    },
+    {
+      "name": "Quiet or Die!",
+      "rawName": "🔊Quiet or Die!",
+      "playerCount": 1893,
+      "url": "https://www.roblox.com/games/126922689754590/Quiet-or-Die",
+      "foundBy": "killer or die"
+    },
+    {
+      "name": "Locust Murder Mystery",
+      "rawName": "Locust Murder Mystery",
+      "playerCount": 1892,
+      "url": "https://www.roblox.com/games/136378998237851/Locust-Murder-Mystery",
+      "foundBy": "killer"
+    },
+    {
+      "name": "Run Or Die!",
+      "rawName": "💀 Run Or Die!",
+      "playerCount": 1661,
+      "url": "https://www.roblox.com/games/135446196332870/Run-Or-Die",
+      "foundBy": "killer or not"
+    },
+    {
+      "name": "Cluck or Hide!",
+      "rawName": "[🎃] Cluck or Hide!🐔",
+      "playerCount": 1467,
+      "url": "https://www.roblox.com/games/82539019711975/Cluck-or-Hide",
+      "foundBy": "killer or survivor"
+    },
+    {
+      "name": "Kill PEPPA",
+      "rawName": "Kill PEPPA 😈🔪",
+      "playerCount": 1224,
+      "url": "https://www.roblox.com/games/95980835689071/Kill-PEPPA",
+      "foundBy": "kill your friends"
+    },
+    {
+      "name": "Clone Friends",
+      "rawName": "Clone Friends",
+      "playerCount": 1126,
+      "url": "https://www.roblox.com/games/18947259921/Clone-Friends",
+      "foundBy": "kill your friends"
+    },
+    {
+      "name": "Bad Guy Mystery",
+      "rawName": "[🎃] Bad Guy Mystery",
+      "playerCount": 1062,
+      "url": "https://www.roblox.com/games/70670854739587/Bad-Guy-Mystery",
+      "foundBy": "killer or survivor"
+    },
+    {
+      "name": "Murderer VS Sheriff",
+      "rawName": "[👽] Murderer VS Sheriff",
+      "playerCount": 749,
+      "url": "https://www.roblox.com/games/86178279217218/Murderer-VS-Sheriff",
+      "foundBy": "killer"
+    }
+  ]
+}

@@ -1,0 +1,1087 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-163618-nights",
+    "genre": "nights",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T16:36:18Z",
+    "finishedAt": "2026-11-10T16:47:24Z",
+    "issue": null,
+    "genreWords": [
+      "nights"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Nights Forest Roleplay",
+      "score": 179.346,
+      "words": [
+        "Nights",
+        "Forest",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "nights in the forest",
+        "99 nights in the forest",
+        "nights in the forest roleplay"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Nights Shift Paulies RP",
+      "score": 177.837,
+      "words": [
+        "Nights",
+        "Shift",
+        "Paulies",
+        "RP"
+      ],
+      "supportedBy": [
+        "night shift at paulies",
+        "night shift",
+        "night shift experience"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Nights Forest Modded Op",
+      "score": 143.188,
+      "words": [
+        "Nights",
+        "Forest",
+        "Modded",
+        "Op"
+      ],
+      "supportedBy": [
+        "nights in the forest",
+        "99 nights in the forest",
+        "nights in the forest roleplay"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Nights Forest Sandbox",
+      "score": 110.88,
+      "words": [
+        "Nights",
+        "Forest",
+        "Sandbox"
+      ],
+      "supportedBy": [
+        "nights in the forest",
+        "99 nights in the forest",
+        "nights in the forest roleplay"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Nights Shift Chuck Cheese",
+      "score": 106.194,
+      "words": [
+        "Nights",
+        "Shift",
+        "Chuck",
+        "Cheese"
+      ],
+      "supportedBy": [
+        "night shift at paulies",
+        "night shift",
+        "night shift experience"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Nights Freddys Security",
+      "score": 87.416,
+      "words": [
+        "Nights",
+        "Freddys",
+        "Security"
+      ],
+      "supportedBy": [
+        "5 nights at freddys",
+        "night security",
+        "5 nights at freddys rp"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Nights Shift Experience",
+      "score": 84.605,
+      "words": [
+        "Nights",
+        "Shift",
+        "Experience"
+      ],
+      "supportedBy": [
+        "night shift at paulies",
+        "night shift",
+        "night shift experience"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Nights Forest Tycoon",
+      "score": 83.746,
+      "words": [
+        "Nights",
+        "Forest",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "nights in the forest",
+        "99 nights in the forest",
+        "nights in the forest roleplay"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Nights Forest Movie",
+      "score": 66.952,
+      "words": [
+        "Nights",
+        "Forest",
+        "Movie"
+      ],
+      "supportedBy": [
+        "nights in the forest",
+        "99 nights in the forest",
+        "nights in the forest roleplay"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Nights Shift Paulies Og",
+      "score": 66.302,
+      "words": [
+        "Nights",
+        "Shift",
+        "Paulies",
+        "Og"
+      ],
+      "supportedBy": [
+        "night shift at paulies",
+        "night shift",
+        "night shift experience"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Nights Eternity Story",
+      "score": 63.95,
+      "words": [
+        "Nights",
+        "Eternity",
+        "Story"
+      ],
+      "supportedBy": [
+        "nights of eternity",
+        "99 nights story",
+        "99 nights story 2"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Nights Freddys Tower",
+      "score": 62.595,
+      "words": [
+        "Nights",
+        "Freddys",
+        "Tower"
+      ],
+      "supportedBy": [
+        "5 nights at freddys",
+        "5 nights at freddys rp",
+        "nights at freddys"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Nights Freddy Quiz",
+      "score": 56.254,
+      "words": [
+        "Nights",
+        "Freddy",
+        "Quiz"
+      ],
+      "supportedBy": [
+        "nights at freddy s",
+        "99 nights quiz",
+        "nights at freddy"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Nights Forest Bunker",
+      "score": 53.267,
+      "words": [
+        "Nights",
+        "Forest",
+        "Bunker"
+      ],
+      "supportedBy": [
+        "nights in the forest",
+        "99 nights in the forest",
+        "nights in the forest roleplay"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Nights Shift Infirmary",
+      "score": 51.976,
+      "words": [
+        "Nights",
+        "Shift",
+        "Infirmary"
+      ],
+      "supportedBy": [
+        "night shift at paulies",
+        "night shift",
+        "night shift experience"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Nights Freddys Morphs",
+      "score": 48.135,
+      "words": [
+        "Nights",
+        "Freddys",
+        "Morphs"
+      ],
+      "supportedBy": [
+        "5 nights at freddys",
+        "5 nights at freddys rp",
+        "nights at freddys"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Nights Eternity Roleplay",
+      "score": 47.7,
+      "words": [
+        "Nights",
+        "Eternity",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "nights of eternity",
+        "nights in the forest roleplay",
+        "nights of eternity rp"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Nights Freddy RP",
+      "score": 42.758,
+      "words": [
+        "Nights",
+        "Freddy",
+        "RP"
+      ],
+      "supportedBy": [
+        "nights at freddy s",
+        "5 nights at freddys rp",
+        "99 nights in the forest rp"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Nights Forest Grandma",
+      "score": 41.86,
+      "words": [
+        "Nights",
+        "Forest",
+        "Grandma"
+      ],
+      "supportedBy": [
+        "nights in the forest",
+        "99 nights in the forest",
+        "nights in the forest roleplay"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Nights Shift FNAF",
+      "score": 41.301,
+      "words": [
+        "Nights",
+        "Shift",
+        "FNAF"
+      ],
+      "supportedBy": [
+        "night shift at paulies",
+        "night shift",
+        "night shift experience"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Nights Freddys Horror",
+      "score": 37.778,
+      "words": [
+        "Nights",
+        "Freddys",
+        "Horror"
+      ],
+      "supportedBy": [
+        "5 nights at freddys",
+        "5 nights at freddys rp",
+        "nights at freddys"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Nights Eternity",
+      "score": 36.228,
+      "words": [
+        "Nights",
+        "Eternity"
+      ],
+      "supportedBy": [
+        "nights of eternity",
+        "nights of eternity rp",
+        "knights of eternity"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Nights Forest Prison",
+      "score": 33.443,
+      "words": [
+        "Nights",
+        "Forest",
+        "Prison"
+      ],
+      "supportedBy": [
+        "nights in the forest",
+        "99 nights in the forest",
+        "nights in the forest roleplay"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Nights Freddy Role Play",
+      "score": 33.259,
+      "words": [
+        "Nights",
+        "Freddy",
+        "Role",
+        "Play"
+      ],
+      "supportedBy": [
+        "nights at freddy s",
+        "nights at freddy",
+        "nights at freddy s games"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Nights Shift Zoo",
+      "score": 32.456,
+      "words": [
+        "Nights",
+        "Shift",
+        "Zoo"
+      ],
+      "supportedBy": [
+        "night shift at paulies",
+        "night shift",
+        "night shift experience"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "nights",
+      "score": 425.012
+    },
+    {
+      "text": "nights forest",
+      "score": 122.054
+    },
+    {
+      "text": "forest",
+      "score": 93.875
+    },
+    {
+      "text": "night shift",
+      "score": 93.465
+    },
+    {
+      "text": "shift",
+      "score": 71.703
+    },
+    {
+      "text": "nights freddys",
+      "score": 61.482
+    },
+    {
+      "text": "nights freddy",
+      "score": 43.002
+    },
+    {
+      "text": "freddys",
+      "score": 40.14
+    },
+    {
+      "text": "freddy s",
+      "score": 39.429
+    },
+    {
+      "text": "eternity",
+      "score": 37.895
+    },
+    {
+      "text": "nights eternity",
+      "score": 37.42
+    },
+    {
+      "text": "shift paulies",
+      "score": 29.595
+    },
+    {
+      "text": "freddy",
+      "score": 29.165
+    },
+    {
+      "text": "paulies",
+      "score": 28.001
+    },
+    {
+      "text": "security",
+      "score": 15.734
+    },
+    {
+      "text": "night security",
+      "score": 14.127
+    },
+    {
+      "text": "forest roleplay",
+      "score": 13.036
+    },
+    {
+      "text": "forest modded",
+      "score": 12.224
+    },
+    {
+      "text": "forest sandbox",
+      "score": 12.16
+    },
+    {
+      "text": "roleplay",
+      "score": 11.951
+    },
+    {
+      "text": "shift experience",
+      "score": 11.344
+    },
+    {
+      "text": "nights paulies",
+      "score": 9.837
+    },
+    {
+      "text": "modded",
+      "score": 9.597
+    },
+    {
+      "text": "nights bunker",
+      "score": 9.054
+    },
+    {
+      "text": "sandbox",
+      "score": 8.179
+    },
+    {
+      "text": "experience",
+      "score": 8.089
+    },
+    {
+      "text": "night rider",
+      "score": 7.768
+    },
+    {
+      "text": "rider",
+      "score": 7.718
+    },
+    {
+      "text": "bunker",
+      "score": 7.539
+    },
+    {
+      "text": "fnaf",
+      "score": 7.471
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "nights of eternity",
+      "score": 72.291,
+      "appearances": 115,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "nights at freddy s",
+      "score": 68.956,
+      "appearances": 144,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "nights in the forest",
+      "score": 53.951,
+      "appearances": 82,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "night shift at paulies",
+      "score": 46.121,
+      "appearances": 78,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "5 nights at freddys",
+      "score": 45.805,
+      "appearances": 79,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "99 nights in the forest",
+      "score": 33.509,
+      "appearances": 59,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "night shift",
+      "score": 29.956,
+      "appearances": 56,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "night security",
+      "score": 28.253,
+      "appearances": 54,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "nights in the forest roleplay",
+      "score": 25.452,
+      "appearances": 73,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "nights in the forest sandbox",
+      "score": 22.911,
+      "appearances": 63,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "night shift experience",
+      "score": 21.897,
+      "appearances": 65,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "5 nights at freddys rp",
+      "score": 14.752,
+      "appearances": 58,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "night rider",
+      "score": 14.541,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "nights in the forest modded op",
+      "score": 13.332,
+      "appearances": 58,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "99 nights story",
+      "score": 10.999,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "5 nights at shrek hotel",
+      "score": 10.905,
+      "appearances": 30,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "99 nights in the bunker",
+      "score": 10.642,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "night in the forest",
+      "score": 10.536,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "99 nights quiz",
+      "score": 9.45,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "nights at freddys",
+      "score": 9.36,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "5 nights at paulies",
+      "score": 9.063,
+      "appearances": 21,
+      "bestRank": 3
+    },
+    {
+      "rank": 22,
+      "text": "5 nights at freddys 2",
+      "score": 8.911,
+      "appearances": 37,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "night shift on route 90",
+      "score": 8.821,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "night at the infirmary",
+      "score": 8.79,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "night shift robux",
+      "score": 8.586,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "99 nights at sea",
+      "score": 8.261,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "99 nights in the forest movies",
+      "score": 8.232,
+      "appearances": 49,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "50 nights at grandmas",
+      "score": 8.029,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "99 nights tower",
+      "score": 7.823,
+      "appearances": 19,
+      "bestRank": 3
+    },
+    {
+      "rank": 30,
+      "text": "night shift horror",
+      "score": 7.699,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "nights at chuck e cheese",
+      "score": 7.591,
+      "appearances": 18,
+      "bestRank": 2
+    },
+    {
+      "rank": 32,
+      "text": "99 nights movies",
+      "score": 7.536,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "99 nights prison run",
+      "score": 7.405,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "night stage tower",
+      "score": 7.331,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "5 nights at freddys tycoon",
+      "score": 7.259,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "99 nights in bikini bottom",
+      "score": 6.568,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "night shift at the zoo",
+      "score": 6.27,
+      "appearances": 23,
+      "bestRank": 3
+    },
+    {
+      "rank": 38,
+      "text": "99 nights in the forest rp",
+      "score": 5.924,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "night at paulies",
+      "score": 5.887,
+      "appearances": 11,
+      "bestRank": 2
+    },
+    {
+      "rank": 40,
+      "text": "99 nights in the forest modded",
+      "score": 5.524,
+      "appearances": 43,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "night shift at chuck e cheese",
+      "score": 5.45,
+      "appearances": 12,
+      "bestRank": 1
+    },
+    {
+      "rank": 42,
+      "text": "99 nights speed",
+      "score": 5.422,
+      "appearances": 12,
+      "bestRank": 4
+    },
+    {
+      "rank": 43,
+      "text": "99 nights vs police",
+      "score": 5.162,
+      "appearances": 12,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "99 nights games",
+      "score": 5.035,
+      "appearances": 14,
+      "bestRank": 4
+    },
+    {
+      "rank": 45,
+      "text": "99 nights obby",
+      "score": 4.957,
+      "appearances": 12,
+      "bestRank": 2
+    },
+    {
+      "rank": 46,
+      "text": "nights at freddy",
+      "score": 4.88,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "nights at paulies",
+      "score": 4.725,
+      "appearances": 19,
+      "bestRank": 4
+    },
+    {
+      "rank": 48,
+      "text": "night school",
+      "score": 4.415,
+      "appearances": 15,
+      "bestRank": 2
+    },
+    {
+      "rank": 49,
+      "text": "99 nights in the forest morphs",
+      "score": 4.257,
+      "appearances": 36,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "99 nights in the forest tycoon",
+      "score": 4.247,
+      "appearances": 40,
+      "bestRank": 2
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Brookhaven RP",
+      "rawName": "Brookhaven 🏡RP",
+      "playerCount": 356150,
+      "url": "https://www.roblox.com/games/4924922222/Brookhaven-RP",
+      "foundBy": "nights in the forest roleplay"
+    },
+    {
+      "name": "99 Nights in the Forest",
+      "rawName": "99 Nights in the Forest 🔦",
+      "playerCount": 122026,
+      "url": "https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest",
+      "foundBy": "nights"
+    },
+    {
+      "name": "Forsaken",
+      "rawName": "[UPD 🎃] Forsaken",
+      "playerCount": 67488,
+      "url": "https://www.roblox.com/games/18687417158/Forsaken",
+      "foundBy": "nights of eternity"
+    },
+    {
+      "name": "Violence District",
+      "rawName": "[WEEK 3 🎃 x BUTCHER] Violence District",
+      "playerCount": 47827,
+      "url": "https://www.roblox.com/games/93978595733734/Violence-District",
+      "foundBy": "nights of eternity"
+    },
+    {
+      "name": "100 Days at Sea",
+      "rawName": "100 Days at Sea ",
+      "playerCount": 14335,
+      "url": "https://www.roblox.com/games/70411440483149/100-Days-at-Sea",
+      "foundBy": "nights in the forest"
+    },
+    {
+      "name": "FERAL Animal Survival",
+      "rawName": "[GORILLA🦍] FERAL 🐺 Animal Survival",
+      "playerCount": 12702,
+      "url": "https://www.roblox.com/games/108901361810209/FERAL-Animal-Survival",
+      "foundBy": "nights in the forest roleplay"
+    },
+    {
+      "name": "MM2 of The Monsters",
+      "rawName": "[UPDATE] MM2 of The Monsters",
+      "playerCount": 9431,
+      "url": "https://www.roblox.com/games/100860415498291/MM2-of-The-Monsters",
+      "foundBy": "nights of eternity"
+    },
+    {
+      "name": "Survive Overnight in a Mega Store",
+      "rawName": "Survive Overnight in a Mega Store",
+      "playerCount": 3404,
+      "url": "https://www.roblox.com/games/127380660530951/Survive-Overnight-in-a-Mega-Store",
+      "foundBy": "nights"
+    },
+    {
+      "name": "he ate them",
+      "rawName": "he ate them. [HORROR]",
+      "playerCount": 2718,
+      "url": "https://www.roblox.com/games/127877871885165/he-ate-them",
+      "foundBy": "night shift at paulies"
+    },
+    {
+      "name": "Closing Shift",
+      "rawName": "[🎙️] Closing Shift",
+      "playerCount": 2543,
+      "url": "https://www.roblox.com/games/118297934142609/Closing-Shift",
+      "foundBy": "night shift"
+    },
+    {
+      "name": "Break In",
+      "rawName": "Break In (Story)",
+      "playerCount": 2167,
+      "url": "https://www.roblox.com/games/3851622790/Break-In",
+      "foundBy": "nights"
+    },
+    {
+      "name": "FNAF: Eternal Nights",
+      "rawName": "FNAF: Eternal Nights 🍕",
+      "playerCount": 2051,
+      "url": "https://www.roblox.com/games/11392373641/FNAF-Eternal-Nights",
+      "foundBy": "nights"
+    },
+    {
+      "name": "THRESHOLD",
+      "rawName": "[UPD 2.1 🎃] THRESHOLD",
+      "playerCount": 1988,
+      "url": "https://www.roblox.com/games/78453398695059/THRESHOLD",
+      "foundBy": "night security"
+    },
+    {
+      "name": "Fear Elevator",
+      "rawName": "Fear Elevator 😱",
+      "playerCount": 1445,
+      "url": "https://www.roblox.com/games/6383408360/Fear-Elevator",
+      "foundBy": "night security"
+    },
+    {
+      "name": "Steal An Egg ROLEPLAY",
+      "rawName": "Steal An Egg ROLEPLAY",
+      "playerCount": 1071,
+      "url": "https://www.roblox.com/games/107725109349532/Steal-An-Egg-ROLEPLAY",
+      "foundBy": "nights in the forest roleplay"
+    },
+    {
+      "name": "FMR",
+      "rawName": "[🎃🎃 EVENT!!!] FMR",
+      "playerCount": 1037,
+      "url": "https://www.roblox.com/games/1343871267/FMR",
+      "foundBy": "nights at freddy s"
+    },
+    {
+      "name": "FNAF: Co-op",
+      "rawName": "FNAF: Co-op",
+      "playerCount": 923,
+      "url": "https://www.roblox.com/games/12495498157/FNAF-Co-op",
+      "foundBy": "5 nights at freddys"
+    },
+    {
+      "name": "The Morgue Shift",
+      "rawName": "[🎃] The Morgue Shift",
+      "playerCount": 888,
+      "url": "https://www.roblox.com/games/122093998639862/The-Morgue-Shift",
+      "foundBy": "night shift"
+    },
+    {
+      "name": "ANALOG",
+      "rawName": "ANALOG 📂[HORROR]",
+      "playerCount": 730,
+      "url": "https://www.roblox.com/games/105916934349181/ANALOG",
+      "foundBy": "night shift at paulies"
+    },
+    {
+      "name": "Scary Grocery: The Night Shift",
+      "rawName": "[🎃] Scary Grocery: The Night Shift [HORROR]",
+      "playerCount": 628,
+      "url": "https://www.roblox.com/games/96153864779911/Scary-Grocery-The-Night-Shift",
+      "foundBy": "night shift at paulies"
+    },
+    {
+      "name": "99 Nights in the Bunker",
+      "rawName": "[🐻] 99 Nights in the Bunker",
+      "playerCount": 614,
+      "url": "https://www.roblox.com/games/73398239244597/99-Nights-in-the-Bunker",
+      "foundBy": "nights"
+    },
+    {
+      "name": "Malam Bersama Kaka",
+      "rawName": "Malam Bersama Kaka [HOROR]",
+      "playerCount": 612,
+      "url": "https://www.roblox.com/games/106473672978445/Malam-Bersama-Kaka",
+      "foundBy": "nights of eternity"
+    },
+    {
+      "name": "Night Shift at the Zoo",
+      "rawName": "Night Shift at the Zoo",
+      "playerCount": 561,
+      "url": "https://www.roblox.com/games/134381054636028/Night-Shift-at-the-Zoo",
+      "foundBy": "night shift at paulies"
+    },
+    {
+      "name": "24 Hours Overnight",
+      "rawName": "24 Hours Overnight",
+      "playerCount": 407,
+      "url": "https://www.roblox.com/games/122802147482832/24-Hours-Overnight",
+      "foundBy": "nights"
+    },
+    {
+      "name": "99 Nights in the Arctic",
+      "rawName": "[🦖] 99 Nights in the Arctic 🧊",
+      "playerCount": 405,
+      "url": "https://www.roblox.com/games/104524602549480/99-Nights-in-the-Arctic",
+      "foundBy": "nights"
+    },
+    {
+      "name": "FNaF : Lost Mind",
+      "rawName": "[???] FNaF : Lost Mind [RP]",
+      "playerCount": 397,
+      "url": "https://www.roblox.com/games/8440392280/FNaF-Lost-Mind",
+      "foundBy": "nights at freddy s"
+    },
+    {
+      "name": "Night Shift at Paulie's",
+      "rawName": "Night Shift at Paulie's  (Early Beta) [HORROR]",
+      "playerCount": 380,
+      "url": "https://www.roblox.com/games/82075856475941/Night-Shift-at-Paulies",
+      "foundBy": "night shift at paulies"
+    },
+    {
+      "name": "SILENTH",
+      "rawName": "[PART II] SILENTH [HORROR]",
+      "playerCount": 350,
+      "url": "https://www.roblox.com/games/88839559630016/SILENTH",
+      "foundBy": "night security"
+    },
+    {
+      "name": "Burger Shack",
+      "rawName": "Burger Shack 🍔 [HORROR]",
+      "playerCount": 343,
+      "url": "https://www.roblox.com/games/93635039874468/Burger-Shack",
+      "foundBy": "night shift at paulies"
+    },
+    {
+      "name": "Animatronic Nights",
+      "rawName": "Animatronic Nights",
+      "playerCount": 335,
+      "url": "https://www.roblox.com/games/17559596992/Animatronic-Nights",
+      "foundBy": "nights of eternity"
+    }
+  ]
+}

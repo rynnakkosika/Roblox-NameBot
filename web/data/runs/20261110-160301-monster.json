@@ -1,0 +1,1077 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261110-160301-monster",
+    "genre": "monster",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-10T16:03:01Z",
+    "finishedAt": "2026-11-10T16:14:06Z",
+    "issue": null,
+    "genreWords": [
+      "monster"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Monster Trucks",
+      "score": 352.198,
+      "words": [
+        "Monster",
+        "Trucks"
+      ],
+      "supportedBy": [
+        "monster trucks",
+        "monster trucks overdriven",
+        "monster truck funnel"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Monster High",
+      "score": 327.943,
+      "words": [
+        "Monster",
+        "High"
+      ],
+      "supportedBy": [
+        "monster high",
+        "monster high tycoon",
+        "monster high event"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Monster High Tycoon",
+      "score": 250.251,
+      "words": [
+        "Monster",
+        "High",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "monster high",
+        "monster high tycoon",
+        "monster high event"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Monster Maker",
+      "score": 248.017,
+      "words": [
+        "Monster",
+        "Maker"
+      ],
+      "supportedBy": [
+        "monster maker",
+        "monster maker modded",
+        "monstruos maker"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Jam Trucks Monster Runners",
+      "score": 240.064,
+      "words": [
+        "Jam",
+        "Trucks",
+        "Monster",
+        "Runners"
+      ],
+      "supportedBy": [
+        "monster trucks",
+        "monster runners",
+        "monster jam"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Monster Monyet",
+      "score": 217.373,
+      "words": [
+        "Monster",
+        "Monyet"
+      ],
+      "supportedBy": [
+        "monster monyet",
+        "monster monyet tentang",
+        "monster monyet monster monyet"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Monster Runners",
+      "score": 179.675,
+      "words": [
+        "Monster",
+        "Runners"
+      ],
+      "supportedBy": [
+        "monster runners",
+        "monster vs runners",
+        "monster runners alpha"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Monster Laut",
+      "score": 174.248,
+      "words": [
+        "Monster",
+        "Laut"
+      ],
+      "supportedBy": [
+        "monster laut",
+        "monster laut terbesar",
+        "monster laut raksasa"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Monster Trucks Overdriven",
+      "score": 158.138,
+      "words": [
+        "Monster",
+        "Trucks",
+        "Overdriven"
+      ],
+      "supportedBy": [
+        "monster trucks",
+        "monster trucks overdriven",
+        "monster truck funnel"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Monster High RP",
+      "score": 146.19,
+      "words": [
+        "Monster",
+        "High",
+        "RP"
+      ],
+      "supportedBy": [
+        "monster high",
+        "monster high tycoon",
+        "monster rp"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Monster Metro",
+      "score": 141.896,
+      "words": [
+        "Monster",
+        "Metro"
+      ],
+      "supportedBy": [
+        "monster metro",
+        "monster metro rp",
+        "monstruo metro"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Monster House",
+      "score": 135.321,
+      "words": [
+        "Monster",
+        "House"
+      ],
+      "supportedBy": [
+        "monster house",
+        "monster house horror",
+        "monster house rp"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Monster Train",
+      "score": 130.523,
+      "words": [
+        "Monster",
+        "Train"
+      ],
+      "supportedBy": [
+        "monster train",
+        "monster train speed escape",
+        "monster train game"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Monster Truck Funnel",
+      "score": 116.733,
+      "words": [
+        "Monster",
+        "Truck",
+        "Funnel"
+      ],
+      "supportedBy": [
+        "monster trucks",
+        "monster trucks overdriven",
+        "monster truck funnel"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Monster SCP Atau Mahluk Trevor",
+      "score": 106.784,
+      "words": [
+        "Monster",
+        "SCP",
+        "Atau",
+        "Mahluk",
+        "Trevor"
+      ],
+      "supportedBy": [
+        "monster scp atau mahluk trevor",
+        "monster scp",
+        "monster scp indonesia"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Evolution World Monster Runners",
+      "score": 104.027,
+      "words": [
+        "Evolution",
+        "World",
+        "Monster",
+        "Runners"
+      ],
+      "supportedBy": [
+        "monster runners",
+        "monster evolution",
+        "monster jam world finals"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Monster High School",
+      "score": 101.801,
+      "words": [
+        "Monster",
+        "High",
+        "School"
+      ],
+      "supportedBy": [
+        "monster high",
+        "monster high tycoon",
+        "monster school"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Monster Maker Tycoon",
+      "score": 101.263,
+      "words": [
+        "Monster",
+        "Maker",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "monster maker",
+        "monster high tycoon",
+        "monster tycoon"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Monster Trucks Tongue Escape",
+      "score": 92.149,
+      "words": [
+        "Monster",
+        "Trucks",
+        "Tongue",
+        "Escape"
+      ],
+      "supportedBy": [
+        "monster trucks",
+        "monster trucks overdriven",
+        "monster truck funnel"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Monster Monyet RP",
+      "score": 87.432,
+      "words": [
+        "Monster",
+        "Monyet",
+        "RP"
+      ],
+      "supportedBy": [
+        "monster monyet",
+        "monster rp",
+        "monster metro rp"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Monster Jam",
+      "score": 86.869,
+      "words": [
+        "Monster",
+        "Jam"
+      ],
+      "supportedBy": [
+        "monster jam",
+        "monster jam games",
+        "monster jam world finals"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Monster Evolution",
+      "score": 80.963,
+      "words": [
+        "Monster",
+        "Evolution"
+      ],
+      "supportedBy": [
+        "monster evolution",
+        "monster evolution simulator",
+        "1 monster evolution"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Monster Air",
+      "score": 80.609,
+      "words": [
+        "Monster",
+        "Air"
+      ],
+      "supportedBy": [
+        "monster air",
+        "monster labu air",
+        "monster mendengar air"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Monster High Obby",
+      "score": 79.853,
+      "words": [
+        "Monster",
+        "High",
+        "Obby"
+      ],
+      "supportedBy": [
+        "monster high",
+        "monster high tycoon",
+        "monster high event"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Caught Camera Monster Runners",
+      "score": 78.455,
+      "words": [
+        "Caught",
+        "Camera",
+        "Monster",
+        "Runners"
+      ],
+      "supportedBy": [
+        "monster runners",
+        "monsters caught on camera",
+        "monster caught on camera"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "monster",
+      "score": 1348.368
+    },
+    {
+      "text": "monster trucks",
+      "score": 146.762
+    },
+    {
+      "text": "trucks",
+      "score": 128.25
+    },
+    {
+      "text": "monster high",
+      "score": 125.237
+    },
+    {
+      "text": "high",
+      "score": 117.234
+    },
+    {
+      "text": "maker",
+      "score": 72.184
+    },
+    {
+      "text": "monster maker",
+      "score": 71.331
+    },
+    {
+      "text": "monster monyet",
+      "score": 63.072
+    },
+    {
+      "text": "monyet",
+      "score": 62.494
+    },
+    {
+      "text": "monster jam",
+      "score": 61.548
+    },
+    {
+      "text": "runners",
+      "score": 61.436
+    },
+    {
+      "text": "monster runners",
+      "score": 58.179
+    },
+    {
+      "text": "monster laut",
+      "score": 50.729
+    },
+    {
+      "text": "laut",
+      "score": 50.416
+    },
+    {
+      "text": "jam",
+      "score": 47.7
+    },
+    {
+      "text": "monster train",
+      "score": 43.721
+    },
+    {
+      "text": "train",
+      "score": 43.518
+    },
+    {
+      "text": "house",
+      "score": 43.188
+    },
+    {
+      "text": "metro",
+      "score": 42.622
+    },
+    {
+      "text": "monster metro",
+      "score": 42.603
+    },
+    {
+      "text": "monster house",
+      "score": 40.584
+    },
+    {
+      "text": "monster vs",
+      "score": 39.783
+    },
+    {
+      "text": "tycoon",
+      "score": 33.583
+    },
+    {
+      "text": "high tycoon",
+      "score": 33.146
+    },
+    {
+      "text": "monster scp",
+      "score": 32.183
+    },
+    {
+      "text": "evolution",
+      "score": 30.866
+    },
+    {
+      "text": "monster evolution",
+      "score": 29.435
+    },
+    {
+      "text": "scp",
+      "score": 29.097
+    },
+    {
+      "text": "air",
+      "score": 23.349
+    },
+    {
+      "text": "monster air",
+      "score": 23.048
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "monster trucks",
+      "score": 150.567,
+      "appearances": 227,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "monster high",
+      "score": 148.09,
+      "appearances": 241,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "monster maker",
+      "score": 140.168,
+      "appearances": 200,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "monster monyet",
+      "score": 123.343,
+      "appearances": 246,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "monster runners",
+      "score": 103.349,
+      "appearances": 186,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "monster laut",
+      "score": 98.467,
+      "appearances": 227,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "monster metro",
+      "score": 77.972,
+      "appearances": 194,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "monster house",
+      "score": 71.84,
+      "appearances": 155,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "monster high tycoon",
+      "score": 66.013,
+      "appearances": 175,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "monster train",
+      "score": 65.145,
+      "appearances": 133,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "monster evolution",
+      "score": 55.62,
+      "appearances": 147,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "monster",
+      "score": 53.416,
+      "appearances": 78,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "monster air",
+      "score": 45.735,
+      "appearances": 78,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "monster game",
+      "score": 41.651,
+      "appearances": 68,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "monster mystery 2",
+      "score": 34.71,
+      "appearances": 124,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "monster rp",
+      "score": 34.173,
+      "appearances": 71,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "monster hunter",
+      "score": 32.978,
+      "appearances": 100,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "monster jam",
+      "score": 30.112,
+      "appearances": 50,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "monsters",
+      "score": 29.828,
+      "appearances": 64,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "monster trucks overdriven",
+      "score": 27.796,
+      "appearances": 70,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "monster vs sheriff",
+      "score": 25.825,
+      "appearances": 64,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "monster scp atau mahluk trevor",
+      "score": 24.865,
+      "appearances": 56,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "monster school",
+      "score": 24.535,
+      "appearances": 67,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "monster monster",
+      "score": 23.971,
+      "appearances": 105,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "monster vs penjaga",
+      "score": 22.587,
+      "appearances": 67,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "monster ghoul",
+      "score": 22.041,
+      "appearances": 52,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "monster scp",
+      "score": 21.312,
+      "appearances": 46,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "monster of etheria",
+      "score": 21.224,
+      "appearances": 42,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "monster jam games",
+      "score": 19.49,
+      "appearances": 57,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "monster tower",
+      "score": 18.528,
+      "appearances": 51,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "monster elevator",
+      "score": 18.187,
+      "appearances": 39,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "monsters caught on camera",
+      "score": 17.918,
+      "appearances": 47,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "monster games",
+      "score": 17.125,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "monster lab",
+      "score": 17.021,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "monster water",
+      "score": 16.975,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "monster employer",
+      "score": 16.911,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "monster caught on camera",
+      "score": 16.792,
+      "appearances": 42,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "monsters of etheria",
+      "score": 16.592,
+      "appearances": 30,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "monster truck funnel",
+      "score": 16.531,
+      "appearances": 46,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "monster jam world finals",
+      "score": 16.02,
+      "appearances": 34,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "monster egg",
+      "score": 15.844,
+      "appearances": 43,
+      "bestRank": 1
+    },
+    {
+      "rank": 42,
+      "text": "monsters inc",
+      "score": 15.604,
+      "appearances": 52,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "monster scp indonesia",
+      "score": 14.766,
+      "appearances": 36,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "monster verse",
+      "score": 14.233,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "monster race",
+      "score": 13.834,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 46,
+      "text": "monster train speed escape",
+      "score": 12.852,
+      "appearances": 38,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "monster water gameplay",
+      "score": 12.584,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "monster trucks gearshift",
+      "score": 12.377,
+      "appearances": 42,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "monster rooms",
+      "score": 12.021,
+      "appearances": 36,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "monster inc 2",
+      "score": 11.851,
+      "appearances": 28,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Brookhaven RP",
+      "rawName": "Brookhaven 🏡RP",
+      "playerCount": 337822,
+      "url": "https://www.roblox.com/games/4924922222/Brookhaven-RP",
+      "foundBy": "monster high"
+    },
+    {
+      "name": "Evermore High",
+      "rawName": "Evermore High 🦢",
+      "playerCount": 17517,
+      "url": "https://www.roblox.com/games/138636753681976/Evermore-High",
+      "foundBy": "monster high"
+    },
+    {
+      "name": "Fatal Baboons",
+      "rawName": "[🧪NEW LAB] Fatal Baboons",
+      "playerCount": 17021,
+      "url": "https://www.roblox.com/games/93660722909304/Fatal-Baboons",
+      "foundBy": "monster monyet"
+    },
+    {
+      "name": "Ragdoll Playground",
+      "rawName": "[👥UPD] Ragdoll Playground",
+      "playerCount": 13470,
+      "url": "https://www.roblox.com/games/106521346673466/Ragdoll-Playground",
+      "foundBy": "monster maker"
+    },
+    {
+      "name": "Low Range: Offroad 4x4",
+      "rawName": "Low Range: Offroad 4x4 [EARLY ACCESS]",
+      "playerCount": 13175,
+      "url": "https://www.roblox.com/games/88131802740480/Low-Range-Offroad-4x4",
+      "foundBy": "monster trucks"
+    },
+    {
+      "name": "Lethal Ape Experience",
+      "rawName": "[🎃] Lethal Ape Experience",
+      "playerCount": 12835,
+      "url": "https://www.roblox.com/games/117713779364528/Lethal-Ape-Experience",
+      "foundBy": "monster"
+    },
+    {
+      "name": "Southern Mudding OffRoading",
+      "rawName": "[🚧UPD🚧] Southern Mudding 🚜 OffRoading",
+      "playerCount": 12512,
+      "url": "https://www.roblox.com/games/79480724066456/Southern-Mudding-OffRoading",
+      "foundBy": "monster trucks"
+    },
+    {
+      "name": "MM2 of The Monsters",
+      "rawName": "[UPDATE] MM2 of The Monsters",
+      "playerCount": 8954,
+      "url": "https://www.roblox.com/games/100860415498291/MM2-of-The-Monsters",
+      "foundBy": "monster"
+    },
+    {
+      "name": "Royale High",
+      "rawName": "Royale 🔥❄️ High",
+      "playerCount": 8927,
+      "url": "https://www.roblox.com/games/735030788/Royale-High",
+      "foundBy": "monster high"
+    },
+    {
+      "name": "Farm Evolution",
+      "rawName": "[2x WEEKEND] Farm Evolution",
+      "playerCount": 8797,
+      "url": "https://www.roblox.com/games/73958363924703/Farm-Evolution",
+      "foundBy": "monster high tycoon"
+    },
+    {
+      "name": "Lethal Ape",
+      "rawName": "Lethal Ape (Big Update)",
+      "playerCount": 5908,
+      "url": "https://www.roblox.com/games/15318113891/Lethal-Ape",
+      "foundBy": "monster"
+    },
+    {
+      "name": "Monster Maker",
+      "rawName": "Monster Maker",
+      "playerCount": 4643,
+      "url": "https://www.roblox.com/games/137036689378411/Monster-Maker",
+      "foundBy": "monster"
+    },
+    {
+      "name": "РейлСайд",
+      "rawName": "[ДИГГЕРСТВО] РейлСайд [БЕТА]",
+      "playerCount": 4129,
+      "url": "https://www.roblox.com/games/92562554876492/unnamed",
+      "foundBy": "monster metro"
+    },
+    {
+      "name": "Backrooms",
+      "rawName": "Backrooms",
+      "playerCount": 3964,
+      "url": "https://www.roblox.com/games/9273658706/Backrooms",
+      "foundBy": "monster runners"
+    },
+    {
+      "name": "Ragdoll Verity Sandbox",
+      "rawName": "Ragdoll Verity Sandbox",
+      "playerCount": 3909,
+      "url": "https://www.roblox.com/games/94422450758600/Ragdoll-Verity-Sandbox",
+      "foundBy": "monster maker"
+    },
+    {
+      "name": "Create A Disaster",
+      "rawName": "[UPD 3] Create A Disaster💥",
+      "playerCount": 3395,
+      "url": "https://www.roblox.com/games/131809925025014/Create-A-Disaster",
+      "foundBy": "monster maker"
+    },
+    {
+      "name": "SCP MORPH",
+      "rawName": "[UPD] SCP MORPH",
+      "playerCount": 3392,
+      "url": "https://www.roblox.com/games/71599043035739/SCP-MORPH",
+      "foundBy": "monster"
+    },
+    {
+      "name": "Build to Survive",
+      "rawName": "Build to Survive 🛠️ ",
+      "playerCount": 3164,
+      "url": "https://www.roblox.com/games/6382584061/Build-to-Survive",
+      "foundBy": "monster house"
+    },
+    {
+      "name": "Protect The House From Monsters",
+      "rawName": "[🎃] Protect The House From Monsters",
+      "playerCount": 2348,
+      "url": "https://www.roblox.com/games/115286378269814/Protect-The-House-From-Monsters",
+      "foundBy": "monster house"
+    },
+    {
+      "name": "Anime High School",
+      "rawName": "Anime High School",
+      "playerCount": 2150,
+      "url": "https://www.roblox.com/games/102170380413300/Anime-High-School",
+      "foundBy": "monster high tycoon"
+    },
+    {
+      "name": "Build Your Backrooms",
+      "rawName": "Build Your Backrooms",
+      "playerCount": 1675,
+      "url": "https://www.roblox.com/games/134363641369914/Build-Your-Backrooms",
+      "foundBy": "monster maker"
+    },
+    {
+      "name": "Lethal ape Remixed",
+      "rawName": "Lethal ape Remixed (Beta)",
+      "playerCount": 1524,
+      "url": "https://www.roblox.com/games/86225558060596/Lethal-ape-Remixed",
+      "foundBy": "monster monyet"
+    },
+    {
+      "name": "Princess Tycoon",
+      "rawName": "Princess Tycoon 👸",
+      "playerCount": 1402,
+      "url": "https://www.roblox.com/games/15306809513/Princess-Tycoon",
+      "foundBy": "monster high tycoon"
+    },
+    {
+      "name": "Fear Elevator",
+      "rawName": "Fear Elevator 😱",
+      "playerCount": 1371,
+      "url": "https://www.roblox.com/games/6383408360/Fear-Elevator",
+      "foundBy": "monster runners"
+    },
+    {
+      "name": "Lethal Ape: Rewired!",
+      "rawName": "[💰] Lethal Ape: Rewired!",
+      "playerCount": 1280,
+      "url": "https://www.roblox.com/games/123267859217356/Lethal-Ape-Rewired",
+      "foundBy": "monster monyet"
+    },
+    {
+      "name": "SCP Monsters or Trevor Creatures",
+      "rawName": "SCP Monsters or Trevor Creatures",
+      "playerCount": 1210,
+      "url": "https://www.roblox.com/games/8838701772/SCP-Monsters-or-Trevor-Creatures",
+      "foundBy": "monster"
+    },
+    {
+      "name": "Run from Monsters!",
+      "rawName": "[🩸UPD] Run from Monsters!",
+      "playerCount": 1106,
+      "url": "https://www.roblox.com/games/122815847545297/Run-from-Monsters",
+      "foundBy": "monster runners"
+    },
+    {
+      "name": "Lethal Ape Morphs!",
+      "rawName": "Lethal Ape Morphs!",
+      "playerCount": 944,
+      "url": "https://www.roblox.com/games/135026674318944/Lethal-Ape-Morphs",
+      "foundBy": "monster monyet"
+    },
+    {
+      "name": "Lethal Ape Redux",
+      "rawName": "Lethal Ape Redux",
+      "playerCount": 922,
+      "url": "https://www.roblox.com/games/92784636255416/Lethal-Ape-Redux",
+      "foundBy": "monster monyet"
+    },
+    {
+      "name": "OG Craft",
+      "rawName": "[🧨Small Creative UPD🧱] OG Craft",
+      "playerCount": 787,
+      "url": "https://www.roblox.com/games/134507285406724/OG-Craft",
+      "foundBy": "monster maker"
+    }
+  ]
+}
