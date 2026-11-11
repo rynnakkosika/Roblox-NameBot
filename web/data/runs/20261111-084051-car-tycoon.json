@@ -1,0 +1,756 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261111-084051-car-tycoon",
+    "genre": "car tycoon",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-11T08:40:51Z",
+    "finishedAt": "2026-11-11T08:51:57Z",
+    "issue": null,
+    "genreWords": [
+      "car",
+      "tycoon"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Car Tycoon",
+      "score": 82.684,
+      "words": [
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "car tycoon 2 player",
+        "car tycoon",
+        "car tycoons"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Steal Egg Car Tycoon",
+      "score": 68,
+      "words": [
+        "Steal",
+        "Egg",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 3,
+      "name": "Dealership Car Tycoon",
+      "score": 64.43,
+      "words": [
+        "Dealership",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "car tycoon dealership",
+        "car dealership tycoon",
+        "car dealership tycoon classic"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Military Army Car Tycoon",
+      "score": 62.477,
+      "words": [
+        "Military",
+        "Army",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "army tycoon games",
+        "army tycoon zombie"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Build Medieval Car Tycoon",
+      "score": 59.687,
+      "words": [
+        "Build",
+        "Medieval",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 6,
+      "name": "Mega Mansion Car Tycoon",
+      "score": 57.573,
+      "words": [
+        "Mega",
+        "Mansion",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "car mansion tycoon"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Ride Car Tycoon",
+      "score": 57.311,
+      "words": [
+        "Ride",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "cart ride tycoon"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "World Nukes Car Tycoon",
+      "score": 57.084,
+      "words": [
+        "World",
+        "Nukes",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 9,
+      "name": "Strike Warfare Car Tycoon",
+      "score": 57.06,
+      "words": [
+        "Strike",
+        "Warfare",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 10,
+      "name": "Driving Empire Car Tycoon",
+      "score": 56.693,
+      "words": [
+        "Driving",
+        "Empire",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 11,
+      "name": "Brainrot Base Car Tycoon",
+      "score": 55.583,
+      "words": [
+        "Brainrot",
+        "Base",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "curi tycoon brainrot"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Roller Coaster Car Tycoon",
+      "score": 55.508,
+      "words": [
+        "Roller",
+        "Coaster",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 13,
+      "name": "War Car Tycoon",
+      "score": 54.931,
+      "words": [
+        "War",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "war tycoon 2 player",
+        "war tycoon 2 players",
+        "war tycoon 2"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Ultimate Home Car Tycoon",
+      "score": 54.754,
+      "words": [
+        "Ultimate",
+        "Home",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "home tycoon 2"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Reactor Core Car Tycoon",
+      "score": 54.747,
+      "words": [
+        "Reactor",
+        "Core",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "core tycoon"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Break Car Tycoon",
+      "score": 53.957,
+      "words": [
+        "Break",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 17,
+      "name": "Commander Car Tycoon",
+      "score": 53.742,
+      "words": [
+        "Commander",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 18,
+      "name": "Factory Car Tycoon",
+      "score": 53.551,
+      "words": [
+        "Factory",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "car tycoon factory",
+        "car factory tycoon"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Raft Car Tycoon",
+      "score": 53.547,
+      "words": [
+        "Raft",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 20,
+      "name": "Evolution Car Tycoon",
+      "score": 53.513,
+      "words": [
+        "Evolution",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Bunker Car Tycoon",
+      "score": 53.378,
+      "words": [
+        "Bunker",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Chained Car Tycoon",
+      "score": 53.357,
+      "words": [
+        "Chained",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 23,
+      "name": "Anime Car Tycoon",
+      "score": 53.307,
+      "words": [
+        "Anime",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Create Car Tycoon",
+      "score": 53.301,
+      "words": [
+        "Create",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Raid Car Tycoon",
+      "score": 53.283,
+      "words": [
+        "Raid",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "car tycoon",
+      "score": 103.997
+    },
+    {
+      "text": "car",
+      "score": 87.815
+    },
+    {
+      "text": "tycoon",
+      "score": 121.575
+    },
+    {
+      "text": "tycoon 2",
+      "score": 45.231
+    },
+    {
+      "text": "player",
+      "score": 32.633
+    },
+    {
+      "text": "dealership",
+      "score": 12.431
+    },
+    {
+      "text": "steal",
+      "score": 12.34
+    },
+    {
+      "text": "tycoon dealership",
+      "score": 11.356
+    },
+    {
+      "text": "tycoon simulator",
+      "score": 10.311
+    },
+    {
+      "text": "simulator",
+      "score": 7.395
+    },
+    {
+      "text": "army",
+      "score": 5.885
+    },
+    {
+      "text": "build",
+      "score": 5.7
+    },
+    {
+      "text": "ride",
+      "score": 5.313
+    },
+    {
+      "text": "military",
+      "score": 4.128
+    },
+    {
+      "text": "mansion",
+      "score": 3.449
+    },
+    {
+      "text": "warfare",
+      "score": 3.008
+    },
+    {
+      "text": "war",
+      "score": 2.933
+    },
+    {
+      "text": "egg",
+      "score": 2.93
+    },
+    {
+      "text": "world",
+      "score": 2.842
+    },
+    {
+      "text": "war tycoon",
+      "score": 2.239
+    },
+    {
+      "text": "driving",
+      "score": 2.087
+    },
+    {
+      "text": "empire",
+      "score": 2.087
+    },
+    {
+      "text": "car dealership",
+      "score": 1.908
+    },
+    {
+      "text": "dealership tycoon",
+      "score": 1.85
+    },
+    {
+      "text": "nukes",
+      "score": 1.795
+    },
+    {
+      "text": "mansion tycoon",
+      "score": 1.765
+    },
+    {
+      "text": "commander",
+      "score": 1.744
+    },
+    {
+      "text": "mega",
+      "score": 1.701
+    },
+    {
+      "text": "brainrot",
+      "score": 1.649
+    },
+    {
+      "text": "strike",
+      "score": 1.643
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "car tycoon 2 player",
+      "score": 76.975,
+      "appearances": 129,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "car tycoon",
+      "score": 30.685,
+      "appearances": 47,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "car tycoons",
+      "score": 29.435,
+      "appearances": 63,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "car tycoon dealership",
+      "score": 22.713,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "car tycoon simulator",
+      "score": 20.623,
+      "appearances": 36,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "car tycoon games",
+      "score": 14.092,
+      "appearances": 30,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "car tycoon 2 players",
+      "score": 3.95,
+      "appearances": 6,
+      "bestRank": 2
+    },
+    {
+      "rank": 8,
+      "text": "car tycoon demo",
+      "score": 3.393,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "car tycoon factory",
+      "score": 2.246,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "car tycoon 2",
+      "score": 2.107,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "cars tycoon",
+      "score": 1,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "car tycoon game",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 723392,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "curi tycoon"
+    },
+    {
+      "name": "Driving Empire",
+      "rawName": "Driving Empire [🏁NASCAR Championship Weekend🏁]",
+      "playerCount": 14896,
+      "url": "https://www.roblox.com/games/3351674303/Driving-Empire",
+      "foundBy": "car tycoon"
+    },
+    {
+      "name": "Military Army Tycoon",
+      "rawName": "[ 2x ] Military Army Tycoon",
+      "playerCount": 5394,
+      "url": "https://www.roblox.com/games/95409544559668/Military-Army-Tycoon",
+      "foundBy": "guerra tycoon"
+    },
+    {
+      "name": "World of Nukes",
+      "rawName": "World of Nukes💥",
+      "playerCount": 3892,
+      "url": "https://www.roblox.com/games/139707731553337/World-of-Nukes",
+      "foundBy": "guerra tycoon"
+    },
+    {
+      "name": "War Tycoon",
+      "rawName": "[Blackhawk DAP] War Tycoon",
+      "playerCount": 3334,
+      "url": "https://www.roblox.com/games/4639625707/War-Tycoon",
+      "foundBy": "guerra tycoon"
+    },
+    {
+      "name": "Army Commander Tycoon",
+      "rawName": "Army Commander Tycoon [UPDATE 6]",
+      "playerCount": 3076,
+      "url": "https://www.roblox.com/games/119263815547952/Army-Commander-Tycoon",
+      "foundBy": "guerra tycoon"
+    },
+    {
+      "name": "Mansion Tycoon",
+      "rawName": "Mansion Tycoon 🌴🏠",
+      "playerCount": 2600,
+      "url": "https://www.roblox.com/games/12912731475/Mansion-Tycoon",
+      "foundBy": "car tycoon"
+    },
+    {
+      "name": "Mega Mansion Tycoon 2",
+      "rawName": "Mega Mansion Tycoon 2 🌴",
+      "playerCount": 2520,
+      "url": "https://www.roblox.com/games/71394819414417/Mega-Mansion-Tycoon-2",
+      "foundBy": "car tycoon"
+    },
+    {
+      "name": "Strike: Warfare",
+      "rawName": "Strike: Warfare",
+      "playerCount": 1931,
+      "url": "https://www.roblox.com/games/130404059693601/Strike-Warfare",
+      "foundBy": "guerra tycoon"
+    },
+    {
+      "name": "Car Dealership Tycoon",
+      "rawName": "Car Dealership Tycoon ",
+      "playerCount": 1554,
+      "url": "https://www.roblox.com/games/1554960397/Car-Dealership-Tycoon",
+      "foundBy": "car tycoon"
+    },
+    {
+      "name": "Build a Medieval Army",
+      "rawName": "[⚔️] Build a Medieval Army",
+      "playerCount": 1516,
+      "url": "https://www.roblox.com/games/891539556/Build-a-Medieval-Army",
+      "foundBy": "guerra tycoon"
+    },
+    {
+      "name": "Cart Ride",
+      "rawName": "[🚂] Cart Ride",
+      "playerCount": 1481,
+      "url": "https://www.roblox.com/games/11364087119/Cart-Ride",
+      "foundBy": "cart tycoon 2 player"
+    },
+    {
+      "name": "Break For Cars",
+      "rawName": "[🏎️] Break For Cars",
+      "playerCount": 1360,
+      "url": "https://www.roblox.com/games/128375343601361/Break-For-Cars",
+      "foundBy": "car tycoon"
+    },
+    {
+      "name": "Build a Roller Coaster",
+      "rawName": "Build a Roller Coaster🎢",
+      "playerCount": 1315,
+      "url": "https://www.roblox.com/games/129768092435314/Build-a-Roller-Coaster",
+      "foundBy": "cart tycoon"
+    },
+    {
+      "name": "Raft Tycoon",
+      "rawName": "🌊 Raft Tycoon",
+      "playerCount": 1249,
+      "url": "https://www.roblox.com/games/76137189788863/Raft-Tycoon",
+      "foundBy": "cart tycoon"
+    },
+    {
+      "name": "Steal The Brainrot Base",
+      "rawName": "Steal The Brainrot Base🧠",
+      "playerCount": 1249,
+      "url": "https://www.roblox.com/games/103050497819513/Steal-The-Brainrot-Base",
+      "foundBy": "curi tycoon"
+    },
+    {
+      "name": "2 PLAYER Evolution Tycoon",
+      "rawName": "2 PLAYER Evolution Tycoon 🛸",
+      "playerCount": 1069,
+      "url": "https://www.roblox.com/games/125496078313264/2-PLAYER-Evolution-Tycoon",
+      "foundBy": "car tycoon 2 player"
+    },
+    {
+      "name": "Military Tycoon",
+      "rawName": "Military Tycoon ®",
+      "playerCount": 1041,
+      "url": "https://www.roblox.com/games/7180042682/Military-Tycoon",
+      "foundBy": "guerra tycoon"
+    },
+    {
+      "name": "Warfare Tycoon",
+      "rawName": "[ZOMBIES] Warfare Tycoon",
+      "playerCount": 536,
+      "url": "https://www.roblox.com/games/31490825/Warfare-Tycoon",
+      "foundBy": "guerra tycoon"
+    },
+    {
+      "name": "Steal Anime!",
+      "rawName": "🚨 Steal Anime!",
+      "playerCount": 414,
+      "url": "https://www.roblox.com/games/113995904598360/Steal-Anime",
+      "foundBy": "curi tycoon"
+    },
+    {
+      "name": "Create a Cart Ride!",
+      "rawName": "Create a Cart Ride!",
+      "playerCount": 402,
+      "url": "https://www.roblox.com/games/11727501024/Create-a-Cart-Ride",
+      "foundBy": "cart tycoon"
+    },
+    {
+      "name": "Build A Cart",
+      "rawName": "[🛠️] Build A Cart",
+      "playerCount": 372,
+      "url": "https://www.roblox.com/games/127590941940388/Build-A-Cart",
+      "foundBy": "cart tycoon"
+    },
+    {
+      "name": "2 Player Raid Tycoon",
+      "rawName": "[UPD] 2 Player Raid Tycoon",
+      "playerCount": 370,
+      "url": "https://www.roblox.com/games/126710589265077/2-Player-Raid-Tycoon",
+      "foundBy": "war tycoon 2 player"
+    },
+    {
+      "name": "Dealership Tycoon Cars",
+      "rawName": "Dealership Tycoon 🏎️ Cars",
+      "playerCount": 339,
+      "url": "https://www.roblox.com/games/14475792710/Dealership-Tycoon-Cars",
+      "foundBy": "car tycoon"
+    },
+    {
+      "name": "2 Player Pizza Tycoon",
+      "rawName": "2 Player Pizza Tycoon 🍕",
+      "playerCount": 334,
+      "url": "https://www.roblox.com/games/119156763806075/2-Player-Pizza-Tycoon",
+      "foundBy": "car tycoon 2 player"
+    },
+    {
+      "name": "Ultimate Home Tycoon",
+      "rawName": "Ultimate Home Tycoon 🏠",
+      "playerCount": 278,
+      "url": "https://www.roblox.com/games/15352028692/Ultimate-Home-Tycoon",
+      "foundBy": "car tycoon"
+    },
+    {
+      "name": "2 Player Gym Tycoon",
+      "rawName": "2 Player Gym Tycoon 💪",
+      "playerCount": 199,
+      "url": "https://www.roblox.com/games/89393305902627/2-Player-Gym-Tycoon",
+      "foundBy": "car tycoon 2 player"
+    },
+    {
+      "name": "Chained Cars",
+      "rawName": "Chained Cars [2 Player Obby]",
+      "playerCount": 148,
+      "url": "https://www.roblox.com/games/128520572013466/Chained-Cars",
+      "foundBy": "car tycoon 2 player"
+    },
+    {
+      "name": "Invade the World",
+      "rawName": "Invade the World",
+      "playerCount": 123,
+      "url": "https://www.roblox.com/games/76870286681496/Invade-the-World",
+      "foundBy": "guerra tycoon"
+    },
+    {
+      "name": "Own a Car Dealership",
+      "rawName": "Own a Car Dealership 💸",
+      "playerCount": 122,
+      "url": "https://www.roblox.com/games/91959667419425/Own-a-Car-Dealership",
+      "foundBy": "car tycoon dealership"
+    }
+  ]
+}

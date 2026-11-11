@@ -1,0 +1,1073 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261111-071442-delivery",
+    "genre": "delivery",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-11T07:14:42Z",
+    "finishedAt": "2026-11-11T07:25:48Z",
+    "issue": null,
+    "genreWords": [
+      "delivery"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Delivery Cart Ride Simulator",
+      "score": 182.35,
+      "words": [
+        "Delivery",
+        "Cart",
+        "Ride",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery cart ride",
+        "delivery simulator",
+        "delivery simulator x"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Driver Horror Delivery Simulator",
+      "score": 118.822,
+      "words": [
+        "Driver",
+        "Horror",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery simulator",
+        "delivery driver",
+        "delivery simulator x"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Delivery Cart Ride",
+      "score": 111.215,
+      "words": [
+        "Delivery",
+        "Cart",
+        "Ride"
+      ],
+      "supportedBy": [
+        "delivery cart ride",
+        "delivery cart",
+        "deliver a package cart ride"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Delivery Not Guaranteed",
+      "score": 102.414,
+      "words": [
+        "Delivery",
+        "Not",
+        "Guaranteed"
+      ],
+      "supportedBy": [
+        "delivery not guaranteed",
+        "delivery not"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Delivery Simulator",
+      "score": 92.804,
+      "words": [
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery simulator",
+        "delivery simulator x",
+        "delivery man simulator"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Delivery Driver",
+      "score": 61.21,
+      "words": [
+        "Delivery",
+        "Driver"
+      ],
+      "supportedBy": [
+        "delivery driver",
+        "delivery driver game",
+        "delivery driver simulator"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Cook Pizza Delivery Simulator",
+      "score": 60.327,
+      "words": [
+        "Cook",
+        "Pizza",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery simulator",
+        "delivery simulator x",
+        "deliver pizza"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Delivery Rush",
+      "score": 56.235,
+      "words": [
+        "Delivery",
+        "Rush"
+      ],
+      "supportedBy": [
+        "delivery rush",
+        "deliver rush"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Delivery Man Simulator",
+      "score": 46.336,
+      "words": [
+        "Delivery",
+        "Man",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery simulator",
+        "delivery simulator x",
+        "delivery man simulator"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Delivery Cart",
+      "score": 45.926,
+      "words": [
+        "Delivery",
+        "Cart"
+      ],
+      "supportedBy": [
+        "delivery cart ride",
+        "delivery cart",
+        "deliver a package cart ride"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Delivery Rider",
+      "score": 45.381,
+      "words": [
+        "Delivery",
+        "Rider"
+      ],
+      "supportedBy": [
+        "delivery rider",
+        "delivery rider horror",
+        "deliver rider"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Delivery Driver Horror",
+      "score": 40.754,
+      "words": [
+        "Delivery",
+        "Driver",
+        "Horror"
+      ],
+      "supportedBy": [
+        "delivery driver",
+        "delivery horror",
+        "delivery driver game"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Not Guaranteed Delivery Tycoon",
+      "score": 36.057,
+      "words": [
+        "Not",
+        "Guaranteed",
+        "Delivery",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "delivery not guaranteed",
+        "delivery tycoon",
+        "delivery not"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Delivery Industry",
+      "score": 35.232,
+      "words": [
+        "Delivery",
+        "Industry"
+      ],
+      "supportedBy": [
+        "delivery industry"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Baby Delivery Simulator",
+      "score": 35.21,
+      "words": [
+        "Baby",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery simulator",
+        "delivery simulator x",
+        "delivery man simulator"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Delivery Cart Ride Gold",
+      "score": 34.887,
+      "words": [
+        "Delivery",
+        "Cart",
+        "Ride",
+        "Gold"
+      ],
+      "supportedBy": [
+        "delivery cart ride",
+        "delivery cart",
+        "deliver a package cart ride"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Delivery Horror",
+      "score": 30.651,
+      "words": [
+        "Delivery",
+        "Horror"
+      ],
+      "supportedBy": [
+        "delivery horror",
+        "delivery driver horror",
+        "delivery rider horror"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Delivery Tower",
+      "score": 30.055,
+      "words": [
+        "Delivery",
+        "Tower"
+      ],
+      "supportedBy": [
+        "delivery tower"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Delivery Pizza",
+      "score": 28.333,
+      "words": [
+        "Delivery",
+        "Pizza"
+      ],
+      "supportedBy": [
+        "deliver pizza",
+        "delivery pizza game",
+        "delivery pizza"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Boy Delivery Simulator",
+      "score": 28.13,
+      "words": [
+        "Boy",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery simulator",
+        "delivery simulator x",
+        "delivery man simulator"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Delivery Driver Food",
+      "score": 27.291,
+      "words": [
+        "Delivery",
+        "Driver",
+        "Food"
+      ],
+      "supportedBy": [
+        "delivery driver",
+        "delivery driver game",
+        "delivery driver simulator"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Delivery Cart Obby",
+      "score": 23.856,
+      "words": [
+        "Delivery",
+        "Cart",
+        "Obby"
+      ],
+      "supportedBy": [
+        "delivery cart ride",
+        "delivery cart",
+        "deliver pizza obby"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Delivery Rider Horror",
+      "score": 22.97,
+      "words": [
+        "Delivery",
+        "Rider",
+        "Horror"
+      ],
+      "supportedBy": [
+        "delivery rider",
+        "delivery horror",
+        "delivery driver horror"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Delivery Boy",
+      "score": 22.476,
+      "words": [
+        "Delivery",
+        "Boy"
+      ],
+      "supportedBy": [
+        "delivery boy",
+        "delivery boy game",
+        "delivery boys store game"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Truck Anomalies Delivery Simulator",
+      "score": 21.965,
+      "words": [
+        "Truck",
+        "Anomalies",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery simulator",
+        "delivery simulator x",
+        "delivery man simulator"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "delivery",
+      "score": 338.252
+    },
+    {
+      "text": "simulator",
+      "score": 50.548
+    },
+    {
+      "text": "delivery cart",
+      "score": 41.655
+    },
+    {
+      "text": "delivery simulator",
+      "score": 40.183
+    },
+    {
+      "text": "cart ride",
+      "score": 37.71
+    },
+    {
+      "text": "cart",
+      "score": 35.905
+    },
+    {
+      "text": "delivery driver",
+      "score": 32.615
+    },
+    {
+      "text": "ride",
+      "score": 30.461
+    },
+    {
+      "text": "driver",
+      "score": 29.697
+    },
+    {
+      "text": "delivery not",
+      "score": 24.206
+    },
+    {
+      "text": "not guaranteed",
+      "score": 23.238
+    },
+    {
+      "text": "horror",
+      "score": 20.247
+    },
+    {
+      "text": "pizza",
+      "score": 19.501
+    },
+    {
+      "text": "not",
+      "score": 16.987
+    },
+    {
+      "text": "rush",
+      "score": 16.865
+    },
+    {
+      "text": "delivery rush",
+      "score": 16.22
+    },
+    {
+      "text": "guaranteed",
+      "score": 16.019
+    },
+    {
+      "text": "delivery rider",
+      "score": 15.952
+    },
+    {
+      "text": "rider",
+      "score": 15.436
+    },
+    {
+      "text": "delivery pizza",
+      "score": 14.463
+    },
+    {
+      "text": "simulator x",
+      "score": 13.364
+    },
+    {
+      "text": "delivery boy",
+      "score": 12.217
+    },
+    {
+      "text": "delivery horror",
+      "score": 11.987
+    },
+    {
+      "text": "baby",
+      "score": 11.538
+    },
+    {
+      "text": "boy",
+      "score": 11.395
+    },
+    {
+      "text": "delivery man",
+      "score": 11.123
+    },
+    {
+      "text": "delivery industry",
+      "score": 10.066
+    },
+    {
+      "text": "industry",
+      "score": 10.066
+    },
+    {
+      "text": "man",
+      "score": 9.432
+    },
+    {
+      "text": "man simulator",
+      "score": 9.42
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "delivery cart ride",
+      "score": 67.725,
+      "appearances": 111,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "delivery simulator",
+      "score": 49.093,
+      "appearances": 85,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "delivery not guaranteed",
+      "score": 45.686,
+      "appearances": 79,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "delivery rush",
+      "score": 31.26,
+      "appearances": 47,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "delivery driver",
+      "score": 30.509,
+      "appearances": 54,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "delivery simulator x",
+      "score": 26.427,
+      "appearances": 59,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "delivery rider",
+      "score": 21.969,
+      "appearances": 45,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "delivery horror",
+      "score": 21.652,
+      "appearances": 53,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "delivery industry",
+      "score": 20.133,
+      "appearances": 54,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "delivery man simulator",
+      "score": 17.599,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "delivery",
+      "score": 17.557,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "delivery tower",
+      "score": 17.174,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "delivery games",
+      "score": 16.012,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "delivery game",
+      "score": 15.937,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "delivery cart",
+      "score": 15.027,
+      "appearances": 38,
+      "bestRank": 2
+    },
+    {
+      "rank": 16,
+      "text": "delivery pizza game",
+      "score": 13.027,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "delivery driver game",
+      "score": 11.438,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "delivery service",
+      "score": 11.232,
+      "appearances": 20,
+      "bestRank": 2
+    },
+    {
+      "rank": 19,
+      "text": "delivery tycoon",
+      "score": 11.077,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "delivery driver simulator",
+      "score": 10.76,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "delivery driver horror",
+      "score": 10.678,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "delivery boy",
+      "score": 10.592,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "delivery the baby",
+      "score": 10.219,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "delivery rider horror",
+      "score": 9.936,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "delivery boy game",
+      "score": 8.908,
+      "appearances": 20,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "delivery pizza",
+      "score": 8.684,
+      "appearances": 35,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "delivery car",
+      "score": 8.211,
+      "appearances": 17,
+      "bestRank": 2
+    },
+    {
+      "rank": 28,
+      "text": "delivery food",
+      "score": 8.036,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "delivery sim",
+      "score": 7.126,
+      "appearances": 16,
+      "bestRank": 3
+    },
+    {
+      "rank": 30,
+      "text": "delivery truck",
+      "score": 6.574,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "delivery car game",
+      "score": 6.429,
+      "appearances": 15,
+      "bestRank": 2
+    },
+    {
+      "rank": 32,
+      "text": "delivery simulation",
+      "score": 6.197,
+      "appearances": 13,
+      "bestRank": 2
+    },
+    {
+      "rank": 33,
+      "text": "delivery squishy",
+      "score": 5.325,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "delivery boys store game",
+      "score": 4.934,
+      "appearances": 15,
+      "bestRank": 2
+    },
+    {
+      "rank": 35,
+      "text": "delivery man",
+      "score": 4.648,
+      "appearances": 9,
+      "bestRank": 2
+    },
+    {
+      "rank": 36,
+      "text": "delivery box",
+      "score": 4.493,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "delivery company",
+      "score": 3.303,
+      "appearances": 10,
+      "bestRank": 4
+    },
+    {
+      "rank": 38,
+      "text": "delivery order",
+      "score": 3.259,
+      "appearances": 9,
+      "bestRank": 2
+    },
+    {
+      "rank": 39,
+      "text": "delivery kebab",
+      "score": 3.176,
+      "appearances": 7,
+      "bestRank": 3
+    },
+    {
+      "rank": 40,
+      "text": "delivery motor",
+      "score": 3.021,
+      "appearances": 8,
+      "bestRank": 2
+    },
+    {
+      "rank": 41,
+      "text": "delivery present",
+      "score": 2.943,
+      "appearances": 6,
+      "bestRank": 2
+    },
+    {
+      "rank": 42,
+      "text": "delivery pizza horror",
+      "score": 2.873,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "delivery job",
+      "score": 2.711,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "delivery zombie",
+      "score": 2.556,
+      "appearances": 4,
+      "bestRank": 2
+    },
+    {
+      "rank": 45,
+      "text": "delivery packages",
+      "score": 2.401,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 46,
+      "text": "delivery horror game",
+      "score": 2.322,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "delivery pizza obby",
+      "score": 2.264,
+      "appearances": 9,
+      "bestRank": 2
+    },
+    {
+      "rank": 48,
+      "text": "deliveries",
+      "score": 2.246,
+      "appearances": 5,
+      "bestRank": 3
+    },
+    {
+      "rank": 49,
+      "text": "delivery presents 2 player",
+      "score": 2.224,
+      "appearances": 5,
+      "bestRank": 2
+    },
+    {
+      "rank": 50,
+      "text": "delivery my baby",
+      "score": 2.125,
+      "appearances": 4,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Drag Drive Simulator",
+      "rawName": "(WHEELIE STYLE x BIG UPDATE) Drag Drive Simulator",
+      "playerCount": 12336,
+      "url": "https://www.roblox.com/games/131378148336503/Drag-Drive-Simulator",
+      "foundBy": "delivery rider"
+    },
+    {
+      "name": "Ride Storm",
+      "rawName": "[UPD] Ride Storm",
+      "playerCount": 5871,
+      "url": "https://www.roblox.com/games/12593620250/Ride-Storm",
+      "foundBy": "delivery cart ride"
+    },
+    {
+      "name": "Scare Your Neighbor",
+      "rawName": "Scare Your Neighbor",
+      "playerCount": 5822,
+      "url": "https://www.roblox.com/games/124710677460732/Scare-Your-Neighbor",
+      "foundBy": "delivery horror"
+    },
+    {
+      "name": "Cook Pizzas",
+      "rawName": "Cook Pizzas [Anomaly]",
+      "playerCount": 3742,
+      "url": "https://www.roblox.com/games/99905511294377/Cook-Pizzas",
+      "foundBy": "deliver pizza"
+    },
+    {
+      "name": "Deepwoken",
+      "rawName": "Deepwoken",
+      "playerCount": 2914,
+      "url": "https://www.roblox.com/games/4111023553/Deepwoken",
+      "foundBy": "delivery not guaranteed"
+    },
+    {
+      "name": "Pasahero",
+      "rawName": "Pasahero [ANOMALY HORROR]",
+      "playerCount": 2033,
+      "url": "https://www.roblox.com/games/78175233789962/Pasahero",
+      "foundBy": "delivery horror"
+    },
+    {
+      "name": "Work at a Pizza Place",
+      "rawName": "🍕Work at a Pizza Place",
+      "playerCount": 1827,
+      "url": "https://www.roblox.com/games/192800/Work-at-a-Pizza-Place",
+      "foundBy": "deliver pizza"
+    },
+    {
+      "name": "Ship The Cargo",
+      "rawName": "Ship The Cargo 🚢",
+      "playerCount": 1557,
+      "url": "https://www.roblox.com/games/75356998324697/Ship-The-Cargo",
+      "foundBy": "delivery not guaranteed"
+    },
+    {
+      "name": "Cart Ride",
+      "rawName": "[🚂] Cart Ride",
+      "playerCount": 1369,
+      "url": "https://www.roblox.com/games/11364087119/Cart-Ride",
+      "foundBy": "delivery cart ride"
+    },
+    {
+      "name": "Pa Deliber",
+      "rawName": "Pa Deliber",
+      "playerCount": 1201,
+      "url": "https://www.roblox.com/games/115305706413475/Pa-Deliber",
+      "foundBy": "delivery"
+    },
+    {
+      "name": "Fear Elevator",
+      "rawName": "Fear Elevator 😱",
+      "playerCount": 950,
+      "url": "https://www.roblox.com/games/6383408360/Fear-Elevator",
+      "foundBy": "delivery horror"
+    },
+    {
+      "name": "Deliver My Baby!",
+      "rawName": "Deliver My Baby!👶",
+      "playerCount": 854,
+      "url": "https://www.roblox.com/games/71721474409014/Deliver-My-Baby",
+      "foundBy": "delivery"
+    },
+    {
+      "name": "Indian Village Shop",
+      "rawName": "Indian Village Shop [HORROR GAME]",
+      "playerCount": 830,
+      "url": "https://www.roblox.com/games/90229512149046/Indian-Village-Shop",
+      "foundBy": "delivery horror"
+    },
+    {
+      "name": "Deliver Packages!",
+      "rawName": "Deliver Packages! 📦 ",
+      "playerCount": 635,
+      "url": "https://www.roblox.com/games/96884870939279/Deliver-Packages",
+      "foundBy": "delivery"
+    },
+    {
+      "name": "Deadly Delivery",
+      "rawName": "[2X LUCK] Deadly Delivery ",
+      "playerCount": 560,
+      "url": "https://www.roblox.com/games/125810438250765/Deadly-Delivery",
+      "foundBy": "delivery horror"
+    },
+    {
+      "name": "Scary Meatball Stall Bakso Anomalies",
+      "rawName": "[RitesUPD] Scary Meatball Stall 🍜 Bakso Anomalies",
+      "playerCount": 439,
+      "url": "https://www.roblox.com/games/119524908037342/Scary-Meatball-Stall-Bakso-Anomalies",
+      "foundBy": "delivery horror"
+    },
+    {
+      "name": "cart ride around nothing",
+      "rawName": "cart ride around nothing",
+      "playerCount": 380,
+      "url": "https://www.roblox.com/games/10660791703/cart-ride-around-nothing",
+      "foundBy": "delivery cart ride"
+    },
+    {
+      "name": "Food Delivery Simulator",
+      "rawName": "Food Delivery Simulator 🍔",
+      "playerCount": 332,
+      "url": "https://www.roblox.com/games/115791596576343/Food-Delivery-Simulator",
+      "foundBy": "delivery"
+    },
+    {
+      "name": "Spider-Man Simulator",
+      "rawName": "🕷️ Spider-Man Simulator",
+      "playerCount": 303,
+      "url": "https://www.roblox.com/games/3837864717/Spider-Man-Simulator",
+      "foundBy": "delivery simulator x"
+    },
+    {
+      "name": "Agus's Boarding House Security!",
+      "rawName": "[🏠] Agus's Boarding House Security!",
+      "playerCount": 279,
+      "url": "https://www.roblox.com/games/140734084852711/Aguss-Boarding-House-Security",
+      "foundBy": "delivery horror"
+    },
+    {
+      "name": "Delivery Rush",
+      "rawName": "Delivery Rush",
+      "playerCount": 229,
+      "url": "https://www.roblox.com/games/86443804320607/Delivery-Rush",
+      "foundBy": "delivery"
+    },
+    {
+      "name": "Deliver The Kebab",
+      "rawName": "Deliver The Kebab",
+      "playerCount": 155,
+      "url": "https://www.roblox.com/games/79633704643509/Deliver-The-Kebab",
+      "foundBy": "delivery"
+    },
+    {
+      "name": "Shawarma Truck: ANOMALIES",
+      "rawName": "Shawarma Truck: ANOMALIES [HORROR]",
+      "playerCount": 118,
+      "url": "https://www.roblox.com/games/109366027244026/Shawarma-Truck-ANOMALIES",
+      "foundBy": "delivery horror"
+    },
+    {
+      "name": "Build and Deliver Packages",
+      "rawName": "[UPD] Build and Deliver Packages",
+      "playerCount": 92,
+      "url": "https://www.roblox.com/games/108447619050035/Build-and-Deliver-Packages",
+      "foundBy": "delivery simulator"
+    },
+    {
+      "name": "Load The Truck!",
+      "rawName": "Load The Truck!",
+      "playerCount": 87,
+      "url": "https://www.roblox.com/games/120491560796071/Load-The-Truck",
+      "foundBy": "delivery simulator"
+    },
+    {
+      "name": "DoorDash Simulator",
+      "rawName": "DoorDash Simulator",
+      "playerCount": 72,
+      "url": "https://www.roblox.com/games/126725532324915/DoorDash-Simulator",
+      "foundBy": "delivery driver"
+    },
+    {
+      "name": "Drive A Tuk Tuk",
+      "rawName": " Drive A Tuk Tuk",
+      "playerCount": 67,
+      "url": "https://www.roblox.com/games/91122750358192/Drive-A-Tuk-Tuk",
+      "foundBy": "delivery rush"
+    },
+    {
+      "name": "TODA!",
+      "rawName": "TODA!🛺[ALPHA]",
+      "playerCount": 47,
+      "url": "https://www.roblox.com/games/91827086712882/TODA",
+      "foundBy": "delivery"
+    },
+    {
+      "name": "PapapDol PH Trucking",
+      "rawName": "[BIG UPDATE] PapapDol PH Trucking",
+      "playerCount": 46,
+      "url": "https://www.roblox.com/games/116362357143997/PapapDol-PH-Trucking",
+      "foundBy": "delivery"
+    },
+    {
+      "name": "Be A Delivery Driver",
+      "rawName": "[UPD] Be A Delivery Driver",
+      "playerCount": 41,
+      "url": "https://www.roblox.com/games/109504069981274/Be-A-Delivery-Driver",
+      "foundBy": "delivery driver"
+    }
+  ]
+}

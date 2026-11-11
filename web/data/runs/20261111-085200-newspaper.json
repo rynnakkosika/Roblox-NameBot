@@ -1,0 +1,767 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261111-085200-newspaper",
+    "genre": "newspaper",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-11T08:52:00Z",
+    "finishedAt": "2026-11-11T09:03:08Z",
+    "issue": null,
+    "genreWords": [
+      "newspaper"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Prison Run Newspaper Tycoon",
+      "score": 62.542,
+      "words": [
+        "Prison",
+        "Run",
+        "Newspaper",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "newspaper tycoon",
+        "new escape prison obby",
+        "new escape prison"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Backrooms Company Newspaper Escape",
+      "score": 52.331,
+      "words": [
+        "Backrooms",
+        "Company",
+        "Newspaper",
+        "Escape"
+      ],
+      "supportedBy": [
+        "newspaper company",
+        "new escape obbys",
+        "new escape obby"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Newspaper Tycoon",
+      "score": 48.64,
+      "words": [
+        "Newspaper",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "newspaper tycoon"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Own Car Newspaper Escape",
+      "score": 35.537,
+      "words": [
+        "Own",
+        "Car",
+        "Newspaper",
+        "Escape"
+      ],
+      "supportedBy": [
+        "new escape obbys",
+        "new escape obby",
+        "new escape backrooms"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Steal Egg Newspaper Tycoon",
+      "score": 31.931,
+      "words": [
+        "Steal",
+        "Egg",
+        "Newspaper",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "newspaper tycoon"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Barrys Prison Newspaper Simulator",
+      "score": 31.15,
+      "words": [
+        "Barrys",
+        "Prison",
+        "Newspaper",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "newspaper simulator",
+        "new escape prison obby",
+        "new escape prison"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Paper Plane Newspaper Escape",
+      "score": 28.032,
+      "words": [
+        "Paper",
+        "Plane",
+        "Newspaper",
+        "Escape"
+      ],
+      "supportedBy": [
+        "new escape obbys",
+        "new escape obby",
+        "new escape backrooms"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Say Cheese Newspaper Tycoon",
+      "score": 24.924,
+      "words": [
+        "Say",
+        "Cheese",
+        "Newspaper",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "newspaper tycoon"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Toilet World Newspaper Simulator",
+      "score": 24.304,
+      "words": [
+        "Toilet",
+        "World",
+        "Newspaper",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "newspaper simulator"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Gym Star Newspaper Escape",
+      "score": 22.02,
+      "words": [
+        "Gym",
+        "Star",
+        "Newspaper",
+        "Escape"
+      ],
+      "supportedBy": [
+        "new escape obbys",
+        "new escape obby",
+        "new escape backrooms"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Dont Splash Newspaper Tycoon",
+      "score": 19.856,
+      "words": [
+        "Dont",
+        "Splash",
+        "Newspaper",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "newspaper tycoon"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Survive Ideas Newspaper Simulator",
+      "score": 19.294,
+      "words": [
+        "Survive",
+        "Ideas",
+        "Newspaper",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "newspaper simulator"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Ice Fishing Newspaper Escape",
+      "score": 17.332,
+      "words": [
+        "Ice",
+        "Fishing",
+        "Newspaper",
+        "Escape"
+      ],
+      "supportedBy": [
+        "new escape obbys",
+        "new escape obby",
+        "new escape backrooms"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Backrooms Company Newspaper Obby",
+      "score": 16.985,
+      "words": [
+        "Backrooms",
+        "Company",
+        "Newspaper",
+        "Obby"
+      ],
+      "supportedBy": [
+        "newspaper company",
+        "new escape obbys",
+        "new escape obby"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Small Business Newspaper Tycoon",
+      "score": 15.598,
+      "words": [
+        "Small",
+        "Business",
+        "Newspaper",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "newspaper tycoon"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Sf Bike Newspaper Simulator",
+      "score": 14.953,
+      "words": [
+        "Sf",
+        "Bike",
+        "Newspaper",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "newspaper simulator"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Newspaper School Escape",
+      "score": 13.847,
+      "words": [
+        "Newspaper",
+        "School",
+        "Escape"
+      ],
+      "supportedBy": [
+        "new escape obbys",
+        "new escape obby",
+        "new escape backrooms"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Military Army Newspaper Obby",
+      "score": 12.956,
+      "words": [
+        "Military",
+        "Army",
+        "Newspaper",
+        "Obby"
+      ],
+      "supportedBy": [
+        "new escape obbys",
+        "new escape obby",
+        "new escape prison obby"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Sepeda Ontel Newspaper Tycoon",
+      "score": 12.39,
+      "words": [
+        "Sepeda",
+        "Ontel",
+        "Newspaper",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "newspaper tycoon"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Prison Run Newspaper RP",
+      "score": 11.894,
+      "words": [
+        "Prison",
+        "Run",
+        "Newspaper",
+        "RP"
+      ],
+      "supportedBy": [
+        "new escape prison obby",
+        "new escape prison"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Newspaper Simulator",
+      "score": 11.562,
+      "words": [
+        "Newspaper",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "newspaper simulator"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Newspaper Store Escape",
+      "score": 10.658,
+      "words": [
+        "Newspaper",
+        "Store",
+        "Escape"
+      ],
+      "supportedBy": [
+        "new escape obbys",
+        "new escape obby",
+        "new escape backrooms"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Brookhaven Newspaper Tycoon",
+      "score": 9.635,
+      "words": [
+        "Brookhaven",
+        "Newspaper",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "newspaper tycoon"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Car Dealership Newspaper Obby",
+      "score": 9.382,
+      "words": [
+        "Car",
+        "Dealership",
+        "Newspaper",
+        "Obby"
+      ],
+      "supportedBy": [
+        "new escape obbys",
+        "new escape obby",
+        "new escape prison obby"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Evil Newspaper Simulator",
+      "score": 8.849,
+      "words": [
+        "Evil",
+        "Newspaper",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "newspaper simulator"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "newspaper",
+      "score": 20.47
+    },
+    {
+      "text": "tycoon",
+      "score": 25.943
+    },
+    {
+      "text": "escape",
+      "score": 25.188
+    },
+    {
+      "text": "simulator",
+      "score": 16.123
+    },
+    {
+      "text": "prison",
+      "score": 10.431
+    },
+    {
+      "text": "newspaper tycoon",
+      "score": 8.754
+    },
+    {
+      "text": "backrooms",
+      "score": 8.092
+    },
+    {
+      "text": "obby",
+      "score": 7.993
+    },
+    {
+      "text": "run",
+      "score": 7.056
+    },
+    {
+      "text": "company",
+      "score": 6.08
+    },
+    {
+      "text": "school",
+      "score": 4.143
+    },
+    {
+      "text": "car",
+      "score": 3.772
+    },
+    {
+      "text": "prison run",
+      "score": 3.528
+    },
+    {
+      "text": "cheese",
+      "score": 3.209
+    },
+    {
+      "text": "world",
+      "score": 3.032
+    },
+    {
+      "text": "gym",
+      "score": 2.957
+    },
+    {
+      "text": "plane",
+      "score": 2.945
+    },
+    {
+      "text": "egg",
+      "score": 2.933
+    },
+    {
+      "text": "steal",
+      "score": 2.933
+    },
+    {
+      "text": "store",
+      "score": 2.876
+    },
+    {
+      "text": "barrys",
+      "score": 2.811
+    },
+    {
+      "text": "paper",
+      "score": 2.774
+    },
+    {
+      "text": "brookhaven",
+      "score": 2.653
+    },
+    {
+      "text": "own",
+      "score": 2.61
+    },
+    {
+      "text": "ice",
+      "score": 2.315
+    },
+    {
+      "text": "dealership",
+      "score": 2.304
+    },
+    {
+      "text": "dont",
+      "score": 2.304
+    },
+    {
+      "text": "splash",
+      "score": 2.304
+    },
+    {
+      "text": "ideas",
+      "score": 2.291
+    },
+    {
+      "text": "survive",
+      "score": 2.291
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "newspaper tycoon",
+      "score": 17.508,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "newspaper",
+      "score": 4.178,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "newspaper simulator",
+      "score": 3.234,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "newspaper company",
+      "score": 2.517,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "newspapers",
+      "score": 2.091,
+      "appearances": 3,
+      "bestRank": 2
+    },
+    {
+      "rank": 6,
+      "text": "newspaper game",
+      "score": 2.072,
+      "appearances": 3,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 735662,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "news paper company"
+    },
+    {
+      "name": "Brookhaven RP",
+      "rawName": "Brookhaven 🏡RP",
+      "playerCount": 202703,
+      "url": "https://www.roblox.com/games/4924922222/Brookhaven-RP",
+      "foundBy": "newspaper"
+    },
+    {
+      "name": "DONT SPLASH",
+      "rawName": "DONT SPLASH",
+      "playerCount": 40590,
+      "url": "https://www.roblox.com/games/119958473240233/DONT-SPLASH",
+      "foundBy": "newspaper simulator"
+    },
+    {
+      "name": "Survive Your Ideas",
+      "rawName": "Survive Your Ideas",
+      "playerCount": 38108,
+      "url": "https://www.roblox.com/games/77900175935766/Survive-Your-Ideas",
+      "foundBy": "news paper company"
+    },
+    {
+      "name": "BARRY'S PRISON RUN!",
+      "rawName": "🚨BARRY'S PRISON RUN! (OBBY)",
+      "playerCount": 11323,
+      "url": "https://www.roblox.com/games/8712817601/BARRYS-PRISON-RUN",
+      "foundBy": "new escape prison obby"
+    },
+    {
+      "name": "My Small Business",
+      "rawName": "🧸 My Small Business",
+      "playerCount": 6784,
+      "url": "https://www.roblox.com/games/136468592163527/My-Small-Business",
+      "foundBy": "newspaper"
+    },
+    {
+      "name": "Toilet World Roleplay 2",
+      "rawName": "[UPDATE] Toilet World Roleplay 2",
+      "playerCount": 5849,
+      "url": "https://www.roblox.com/games/135717153770519/Toilet-World-Roleplay-2",
+      "foundBy": "news paper company"
+    },
+    {
+      "name": "SF BIKE",
+      "rawName": " SF BIKE [NEW BIKES] ",
+      "playerCount": 5539,
+      "url": "https://www.roblox.com/games/133214978843288/SF-BIKE",
+      "foundBy": "news paper company"
+    },
+    {
+      "name": "Military Army Tycoon",
+      "rawName": "[ 2x ] Military Army Tycoon",
+      "playerCount": 5473,
+      "url": "https://www.roblox.com/games/95409544559668/Military-Army-Tycoon",
+      "foundBy": "newspaper tycoon"
+    },
+    {
+      "name": "Gym Star Simulator",
+      "rawName": "Gym Star Simulator 💪",
+      "playerCount": 4278,
+      "url": "https://www.roblox.com/games/70906625936847/Gym-Star-Simulator",
+      "foundBy": "newspaper simulator"
+    },
+    {
+      "name": "Ice Fishing Simulator",
+      "rawName": "Ice Fishing Simulator 🐟",
+      "playerCount": 3552,
+      "url": "https://www.roblox.com/games/14350413280/Ice-Fishing-Simulator",
+      "foundBy": "newspaper simulator"
+    },
+    {
+      "name": "SEPEDA ONTEL SIMULATOR",
+      "rawName": "[UPD] SEPEDA ONTEL SIMULATOR",
+      "playerCount": 3405,
+      "url": "https://www.roblox.com/games/134594133375327/SEPEDA-ONTEL-SIMULATOR",
+      "foundBy": "newspaper simulator"
+    },
+    {
+      "name": "Backrooms",
+      "rawName": "Backrooms",
+      "playerCount": 3218,
+      "url": "https://www.roblox.com/games/9273658706/Backrooms",
+      "foundBy": "new escape backrooms"
+    },
+    {
+      "name": "Plane Crash Simulator",
+      "rawName": "[UPD] Plane Crash Simulator",
+      "playerCount": 3080,
+      "url": "https://www.roblox.com/games/98306159851135/Plane-Crash-Simulator",
+      "foundBy": "newspaper simulator"
+    },
+    {
+      "name": "Say Cheese!",
+      "rawName": "📸 Say Cheese! [STORY]",
+      "playerCount": 3056,
+      "url": "https://www.roblox.com/games/100453542816833/Say-Cheese",
+      "foundBy": "newspaper"
+    },
+    {
+      "name": "Pilot Training Flight Simulator",
+      "rawName": "Pilot Training Flight Simulator",
+      "playerCount": 2111,
+      "url": "https://www.roblox.com/games/20321167/Pilot-Training-Flight-Simulator",
+      "foundBy": "newspaper simulator"
+    },
+    {
+      "name": "Trading Tycoon",
+      "rawName": "Trading Tycoon",
+      "playerCount": 1874,
+      "url": "https://www.roblox.com/games/112241277471797/Trading-Tycoon",
+      "foundBy": "newspaper tycoon"
+    },
+    {
+      "name": "Avatar Simulator",
+      "rawName": "Avatar Simulator",
+      "playerCount": 1523,
+      "url": "https://www.roblox.com/games/6934310111/Avatar-Simulator",
+      "foundBy": "newspaper simulator"
+    },
+    {
+      "name": "Youtuber Tycoon!",
+      "rawName": "🕹️[Arcade] Youtuber Tycoon!",
+      "playerCount": 1487,
+      "url": "https://www.roblox.com/games/7971857341/Youtuber-Tycoon",
+      "foundBy": "newspaper tycoon"
+    },
+    {
+      "name": "Own a Grocery Store",
+      "rawName": "Own a Grocery Store 🛒",
+      "playerCount": 1427,
+      "url": "https://www.roblox.com/games/117985153726741/Own-a-Grocery-Store",
+      "foundBy": "newspaper company"
+    },
+    {
+      "name": "Winch Log Simulator",
+      "rawName": "Winch Log Simulator [BETA]",
+      "playerCount": 1340,
+      "url": "https://www.roblox.com/games/98572303171584/Winch-Log-Simulator",
+      "foundBy": "newspaper simulator"
+    },
+    {
+      "name": "Raft Tycoon",
+      "rawName": "🌊 Raft Tycoon",
+      "playerCount": 1329,
+      "url": "https://www.roblox.com/games/76137189788863/Raft-Tycoon",
+      "foundBy": "newspaper tycoon"
+    },
+    {
+      "name": "House Tycoon 2",
+      "rawName": "House Tycoon 2",
+      "playerCount": 1143,
+      "url": "https://www.roblox.com/games/10224049386/House-Tycoon-2",
+      "foundBy": "newspaper tycoon"
+    },
+    {
+      "name": "Apple iPad Original",
+      "rawName": "Apple iPad Original",
+      "playerCount": 1097,
+      "url": "https://www.roblox.com/games/128248561501148/Apple-iPad-Original",
+      "foundBy": "news paper"
+    },
+    {
+      "name": "Backrooms Company",
+      "rawName": "[UPDATE] Backrooms Company",
+      "playerCount": 1046,
+      "url": "https://www.roblox.com/games/109423220190564/Backrooms-Company",
+      "foundBy": "new escape backrooms"
+    },
+    {
+      "name": "Build a Car Company",
+      "rawName": "Build a Car Company 🚗",
+      "playerCount": 859,
+      "url": "https://www.roblox.com/games/100169861827044/Build-a-Car-Company",
+      "foundBy": "newspaper company"
+    },
+    {
+      "name": "Cheese Escape",
+      "rawName": "Cheese Escape [Horror]",
+      "playerCount": 854,
+      "url": "https://www.roblox.com/games/5777099015/Cheese-Escape",
+      "foundBy": "new escape backrooms"
+    },
+    {
+      "name": "Zoo Tycoon",
+      "rawName": "Zoo Tycoon 🥚🐲",
+      "playerCount": 764,
+      "url": "https://www.roblox.com/games/1128650291/Zoo-Tycoon",
+      "foundBy": "newspaper tycoon"
+    },
+    {
+      "name": "Escape Baby Bobby Daycare!",
+      "rawName": "Escape Baby Bobby Daycare! (OBBY)",
+      "playerCount": 702,
+      "url": "https://www.roblox.com/games/12090482034/Escape-Baby-Bobby-Daycare",
+      "foundBy": "new escape obbys"
+    },
+    {
+      "name": "BARRON'S PRISON ESCAPE!",
+      "rawName": "👮‍♂️ BARRON'S PRISON ESCAPE! (Obby)",
+      "playerCount": 618,
+      "url": "https://www.roblox.com/games/15545721969/BARRONS-PRISON-ESCAPE",
+      "foundBy": "new escape prison obby"
+    }
+  ]
+}

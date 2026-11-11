@@ -2,6 +2,105 @@
   "schemaVersion": 1,
   "runs": [
     {
+      "runId": "20261111-090311-car-simulator",
+      "genre": "car simulator",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-11T09:14:19Z",
+      "topName": "Car Simulator"
+    },
+    {
+      "runId": "20261111-085200-newspaper",
+      "genre": "newspaper",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-11T09:03:08Z",
+      "topName": "Prison Run Newspaper Tycoon"
+    },
+    {
+      "runId": "20261111-084051-car-tycoon",
+      "genre": "car tycoon",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-11T08:51:57Z",
+      "topName": "Car Tycoon"
+    },
+    {
+      "runId": "20261111-082944-truck",
+      "genre": "truck",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-11T08:40:50Z",
+      "topName": "Truck Simulator"
+    },
+    {
+      "runId": "20261111-081833-courier",
+      "genre": "courier",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-11T08:29:42Z",
+      "topName": "Run Eggs Courier Escape"
+    },
+    {
+      "runId": "20261111-080918-package-delivery",
+      "genre": "package delivery",
+      "budget": 1000,
+      "searchesMade": 838,
+      "status": "complete",
+      "finishedAt": "2026-11-11T08:18:26Z",
+      "topName": "Package Delivery Cart Ride"
+    },
+    {
+      "runId": "20261111-075812-driving",
+      "genre": "driving",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-11T08:09:18Z",
+      "topName": "Driving Empire"
+    },
+    {
+      "runId": "20261111-074706-taxi",
+      "genre": "taxi",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-11T07:58:12Z",
+      "topName": "Taxi Boss Simulator"
+    },
+    {
+      "runId": "20261111-073600-pizza-delivery",
+      "genre": "pizza delivery",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-11T07:47:06Z",
+      "topName": "Pizza Delivery Escape"
+    },
+    {
+      "runId": "20261111-072548-delivery-simulator",
+      "genre": "delivery simulator",
+      "budget": 1000,
+      "searchesMade": 941,
+      "status": "complete",
+      "finishedAt": "2026-11-11T07:36:00Z",
+      "topName": "Cart Ride Delivery Simulator"
+    },
+    {
+      "runId": "20261111-071442-delivery",
+      "genre": "delivery",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-11T07:25:48Z",
+      "topName": "Delivery Cart Ride Simulator"
+    },
+    {
       "runId": "20261110-212351-strategy",
       "genre": "strategy",
       "budget": 1000,

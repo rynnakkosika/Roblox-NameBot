@@ -1,0 +1,926 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261111-090311-car-simulator",
+    "genre": "car simulator",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-11T09:03:11Z",
+    "finishedAt": "2026-11-11T09:14:19Z",
+    "issue": null,
+    "genreWords": [
+      "car",
+      "simulator"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Car Simulator",
+      "score": 140.448,
+      "words": [
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car simulator tycoon vehicle",
+        "car simulator 2",
+        "car simulator"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Vehicle Driving Car Simulator",
+      "score": 138.077,
+      "words": [
+        "Vehicle",
+        "Driving",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car simulator tycoon vehicle",
+        "car simulator driving",
+        "car driving simulator"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Plane Crash Car Simulator",
+      "score": 121.521,
+      "words": [
+        "Plane",
+        "Crash",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car simulator crash",
+        "car crash simulator"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Driver Vietnam Car Simulator",
+      "score": 113.385,
+      "words": [
+        "Driver",
+        "Vietnam",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car simulator vietnam"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Indonesia Car Simulator",
+      "score": 111.263,
+      "words": [
+        "Indonesia",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car simulator indonesia",
+        "ferry simulator indonesia"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Physics Drive Car Simulator",
+      "score": 110.047,
+      "words": [
+        "Physics",
+        "Drive",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 7,
+      "name": "Ultimate Car Simulator",
+      "score": 107.866,
+      "words": [
+        "Ultimate",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car simulator ultimate"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Cabin Crew Car Simulator",
+      "score": 107.276,
+      "words": [
+        "Cabin",
+        "Crew",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "crew simulator"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Airport Flight Car Simulator",
+      "score": 106.485,
+      "words": [
+        "Airport",
+        "Flight",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 10,
+      "name": "Realistic Car Simulator",
+      "score": 104.635,
+      "words": [
+        "Realistic",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car simulator realistic"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Drag Race Car Simulator",
+      "score": 104.463,
+      "words": [
+        "Drag",
+        "Race",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car simulator race",
+        "car race simulator",
+        "car simulator drag race"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Dealership Car Simulator",
+      "score": 104.282,
+      "words": [
+        "Dealership",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 13,
+      "name": "Pilot Training Car Simulator",
+      "score": 103.876,
+      "words": [
+        "Pilot",
+        "Training",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 14,
+      "name": "School Taipei Car Simulator",
+      "score": 103.47,
+      "words": [
+        "School",
+        "Taipei",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 15,
+      "name": "Drifting Car Simulator",
+      "score": 103.122,
+      "words": [
+        "Drifting",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 16,
+      "name": "Build Car Simulator",
+      "score": 102.856,
+      "words": [
+        "Build",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 17,
+      "name": "Studio Car Simulator",
+      "score": 102.747,
+      "words": [
+        "Studio",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car simulator studio"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Empire Car Simulator",
+      "score": 102.205,
+      "words": [
+        "Empire",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Break Car Simulator",
+      "score": 102.074,
+      "words": [
+        "Break",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 20,
+      "name": "Nitro Car Simulator",
+      "score": 102.059,
+      "words": [
+        "Nitro",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Destruction Car Simulator",
+      "score": 101.936,
+      "words": [
+        "Destruction",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Suspension Car Simulator",
+      "score": 101.915,
+      "words": [
+        "Suspension",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "car suspension test",
+        "car suspension testing",
+        "car suspension test free cars"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Angkot Car Simulator",
+      "score": 101.912,
+      "words": [
+        "Angkot",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Legends Car Simulator",
+      "score": 101.895,
+      "words": [
+        "Legends",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Zone Car Simulator",
+      "score": 101.82,
+      "words": [
+        "Zone",
+        "Car",
+        "Simulator"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "car simulator",
+      "score": 200.231
+    },
+    {
+      "text": "car",
+      "score": 182.619
+    },
+    {
+      "text": "simulator",
+      "score": 180.127
+    },
+    {
+      "text": "simulator tycoon",
+      "score": 38.344
+    },
+    {
+      "text": "tycoon vehicle",
+      "score": 30.968
+    },
+    {
+      "text": "tycoon",
+      "score": 26.788
+    },
+    {
+      "text": "simulator 2",
+      "score": 23.117
+    },
+    {
+      "text": "vehicle",
+      "score": 19.262
+    },
+    {
+      "text": "driving",
+      "score": 18.208
+    },
+    {
+      "text": "crash",
+      "score": 17.348
+    },
+    {
+      "text": "indonesia",
+      "score": 11.147
+    },
+    {
+      "text": "simulator indonesia",
+      "score": 10.001
+    },
+    {
+      "text": "simulator crash",
+      "score": 9.68
+    },
+    {
+      "text": "simulator vietnam",
+      "score": 9.604
+    },
+    {
+      "text": "vietnam",
+      "score": 9.553
+    },
+    {
+      "text": "simulator ultimate",
+      "score": 9.154
+    },
+    {
+      "text": "ultimate",
+      "score": 7.75
+    },
+    {
+      "text": "simulator driving",
+      "score": 7.076
+    },
+    {
+      "text": "drive",
+      "score": 6.986
+    },
+    {
+      "text": "dealership",
+      "score": 4.167
+    },
+    {
+      "text": "flight",
+      "score": 4.118
+    },
+    {
+      "text": "realistic",
+      "score": 4.065
+    },
+    {
+      "text": "crew",
+      "score": 3.786
+    },
+    {
+      "text": "simulator 3",
+      "score": 3.458
+    },
+    {
+      "text": "driver",
+      "score": 3.295
+    },
+    {
+      "text": "plane",
+      "score": 3.075
+    },
+    {
+      "text": "drifting",
+      "score": 3.006
+    },
+    {
+      "text": "cabin",
+      "score": 2.995
+    },
+    {
+      "text": "crash simulator",
+      "score": 2.989
+    },
+    {
+      "text": "simulator race",
+      "score": 2.659
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "car simulator tycoon vehicle",
+      "score": 61.936,
+      "appearances": 100,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "car simulator 2",
+      "score": 44.597,
+      "appearances": 72,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "car simulator",
+      "score": 40.332,
+      "appearances": 55,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "car simulator games",
+      "score": 32.932,
+      "appearances": 67,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "car simulators",
+      "score": 22.639,
+      "appearances": 54,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "car simulator game",
+      "score": 20.887,
+      "appearances": 48,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "car simulator crash",
+      "score": 19.361,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "car simulator vietnam",
+      "score": 19.208,
+      "appearances": 35,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "car simulator ultimate",
+      "score": 18.308,
+      "appearances": 47,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "car simulator indonesia",
+      "score": 18.181,
+      "appearances": 43,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "car simulator tycoon",
+      "score": 14.752,
+      "appearances": 34,
+      "bestRank": 2
+    },
+    {
+      "rank": 12,
+      "text": "car simulator test",
+      "score": 14.289,
+      "appearances": 37,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "car simulator driving",
+      "score": 14.151,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "car simulator simulator",
+      "score": 7.329,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "car simulator 3",
+      "score": 6.847,
+      "appearances": 25,
+      "bestRank": 4
+    },
+    {
+      "rank": 16,
+      "text": "car simulator race",
+      "score": 5.318,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "cars simulator",
+      "score": 4.819,
+      "appearances": 19,
+      "bestRank": 4
+    },
+    {
+      "rank": 18,
+      "text": "car simulator studio",
+      "score": 4.376,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "car simulator realistic",
+      "score": 4.183,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "cars simulators",
+      "score": 2.866,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "car simulator ragdoll",
+      "score": 2.614,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "car simulator 3d",
+      "score": 2.556,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "car simulator french",
+      "score": 2.401,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "car simulator blocks fruit",
+      "score": 1.549,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "car simulator brainrot",
+      "score": 1.549,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "car simulator chapter 2",
+      "score": 1.549,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "car simulator music",
+      "score": 1.549,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "car simulator rp",
+      "score": 1.549,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "car simulator vr",
+      "score": 1.549,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "car simulator roblox",
+      "score": 1.375,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "car simulator car simulator",
+      "score": 1.007,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "car simulator off road",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 33,
+      "text": "car simulator drag race",
+      "score": 0.62,
+      "appearances": 1,
+      "bestRank": 3
+    },
+    {
+      "rank": 34,
+      "text": "car simulator relax",
+      "score": 0.62,
+      "appearances": 1,
+      "bestRank": 3
+    },
+    {
+      "rank": 35,
+      "text": "car simulator drift",
+      "score": 0.387,
+      "appearances": 1,
+      "bestRank": 6
+    },
+    {
+      "rank": 36,
+      "text": "car simulator x",
+      "score": 0.372,
+      "appearances": 1,
+      "bestRank": 3
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Driving Empire",
+      "rawName": "Driving Empire [🏁NASCAR Championship Weekend🏁]",
+      "playerCount": 15100,
+      "url": "https://www.roblox.com/games/3351674303/Driving-Empire",
+      "foundBy": "car simulator"
+    },
+    {
+      "name": "Drag Drive Simulator",
+      "rawName": "(WHEELIE STYLE x BIG UPDATE) Drag Drive Simulator",
+      "playerCount": 11933,
+      "url": "https://www.roblox.com/games/131378148336503/Drag-Drive-Simulator",
+      "foundBy": "car simulator indonesia"
+    },
+    {
+      "name": "Car Driving Indonesia",
+      "rawName": "(👻) Car Driving Indonesia",
+      "playerCount": 4697,
+      "url": "https://www.roblox.com/games/6911148748/Car-Driving-Indonesia",
+      "foundBy": "car simulator indonesia"
+    },
+    {
+      "name": "Realistic Car Destruction",
+      "rawName": "Realistic Car Destruction",
+      "playerCount": 4385,
+      "url": "https://www.roblox.com/games/131817327709359/Realistic-Car-Destruction",
+      "foundBy": "car simulator crash"
+    },
+    {
+      "name": "Angkot Simulator Indonesia",
+      "rawName": "Angkot Simulator Indonesia",
+      "playerCount": 3926,
+      "url": "https://www.roblox.com/games/109567208392966/Angkot-Simulator-Indonesia",
+      "foundBy": "car simulator indonesia"
+    },
+    {
+      "name": "Plane Crash Simulator",
+      "rawName": "[UPD] Plane Crash Simulator",
+      "playerCount": 3183,
+      "url": "https://www.roblox.com/games/98306159851135/Plane-Crash-Simulator",
+      "foundBy": "crew simulator"
+    },
+    {
+      "name": "Car Zone Racing & Drifting",
+      "rawName": "[🎃] Car Zone 🏎️ Racing & Drifting",
+      "playerCount": 2562,
+      "url": "https://www.roblox.com/games/80200604311136/Car-Zone-Racing-Drifting",
+      "foundBy": "car simulator"
+    },
+    {
+      "name": "Car Suspension Test",
+      "rawName": "[☀️] Car Suspension Test",
+      "playerCount": 2401,
+      "url": "https://www.roblox.com/games/6816975827/Car-Suspension-Test",
+      "foundBy": "car simulator"
+    },
+    {
+      "name": "Bus Driver Vietnam 2",
+      "rawName": "Bus Driver Vietnam 2",
+      "playerCount": 2361,
+      "url": "https://www.roblox.com/games/13705777238/Bus-Driver-Vietnam-2",
+      "foundBy": "car simulator"
+    },
+    {
+      "name": "Pilot Training Flight Simulator",
+      "rawName": "Pilot Training Flight Simulator",
+      "playerCount": 2199,
+      "url": "https://www.roblox.com/games/20321167/Pilot-Training-Flight-Simulator",
+      "foundBy": "car simulator tycoon vehicle"
+    },
+    {
+      "name": "Drive World",
+      "rawName": "[BIKES] Drive World",
+      "playerCount": 2118,
+      "url": "https://www.roblox.com/games/10704789056/Drive-World",
+      "foundBy": "car simulator"
+    },
+    {
+      "name": "Car Driving Ultimate",
+      "rawName": "[NEW UPDATE] Car Driving Ultimate",
+      "playerCount": 1971,
+      "url": "https://www.roblox.com/games/11145865512/Car-Driving-Ultimate",
+      "foundBy": "car simulator"
+    },
+    {
+      "name": "Car Dealership Tycoon",
+      "rawName": "Car Dealership Tycoon ",
+      "playerCount": 1498,
+      "url": "https://www.roblox.com/games/1554960397/Car-Dealership-Tycoon",
+      "foundBy": "car simulator tycoon vehicle"
+    },
+    {
+      "name": "Break For Cars",
+      "rawName": "[🏎️] Break For Cars",
+      "playerCount": 1360,
+      "url": "https://www.roblox.com/games/128375343601361/Break-For-Cars",
+      "foundBy": "car simulator tycoon"
+    },
+    {
+      "name": "Raft Tycoon",
+      "rawName": "🌊 Raft Tycoon",
+      "playerCount": 1345,
+      "url": "https://www.roblox.com/games/76137189788863/Raft-Tycoon",
+      "foundBy": "car simulator tycoon vehicle"
+    },
+    {
+      "name": "Nitro Car",
+      "rawName": "Nitro Car",
+      "playerCount": 1288,
+      "url": "https://www.roblox.com/games/17581668152/Nitro-Car",
+      "foundBy": "car simulator driving"
+    },
+    {
+      "name": "Cabin Crew Simulator",
+      "rawName": "✈️ Cabin Crew Simulator ",
+      "playerCount": 1100,
+      "url": "https://www.roblox.com/games/5171347293/Cabin-Crew-Simulator",
+      "foundBy": "crew simulator"
+    },
+    {
+      "name": "Vehicle Crash Physics X",
+      "rawName": "Vehicle Crash Physics X 🚗",
+      "playerCount": 1063,
+      "url": "https://www.roblox.com/games/98064296690653/Vehicle-Crash-Physics-X",
+      "foundBy": "car simulator crash"
+    },
+    {
+      "name": "Driving School Taipei",
+      "rawName": "Driving School Taipei",
+      "playerCount": 959,
+      "url": "https://www.roblox.com/games/113417458098065/Driving-School-Taipei",
+      "foundBy": "car simulator vietnam"
+    },
+    {
+      "name": "Cabin Chaos",
+      "rawName": "[NEW SKINS] Cabin Chaos ✈️",
+      "playerCount": 885,
+      "url": "https://www.roblox.com/games/85037075053728/Cabin-Chaos",
+      "foundBy": "crew simulator"
+    },
+    {
+      "name": "Build a Car Company",
+      "rawName": "Build a Car Company 🚗",
+      "playerCount": 865,
+      "url": "https://www.roblox.com/games/100169861827044/Build-a-Car-Company",
+      "foundBy": "car simulator tycoon vehicle"
+    },
+    {
+      "name": "Vietnam Driving",
+      "rawName": "Vietnam Driving",
+      "playerCount": 843,
+      "url": "https://www.roblox.com/games/100197383885771/Vietnam-Driving",
+      "foundBy": "car simulator vietnam"
+    },
+    {
+      "name": "Vehicle Legends Cars!",
+      "rawName": "Vehicle Legends 🏎️ Cars!",
+      "playerCount": 703,
+      "url": "https://www.roblox.com/games/4566572536/Vehicle-Legends-Cars",
+      "foundBy": "car simulator tycoon vehicle"
+    },
+    {
+      "name": "Boat Crash Simulator",
+      "rawName": "Boat Crash Simulator",
+      "playerCount": 593,
+      "url": "https://www.roblox.com/games/114979615449754/Boat-Crash-Simulator",
+      "foundBy": "car simulator crash"
+    },
+    {
+      "name": "Drift 36",
+      "rawName": "Drift 36",
+      "playerCount": 567,
+      "url": "https://www.roblox.com/games/109170650911069/Drift-36",
+      "foundBy": "car simulator ultimate"
+    },
+    {
+      "name": "Avionics Plane Crash Simulator",
+      "rawName": "Avionics | Plane Crash Simulator",
+      "playerCount": 443,
+      "url": "https://www.roblox.com/games/415916223/Avionics-Plane-Crash-Simulator",
+      "foundBy": "car simulator crash"
+    },
+    {
+      "name": "Indian Drive",
+      "rawName": "Indian Drive",
+      "playerCount": 413,
+      "url": "https://www.roblox.com/games/95110328008354/Indian-Drive",
+      "foundBy": "car simulator"
+    },
+    {
+      "name": "Drifting Simulator",
+      "rawName": "Drifting Simulator",
+      "playerCount": 401,
+      "url": "https://www.roblox.com/games/6673427416/Drifting-Simulator",
+      "foundBy": "car simulator"
+    },
+    {
+      "name": "Spider-Man Simulator",
+      "rawName": "🕷️ Spider-Man Simulator",
+      "playerCount": 401,
+      "url": "https://www.roblox.com/games/3837864717/Spider-Man-Simulator",
+      "foundBy": "crew simulator"
+    },
+    {
+      "name": "Dealership Tycoon Cars",
+      "rawName": "Dealership Tycoon 🏎️ Cars",
+      "playerCount": 374,
+      "url": "https://www.roblox.com/games/14475792710/Dealership-Tycoon-Cars",
+      "foundBy": "car simulator"
+    }
+  ]
+}

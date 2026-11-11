@@ -1,0 +1,700 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261111-072548-delivery-simulator",
+    "genre": "delivery simulator",
+    "budget": 1000,
+    "searchesMade": 941,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "exhausted",
+    "startedAt": "2026-11-11T07:25:48Z",
+    "finishedAt": "2026-11-11T07:36:00Z",
+    "issue": null,
+    "genreWords": [
+      "delivery",
+      "simulator"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Cart Ride Delivery Simulator",
+      "score": 23.438,
+      "words": [
+        "Cart",
+        "Ride",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery simulator cart ride"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Car Driving Delivery Simulator",
+      "score": 17.804,
+      "words": [
+        "Car",
+        "Driving",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 3,
+      "name": "Delivery Simulator",
+      "score": 17.395,
+      "words": [
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery simulator x",
+        "delivery simulator",
+        "delivery man simulator"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Drag Drive Delivery Simulator",
+      "score": 16.818,
+      "words": [
+        "Drag",
+        "Drive",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 5,
+      "name": "Ride Storm Delivery Simulator",
+      "score": 14.867,
+      "words": [
+        "Ride",
+        "Storm",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery simulator cart ride"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Fast Food Delivery Simulator",
+      "score": 14.2,
+      "words": [
+        "Fast",
+        "Food",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 7,
+      "name": "Spider Man Delivery Simulator",
+      "score": 13.808,
+      "words": [
+        "Spider",
+        "Man",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery man simulator"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Moped Drag Delivery Simulator",
+      "score": 13.305,
+      "words": [
+        "Moped",
+        "Drag",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 9,
+      "name": "Gym Star Delivery Simulator",
+      "score": 12.905,
+      "words": [
+        "Gym",
+        "Star",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 10,
+      "name": "Sepeda Ontel Delivery Simulator",
+      "score": 12.839,
+      "words": [
+        "Sepeda",
+        "Ontel",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 11,
+      "name": "Plane Crash Delivery Simulator",
+      "score": 12.699,
+      "words": [
+        "Plane",
+        "Crash",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 12,
+      "name": "Burger Planet Delivery Simulator",
+      "score": 12.613,
+      "words": [
+        "Burger",
+        "Planet",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 13,
+      "name": "Bus Driver Delivery Simulator",
+      "score": 12.579,
+      "words": [
+        "Bus",
+        "Driver",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "driver simulator 2 revmap",
+        "driver simulator 2"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Pilot Training Delivery Simulator",
+      "score": 12.54,
+      "words": [
+        "Pilot",
+        "Training",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 15,
+      "name": "Driving Empire Delivery Simulator",
+      "score": 12.439,
+      "words": [
+        "Driving",
+        "Empire",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 16,
+      "name": "Bsts Id Delivery Simulator",
+      "score": 12.355,
+      "words": [
+        "Bsts",
+        "Id",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 17,
+      "name": "Mx Style Delivery Simulator",
+      "score": 12.18,
+      "words": [
+        "Mx",
+        "Style",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 18,
+      "name": "Sail Sink Delivery Simulator",
+      "score": 12.13,
+      "words": [
+        "Sail",
+        "Sink",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Cart Delivery Simulator",
+      "score": 11.467,
+      "words": [
+        "Cart",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "delivery simulator cart ride"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Packages Delivery Simulator",
+      "score": 11.187,
+      "words": [
+        "Packages",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Baby Delivery Simulator",
+      "score": 11.141,
+      "words": [
+        "Baby",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Wrecked Delivery Simulator",
+      "score": 10.612,
+      "words": [
+        "Wrecked",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 23,
+      "name": "Car Delivery Simulator",
+      "score": 10.537,
+      "words": [
+        "Car",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Vietnam Delivery Simulator",
+      "score": 10.478,
+      "words": [
+        "Vietnam",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Flight Delivery Simulator",
+      "score": 10.475,
+      "words": [
+        "Flight",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "delivery simulator",
+      "score": 17.648
+    },
+    {
+      "text": "delivery",
+      "score": 15.789
+    },
+    {
+      "text": "simulator",
+      "score": 34.511
+    },
+    {
+      "text": "simulator x",
+      "score": 9.701
+    },
+    {
+      "text": "ride",
+      "score": 7.398
+    },
+    {
+      "text": "cart",
+      "score": 5.509
+    },
+    {
+      "text": "drag",
+      "score": 5.435
+    },
+    {
+      "text": "car",
+      "score": 4.347
+    },
+    {
+      "text": "driving",
+      "score": 4.123
+    },
+    {
+      "text": "cart ride",
+      "score": 3.412
+    },
+    {
+      "text": "food",
+      "score": 2.954
+    },
+    {
+      "text": "packages",
+      "score": 2.363
+    },
+    {
+      "text": "baby",
+      "score": 2.317
+    },
+    {
+      "text": "man",
+      "score": 2.255
+    },
+    {
+      "text": "spider",
+      "score": 2.183
+    },
+    {
+      "text": "empire",
+      "score": 2.081
+    },
+    {
+      "text": "drive",
+      "score": 2.046
+    },
+    {
+      "text": "moped",
+      "score": 1.897
+    },
+    {
+      "text": "storm",
+      "score": 1.889
+    },
+    {
+      "text": "gym",
+      "score": 1.814
+    },
+    {
+      "text": "star",
+      "score": 1.814
+    },
+    {
+      "text": "wrecked",
+      "score": 1.788
+    },
+    {
+      "text": "ontel",
+      "score": 1.784
+    },
+    {
+      "text": "sepeda",
+      "score": 1.784
+    },
+    {
+      "text": "crash",
+      "score": 1.722
+    },
+    {
+      "text": "plane",
+      "score": 1.722
+    },
+    {
+      "text": "driver",
+      "score": 1.688
+    },
+    {
+      "text": "burger",
+      "score": 1.684
+    },
+    {
+      "text": "fast",
+      "score": 1.684
+    },
+    {
+      "text": "planet",
+      "score": 1.684
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "delivery simulator x",
+      "score": 19.101,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "delivery simulator",
+      "score": 8.571,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "delivery simulator chaos",
+      "score": 2.149,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "delivery simulator pizza",
+      "score": 2.149,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "delivery simulator cart ride",
+      "score": 1.754,
+      "appearances": 3,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Driving Empire",
+      "rawName": "Driving Empire [🏁NASCAR Championship Weekend🏁]",
+      "playerCount": 14522,
+      "url": "https://www.roblox.com/games/3351674303/Driving-Empire",
+      "foundBy": "driver simulator 2"
+    },
+    {
+      "name": "Drag Drive Simulator",
+      "rawName": "(WHEELIE STYLE x BIG UPDATE) Drag Drive Simulator",
+      "playerCount": 12382,
+      "url": "https://www.roblox.com/games/131378148336503/Drag-Drive-Simulator",
+      "foundBy": "driver simulator 2 revmap"
+    },
+    {
+      "name": "Moped Drag",
+      "rawName": "Moped Drag [BIG UPDATE  🏍️]",
+      "playerCount": 6236,
+      "url": "https://www.roblox.com/games/99713568470959/Moped-Drag",
+      "foundBy": "driver simulator 2"
+    },
+    {
+      "name": "Ride Storm",
+      "rawName": "[UPD] Ride Storm",
+      "playerCount": 5997,
+      "url": "https://www.roblox.com/games/12593620250/Ride-Storm",
+      "foundBy": "driver simulator 2"
+    },
+    {
+      "name": "Gym Star Simulator",
+      "rawName": "Gym Star Simulator 💪",
+      "playerCount": 4241,
+      "url": "https://www.roblox.com/games/70906625936847/Gym-Star-Simulator",
+      "foundBy": "delivery simulator chaos"
+    },
+    {
+      "name": "WRECKED",
+      "rawName": "WRECKED [Realistic Crashes]",
+      "playerCount": 3763,
+      "url": "https://www.roblox.com/games/77843690602580/WRECKED",
+      "foundBy": "driver simulator 2 revmap"
+    },
+    {
+      "name": "SEPEDA ONTEL SIMULATOR",
+      "rawName": "[UPD] SEPEDA ONTEL SIMULATOR",
+      "playerCount": 3704,
+      "url": "https://www.roblox.com/games/134594133375327/SEPEDA-ONTEL-SIMULATOR",
+      "foundBy": "driver simulator 2 revmap"
+    },
+    {
+      "name": "Plane Crash Simulator",
+      "rawName": "[UPD] Plane Crash Simulator",
+      "playerCount": 2780,
+      "url": "https://www.roblox.com/games/98306159851135/Plane-Crash-Simulator",
+      "foundBy": "delivery simulator chaos"
+    },
+    {
+      "name": "Burger Planet: Fast Food Simulator",
+      "rawName": "Burger Planet: Fast Food Simulator",
+      "playerCount": 2331,
+      "url": "https://www.roblox.com/games/121348681731705/Burger-Planet-Fast-Food-Simulator",
+      "foundBy": "delivery simulator pizza"
+    },
+    {
+      "name": "Bus Driver Vietnam 2",
+      "rawName": "Bus Driver Vietnam 2",
+      "playerCount": 2030,
+      "url": "https://www.roblox.com/games/13705777238/Bus-Driver-Vietnam-2",
+      "foundBy": "driver simulator 2 revmap"
+    },
+    {
+      "name": "Pilot Training Flight Simulator",
+      "rawName": "Pilot Training Flight Simulator",
+      "playerCount": 2008,
+      "url": "https://www.roblox.com/games/20321167/Pilot-Training-Flight-Simulator",
+      "foundBy": "delivery simulator chaos"
+    },
+    {
+      "name": "Car Driving Ultimate",
+      "rawName": "[NEW UPDATE] Car Driving Ultimate",
+      "playerCount": 1732,
+      "url": "https://www.roblox.com/games/11145865512/Car-Driving-Ultimate",
+      "foundBy": "driver simulator 2 revmap"
+    },
+    {
+      "name": "Cart Ride",
+      "rawName": "[🚂] Cart Ride",
+      "playerCount": 1413,
+      "url": "https://www.roblox.com/games/11364087119/Cart-Ride",
+      "foundBy": "delivery simulator cart ride"
+    },
+    {
+      "name": "BSTS-ID",
+      "rawName": "BSTS-ID",
+      "playerCount": 1375,
+      "url": "https://www.roblox.com/games/114375429517112/BSTS-ID",
+      "foundBy": "delivery simulator chaos"
+    },
+    {
+      "name": "Avatar Simulator",
+      "rawName": "Avatar Simulator",
+      "playerCount": 1356,
+      "url": "https://www.roblox.com/games/6934310111/Avatar-Simulator",
+      "foundBy": "delivery simulator chaos"
+    },
+    {
+      "name": "ART 244",
+      "rawName": "ART. 244 [🛠️ HUGE FIXES] ",
+      "playerCount": 1170,
+      "url": "https://www.roblox.com/games/18959440414/ART-244",
+      "foundBy": "driver simulator 2 revmap"
+    },
+    {
+      "name": "MX Style: Drag & Tuning",
+      "rawName": "[WHEELIE] MX Style: Drag & Tuning (BETA)",
+      "playerCount": 961,
+      "url": "https://www.roblox.com/games/87002126894169/MX-Style-Drag-Tuning",
+      "foundBy": "driver simulator 2"
+    },
+    {
+      "name": "Sail and Sink Simulator!",
+      "rawName": "[LNG] Sail and Sink Simulator!",
+      "playerCount": 868,
+      "url": "https://www.roblox.com/games/16141898262/Sail-and-Sink-Simulator",
+      "foundBy": "delivery simulator chaos"
+    },
+    {
+      "name": "Deliver Packages!",
+      "rawName": "Deliver Packages! 📦 ",
+      "playerCount": 618,
+      "url": "https://www.roblox.com/games/96884870939279/Deliver-Packages",
+      "foundBy": "delivery simulator"
+    },
+    {
+      "name": "Limited Car Realistic Car DrivingTM",
+      "rawName": "Limited Car | Realistic Car Driving™",
+      "playerCount": 533,
+      "url": "https://www.roblox.com/games/5829141886/Limited-Car-Realistic-Car-Driving",
+      "foundBy": "driver simulator 2"
+    },
+    {
+      "name": "Drift 36",
+      "rawName": "Drift 36",
+      "playerCount": 477,
+      "url": "https://www.roblox.com/games/109170650911069/Drift-36",
+      "foundBy": "driver simulator 2"
+    },
+    {
+      "name": "Lifting Simulator: REBORN",
+      "rawName": "[🎃X200👻] 💪🏻Lifting Simulator: REBORN",
+      "playerCount": 444,
+      "url": "https://www.roblox.com/games/139246468685423/Lifting-Simulator-REBORN",
+      "foundBy": "deliveryman simulator"
+    },
+    {
+      "name": "Strongman Simulator",
+      "rawName": "Strongman Simulator",
+      "playerCount": 436,
+      "url": "https://www.roblox.com/games/6766156863/Strongman-Simulator",
+      "foundBy": "delivery man simulator"
+    },
+    {
+      "name": "Create a Cart Ride!",
+      "rawName": "Create a Cart Ride!",
+      "playerCount": 400,
+      "url": "https://www.roblox.com/games/11727501024/Create-a-Cart-Ride",
+      "foundBy": "delivery simulator cart ride"
+    },
+    {
+      "name": "Food Delivery Simulator",
+      "rawName": "Food Delivery Simulator 🍔",
+      "playerCount": 346,
+      "url": "https://www.roblox.com/games/115791596576343/Food-Delivery-Simulator",
+      "foundBy": "delivery simulator"
+    },
+    {
+      "name": "Spider-Man Simulator",
+      "rawName": "🕷️ Spider-Man Simulator",
+      "playerCount": 326,
+      "url": "https://www.roblox.com/games/3837864717/Spider-Man-Simulator",
+      "foundBy": "delivery simulator x"
+    },
+    {
+      "name": "Drifting Simulator",
+      "rawName": "Drifting Simulator",
+      "playerCount": 316,
+      "url": "https://www.roblox.com/games/6673427416/Drifting-Simulator",
+      "foundBy": "delivery simulator pizza"
+    },
+    {
+      "name": "Quick! Deliver the Baby!",
+      "rawName": "Quick! Deliver the Baby!",
+      "playerCount": 305,
+      "url": "https://www.roblox.com/games/74595922690455/Quick-Deliver-the-Baby",
+      "foundBy": "deliver simulator"
+    },
+    {
+      "name": "Delivery Rush",
+      "rawName": "Delivery Rush",
+      "playerCount": 249,
+      "url": "https://www.roblox.com/games/86443804320607/Delivery-Rush",
+      "foundBy": "delivery simulator"
+    },
+    {
+      "name": "Deliver The Kebab",
+      "rawName": "Deliver The Kebab",
+      "playerCount": 188,
+      "url": "https://www.roblox.com/games/79633704643509/Deliver-The-Kebab",
+      "foundBy": "delivery simulator"
+    }
+  ]
+}

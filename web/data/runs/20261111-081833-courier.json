@@ -1,0 +1,720 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261111-081833-courier",
+    "genre": "courier",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-11T08:18:33Z",
+    "finishedAt": "2026-11-11T08:29:42Z",
+    "issue": null,
+    "genreWords": [
+      "courier"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Run Eggs Courier Escape",
+      "score": 42.389,
+      "words": [
+        "Run",
+        "Eggs",
+        "Courier",
+        "Escape"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 2,
+      "name": "Steal Brainrots Courier Escape",
+      "score": 26.206,
+      "words": [
+        "Steal",
+        "Brainrots",
+        "Courier",
+        "Escape"
+      ],
+      "supportedBy": [
+        "correr por brainrots",
+        "correr brainrots",
+        "crier pour des brainrot"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Speed Run Courier Runner",
+      "score": 23.56,
+      "words": [
+        "Speed",
+        "Run",
+        "Courier",
+        "Runner"
+      ],
+      "supportedBy": [
+        "carrera con speed",
+        "carrera con speed robux",
+        "carrera con speed y gana robux"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Brainrots Eggs Courier Obby",
+      "score": 18.369,
+      "words": [
+        "Brainrots",
+        "Eggs",
+        "Courier",
+        "Obby"
+      ],
+      "supportedBy": [
+        "correr por brainrots",
+        "correr brainrots",
+        "crier pour des brainrot"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Run Die Courier RP",
+      "score": 16.857,
+      "words": [
+        "Run",
+        "Die",
+        "Courier",
+        "RP"
+      ],
+      "supportedBy": [
+        "crime rp"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Speed Keyboard Courier Escape",
+      "score": 14.249,
+      "words": [
+        "Speed",
+        "Keyboard",
+        "Courier",
+        "Escape"
+      ],
+      "supportedBy": [
+        "carrera con speed",
+        "carrera con speed robux",
+        "carrera con speed y gana robux"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Steal Eggs Courier Clicker",
+      "score": 12.856,
+      "words": [
+        "Steal",
+        "Eggs",
+        "Courier",
+        "Clicker"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 8,
+      "name": "Deliver Packages Courier Escape",
+      "score": 11.014,
+      "words": [
+        "Deliver",
+        "Packages",
+        "Courier",
+        "Escape"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 9,
+      "name": "Courier Perdu",
+      "score": 10.421,
+      "words": [
+        "Courier",
+        "Perdu"
+      ],
+      "supportedBy": [
+        "courier perdu",
+        "courrier perdu"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Brainrots Race Courier Simulator",
+      "score": 10.122,
+      "words": [
+        "Brainrots",
+        "Race",
+        "Courier",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "correr por brainrots",
+        "correr brainrots",
+        "crier pour des brainrot"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Color Die Courier Runner",
+      "score": 9.878,
+      "words": [
+        "Color",
+        "Die",
+        "Courier",
+        "Runner"
+      ],
+      "supportedBy": [
+        "carrera de color de personajes"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Hyper Speed Courier Obby",
+      "score": 8.798,
+      "words": [
+        "Hyper",
+        "Speed",
+        "Courier",
+        "Obby"
+      ],
+      "supportedBy": [
+        "carrera con speed",
+        "coureur hyper vitesse",
+        "carrera con speed robux"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Lucky Block Courier Escape",
+      "score": 8.587,
+      "words": [
+        "Lucky",
+        "Block",
+        "Courier",
+        "Escape"
+      ],
+      "supportedBy": [
+        "carrera lucky block",
+        "carrera por lucky blocks"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Run Hide Courier",
+      "score": 8.47,
+      "words": [
+        "Run",
+        "Hide",
+        "Courier"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 15,
+      "name": "Eggs Heist Courier",
+      "score": 8.143,
+      "words": [
+        "Eggs",
+        "Heist",
+        "Courier"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 16,
+      "name": "Dont Splash Courier RP",
+      "score": 7.32,
+      "words": [
+        "Dont",
+        "Splash",
+        "Courier",
+        "RP"
+      ],
+      "supportedBy": [
+        "crime rp"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Nightmare Run Courier",
+      "score": 6.54,
+      "words": [
+        "Nightmare",
+        "Run",
+        "Courier"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 18,
+      "name": "Eggs Together Courier",
+      "score": 6.46,
+      "words": [
+        "Eggs",
+        "Together",
+        "Courier"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Crear Brainrots Courier",
+      "score": 6.36,
+      "words": [
+        "Crear",
+        "Brainrots",
+        "Courier"
+      ],
+      "supportedBy": [
+        "correr por brainrots",
+        "crear casas",
+        "correr brainrots"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Huss Valley Courier Escape",
+      "score": 6.354,
+      "words": [
+        "Huss",
+        "Valley",
+        "Courier",
+        "Escape"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Candy Chocolate Courier Runner",
+      "score": 6.129,
+      "words": [
+        "Candy",
+        "Chocolate",
+        "Courier",
+        "Runner"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Mimic Battle Courier Obby",
+      "score": 5.654,
+      "words": [
+        "Mimic",
+        "Battle",
+        "Courier",
+        "Obby"
+      ],
+      "supportedBy": [
+        "criar um obby",
+        "crear un obby",
+        "crear obby"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Courier Speed",
+      "score": 5.45,
+      "words": [
+        "Courier",
+        "Speed"
+      ],
+      "supportedBy": [
+        "carrera con speed",
+        "carrera con speed robux",
+        "carrera con speed y gana robux"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Courier Die Clicker",
+      "score": 5.381,
+      "words": [
+        "Courier",
+        "Die",
+        "Clicker"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Jump Tower Courier RP",
+      "score": 5.2,
+      "words": [
+        "Jump",
+        "Tower",
+        "Courier",
+        "RP"
+      ],
+      "supportedBy": [
+        "kurir tower",
+        "crime rp"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "courier",
+      "score": 3.56
+    },
+    {
+      "text": "eggs",
+      "score": 13.709
+    },
+    {
+      "text": "run",
+      "score": 13.59
+    },
+    {
+      "text": "speed",
+      "score": 10.645
+    },
+    {
+      "text": "brainrots",
+      "score": 10.151
+    },
+    {
+      "text": "escape",
+      "score": 9.737
+    },
+    {
+      "text": "die",
+      "score": 8.357
+    },
+    {
+      "text": "steal",
+      "score": 7.667
+    },
+    {
+      "text": "deliver",
+      "score": 3.944
+    },
+    {
+      "text": "race",
+      "score": 3.365
+    },
+    {
+      "text": "runner",
+      "score": 3.289
+    },
+    {
+      "text": "steal egg",
+      "score": 3.166
+    },
+    {
+      "text": "obby",
+      "score": 3.005
+    },
+    {
+      "text": "perdu",
+      "score": 2.99
+    },
+    {
+      "text": "courier perdu",
+      "score": 2.972
+    },
+    {
+      "text": "block",
+      "score": 2.823
+    },
+    {
+      "text": "lucky",
+      "score": 2.823
+    },
+    {
+      "text": "hide",
+      "score": 2.669
+    },
+    {
+      "text": "brookhaven",
+      "score": 2.637
+    },
+    {
+      "text": "packages",
+      "score": 2.371
+    },
+    {
+      "text": "mimic",
+      "score": 2.334
+    },
+    {
+      "text": "dont",
+      "score": 2.302
+    },
+    {
+      "text": "splash",
+      "score": 2.302
+    },
+    {
+      "text": "voice",
+      "score": 2.283
+    },
+    {
+      "text": "crear",
+      "score": 2.263
+    },
+    {
+      "text": "tower",
+      "score": 2.2
+    },
+    {
+      "text": "huss",
+      "score": 2.127
+    },
+    {
+      "text": "valley",
+      "score": 2.127
+    },
+    {
+      "text": "nightmare",
+      "score": 2.102
+    },
+    {
+      "text": "mail",
+      "score": 2.064
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "courier perdu",
+      "score": 5.945,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "courier ou prison",
+      "score": 1.18,
+      "appearances": 3,
+      "bestRank": 2
+    },
+    {
+      "rank": 3,
+      "text": "courier dash",
+      "score": 0.387,
+      "appearances": 2,
+      "bestRank": 8
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 703456,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "correr por huevos"
+    },
+    {
+      "name": "Brookhaven RP",
+      "rawName": "Brookhaven 🏡RP",
+      "playerCount": 188162,
+      "url": "https://www.roblox.com/games/4924922222/Brookhaven-RP",
+      "foundBy": "correr o ser rico"
+    },
+    {
+      "name": "DONT SPLASH",
+      "rawName": "DONT SPLASH",
+      "playerCount": 40155,
+      "url": "https://www.roblox.com/games/119958473240233/DONT-SPLASH",
+      "foundBy": "crier pour sauter"
+    },
+    {
+      "name": "Huss Valley",
+      "rawName": "[🏆] Huss Valley",
+      "playerCount": 17973,
+      "url": "https://www.roblox.com/games/107535308163741/Huss-Valley",
+      "foundBy": "correr"
+    },
+    {
+      "name": "1 Speed Keyboard Escape Candy & Chocolate",
+      "rawName": "+1 Speed Keyboard Escape | Candy & Chocolate",
+      "playerCount": 13393,
+      "url": "https://www.roblox.com/games/95082159892680/1-Speed-Keyboard-Escape-Candy-Chocolate",
+      "foundBy": "correr"
+    },
+    {
+      "name": "Murderers VS Sheriffs",
+      "rawName": "[💀DUELS] Murderers VS Sheriffs",
+      "playerCount": 7269,
+      "url": "https://www.roblox.com/games/135856908115931/Murderers-VS-Sheriffs",
+      "foundBy": "correr o ser rico"
+    },
+    {
+      "name": "Run For Eggs",
+      "rawName": "Run For Eggs",
+      "playerCount": 3828,
+      "url": "https://www.roblox.com/games/120227620536802/Run-For-Eggs",
+      "foundBy": "correr por huevos"
+    },
+    {
+      "name": "Steal An Egg Heist",
+      "rawName": "Steal An Egg Heist",
+      "playerCount": 3270,
+      "url": "https://www.roblox.com/games/84129004667700/Steal-An-Egg-Heist",
+      "foundBy": "correr por huevos"
+    },
+    {
+      "name": "Killer or Innocent",
+      "rawName": "🙈 Killer or Innocent",
+      "playerCount": 2405,
+      "url": "https://www.roblox.com/games/120951586797306/Killer-or-Innocent",
+      "foundBy": "correr o ser rico"
+    },
+    {
+      "name": "Escape The Carnival of Terror Obby!",
+      "rawName": "Escape The Carnival of Terror Obby! ",
+      "playerCount": 2198,
+      "url": "https://www.roblox.com/games/6153766069/Escape-The-Carnival-of-Terror-Obby",
+      "foundBy": "correr o ser rico"
+    },
+    {
+      "name": "Steal Eggs Together",
+      "rawName": "Steal Eggs Together",
+      "playerCount": 2000,
+      "url": "https://www.roblox.com/games/94314344309921/Steal-Eggs-Together",
+      "foundBy": "correr por huevos"
+    },
+    {
+      "name": "Color or Die",
+      "rawName": "Color or Die 🎨",
+      "playerCount": 1862,
+      "url": "https://www.roblox.com/games/12931609417/Color-or-Die",
+      "foundBy": "corre o muere"
+    },
+    {
+      "name": "Escape Waves For Lucky Blocks",
+      "rawName": "Escape Waves For Lucky Blocks",
+      "playerCount": 1612,
+      "url": "https://www.roblox.com/games/119579217517090/Escape-Waves-For-Lucky-Blocks",
+      "foundBy": "correr por brainrots"
+    },
+    {
+      "name": "Hyper Speed Runner",
+      "rawName": "[⚡] Hyper Speed Runner",
+      "playerCount": 1574,
+      "url": "https://www.roblox.com/games/88933961678687/Hyper-Speed-Runner",
+      "foundBy": "correr"
+    },
+    {
+      "name": "Mimic Battle",
+      "rawName": "[UPD 5❗️] Mimic Battle 🤣",
+      "playerCount": 1548,
+      "url": "https://www.roblox.com/games/107361936242892/Mimic-Battle",
+      "foundBy": "crier pour sauter"
+    },
+    {
+      "name": "Quiet or Die!",
+      "rawName": "🔊Quiet or Die!",
+      "playerCount": 1147,
+      "url": "https://www.roblox.com/games/126922689754590/Quiet-or-Die",
+      "foundBy": "correr o morir"
+    },
+    {
+      "name": "Cluck or Hide!",
+      "rawName": "[🎃] Cluck or Hide!🐔",
+      "playerCount": 1143,
+      "url": "https://www.roblox.com/games/82539019711975/Cluck-or-Hide",
+      "foundBy": "corre o muere"
+    },
+    {
+      "name": "Race for Eggs",
+      "rawName": "Race for Eggs",
+      "playerCount": 1007,
+      "url": "https://www.roblox.com/games/122278212262864/Race-for-Eggs",
+      "foundBy": "correr por huevos"
+    },
+    {
+      "name": "Cabin Chaos",
+      "rawName": "[NEW SKINS] Cabin Chaos ✈️",
+      "playerCount": 820,
+      "url": "https://www.roblox.com/games/85037075053728/Cabin-Chaos",
+      "foundBy": "courier perdu"
+    },
+    {
+      "name": "Run Or Die!",
+      "rawName": "💀 Run Or Die!",
+      "playerCount": 782,
+      "url": "https://www.roblox.com/games/135446196332870/Run-Or-Die",
+      "foundBy": "correr o ser rico"
+    },
+    {
+      "name": "Skaters Of Hell",
+      "rawName": "[🎃] Skaters Of Hell",
+      "playerCount": 781,
+      "url": "https://www.roblox.com/games/119865329453489/Skaters-Of-Hell",
+      "foundBy": "correr"
+    },
+    {
+      "name": "Run For Brainrots!",
+      "rawName": "Run For Brainrots!",
+      "playerCount": 742,
+      "url": "https://www.roblox.com/games/94702395375549/Run-For-Brainrots",
+      "foundBy": "correr por brainrots"
+    },
+    {
+      "name": "Speed Clicker",
+      "rawName": "Speed Clicker ⚡",
+      "playerCount": 738,
+      "url": "https://www.roblox.com/games/140374914197602/Speed-Clicker",
+      "foundBy": "correr"
+    },
+    {
+      "name": "Deliver Packages!",
+      "rawName": "Deliver Packages! 📦 ",
+      "playerCount": 663,
+      "url": "https://www.roblox.com/games/96884870939279/Deliver-Packages",
+      "foundBy": "courier"
+    },
+    {
+      "name": "Dodge or Die",
+      "rawName": "Dodge or Die",
+      "playerCount": 572,
+      "url": "https://www.roblox.com/games/131794278839305/Dodge-or-Die",
+      "foundBy": "corre o muere"
+    },
+    {
+      "name": "Drill for Eggs",
+      "rawName": "(🦑) Drill for Eggs",
+      "playerCount": 503,
+      "url": "https://www.roblox.com/games/120656419209274/Drill-for-Eggs",
+      "foundBy": "correr por huevos"
+    },
+    {
+      "name": "SPEED",
+      "rawName": "🔥 SPEED",
+      "playerCount": 499,
+      "url": "https://www.roblox.com/games/107879374402090/SPEED",
+      "foundBy": "correr"
+    },
+    {
+      "name": "Steal A Brainrot Egg",
+      "rawName": "Steal A Brainrot Egg",
+      "playerCount": 468,
+      "url": "https://www.roblox.com/games/126016859830524/Steal-A-Brainrot-Egg",
+      "foundBy": "correr por huevos"
+    },
+    {
+      "name": "Run from Monsters!",
+      "rawName": "[🩸UPD] Run from Monsters!",
+      "playerCount": 424,
+      "url": "https://www.roblox.com/games/122815847545297/Run-from-Monsters",
+      "foundBy": "correr y gritar"
+    },
+    {
+      "name": "ANALOG",
+      "rawName": "ANALOG 📂[HORROR]",
+      "playerCount": 403,
+      "url": "https://www.roblox.com/games/105916934349181/ANALOG",
+      "foundBy": "correr y gritar"
+    }
+  ]
+}

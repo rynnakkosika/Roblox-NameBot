@@ -1,0 +1,1074 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261111-074706-taxi",
+    "genre": "taxi",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-11T07:47:06Z",
+    "finishedAt": "2026-11-11T07:58:12Z",
+    "issue": null,
+    "genreWords": [
+      "taxi"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Taxi Boss Simulator",
+      "score": 437.501,
+      "words": [
+        "Taxi",
+        "Boss",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "taxi boss",
+        "taxi simulator 2",
+        "taxi simulator"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Taxi Boss",
+      "score": 326.486,
+      "words": [
+        "Taxi",
+        "Boss"
+      ],
+      "supportedBy": [
+        "taxi boss",
+        "taxi boss modded",
+        "taxi boss tycoon"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Taxi Simulator",
+      "score": 209.648,
+      "words": [
+        "Taxi",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "taxi simulator 2",
+        "taxi simulator",
+        "taxi simulator 1"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Taxi Boss Tycoon",
+      "score": 205.384,
+      "words": [
+        "Taxi",
+        "Boss",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "taxi boss",
+        "taxi boss modded",
+        "taxi boss tycoon"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Bus Driver Taxi Simulator",
+      "score": 160.891,
+      "words": [
+        "Bus",
+        "Driver",
+        "Taxi",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "taxi simulator 2",
+        "taxi simulator",
+        "taxi bus"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Taxi Boss Modded",
+      "score": 155.495,
+      "words": [
+        "Taxi",
+        "Boss",
+        "Modded"
+      ],
+      "supportedBy": [
+        "taxi boss",
+        "taxi boss modded",
+        "taxi boss tycoon"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Car Driving Taxi Simulator",
+      "score": 121.634,
+      "words": [
+        "Car",
+        "Driving",
+        "Taxi",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "taxi simulator 2",
+        "taxi simulator",
+        "taxi simulator 1"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Taxi Boss Group",
+      "score": 117.993,
+      "words": [
+        "Taxi",
+        "Boss",
+        "Group"
+      ],
+      "supportedBy": [
+        "taxi boss",
+        "taxi boss modded",
+        "taxi boss tycoon"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Taxi Bosse",
+      "score": 112.665,
+      "words": [
+        "Taxi",
+        "Bosse"
+      ],
+      "supportedBy": [
+        "taxi bosse"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Box Taxi Simulator",
+      "score": 86.671,
+      "words": [
+        "Box",
+        "Taxi",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "taxi simulator 2",
+        "taxi simulator",
+        "taxi simulator 1"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Taxi Boss RP",
+      "score": 80.97,
+      "words": [
+        "Taxi",
+        "Boss",
+        "RP"
+      ],
+      "supportedBy": [
+        "taxi boss",
+        "taxi boss modded",
+        "taxi boss tycoon"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Drive World Taxi Simulator",
+      "score": 68.895,
+      "words": [
+        "Drive",
+        "World",
+        "Taxi",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "taxi simulator 2",
+        "taxi simulator",
+        "taxi simulator 1"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Taxi Bus",
+      "score": 66.269,
+      "words": [
+        "Taxi",
+        "Bus"
+      ],
+      "supportedBy": [
+        "taxi bus",
+        "lai xe bus",
+        "tayo bus simulator"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Taxi Boss Definitely",
+      "score": 63.15,
+      "words": [
+        "Taxi",
+        "Boss",
+        "Definitely"
+      ],
+      "supportedBy": [
+        "taxi boss",
+        "taxi boss modded",
+        "taxi boss tycoon"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Boos Taxi Simulator",
+      "score": 54.719,
+      "words": [
+        "Boos",
+        "Taxi",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "taxi simulator 2",
+        "taxi simulator",
+        "taxi simulator 1"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Taxi Bosse Tycoon",
+      "score": 52.484,
+      "words": [
+        "Taxi",
+        "Bosse",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "taxi bosse",
+        "taxi boss tycoon",
+        "tax fraud tycoon"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Taxi Boss Escape",
+      "score": 50.426,
+      "words": [
+        "Taxi",
+        "Boss",
+        "Escape"
+      ],
+      "supportedBy": [
+        "taxi boss",
+        "taxi boss modded",
+        "taxi boss tycoon"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Taxi Driver",
+      "score": 49.428,
+      "words": [
+        "Taxi",
+        "Driver"
+      ],
+      "supportedBy": [
+        "taxi driver",
+        "taxi driver game",
+        "taxi driver simulator"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Ride Storm Taxi Simulator",
+      "score": 43.521,
+      "words": [
+        "Ride",
+        "Storm",
+        "Taxi",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "taxi simulator 2",
+        "taxi simulator",
+        "taxi simulator 1"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Taxi Box",
+      "score": 40.233,
+      "words": [
+        "Taxi",
+        "Box"
+      ],
+      "supportedBy": [
+        "taxi box"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Taxi Boss Obby",
+      "score": 40.113,
+      "words": [
+        "Taxi",
+        "Boss",
+        "Obby"
+      ],
+      "supportedBy": [
+        "taxi boss",
+        "taxi boss modded",
+        "taxi boss tycoon"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Taxi Car Tycoon",
+      "score": 35.947,
+      "words": [
+        "Taxi",
+        "Car",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "taxi boss tycoon",
+        "taxi car game",
+        "tax fraud tycoon"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Life Taxi Simulator",
+      "score": 34.668,
+      "words": [
+        "Life",
+        "Taxi",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "taxi simulator 2",
+        "taxi simulator",
+        "taxi simulator 1"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Taxi Boos",
+      "score": 32.215,
+      "words": [
+        "Taxi",
+        "Boos"
+      ],
+      "supportedBy": [
+        "taxi boos"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Taxi Boss Defense",
+      "score": 32.083,
+      "words": [
+        "Taxi",
+        "Boss",
+        "Defense"
+      ],
+      "supportedBy": [
+        "taxi boss",
+        "taxi boss modded",
+        "taxi boss tycoon"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "taxi",
+      "score": 529.719
+    },
+    {
+      "text": "taxi boss",
+      "score": 177.086
+    },
+    {
+      "text": "boss",
+      "score": 150.391
+    },
+    {
+      "text": "simulator",
+      "score": 100.995
+    },
+    {
+      "text": "taxi simulator",
+      "score": 91.472
+    },
+    {
+      "text": "simulator 2",
+      "score": 38.536
+    },
+    {
+      "text": "bosse",
+      "score": 32.19
+    },
+    {
+      "text": "taxi bosse",
+      "score": 32.19
+    },
+    {
+      "text": "bus",
+      "score": 30.711
+    },
+    {
+      "text": "car",
+      "score": 24.868
+    },
+    {
+      "text": "taxi car",
+      "score": 23.238
+    },
+    {
+      "text": "driver",
+      "score": 22.978
+    },
+    {
+      "text": "tycoon",
+      "score": 22.481
+    },
+    {
+      "text": "taxi bus",
+      "score": 20.85
+    },
+    {
+      "text": "boss modded",
+      "score": 20.395
+    },
+    {
+      "text": "taxi driver",
+      "score": 20.282
+    },
+    {
+      "text": "simulator 1",
+      "score": 19.997
+    },
+    {
+      "text": "boss tycoon",
+      "score": 19.303
+    },
+    {
+      "text": "boss simulator",
+      "score": 18.829
+    },
+    {
+      "text": "boss group",
+      "score": 15.516
+    },
+    {
+      "text": "driving",
+      "score": 15.065
+    },
+    {
+      "text": "box",
+      "score": 14.369
+    },
+    {
+      "text": "taxi box",
+      "score": 14.369
+    },
+    {
+      "text": "modded",
+      "score": 13.779
+    },
+    {
+      "text": "boos",
+      "score": 11.505
+    },
+    {
+      "text": "taxi boos",
+      "score": 11.505
+    },
+    {
+      "text": "taxi life",
+      "score": 11.185
+    },
+    {
+      "text": "group",
+      "score": 10.344
+    },
+    {
+      "text": "life",
+      "score": 9.407
+    },
+    {
+      "text": "boss 2",
+      "score": 9.102
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "taxi boss",
+      "score": 169.174,
+      "appearances": 242,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "taxi simulator 2",
+      "score": 76.6,
+      "appearances": 133,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "taxi simulator",
+      "score": 64.83,
+      "appearances": 129,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "taxi bosse",
+      "score": 64.38,
+      "appearances": 161,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "taxi bus",
+      "score": 41.7,
+      "appearances": 108,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "taxi boss modded",
+      "score": 40.79,
+      "appearances": 115,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "taxi simulator 1",
+      "score": 39.634,
+      "appearances": 88,
+      "bestRank": 2
+    },
+    {
+      "rank": 8,
+      "text": "taxi boss tycoon",
+      "score": 38.606,
+      "appearances": 97,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "taxi boss simulator",
+      "score": 37.659,
+      "appearances": 124,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "taxi car game",
+      "score": 34.934,
+      "appearances": 69,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "taxi boss group",
+      "score": 31.032,
+      "appearances": 89,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "taxi box",
+      "score": 28.738,
+      "appearances": 83,
+      "bestRank": 2
+    },
+    {
+      "rank": 13,
+      "text": "taxi driver",
+      "score": 28.665,
+      "appearances": 61,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "taxi game",
+      "score": 28.001,
+      "appearances": 53,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "taxi games",
+      "score": 23.131,
+      "appearances": 54,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "taxi boos",
+      "score": 23.011,
+      "appearances": 68,
+      "bestRank": 2
+    },
+    {
+      "rank": 17,
+      "text": "taxi boss 2",
+      "score": 18.203,
+      "appearances": 73,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "taxi simulador",
+      "score": 17.091,
+      "appearances": 49,
+      "bestRank": 2
+    },
+    {
+      "rank": 19,
+      "text": "taxi",
+      "score": 16.344,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "taxi brainrot",
+      "score": 12.316,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "taxi boss game",
+      "score": 11.541,
+      "appearances": 47,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "taxi life",
+      "score": 11.522,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "taxi life simulator",
+      "score": 10.848,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "taxi fahren",
+      "score": 10.3,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "taxi mode",
+      "score": 9.931,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "taxi ride",
+      "score": 9.62,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "taxi fahrer",
+      "score": 8.966,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "taxi tycoon",
+      "score": 8.733,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "taxi sim",
+      "score": 8.433,
+      "appearances": 36,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "taxi car",
+      "score": 7.746,
+      "appearances": 20,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "taxi job",
+      "score": 7.049,
+      "appearances": 12,
+      "bestRank": 2
+    },
+    {
+      "rank": 32,
+      "text": "taxi sim 2",
+      "score": 6.739,
+      "appearances": 16,
+      "bestRank": 2
+    },
+    {
+      "rank": 33,
+      "text": "taxi realista",
+      "score": 6.347,
+      "appearances": 12,
+      "bestRank": 2
+    },
+    {
+      "rank": 34,
+      "text": "taxi bike",
+      "score": 5.964,
+      "appearances": 13,
+      "bestRank": 2
+    },
+    {
+      "rank": 35,
+      "text": "taxi horror",
+      "score": 5.79,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "taxi driving",
+      "score": 5.575,
+      "appearances": 14,
+      "bestRank": 2
+    },
+    {
+      "rank": 37,
+      "text": "taxi rally",
+      "score": 5.557,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "taxi rp",
+      "score": 5.5,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "taxi bass",
+      "score": 4.957,
+      "appearances": 9,
+      "bestRank": 2
+    },
+    {
+      "rank": 40,
+      "text": "taxi drive",
+      "score": 4.88,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "taxi simulation",
+      "score": 4.802,
+      "appearances": 13,
+      "bestRank": 3
+    },
+    {
+      "rank": 42,
+      "text": "taxi bos",
+      "score": 4.57,
+      "appearances": 23,
+      "bestRank": 3
+    },
+    {
+      "rank": 43,
+      "text": "taxi moto",
+      "score": 4.4,
+      "appearances": 9,
+      "bestRank": 2
+    },
+    {
+      "rank": 44,
+      "text": "taxi vos",
+      "score": 3.873,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "taxi spiele",
+      "score": 3.796,
+      "appearances": 11,
+      "bestRank": 3
+    },
+    {
+      "rank": 46,
+      "text": "taxi driver game",
+      "score": 3.291,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "taxi driver simulator",
+      "score": 3.102,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "taxi driving game",
+      "score": 2.896,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "taxi realistic",
+      "score": 2.881,
+      "appearances": 6,
+      "bestRank": 3
+    },
+    {
+      "rank": 50,
+      "text": "taxi boss driver",
+      "score": 2.851,
+      "appearances": 8,
+      "bestRank": 2
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Brookhaven RP",
+      "rawName": "Brookhaven 🏡RP",
+      "playerCount": 180984,
+      "url": "https://www.roblox.com/games/4924922222/Brookhaven-RP",
+      "foundBy": "taxi boss"
+    },
+    {
+      "name": "Driving Empire",
+      "rawName": "Driving Empire [🏁NASCAR Championship Weekend🏁]",
+      "playerCount": 14683,
+      "url": "https://www.roblox.com/games/3351674303/Driving-Empire",
+      "foundBy": "taxi boss"
+    },
+    {
+      "name": "Can You Pass A Driving Test",
+      "rawName": "Can You Pass A Driving Test?",
+      "playerCount": 11102,
+      "url": "https://www.roblox.com/games/91652462379782/Can-You-Pass-A-Driving-Test",
+      "foundBy": "taxi simulator 2"
+    },
+    {
+      "name": "Ride Storm",
+      "rawName": "[UPD] Ride Storm",
+      "playerCount": 6065,
+      "url": "https://www.roblox.com/games/12593620250/Ride-Storm",
+      "foundBy": "taxi simulator 1"
+    },
+    {
+      "name": "Tesla Roadster Chase",
+      "rawName": "[UPD] Tesla Roadster Chase",
+      "playerCount": 5615,
+      "url": "https://www.roblox.com/games/122379697375766/Tesla-Roadster-Chase",
+      "foundBy": "taxi boss"
+    },
+    {
+      "name": "Taxi Boss",
+      "rawName": "Taxi Boss 🚖",
+      "playerCount": 4113,
+      "url": "https://www.roblox.com/games/7305309231/Taxi-Boss",
+      "foundBy": "taxi"
+    },
+    {
+      "name": "WRECKED",
+      "rawName": "WRECKED [Realistic Crashes]",
+      "playerCount": 4008,
+      "url": "https://www.roblox.com/games/77843690602580/WRECKED",
+      "foundBy": "taxi simulator 1"
+    },
+    {
+      "name": "Plane Crash Simulator",
+      "rawName": "[UPD] Plane Crash Simulator",
+      "playerCount": 2842,
+      "url": "https://www.roblox.com/games/98306159851135/Plane-Crash-Simulator",
+      "foundBy": "taxi boss simulator"
+    },
+    {
+      "name": "Escooter World",
+      "rawName": "Escooter World",
+      "playerCount": 2725,
+      "url": "https://www.roblox.com/games/130975579177477/Escooter-World",
+      "foundBy": "taxi boss modded"
+    },
+    {
+      "name": "Bus Driver Vietnam 2",
+      "rawName": "Bus Driver Vietnam 2",
+      "playerCount": 2058,
+      "url": "https://www.roblox.com/games/13705777238/Bus-Driver-Vietnam-2",
+      "foundBy": "taxi boss"
+    },
+    {
+      "name": "Pilot Training Flight Simulator",
+      "rawName": "Pilot Training Flight Simulator",
+      "playerCount": 2041,
+      "url": "https://www.roblox.com/games/20321167/Pilot-Training-Flight-Simulator",
+      "foundBy": "taxi simulator"
+    },
+    {
+      "name": "Drive World",
+      "rawName": "[BIKES] Drive World",
+      "playerCount": 1936,
+      "url": "https://www.roblox.com/games/10704789056/Drive-World",
+      "foundBy": "taxi boss simulator"
+    },
+    {
+      "name": "Trading Tycoon",
+      "rawName": "Trading Tycoon",
+      "playerCount": 1877,
+      "url": "https://www.roblox.com/games/112241277471797/Trading-Tycoon",
+      "foundBy": "taxi boss tycoon"
+    },
+    {
+      "name": "Car Driving Ultimate",
+      "rawName": "[NEW UPDATE] Car Driving Ultimate",
+      "playerCount": 1723,
+      "url": "https://www.roblox.com/games/11145865512/Car-Driving-Ultimate",
+      "foundBy": "taxi bosse"
+    },
+    {
+      "name": "BSTS-ID",
+      "rawName": "BSTS-ID",
+      "playerCount": 1358,
+      "url": "https://www.roblox.com/games/114375429517112/BSTS-ID",
+      "foundBy": "taxi boss tycoon"
+    },
+    {
+      "name": "Youtuber Tycoon!",
+      "rawName": "🕹️[Arcade] Youtuber Tycoon!",
+      "playerCount": 1308,
+      "url": "https://www.roblox.com/games/7971857341/Youtuber-Tycoon",
+      "foundBy": "taxi boss tycoon"
+    },
+    {
+      "name": "ARRANCADA",
+      "rawName": "ARRANCADA [2x💵]",
+      "playerCount": 1303,
+      "url": "https://www.roblox.com/games/114293790386673/ARRANCADA",
+      "foundBy": "taxi simulator 2"
+    },
+    {
+      "name": "Raft Tycoon",
+      "rawName": "🌊 Raft Tycoon",
+      "playerCount": 1244,
+      "url": "https://www.roblox.com/games/76137189788863/Raft-Tycoon",
+      "foundBy": "taxi boss tycoon"
+    },
+    {
+      "name": "Carros Rebaixados BR",
+      "rawName": "Carros Rebaixados BR (Pre-Alpha)",
+      "playerCount": 1004,
+      "url": "https://www.roblox.com/games/3242417672/Carros-Rebaixados-BR",
+      "foundBy": "taxi boss"
+    },
+    {
+      "name": "My Bus",
+      "rawName": "My Bus 🚌",
+      "playerCount": 848,
+      "url": "https://www.roblox.com/games/120678072723916/My-Bus",
+      "foundBy": "taxi bus"
+    },
+    {
+      "name": "Driving School Taipei",
+      "rawName": "Driving School Taipei",
+      "playerCount": 813,
+      "url": "https://www.roblox.com/games/113417458098065/Driving-School-Taipei",
+      "foundBy": "taxi"
+    },
+    {
+      "name": "Steal and Drive",
+      "rawName": "[🌋] Steal and Drive",
+      "playerCount": 808,
+      "url": "https://www.roblox.com/games/88780448557155/Steal-and-Drive",
+      "foundBy": "taxi boss modded"
+    },
+    {
+      "name": "Sunshine Islands Bus Simulator",
+      "rawName": "🚌 Sunshine Islands Bus Simulator [NEW]",
+      "playerCount": 730,
+      "url": "https://www.roblox.com/games/1588965415/Sunshine-Islands-Bus-Simulator",
+      "foundBy": "taxi bus"
+    },
+    {
+      "name": "Drive A Bus",
+      "rawName": "Drive A Bus",
+      "playerCount": 724,
+      "url": "https://www.roblox.com/games/140424985545402/Drive-A-Bus",
+      "foundBy": "taxi boss"
+    },
+    {
+      "name": "Zelenograd",
+      "rawName": "(CARS + SALE) 🍂 Zelenograd",
+      "playerCount": 715,
+      "url": "https://www.roblox.com/games/76240062479268/unnamed",
+      "foundBy": "taxi"
+    },
+    {
+      "name": "Drifting Simulator",
+      "rawName": "Drifting Simulator",
+      "playerCount": 369,
+      "url": "https://www.roblox.com/games/6673427416/Drifting-Simulator",
+      "foundBy": "taxi boss simulator"
+    },
+    {
+      "name": "Host A Rideout!",
+      "rawName": "[BIKETOK] Host A Rideout!🔥",
+      "playerCount": 342,
+      "url": "https://www.roblox.com/games/117114906201558/Host-A-Rideout",
+      "foundBy": "taxi boss modded"
+    },
+    {
+      "name": "Autopilot Simulator FSD",
+      "rawName": "Autopilot Simulator / FSD",
+      "playerCount": 319,
+      "url": "https://www.roblox.com/games/11832484500/Autopilot-Simulator-FSD",
+      "foundBy": "taxi"
+    },
+    {
+      "name": "ProRiders",
+      "rawName": "ProRiders [BETA]",
+      "playerCount": 304,
+      "url": "https://www.roblox.com/games/131297855122219/ProRiders",
+      "foundBy": "taxi"
+    },
+    {
+      "name": "Get Your Driving License!",
+      "rawName": "Get Your Driving License!",
+      "playerCount": 255,
+      "url": "https://www.roblox.com/games/99246731543070/Get-Your-Driving-License",
+      "foundBy": "taxi"
+    }
+  ]
+}

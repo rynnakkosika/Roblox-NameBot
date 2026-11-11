@@ -1,0 +1,1085 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261111-082944-truck",
+    "genre": "truck",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-11T08:29:44Z",
+    "finishedAt": "2026-11-11T08:40:50Z",
+    "issue": null,
+    "genreWords": [
+      "truck"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Truck Simulator",
+      "score": 434.86,
+      "words": [
+        "Truck",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "truck simulator",
+        "truck simulator indonesia",
+        "trucking simulator"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Truck Heaven",
+      "score": 421.94,
+      "words": [
+        "Truck",
+        "Heaven"
+      ],
+      "supportedBy": [
+        "truck heaven",
+        "truck heaven realista",
+        "truck heaven rp"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Truck Heaven Simulator",
+      "score": 272.126,
+      "words": [
+        "Truck",
+        "Heaven",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "truck heaven",
+        "truck simulator",
+        "truck simulator indonesia"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Driving Indonesia Truck Simulator",
+      "score": 206.165,
+      "words": [
+        "Driving",
+        "Indonesia",
+        "Truck",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "truck simulator",
+        "truck simulator indonesia",
+        "truck driving"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Truck Heaven RP",
+      "score": 179.76,
+      "words": [
+        "Truck",
+        "Heaven",
+        "RP"
+      ],
+      "supportedBy": [
+        "truck heaven",
+        "truck heaven realista",
+        "truck heaven rp"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Car Vietnam Truck Simulator",
+      "score": 161.086,
+      "words": [
+        "Car",
+        "Vietnam",
+        "Truck",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "truck simulator",
+        "truck simulator indonesia",
+        "trucks vs cars"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Truck Heaven Obby",
+      "score": 133.3,
+      "words": [
+        "Truck",
+        "Heaven",
+        "Obby"
+      ],
+      "supportedBy": [
+        "truck heaven",
+        "truck obby",
+        "trick obby"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Nation Road Truck Simulator",
+      "score": 126.778,
+      "words": [
+        "Nation",
+        "Road",
+        "Truck",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "truck simulator",
+        "truck simulator indonesia",
+        "truck nation road kings"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Truck Heaven Realista",
+      "score": 103.046,
+      "words": [
+        "Truck",
+        "Heaven",
+        "Realista"
+      ],
+      "supportedBy": [
+        "truck heaven",
+        "truck heaven realista",
+        "truck heaven rp"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Chaos Truck Simulator",
+      "score": 99.015,
+      "words": [
+        "Chaos",
+        "Truck",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "truck simulator",
+        "truck simulator indonesia",
+        "truck chaos"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Truck Heaven Falso",
+      "score": 79.978,
+      "words": [
+        "Truck",
+        "Heaven",
+        "Falso"
+      ],
+      "supportedBy": [
+        "truck heaven",
+        "truck heaven realista",
+        "truck heaven rp"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Mbg Extreme Truck Simulator",
+      "score": 76.217,
+      "words": [
+        "Mbg",
+        "Extreme",
+        "Truck",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "truck simulator",
+        "truck simulator indonesia",
+        "truk mbg"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Truck Nation Road Kings",
+      "score": 74.274,
+      "words": [
+        "Truck",
+        "Nation",
+        "Road",
+        "Kings"
+      ],
+      "supportedBy": [
+        "truck nation road kings",
+        "trucking nation road king",
+        "truck nation europe"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Truck Chaos",
+      "score": 73.987,
+      "words": [
+        "Truck",
+        "Chaos"
+      ],
+      "supportedBy": [
+        "truck chaos",
+        "truck chaos roblox",
+        "truck chaos 2"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Truck Heaven Assustador",
+      "score": 63.352,
+      "words": [
+        "Truck",
+        "Heaven",
+        "Assustador"
+      ],
+      "supportedBy": [
+        "truck heaven",
+        "truck heaven realista",
+        "truck heaven rp"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Truck Obby",
+      "score": 62.495,
+      "words": [
+        "Truck",
+        "Obby"
+      ],
+      "supportedBy": [
+        "truck obby",
+        "trick obby",
+        "truck driving obby"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Drive Bus Truck Simulator",
+      "score": 59.403,
+      "words": [
+        "Drive",
+        "Bus",
+        "Truck",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "truck simulator",
+        "truck simulator indonesia",
+        "truk bus indonesia"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Truck Heaven Original",
+      "score": 50.277,
+      "words": [
+        "Truck",
+        "Heaven",
+        "Original"
+      ],
+      "supportedBy": [
+        "truck heaven",
+        "truck heaven realista",
+        "truck heaven rp"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Indonesia Mania Truck RP",
+      "score": 47.959,
+      "words": [
+        "Indonesia",
+        "Mania",
+        "Truck",
+        "RP"
+      ],
+      "supportedBy": [
+        "truck simulator indonesia",
+        "truck heaven rp",
+        "truk bus indonesia"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Empire Truck Simulator",
+      "score": 47.458,
+      "words": [
+        "Empire",
+        "Truck",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "truck simulator",
+        "trucking empire",
+        "truck simulator indonesia"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Truck Driving",
+      "score": 43.669,
+      "words": [
+        "Truck",
+        "Driving"
+      ],
+      "supportedBy": [
+        "truck driving",
+        "truk driving indonesia",
+        "truck driving indonesia"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Truck Heaven Normal",
+      "score": 40.171,
+      "words": [
+        "Truck",
+        "Heaven",
+        "Normal"
+      ],
+      "supportedBy": [
+        "truck heaven",
+        "truck heaven realista",
+        "truck heaven rp"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Sim Truck Simulator",
+      "score": 37.753,
+      "words": [
+        "Sim",
+        "Truck",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "truck simulator",
+        "truck simulator indonesia",
+        "truck sim"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Car Truck Obby",
+      "score": 37.667,
+      "words": [
+        "Car",
+        "Truck",
+        "Obby"
+      ],
+      "supportedBy": [
+        "trucks vs cars",
+        "truck obby",
+        "trick obby"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Truck Chaos RP",
+      "score": 33.468,
+      "words": [
+        "Truck",
+        "Chaos",
+        "RP"
+      ],
+      "supportedBy": [
+        "truck chaos",
+        "truck heaven rp",
+        "truck chaos roblox"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "truck",
+      "score": 679.273
+    },
+    {
+      "text": "truck heaven",
+      "score": 167.208
+    },
+    {
+      "text": "truck simulator",
+      "score": 146.534
+    },
+    {
+      "text": "heaven",
+      "score": 143.495
+    },
+    {
+      "text": "simulator",
+      "score": 132.066
+    },
+    {
+      "text": "simulator indonesia",
+      "score": 34.405
+    },
+    {
+      "text": "truck vs",
+      "score": 31.625
+    },
+    {
+      "text": "car",
+      "score": 30.941
+    },
+    {
+      "text": "chaos",
+      "score": 30.802
+    },
+    {
+      "text": "indonesia",
+      "score": 30.578
+    },
+    {
+      "text": "truck chaos",
+      "score": 30.161
+    },
+    {
+      "text": "vs cars",
+      "score": 26.475
+    },
+    {
+      "text": "truck nation",
+      "score": 24.753
+    },
+    {
+      "text": "nation road",
+      "score": 22.389
+    },
+    {
+      "text": "road kings",
+      "score": 22.389
+    },
+    {
+      "text": "obby",
+      "score": 22.169
+    },
+    {
+      "text": "driving",
+      "score": 19.333
+    },
+    {
+      "text": "truck obby",
+      "score": 18.747
+    },
+    {
+      "text": "truck driving",
+      "score": 18.649
+    },
+    {
+      "text": "nation",
+      "score": 14.097
+    },
+    {
+      "text": "road",
+      "score": 12.858
+    },
+    {
+      "text": "kings",
+      "score": 11.612
+    },
+    {
+      "text": "empire",
+      "score": 11.503
+    },
+    {
+      "text": "truck mbg",
+      "score": 10.24
+    },
+    {
+      "text": "truck sim",
+      "score": 10.07
+    },
+    {
+      "text": "truck crash",
+      "score": 9.981
+    },
+    {
+      "text": "sim",
+      "score": 9.917
+    },
+    {
+      "text": "crash",
+      "score": 9.814
+    },
+    {
+      "text": "mbg extreme",
+      "score": 9.615
+    },
+    {
+      "text": "vietnam",
+      "score": 9.382
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "truck heaven",
+      "score": 194.842,
+      "appearances": 277,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "truck simulator",
+      "score": 163.493,
+      "appearances": 282,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "truck simulator indonesia",
+      "score": 66.663,
+      "appearances": 165,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "truck games",
+      "score": 59.26,
+      "appearances": 100,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "truck chaos",
+      "score": 46.601,
+      "appearances": 74,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "truck",
+      "score": 45.849,
+      "appearances": 65,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "truck nation road kings",
+      "score": 42.719,
+      "appearances": 63,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "trucks vs cars",
+      "score": 36.186,
+      "appearances": 71,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "truck obby",
+      "score": 35.492,
+      "appearances": 69,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "truck driving",
+      "score": 25.929,
+      "appearances": 49,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "truck mbg extreme",
+      "score": 18.191,
+      "appearances": 38,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "trucks",
+      "score": 17.816,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "truck sim",
+      "score": 17.506,
+      "appearances": 76,
+      "bestRank": 4
+    },
+    {
+      "rank": 14,
+      "text": "truck crash",
+      "score": 17.021,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "truck and crew",
+      "score": 16.607,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "truck heaven realista",
+      "score": 15.461,
+      "appearances": 54,
+      "bestRank": 2
+    },
+    {
+      "rank": 17,
+      "text": "truck heaven rp",
+      "score": 14.361,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "truck heaven 2",
+      "score": 13.184,
+      "appearances": 45,
+      "bestRank": 2
+    },
+    {
+      "rank": 19,
+      "text": "truck empire",
+      "score": 12.309,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "truck heaven truck heaven",
+      "score": 11.927,
+      "appearances": 37,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "truck heaven falso",
+      "score": 10.72,
+      "appearances": 30,
+      "bestRank": 2
+    },
+    {
+      "rank": 22,
+      "text": "truck vs cars",
+      "score": 10.333,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "truck game",
+      "score": 10.07,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "truck simulator big rigs",
+      "score": 10.027,
+      "appearances": 44,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "truck bus car vietnam 2",
+      "score": 9.729,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "truck simulation",
+      "score": 9.605,
+      "appearances": 26,
+      "bestRank": 2
+    },
+    {
+      "rank": 27,
+      "text": "truck simulator colombia",
+      "score": 9.498,
+      "appearances": 44,
+      "bestRank": 2
+    },
+    {
+      "rank": 28,
+      "text": "truck heaven grátis",
+      "score": 9.373,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "truck heaven assustador",
+      "score": 9.202,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "truck head",
+      "score": 9.063,
+      "appearances": 29,
+      "bestRank": 3
+    },
+    {
+      "rank": 31,
+      "text": "truck rng",
+      "score": 9.001,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "truck simulador",
+      "score": 8.83,
+      "appearances": 29,
+      "bestRank": 2
+    },
+    {
+      "rank": 33,
+      "text": "truck vs train",
+      "score": 8.443,
+      "appearances": 20,
+      "bestRank": 2
+    },
+    {
+      "rank": 34,
+      "text": "truck shawarma",
+      "score": 8.211,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "truck heaven original",
+      "score": 7.968,
+      "appearances": 30,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "truck games with trailers",
+      "score": 7.854,
+      "appearances": 20,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "truck raven",
+      "score": 7.804,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "truck heaven normal",
+      "score": 7.792,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "truck simulator 2",
+      "score": 7.405,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "truck chaos roblox",
+      "score": 7.095,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "truck hero",
+      "score": 7.049,
+      "appearances": 27,
+      "bestRank": 4
+    },
+    {
+      "rank": 42,
+      "text": "truck car",
+      "score": 6.662,
+      "appearances": 19,
+      "bestRank": 3
+    },
+    {
+      "rank": 43,
+      "text": "truck testing",
+      "score": 6.564,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "truck games truck games",
+      "score": 6.419,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "truck simulator vietnam 2",
+      "score": 6.259,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 46,
+      "text": "truck heaven de terror",
+      "score": 6.218,
+      "appearances": 24,
+      "bestRank": 3
+    },
+    {
+      "rank": 47,
+      "text": "truck heaven verdadeiro",
+      "score": 5.763,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "truck tycoon",
+      "score": 5.732,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "truck games no robux",
+      "score": 5.346,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "truck heaven brooke heaven",
+      "score": 5.252,
+      "appearances": 24,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Brookhaven RP",
+      "rawName": "Brookhaven 🏡RP",
+      "playerCount": 192008,
+      "url": "https://www.roblox.com/games/4924922222/Brookhaven-RP",
+      "foundBy": "truck heaven"
+    },
+    {
+      "name": "LifeTogether RP",
+      "rawName": "LifeTogether 🏠 RP ",
+      "playerCount": 13345,
+      "url": "https://www.roblox.com/games/13967668166/LifeTogether-RP",
+      "foundBy": "truck heaven"
+    },
+    {
+      "name": "Drag Drive Simulator",
+      "rawName": "(WHEELIE STYLE x BIG UPDATE) Drag Drive Simulator",
+      "playerCount": 12073,
+      "url": "https://www.roblox.com/games/131378148336503/Drag-Drive-Simulator",
+      "foundBy": "truck simulator indonesia"
+    },
+    {
+      "name": "Southern Mudding OffRoading",
+      "rawName": "[🚧UPD🚧] Southern Mudding 🚜 OffRoading",
+      "playerCount": 7979,
+      "url": "https://www.roblox.com/games/79480724066456/Southern-Mudding-OffRoading",
+      "foundBy": "truck"
+    },
+    {
+      "name": "Metro Life City RP",
+      "rawName": "Metro Life 🏡 City RP",
+      "playerCount": 7283,
+      "url": "https://www.roblox.com/games/12985361032/Metro-Life-City-RP",
+      "foundBy": "truck heaven"
+    },
+    {
+      "name": "NewSmith RP",
+      "rawName": "NewSmith 🏡 RP",
+      "playerCount": 6708,
+      "url": "https://www.roblox.com/games/16625391970/NewSmith-RP",
+      "foundBy": "truck heaven"
+    },
+    {
+      "name": "Tesla Roadster Chase",
+      "rawName": "[UPD] Tesla Roadster Chase",
+      "playerCount": 6025,
+      "url": "https://www.roblox.com/games/122379697375766/Tesla-Roadster-Chase",
+      "foundBy": "truck chaos"
+    },
+    {
+      "name": "Main Street RP",
+      "rawName": "Main Street 🏡RP",
+      "playerCount": 3172,
+      "url": "https://www.roblox.com/games/18753889337/Main-Street-RP",
+      "foundBy": "truck heaven"
+    },
+    {
+      "name": "American Plains Mudding",
+      "rawName": "[📡ANTENNAS📡] American Plains Mudding",
+      "playerCount": 2489,
+      "url": "https://www.roblox.com/games/7171174521/American-Plains-Mudding",
+      "foundBy": "truck"
+    },
+    {
+      "name": "Off-Roading Epic",
+      "rawName": "Off-Roading Epic",
+      "playerCount": 2457,
+      "url": "https://www.roblox.com/games/6366329104/Off-Roading-Epic",
+      "foundBy": "truck"
+    },
+    {
+      "name": "Car Suspension Test",
+      "rawName": "[☀️] Car Suspension Test",
+      "playerCount": 2269,
+      "url": "https://www.roblox.com/games/6816975827/Car-Suspension-Test",
+      "foundBy": "truck chaos"
+    },
+    {
+      "name": "Bus Driver Vietnam 2",
+      "rawName": "Bus Driver Vietnam 2",
+      "playerCount": 2168,
+      "url": "https://www.roblox.com/games/13705777238/Bus-Driver-Vietnam-2",
+      "foundBy": "truck"
+    },
+    {
+      "name": "Deermont RP",
+      "rawName": "Deermont 🏡RP",
+      "playerCount": 2166,
+      "url": "https://www.roblox.com/games/17192092512/Deermont-RP",
+      "foundBy": "truck heaven"
+    },
+    {
+      "name": "Seaside RP City RP",
+      "rawName": "Seaside RP🏡🌴 City RP",
+      "playerCount": 1549,
+      "url": "https://www.roblox.com/games/11862502039/Seaside-RP-City-RP",
+      "foundBy": "truck heaven"
+    },
+    {
+      "name": "Indonesia Mania Truck",
+      "rawName": "[TRAILER TRUCK] Indonesia Mania Truck",
+      "playerCount": 1391,
+      "url": "https://www.roblox.com/games/111431720255682/Truk-Indonesia-Mania",
+      "foundBy": "truck"
+    },
+    {
+      "name": "ARRANCADA",
+      "rawName": "ARRANCADA [2x💵]",
+      "playerCount": 1300,
+      "url": "https://www.roblox.com/games/114293790386673/ARRANCADA",
+      "foundBy": "truck nation road kings"
+    },
+    {
+      "name": "BSTS-ID",
+      "rawName": "BSTS-ID",
+      "playerCount": 1221,
+      "url": "https://www.roblox.com/games/114375429517112/BSTS-ID",
+      "foundBy": "truck"
+    },
+    {
+      "name": "Boxywood RP",
+      "rawName": "Boxywood 🏠🌴 RP",
+      "playerCount": 916,
+      "url": "https://www.roblox.com/games/13473615074/Boxywood-RP",
+      "foundBy": "truck heaven"
+    },
+    {
+      "name": "Sound System Simulator",
+      "rawName": "Sound System Simulator",
+      "playerCount": 910,
+      "url": "https://www.roblox.com/games/114468652957727/Indo-Glerity-Reborn",
+      "foundBy": "truck simulator indonesia"
+    },
+    {
+      "name": "Cabin Chaos",
+      "rawName": "[NEW SKINS] Cabin Chaos ✈️",
+      "playerCount": 850,
+      "url": "https://www.roblox.com/games/85037075053728/Cabin-Chaos",
+      "foundBy": "truck chaos"
+    },
+    {
+      "name": "WEAPON DUELS",
+      "rawName": "[🌌] WEAPON DUELS [Murderers vs Sheriffs]",
+      "playerCount": 806,
+      "url": "https://www.roblox.com/games/82983707799188/WEAPON-DUELS",
+      "foundBy": "trucks vs cars"
+    },
+    {
+      "name": "Drive A Bus",
+      "rawName": "Drive A Bus",
+      "playerCount": 801,
+      "url": "https://www.roblox.com/games/140424985545402/Drive-A-Bus",
+      "foundBy": "truck chaos"
+    },
+    {
+      "name": "Train VS Cars",
+      "rawName": "Train VS Cars (Remastered)",
+      "playerCount": 617,
+      "url": "https://www.roblox.com/games/9606797934/Train-VS-Cars",
+      "foundBy": "trucks vs cars"
+    },
+    {
+      "name": "Indonesian Truck Driving",
+      "rawName": "(LIMITED DEALER) Indonesian Truck Driving",
+      "playerCount": 524,
+      "url": "https://www.roblox.com/games/138797385170706/Truk-Driving-Indonesia",
+      "foundBy": "truck simulator indonesia"
+    },
+    {
+      "name": "Palmhaven City Life RP",
+      "rawName": "Palmhaven City Life RP🏡",
+      "playerCount": 414,
+      "url": "https://www.roblox.com/games/71174733280934/Palmhaven-City-Life-RP",
+      "foundBy": "truck heaven"
+    },
+    {
+      "name": "Hungry Pig",
+      "rawName": "Hungry Pig",
+      "playerCount": 360,
+      "url": "https://www.roblox.com/games/18183902003/Hungry-Pig",
+      "foundBy": "trick or treat"
+    },
+    {
+      "name": "Java explorer truck",
+      "rawName": "{ UPDATE } Java explorer truck ",
+      "playerCount": 258,
+      "url": "https://www.roblox.com/games/105540745429353/UPDATE-Java-exploler-truck",
+      "foundBy": "truck simulator indonesia"
+    },
+    {
+      "name": "Offroad Mudding",
+      "rawName": "[RV ATTACHMENT + Trailer] Offroad Mudding 🚜",
+      "playerCount": 252,
+      "url": "https://www.roblox.com/games/129152273164697/Offroad-Mudding",
+      "foundBy": "truck"
+    },
+    {
+      "name": "Trick Or Treat Neighborhood",
+      "rawName": "🎃Trick Or Treat Neighborhood",
+      "playerCount": 237,
+      "url": "https://www.roblox.com/games/121799214004960/Trick-Or-Treat-Neighborhood",
+      "foundBy": "trick or treat"
+    },
+    {
+      "name": "Truk Simulator Indonesia",
+      "rawName": "[UPDATE TSID] Truk Simulator Indonesia",
+      "playerCount": 157,
+      "url": "https://www.roblox.com/games/17431446039/Truk-Simulator-Indonesia",
+      "foundBy": "truck simulator indonesia"
+    }
+  ]
+}

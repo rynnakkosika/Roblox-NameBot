@@ -1,0 +1,715 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261111-080918-package-delivery",
+    "genre": "package delivery",
+    "budget": 1000,
+    "searchesMade": 838,
+    "gameSearchesMade": 6,
+    "status": "complete",
+    "stopReason": "exhausted",
+    "startedAt": "2026-11-11T08:09:18Z",
+    "finishedAt": "2026-11-11T08:18:26Z",
+    "issue": null,
+    "genreWords": [
+      "package",
+      "delivery"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Package Delivery Cart Ride",
+      "score": 44.555,
+      "words": [
+        "Package",
+        "Delivery",
+        "Cart",
+        "Ride"
+      ],
+      "supportedBy": [
+        "package delivery cart ride"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Cart Ride Package Delivery Simulator",
+      "score": 25.869,
+      "words": [
+        "Cart",
+        "Ride",
+        "Package",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "package delivery cart ride",
+        "package delivery simulator"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Steal Egg Package Delivery Simulator",
+      "score": 17.368,
+      "words": [
+        "Steal",
+        "Egg",
+        "Package",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "package delivery simulator"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Bus Driver Package Delivery Obby",
+      "score": 14.561,
+      "words": [
+        "Bus",
+        "Driver",
+        "Package",
+        "Delivery",
+        "Obby"
+      ],
+      "supportedBy": [
+        "package delivery driver"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Package Delivery Simulator",
+      "score": 13.085,
+      "words": [
+        "Package",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "package delivery simulator"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Package Delivery Cart",
+      "score": 12.341,
+      "words": [
+        "Package",
+        "Delivery",
+        "Cart"
+      ],
+      "supportedBy": [
+        "package delivery cart ride"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Ride Around Package Delivery",
+      "score": 11.35,
+      "words": [
+        "Ride",
+        "Around",
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": [
+        "package delivery cart ride"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Package Delivery",
+      "score": 10.607,
+      "words": [
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": [
+        "package delivery cart ride",
+        "package delivery simulator",
+        "package delivery"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Mudding Offroading Package Delivery Obby",
+      "score": 10.571,
+      "words": [
+        "Mudding",
+        "Offroading",
+        "Package",
+        "Delivery",
+        "Obby"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 10,
+      "name": "Package Delivery Driver",
+      "score": 10.41,
+      "words": [
+        "Package",
+        "Delivery",
+        "Driver"
+      ],
+      "supportedBy": [
+        "package delivery driver"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Every Stage Package Delivery",
+      "score": 10.253,
+      "words": [
+        "Every",
+        "Stage",
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 12,
+      "name": "Get Smaller Package Delivery",
+      "score": 10.253,
+      "words": [
+        "Get",
+        "Smaller",
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 13,
+      "name": "Bsts Id Package Delivery Simulator",
+      "score": 9.544,
+      "words": [
+        "Bsts",
+        "Id",
+        "Package",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "package delivery simulator"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Ride Fun Package Delivery",
+      "score": 8.961,
+      "words": [
+        "Ride",
+        "Fun",
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": [
+        "package delivery cart ride"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Cart Slide Package Delivery",
+      "score": 8.846,
+      "words": [
+        "Cart",
+        "Slide",
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": [
+        "package delivery cart ride"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Southern Mudding Package Delivery",
+      "score": 8.295,
+      "words": [
+        "Southern",
+        "Mudding",
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 17,
+      "name": "Steal Egg Package Delivery",
+      "score": 8.036,
+      "words": [
+        "Steal",
+        "Egg",
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 18,
+      "name": "Papapdol Ph Package Delivery",
+      "score": 7.907,
+      "words": [
+        "Papapdol",
+        "Ph",
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Down Mountain Package Delivery",
+      "score": 7.878,
+      "words": [
+        "Down",
+        "Mountain",
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 20,
+      "name": "Package Delivery Wrecked",
+      "score": 7.796,
+      "words": [
+        "Package",
+        "Delivery",
+        "Wrecked"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Package Delivery Vietnam",
+      "score": 7.641,
+      "words": [
+        "Package",
+        "Delivery",
+        "Vietnam"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Package Delivery Rush",
+      "score": 7.526,
+      "words": [
+        "Package",
+        "Delivery",
+        "Rush"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 23,
+      "name": "Nothing Package Delivery",
+      "score": 7.29,
+      "words": [
+        "Nothing",
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Food Package Delivery",
+      "score": 7.287,
+      "words": [
+        "Food",
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Kebab Package Delivery",
+      "score": 7.14,
+      "words": [
+        "Kebab",
+        "Package",
+        "Delivery"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "package delivery",
+      "score": 11.973
+    },
+    {
+      "text": "package",
+      "score": 10.658
+    },
+    {
+      "text": "delivery",
+      "score": 14.119
+    },
+    {
+      "text": "cart",
+      "score": 10.639
+    },
+    {
+      "text": "ride",
+      "score": 10.119
+    },
+    {
+      "text": "cart ride",
+      "score": 9.046
+    },
+    {
+      "text": "delivery cart",
+      "score": 5.315
+    },
+    {
+      "text": "simulator",
+      "score": 4.931
+    },
+    {
+      "text": "driver",
+      "score": 3.662
+    },
+    {
+      "text": "delivery simulator",
+      "score": 3.514
+    },
+    {
+      "text": "egg",
+      "score": 2.92
+    },
+    {
+      "text": "steal",
+      "score": 2.92
+    },
+    {
+      "text": "mudding",
+      "score": 1.948
+    },
+    {
+      "text": "offroading",
+      "score": 1.948
+    },
+    {
+      "text": "southern",
+      "score": 1.948
+    },
+    {
+      "text": "every",
+      "score": 1.896
+    },
+    {
+      "text": "get",
+      "score": 1.896
+    },
+    {
+      "text": "obby",
+      "score": 1.896
+    },
+    {
+      "text": "smaller",
+      "score": 1.896
+    },
+    {
+      "text": "stage",
+      "score": 1.896
+    },
+    {
+      "text": "wrecked",
+      "score": 1.809
+    },
+    {
+      "text": "bus",
+      "score": 1.655
+    },
+    {
+      "text": "vietnam",
+      "score": 1.655
+    },
+    {
+      "text": "bsts",
+      "score": 1.556
+    },
+    {
+      "text": "steal egg",
+      "score": 1.46
+    },
+    {
+      "text": "delivery driver",
+      "score": 1.346
+    },
+    {
+      "text": "around",
+      "score": 1.304
+    },
+    {
+      "text": "nothing",
+      "score": 1.304
+    },
+    {
+      "text": "food",
+      "score": 1.3
+    },
+    {
+      "text": "rush",
+      "score": 1.232
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "package delivery cart ride",
+      "score": 10.63,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "package delivery simulator",
+      "score": 5.306,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "package delivery",
+      "score": 4.621,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "package delivery driver",
+      "score": 2.691,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "package delivery in the car",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 692677,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "package delivery driver"
+    },
+    {
+      "name": "Southern Mudding OffRoading",
+      "rawName": "[🚧UPD🚧] Southern Mudding 🚜 OffRoading",
+      "playerCount": 7869,
+      "url": "https://www.roblox.com/games/79480724066456/Southern-Mudding-OffRoading",
+      "foundBy": "package delivery in the car"
+    },
+    {
+      "name": "obby but you get smaller every stage",
+      "rawName": "obby but you get smaller every stage",
+      "playerCount": 6201,
+      "url": "https://www.roblox.com/games/133466274094328/obby-but-you-get-smaller-every-stage",
+      "foundBy": "package delivery driver"
+    },
+    {
+      "name": "WRECKED",
+      "rawName": "WRECKED [Realistic Crashes]",
+      "playerCount": 4152,
+      "url": "https://www.roblox.com/games/77843690602580/WRECKED",
+      "foundBy": "package delivery in the car"
+    },
+    {
+      "name": "Bus Driver Vietnam 2",
+      "rawName": "Bus Driver Vietnam 2",
+      "playerCount": 2039,
+      "url": "https://www.roblox.com/games/13705777238/Bus-Driver-Vietnam-2",
+      "foundBy": "package delivery driver"
+    },
+    {
+      "name": "Cart Ride",
+      "rawName": "[🚂] Cart Ride",
+      "playerCount": 1488,
+      "url": "https://www.roblox.com/games/11364087119/Cart-Ride",
+      "foundBy": "package delivery cart ride"
+    },
+    {
+      "name": "BSTS-ID",
+      "rawName": "BSTS-ID",
+      "playerCount": 1293,
+      "url": "https://www.roblox.com/games/114375429517112/BSTS-ID",
+      "foundBy": "package deliver"
+    },
+    {
+      "name": "Deliver Packages!",
+      "rawName": "Deliver Packages! 📦 ",
+      "playerCount": 686,
+      "url": "https://www.roblox.com/games/96884870939279/Deliver-Packages",
+      "foundBy": "package delivery"
+    },
+    {
+      "name": "cart ride around nothing",
+      "rawName": "cart ride around nothing",
+      "playerCount": 404,
+      "url": "https://www.roblox.com/games/10660791703/cart-ride-around-nothing",
+      "foundBy": "package delivery cart ride"
+    },
+    {
+      "name": "Food Delivery Simulator",
+      "rawName": "Food Delivery Simulator 🍔",
+      "playerCount": 398,
+      "url": "https://www.roblox.com/games/115791596576343/Food-Delivery-Simulator",
+      "foundBy": "package delivery simulator"
+    },
+    {
+      "name": "Delivery Rush",
+      "rawName": "Delivery Rush",
+      "playerCount": 290,
+      "url": "https://www.roblox.com/games/86443804320607/Delivery-Rush",
+      "foundBy": "package delivery"
+    },
+    {
+      "name": "Deliver The Kebab",
+      "rawName": "Deliver The Kebab",
+      "playerCount": 202,
+      "url": "https://www.roblox.com/games/79633704643509/Deliver-The-Kebab",
+      "foundBy": "package delivery"
+    },
+    {
+      "name": "Cart Ride Fun",
+      "rawName": "Cart Ride Fun",
+      "playerCount": 171,
+      "url": "https://www.roblox.com/games/10235499475/Cart-Ride-Fun",
+      "foundBy": "package delivery cart ride"
+    },
+    {
+      "name": "MBG Driver",
+      "rawName": "[UPD] MBG Driver ",
+      "playerCount": 165,
+      "url": "https://www.roblox.com/games/114043013325512/MBG-Driver",
+      "foundBy": "package delivery driver"
+    },
+    {
+      "name": "Present Delivery",
+      "rawName": "🎁 Present Delivery [2 Players]",
+      "playerCount": 160,
+      "url": "https://www.roblox.com/games/115024756901397/Present-Delivery",
+      "foundBy": "package delivery driver"
+    },
+    {
+      "name": "PACK IT",
+      "rawName": "[📦] PACK IT ",
+      "playerCount": 123,
+      "url": "https://www.roblox.com/games/126998242116777/PACK-IT",
+      "foundBy": "package delivery in the car"
+    },
+    {
+      "name": "Build and Deliver Packages",
+      "rawName": "[UPD] Build and Deliver Packages",
+      "playerCount": 84,
+      "url": "https://www.roblox.com/games/108447619050035/Build-and-Deliver-Packages",
+      "foundBy": "package delivery"
+    },
+    {
+      "name": "WB Simulator",
+      "rawName": "WB Simulator 📦",
+      "playerCount": 83,
+      "url": "https://www.roblox.com/games/127939871079676/WB-Simulator",
+      "foundBy": "package delivery simulator"
+    },
+    {
+      "name": "Clean & Deliver",
+      "rawName": "[🤝Coop-Cleaning!] Clean & Deliver",
+      "playerCount": 63,
+      "url": "https://www.roblox.com/games/81601081975931/Clean-Deliver",
+      "foundBy": "package deliver"
+    },
+    {
+      "name": "PapapDol PH Trucking",
+      "rawName": "[BIG UPDATE] PapapDol PH Trucking",
+      "playerCount": 50,
+      "url": "https://www.roblox.com/games/116362357143997/PapapDol-PH-Trucking",
+      "foundBy": "package deliver"
+    },
+    {
+      "name": "Cart Ride Down A Mountain",
+      "rawName": "Cart Ride Down A Mountain",
+      "playerCount": 47,
+      "url": "https://www.roblox.com/games/77403529318238/Cart-Ride-Down-A-Mountain",
+      "foundBy": "package delivery cart ride"
+    },
+    {
+      "name": "Cart Ride Delivery Service",
+      "rawName": "[FREE MAP] Cart Ride Delivery Service",
+      "playerCount": 40,
+      "url": "https://www.roblox.com/games/11454403177/Cart-Ride-Delivery-Service",
+      "foundBy": "package delivery"
+    },
+    {
+      "name": "Cart Ride Extreme",
+      "rawName": "Cart Ride Extreme",
+      "playerCount": 34,
+      "url": "https://www.roblox.com/games/12390019542/Cart-Ride-Extreme",
+      "foundBy": "package delivery cart ride"
+    },
+    {
+      "name": "My Delivery Empire",
+      "rawName": "My Delivery Empire",
+      "playerCount": 25,
+      "url": "https://www.roblox.com/games/110897543168057/My-Delivery-Empire",
+      "foundBy": "package delivery"
+    },
+    {
+      "name": "Delivery Industry",
+      "rawName": "Delivery Industry [🚚Companies]",
+      "playerCount": 22,
+      "url": "https://www.roblox.com/games/8540060978/Delivery-Industry",
+      "foundBy": "package delivery"
+    },
+    {
+      "name": "100 Player Cart Ride",
+      "rawName": "100 Player Cart Ride [HARD ☠️]",
+      "playerCount": 12,
+      "url": "https://www.roblox.com/games/71778824478828/100-Player-Cart-Ride",
+      "foundBy": "package delivery cart ride"
+    },
+    {
+      "name": "Cart Slide Chaos",
+      "rawName": "Cart Slide Chaos",
+      "playerCount": 10,
+      "url": "https://www.roblox.com/games/120887299152220/Cart-Slide-Chaos",
+      "foundBy": "package delivery cart ride"
+    },
+    {
+      "name": "amazing",
+      "rawName": "amazing 📦",
+      "playerCount": 10,
+      "url": "https://www.roblox.com/games/118510517937460/amazing",
+      "foundBy": "package delivery"
+    },
+    {
+      "name": "Cart Ride Simulator",
+      "rawName": "Cart Ride Simulator",
+      "playerCount": 8,
+      "url": "https://www.roblox.com/games/11806348769/Cart-Ride-Simulator",
+      "foundBy": "package delivery cart ride"
+    },
+    {
+      "name": "Delivery Simulator X",
+      "rawName": "📦 Delivery Simulator X",
+      "playerCount": 6,
+      "url": "https://www.roblox.com/games/6459707978/Delivery-Simulator-X",
+      "foundBy": "package delivery"
+    }
+  ]
+}

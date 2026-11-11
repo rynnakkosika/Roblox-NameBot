@@ -1,0 +1,899 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261111-073600-pizza-delivery",
+    "genre": "pizza delivery",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-11T07:36:00Z",
+    "finishedAt": "2026-11-11T07:47:06Z",
+    "issue": null,
+    "genreWords": [
+      "pizza",
+      "delivery"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Pizza Delivery Escape",
+      "score": 143.094,
+      "words": [
+        "Pizza",
+        "Delivery",
+        "Escape"
+      ],
+      "supportedBy": [
+        "pizza delivery escape game",
+        "pizza delivery escape",
+        "pizza delivery escape bob"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Pizza Delivery Obby",
+      "score": 125.628,
+      "words": [
+        "Pizza",
+        "Delivery",
+        "Obby"
+      ],
+      "supportedBy": [
+        "pizza delivery obby",
+        "pizza delivery 2 player obby"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Pizzeria Run Pizza Delivery Escape",
+      "score": 102.441,
+      "words": [
+        "Pizzeria",
+        "Run",
+        "Pizza",
+        "Delivery",
+        "Escape"
+      ],
+      "supportedBy": [
+        "pizza delivery escape game",
+        "pizza delivery escape",
+        "pizza delivery escape bob"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Pizza Delivery Tycoon",
+      "score": 94.657,
+      "words": [
+        "Pizza",
+        "Delivery",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "pizza delivery tycoon"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Pizza Delivery Boy",
+      "score": 93.403,
+      "words": [
+        "Pizza",
+        "Delivery",
+        "Boy"
+      ],
+      "supportedBy": [
+        "pizza delivery boy"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Pizza Delivery Horror",
+      "score": 89.611,
+      "words": [
+        "Pizza",
+        "Delivery",
+        "Horror"
+      ],
+      "supportedBy": [
+        "pizza delivery horror",
+        "pizza delivery horror game",
+        "pizza delivery game horror"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Pizza Delivery Simulator",
+      "score": 84.108,
+      "words": [
+        "Pizza",
+        "Delivery",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pizza delivery simulator"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Barrys Prison Pizza Delivery Obby",
+      "score": 82.028,
+      "words": [
+        "Barrys",
+        "Prison",
+        "Pizza",
+        "Delivery",
+        "Obby"
+      ],
+      "supportedBy": [
+        "pizza delivery obby",
+        "pizza delivery 2 player obby"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Pizza Delivery",
+      "score": 79.729,
+      "words": [
+        "Pizza",
+        "Delivery"
+      ],
+      "supportedBy": [
+        "pizza delivery 2 player",
+        "pizza delivery obby",
+        "pizza delivery escape game"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Mr Mix Pizza Delivery Escape",
+      "score": 77.968,
+      "words": [
+        "Mr",
+        "Mix",
+        "Pizza",
+        "Delivery",
+        "Escape"
+      ],
+      "supportedBy": [
+        "pizza delivery escape game",
+        "pizza delivery escape",
+        "pizza delivery escape bob"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Pizza Delivery Terror",
+      "score": 77.065,
+      "words": [
+        "Pizza",
+        "Delivery",
+        "Terror"
+      ],
+      "supportedBy": [
+        "pizza delivery terror"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Pizza Delivery Jumper",
+      "score": 74.881,
+      "words": [
+        "Pizza",
+        "Delivery",
+        "Jumper"
+      ],
+      "supportedBy": [
+        "pizza delivery jumper"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Pizza Delivery Driver",
+      "score": 73.84,
+      "words": [
+        "Pizza",
+        "Delivery",
+        "Driver"
+      ],
+      "supportedBy": [
+        "pizza delivery driver",
+        "pizza delivery driver games"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Teamwork Puzzles Pizza Delivery",
+      "score": 72.099,
+      "words": [
+        "Teamwork",
+        "Puzzles",
+        "Pizza",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 15,
+      "name": "Papa Pizza Delivery",
+      "score": 71.388,
+      "words": [
+        "Papa",
+        "Pizza",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 16,
+      "name": "Cook Pizza Delivery",
+      "score": 71.255,
+      "words": [
+        "Cook",
+        "Pizza",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 17,
+      "name": "Pizza Delivery Man",
+      "score": 71.209,
+      "words": [
+        "Pizza",
+        "Delivery",
+        "Man"
+      ],
+      "supportedBy": [
+        "pizza delivery man"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Youre Scooter Pizza Delivery",
+      "score": 70.947,
+      "words": [
+        "Youre",
+        "Scooter",
+        "Pizza",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Motel Maniac Pizza Delivery",
+      "score": 70.619,
+      "words": [
+        "Motel",
+        "Maniac",
+        "Pizza",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 20,
+      "name": "Carry Egg Pizza Delivery",
+      "score": 70.41,
+      "words": [
+        "Carry",
+        "Egg",
+        "Pizza",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Keyboard Tower Pizza Delivery",
+      "score": 70.188,
+      "words": [
+        "Keyboard",
+        "Tower",
+        "Pizza",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Pizza Delivery Scary",
+      "score": 70.105,
+      "words": [
+        "Pizza",
+        "Delivery",
+        "Scary"
+      ],
+      "supportedBy": [
+        "pizza delivery scary"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Yummys Supermarket Pizza Delivery",
+      "score": 70.039,
+      "words": [
+        "Yummys",
+        "Supermarket",
+        "Pizza",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Grumpy Gran Pizza Delivery",
+      "score": 70.036,
+      "words": [
+        "Grumpy",
+        "Gran",
+        "Pizza",
+        "Delivery"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Work Pizza Delivery",
+      "score": 69.999,
+      "words": [
+        "Work",
+        "Pizza",
+        "Delivery"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "pizza delivery",
+      "score": 134.569
+    },
+    {
+      "text": "pizza",
+      "score": 110.061
+    },
+    {
+      "text": "delivery",
+      "score": 100.109
+    },
+    {
+      "text": "delivery escape",
+      "score": 28.947
+    },
+    {
+      "text": "escape",
+      "score": 23.469
+    },
+    {
+      "text": "delivery 2",
+      "score": 20.651
+    },
+    {
+      "text": "obby",
+      "score": 14.811
+    },
+    {
+      "text": "delivery obby",
+      "score": 14.451
+    },
+    {
+      "text": "player",
+      "score": 12.28
+    },
+    {
+      "text": "tycoon",
+      "score": 10.002
+    },
+    {
+      "text": "delivery boy",
+      "score": 8.248
+    },
+    {
+      "text": "delivery horror",
+      "score": 8.156
+    },
+    {
+      "text": "pizzeria",
+      "score": 5.575
+    },
+    {
+      "text": "boy",
+      "score": 5.499
+    },
+    {
+      "text": "horror",
+      "score": 5.437
+    },
+    {
+      "text": "run",
+      "score": 5.071
+    },
+    {
+      "text": "delivery tycoon",
+      "score": 4.948
+    },
+    {
+      "text": "delivery simulator",
+      "score": 4.626
+    },
+    {
+      "text": "simulator",
+      "score": 4.596
+    },
+    {
+      "text": "prison",
+      "score": 3.293
+    },
+    {
+      "text": "papa",
+      "score": 3.283
+    },
+    {
+      "text": "cook",
+      "score": 3.177
+    },
+    {
+      "text": "delivery terror",
+      "score": 3.089
+    },
+    {
+      "text": "teamwork",
+      "score": 2.819
+    },
+    {
+      "text": "player obby",
+      "score": 2.564
+    },
+    {
+      "text": "delivery driver",
+      "score": 2.413
+    },
+    {
+      "text": "delivery jumper",
+      "score": 2.399
+    },
+    {
+      "text": "food",
+      "score": 2.22
+    },
+    {
+      "text": "place",
+      "score": 2.172
+    },
+    {
+      "text": "work",
+      "score": 2.172
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "pizza delivery 2 player",
+      "score": 36.174,
+      "appearances": 52,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "pizza delivery obby",
+      "score": 28.902,
+      "appearances": 49,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "pizza delivery escape game",
+      "score": 28.571,
+      "appearances": 51,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "pizza delivery escape",
+      "score": 26.133,
+      "appearances": 51,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "pizza delivery games",
+      "score": 23.885,
+      "appearances": 52,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "pizza delivery game",
+      "score": 22.092,
+      "appearances": 47,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "pizza delivery boy",
+      "score": 16.496,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "pizza delivery horror",
+      "score": 12.812,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "pizza delivery",
+      "score": 12.444,
+      "appearances": 16,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "pizza delivery tycoon",
+      "score": 9.895,
+      "appearances": 20,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "pizza delivery simulator",
+      "score": 7.616,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "pizza delivery terror",
+      "score": 6.177,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "pizza delivery 2 player obby",
+      "score": 5.129,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "pizza delivery jumper",
+      "score": 4.798,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "pizza delivery delivery",
+      "score": 4.008,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "pizza delivery driver",
+      "score": 3.741,
+      "appearances": 12,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "pizza delivery horror game",
+      "score": 3.035,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "pizza delivery man",
+      "score": 2.479,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "pizza deliveries",
+      "score": 2.091,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "pizza delivery escape bob",
+      "score": 1.921,
+      "appearances": 4,
+      "bestRank": 3
+    },
+    {
+      "rank": 21,
+      "text": "pizza delivery scary",
+      "score": 1.782,
+      "appearances": 3,
+      "bestRank": 2
+    },
+    {
+      "rank": 22,
+      "text": "pizza delivery escape game bob",
+      "score": 1.269,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "pizza delivery pizza delivery",
+      "score": 1.135,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "pizza delivery driver games",
+      "score": 1.084,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "pizza delivery christmas job",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "pizza delivery guy",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "pizza delivery last order",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "pizza delivery game horror",
+      "score": 0.465,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "pizza delivery shop",
+      "score": 0.465,
+      "appearances": 1,
+      "bestRank": 5
+    },
+    {
+      "rank": 30,
+      "text": "pizza delivery pizza",
+      "score": 0.418,
+      "appearances": 1,
+      "bestRank": 2
+    }
+  ],
+  "topGames": [
+    {
+      "name": "BARRY'S PRISON RUN!",
+      "rawName": "🚨BARRY'S PRISON RUN! (OBBY)",
+      "playerCount": 10607,
+      "url": "https://www.roblox.com/games/8712817601/BARRYS-PRISON-RUN",
+      "foundBy": "pizza delivery obby"
+    },
+    {
+      "name": "Cook Pizzas",
+      "rawName": "Cook Pizzas [Anomaly]",
+      "playerCount": 3783,
+      "url": "https://www.roblox.com/games/99905511294377/Cook-Pizzas",
+      "foundBy": "pizza delivery obby"
+    },
+    {
+      "name": "Work at a Pizza Place",
+      "rawName": "🍕Work at a Pizza Place",
+      "playerCount": 1837,
+      "url": "https://www.roblox.com/games/192800/Work-at-a-Pizza-Place",
+      "foundBy": "pizza delivery"
+    },
+    {
+      "name": "Obby But You're on a Scooter",
+      "rawName": "[W44] Obby But You're on a Scooter",
+      "playerCount": 1800,
+      "url": "https://www.roblox.com/games/122606989565107/Obby-But-Youre-on-a-Scooter",
+      "foundBy": "pizza delivery obby"
+    },
+    {
+      "name": "Mr Mix",
+      "rawName": "Mr.Mix",
+      "playerCount": 1720,
+      "url": "https://www.roblox.com/games/18948446518/Mr-Mix",
+      "foundBy": "pizza delivery horror"
+    },
+    {
+      "name": "Teamwork Puzzles",
+      "rawName": "Teamwork Puzzles (Obby)",
+      "playerCount": 1560,
+      "url": "https://www.roblox.com/games/13184713709/Teamwork-Puzzles",
+      "foundBy": "pizza delivery 2 player"
+    },
+    {
+      "name": "Raft Tycoon",
+      "rawName": "🌊 Raft Tycoon",
+      "playerCount": 1285,
+      "url": "https://www.roblox.com/games/76137189788863/Raft-Tycoon",
+      "foundBy": "pizza delivery tycoon"
+    },
+    {
+      "name": "Escape Papa Pizza's Pizzeria!",
+      "rawName": "Escape Papa Pizza's Pizzeria! (SCARY OBBY)",
+      "playerCount": 1124,
+      "url": "https://www.roblox.com/games/6939111033/Escape-Papa-Pizzas-Pizzeria",
+      "foundBy": "pizza delivery"
+    },
+    {
+      "name": "Motel Maniac",
+      "rawName": "Motel Maniac [HORROR]",
+      "playerCount": 920,
+      "url": "https://www.roblox.com/games/89544555099898/Motel-Maniac",
+      "foundBy": "pizza delivery horror"
+    },
+    {
+      "name": "VERITY'S PIZZERIA RUN!",
+      "rawName": "VERITY'S PIZZERIA RUN! (Obby)",
+      "playerCount": 720,
+      "url": "https://www.roblox.com/games/122109241424385/VERITYS-PIZZERIA-RUN",
+      "foundBy": "pizza delivery"
+    },
+    {
+      "name": "Restaurant Tycoon 2",
+      "rawName": "Restaurant Tycoon 2",
+      "playerCount": 679,
+      "url": "https://www.roblox.com/games/3398014311/Restaurant-Tycoon-2",
+      "foundBy": "pizza delivery tycoon"
+    },
+    {
+      "name": "Deliver Packages!",
+      "rawName": "Deliver Packages! 📦 ",
+      "playerCount": 664,
+      "url": "https://www.roblox.com/games/96884870939279/Deliver-Packages",
+      "foundBy": "pizza delivery simulator"
+    },
+    {
+      "name": "Carry an Egg",
+      "rawName": "Carry an Egg [2 Player Obby]",
+      "playerCount": 599,
+      "url": "https://www.roblox.com/games/92171645661524/Carry-an-Egg",
+      "foundBy": "pizza delivery 2 player"
+    },
+    {
+      "name": "Cook Pizzas",
+      "rawName": "Cook Pizzas",
+      "playerCount": 595,
+      "url": "https://www.roblox.com/games/86017989016432/Cook-Pizzas",
+      "foundBy": "pizza delivery escape"
+    },
+    {
+      "name": "ANALOG",
+      "rawName": "ANALOG 📂[HORROR]",
+      "playerCount": 453,
+      "url": "https://www.roblox.com/games/105916934349181/ANALOG",
+      "foundBy": "pizza delivery terror"
+    },
+    {
+      "name": "ESCAPE BILLY'S PIZZERIA",
+      "rawName": "[🍕] ESCAPE BILLY'S PIZZERIA (NEW OBBY)",
+      "playerCount": 434,
+      "url": "https://www.roblox.com/games/79084351635266/ESCAPE-BILLYS-PIZZERIA",
+      "foundBy": "pizza delivery escape game"
+    },
+    {
+      "name": "FREE Rewards Obby",
+      "rawName": "FREE Rewards Obby🎁",
+      "playerCount": 400,
+      "url": "https://www.roblox.com/games/138805846642856/FREE-Rewards-Obby",
+      "foundBy": "pizza delivery obby"
+    },
+    {
+      "name": "1 Keyboard Tower Escape",
+      "rawName": "[🏆X99👟X111] +1 Keyboard Tower Escape",
+      "playerCount": 380,
+      "url": "https://www.roblox.com/games/110254673767537/1-Keyboard-Tower-Escape",
+      "foundBy": "pizza delivery escape game"
+    },
+    {
+      "name": "Food Delivery Simulator",
+      "rawName": "Food Delivery Simulator 🍔",
+      "playerCount": 371,
+      "url": "https://www.roblox.com/games/115791596576343/Food-Delivery-Simulator",
+      "foundBy": "pizza delivery"
+    },
+    {
+      "name": "2 Player Pizza Tycoon",
+      "rawName": "2 Player Pizza Tycoon 🍕",
+      "playerCount": 355,
+      "url": "https://www.roblox.com/games/119156763806075/2-Player-Pizza-Tycoon",
+      "foundBy": "pizza delivery 2 player"
+    },
+    {
+      "name": "MR YUMMY'S SUPERMARKET!",
+      "rawName": "🎃 MR YUMMY'S SUPERMARKET! (Escape Obby)",
+      "playerCount": 280,
+      "url": "https://www.roblox.com/games/11021288030/MR-YUMMYS-SUPERMARKET",
+      "foundBy": "pizza delivery escape"
+    },
+    {
+      "name": "GRUMPY GRAN!",
+      "rawName": "GRUMPY GRAN! (SCARY OBBY)",
+      "playerCount": 278,
+      "url": "https://www.roblox.com/games/9372570969/GRUMPY-GRAN",
+      "foundBy": "pizza delivery escape game"
+    },
+    {
+      "name": "Teamwork Obby",
+      "rawName": "Teamwork Obby",
+      "playerCount": 277,
+      "url": "https://www.roblox.com/games/15864327873/Teamwork-Obby",
+      "foundBy": "pizza delivery 2 player"
+    },
+    {
+      "name": "Delivery Rush",
+      "rawName": "Delivery Rush",
+      "playerCount": 230,
+      "url": "https://www.roblox.com/games/86443804320607/Delivery-Rush",
+      "foundBy": "pizza delivery boy"
+    },
+    {
+      "name": "Biker Duo",
+      "rawName": "Biker Duo 🏍️ [2 Player Obby]",
+      "playerCount": 209,
+      "url": "https://www.roblox.com/games/118464614321108/Biker-Duo",
+      "foundBy": "pizza delivery 2 player"
+    },
+    {
+      "name": "Deliver The Kebab",
+      "rawName": "Deliver The Kebab",
+      "playerCount": 192,
+      "url": "https://www.roblox.com/games/79633704643509/Deliver-The-Kebab",
+      "foundBy": "pizza delivery boy"
+    },
+    {
+      "name": "Burrowed Fears",
+      "rawName": "Burrowed Fears [HORROR]",
+      "playerCount": 183,
+      "url": "https://www.roblox.com/games/105663205434095/Burrowed-Fears",
+      "foundBy": "pizza delivery terror"
+    },
+    {
+      "name": "Burger Shack",
+      "rawName": "Burger Shack 🍔 [HORROR]",
+      "playerCount": 168,
+      "url": "https://www.roblox.com/games/93635039874468/Burger-Shack",
+      "foundBy": "pizza delivery horror"
+    },
+    {
+      "name": "2 Player Fast Food Tycoon",
+      "rawName": "2 Player Fast Food Tycoon 🍟",
+      "playerCount": 73,
+      "url": "https://www.roblox.com/games/118022306740532/2-Player-Fast-Food-Tycoon",
+      "foundBy": "pizza delivery 2 player"
+    },
+    {
+      "name": "Drive A Friend!",
+      "rawName": "Drive A Friend! [2 Player Obby]",
+      "playerCount": 45,
+      "url": "https://www.roblox.com/games/80045995105676/Drive-A-Friend",
+      "foundBy": "pizza delivery 2 player"
+    }
+  ]
+}
