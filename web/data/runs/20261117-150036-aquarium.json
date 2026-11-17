@@ -1,0 +1,1069 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261117-150036-aquarium",
+    "genre": "aquarium",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-17T15:00:36Z",
+    "finishedAt": "2026-11-17T15:11:42Z",
+    "issue": null,
+    "genreWords": [
+      "aquarium"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Aquarium Tycoon",
+      "score": 168.641,
+      "words": [
+        "Aquarium",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "aquarium tycoon",
+        "aquarium tycoon 2",
+        "aquarium tycoon 2 player"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Asmr Tower Aquarium Tycoon",
+      "score": 99.392,
+      "words": [
+        "Asmr",
+        "Tower",
+        "Aquarium",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "aquarium tycoon",
+        "aquarium tower",
+        "aquarium tycoon 2"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Aquarium Story",
+      "score": 93.398,
+      "words": [
+        "Aquarium",
+        "Story"
+      ],
+      "supportedBy": [
+        "aquarium story",
+        "aquarium story 1",
+        "aquarium story 2"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Net Fish Aquarium Tycoon",
+      "score": 73.598,
+      "words": [
+        "Net",
+        "Fish",
+        "Aquarium",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "aquarium tycoon",
+        "aquarium fish",
+        "aquarium tycoon 2"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Aquarium Obby",
+      "score": 57.719,
+      "words": [
+        "Aquarium",
+        "Obby"
+      ],
+      "supportedBy": [
+        "aquarium obby"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Aquarium Date",
+      "score": 57.699,
+      "words": [
+        "Aquarium",
+        "Date"
+      ],
+      "supportedBy": [
+        "aquarium date",
+        "akuarium date"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Water Park Aquarium Tycoon",
+      "score": 57.229,
+      "words": [
+        "Water",
+        "Park",
+        "Aquarium",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "aquarium tycoon",
+        "aquarium park",
+        "aquarium water park"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Draw Aquarium Story",
+      "score": 51.665,
+      "words": [
+        "Draw",
+        "Aquarium",
+        "Story"
+      ],
+      "supportedBy": [
+        "aquarium story",
+        "aquarium draw",
+        "aquarium story 1"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Aquarium Tower",
+      "score": 49.966,
+      "words": [
+        "Aquarium",
+        "Tower"
+      ],
+      "supportedBy": [
+        "aquarium tower",
+        "akuarium tower"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Ikan Aquarium Tycoon",
+      "score": 42.317,
+      "words": [
+        "Ikan",
+        "Aquarium",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "aquarium tycoon",
+        "akuarium ikan",
+        "aquarium ikan"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Zoo Aquarium Story",
+      "score": 35.573,
+      "words": [
+        "Zoo",
+        "Aquarium",
+        "Story"
+      ],
+      "supportedBy": [
+        "aquarium story",
+        "aquarium zoo",
+        "aquarium story 1"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Horror Aquarium Tycoon",
+      "score": 33.438,
+      "words": [
+        "Horror",
+        "Aquarium",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "aquarium tycoon",
+        "aquarium horror",
+        "aquarium tycoon 2"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Aquarium Date Obby",
+      "score": 32.987,
+      "words": [
+        "Aquarium",
+        "Date",
+        "Obby"
+      ],
+      "supportedBy": [
+        "aquarium date",
+        "aquarium obby",
+        "akuarium date"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Aquarium Fish",
+      "score": 30.014,
+      "words": [
+        "Aquarium",
+        "Fish"
+      ],
+      "supportedBy": [
+        "aquarium fish",
+        "aquarium fish game"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Observatory Aquarium Story",
+      "score": 28.399,
+      "words": [
+        "Observatory",
+        "Aquarium",
+        "Story"
+      ],
+      "supportedBy": [
+        "aquarium story",
+        "aquarium observatory",
+        "aquatica observatory"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Aquarium Draw",
+      "score": 28.188,
+      "words": [
+        "Aquarium",
+        "Draw"
+      ],
+      "supportedBy": [
+        "aquarium draw"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Aquarium Simulator",
+      "score": 27.629,
+      "words": [
+        "Aquarium",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "aquarium simulator"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Rather Teamwork Aquarium Tycoon",
+      "score": 26.432,
+      "words": [
+        "Rather",
+        "Teamwork",
+        "Aquarium",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "aquarium tycoon",
+        "aquarium tycoon 2",
+        "aquarium tycoon 2 player"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Outfit Tower Aquarium Obby",
+      "score": 24.571,
+      "words": [
+        "Outfit",
+        "Tower",
+        "Aquarium",
+        "Obby"
+      ],
+      "supportedBy": [
+        "aquarium tower",
+        "aquarium obby",
+        "akuarium tower"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Dont Splash Aquarium Story",
+      "score": 22.19,
+      "words": [
+        "Dont",
+        "Splash",
+        "Aquarium",
+        "Story"
+      ],
+      "supportedBy": [
+        "aquarium story",
+        "aquarium story 1",
+        "aquarium story 2"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Brainrot Aquarium Tycoon",
+      "score": 21.106,
+      "words": [
+        "Brainrot",
+        "Aquarium",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "aquarium tycoon",
+        "aquarium tycoon 2",
+        "aquarium tycoon 2 player"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Aquarium Ikan",
+      "score": 19.569,
+      "words": [
+        "Aquarium",
+        "Ikan"
+      ],
+      "supportedBy": [
+        "akuarium ikan",
+        "aquarium ikan"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Sim Underwater Aquarium Obby",
+      "score": 19.36,
+      "words": [
+        "Sim",
+        "Underwater",
+        "Aquarium",
+        "Obby"
+      ],
+      "supportedBy": [
+        "aquarium obby",
+        "aquarium sim"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Aquarium Park",
+      "score": 19.242,
+      "words": [
+        "Aquarium",
+        "Park"
+      ],
+      "supportedBy": [
+        "aquarium park",
+        "aquarium water park",
+        "aqualand water park"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Aquarium Tower RP",
+      "score": 19.073,
+      "words": [
+        "Aquarium",
+        "Tower",
+        "RP"
+      ],
+      "supportedBy": [
+        "aquarium tower",
+        "akuarium tower",
+        "aquarium rp"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "aquarium",
+      "score": 297.526
+    },
+    {
+      "text": "tycoon",
+      "score": 48.095
+    },
+    {
+      "text": "aquarium tycoon",
+      "score": 47.071
+    },
+    {
+      "text": "aquarium story",
+      "score": 25.276
+    },
+    {
+      "text": "tower",
+      "score": 24.937
+    },
+    {
+      "text": "story",
+      "score": 24.311
+    },
+    {
+      "text": "obby",
+      "score": 17.798
+    },
+    {
+      "text": "date",
+      "score": 16.632
+    },
+    {
+      "text": "fish",
+      "score": 16.534
+    },
+    {
+      "text": "aquarium date",
+      "score": 16.427
+    },
+    {
+      "text": "draw",
+      "score": 15.017
+    },
+    {
+      "text": "aquarium tower",
+      "score": 15.008
+    },
+    {
+      "text": "aquarium obby",
+      "score": 12.409
+    },
+    {
+      "text": "park",
+      "score": 9.546
+    },
+    {
+      "text": "aquarium fish",
+      "score": 8.747
+    },
+    {
+      "text": "aquarium draw",
+      "score": 8.087
+    },
+    {
+      "text": "tycoon 2",
+      "score": 7.835
+    },
+    {
+      "text": "ikan",
+      "score": 7.636
+    },
+    {
+      "text": "aquarium simulator",
+      "score": 6.907
+    },
+    {
+      "text": "simulator",
+      "score": 6.907
+    },
+    {
+      "text": "aquarium ikan",
+      "score": 6.73
+    },
+    {
+      "text": "zoo",
+      "score": 6.479
+    },
+    {
+      "text": "aquarium horror",
+      "score": 6.365
+    },
+    {
+      "text": "horror",
+      "score": 6.365
+    },
+    {
+      "text": "observatory",
+      "score": 6.363
+    },
+    {
+      "text": "aquarium 2",
+      "score": 5.901
+    },
+    {
+      "text": "aquarium zoo",
+      "score": 5.84
+    },
+    {
+      "text": "aquarium park",
+      "score": 5.802
+    },
+    {
+      "text": "player",
+      "score": 5.776
+    },
+    {
+      "text": "water park",
+      "score": 5.615
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "aquarium tycoon",
+      "score": 72.962,
+      "appearances": 105,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "aquarium story",
+      "score": 44.294,
+      "appearances": 78,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "aquarium date",
+      "score": 32.854,
+      "appearances": 68,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "aquarium games",
+      "score": 30.618,
+      "appearances": 56,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "aquarium tower",
+      "score": 30.017,
+      "appearances": 59,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "aquarium",
+      "score": 28.42,
+      "appearances": 45,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "aquarium obby",
+      "score": 24.818,
+      "appearances": 53,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "aquarium game",
+      "score": 22.435,
+      "appearances": 52,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "aquarium fish",
+      "score": 16.611,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "aquarium draw",
+      "score": 16.174,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "aquarium simulator",
+      "score": 13.815,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "aquarium ikan",
+      "score": 13.461,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "aquarium horror",
+      "score": 12.73,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "aquarium 2 player",
+      "score": 11.802,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "aquarium zoo",
+      "score": 11.68,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "aquarium park",
+      "score": 11.605,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "aquarium water park",
+      "score": 11.111,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "aquarium observatory",
+      "score": 10.207,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "aquarium tycoon 2",
+      "score": 8.764,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "aquarium tycoon 2 player",
+      "score": 6.905,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "aquarium brainrot",
+      "score": 6.487,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "aquarium rp",
+      "score": 6.414,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "aquarium land",
+      "score": 5.557,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "aquarium aquarium",
+      "score": 5.038,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "aquarium tycoons",
+      "score": 4.338,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "aquarium social club",
+      "score": 3.517,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "aquarium story 1",
+      "score": 2.99,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "aquarium story 2",
+      "score": 2.804,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "aquarium day",
+      "score": 2.789,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "aquarium escape",
+      "score": 2.572,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "aquarium builder tycoon",
+      "score": 2.479,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "aquarium anomali brainrot",
+      "score": 2.42,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "aquarium typhoon",
+      "score": 2.382,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "aquarium mukbang",
+      "score": 2.107,
+      "appearances": 4,
+      "bestRank": 2
+    },
+    {
+      "rank": 35,
+      "text": "aquarium fishing",
+      "score": 1.921,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "aquarium midnight",
+      "score": 1.859,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "aquarium besar",
+      "score": 1.782,
+      "appearances": 5,
+      "bestRank": 2
+    },
+    {
+      "rank": 38,
+      "text": "aquarium bauen",
+      "score": 1.522,
+      "appearances": 4,
+      "bestRank": 5
+    },
+    {
+      "rank": 39,
+      "text": "aquarium life",
+      "score": 1.472,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "aquarium rng",
+      "score": 1.472,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "aquarium untuk brainrot",
+      "score": 1.472,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 42,
+      "text": "aquariums",
+      "score": 1.394,
+      "appearances": 3,
+      "bestRank": 2
+    },
+    {
+      "rank": 43,
+      "text": "aquarium experience",
+      "score": 1.084,
+      "appearances": 2,
+      "bestRank": 2
+    },
+    {
+      "rank": 44,
+      "text": "aquarium sim",
+      "score": 1.007,
+      "appearances": 2,
+      "bestRank": 4
+    },
+    {
+      "rank": 45,
+      "text": "aquarium terbesar",
+      "score": 1.007,
+      "appearances": 2,
+      "bestRank": 4
+    },
+    {
+      "rank": 46,
+      "text": "aquarium fish game",
+      "score": 0.883,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "aquarium museum",
+      "score": 0.868,
+      "appearances": 2,
+      "bestRank": 4
+    },
+    {
+      "rank": 48,
+      "text": "aquarium build",
+      "score": 0.852,
+      "appearances": 2,
+      "bestRank": 4
+    },
+    {
+      "rank": 49,
+      "text": "aquarium bay",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "aquarium night shift",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "DONT SPLASH",
+      "rawName": "DONT SPLASH",
+      "playerCount": 32131,
+      "url": "https://www.roblox.com/games/119958473240233/DONT-SPLASH",
+      "foundBy": "aquarium story"
+    },
+    {
+      "name": "Net a Fish!",
+      "rawName": "[🐟] Net a Fish!",
+      "playerCount": 28547,
+      "url": "https://www.roblox.com/games/93898234979111/Net-a-Fish",
+      "foundBy": "aquarium fish"
+    },
+    {
+      "name": "Wax ASMR Tower",
+      "rawName": "[🌈🚂UPDATE] Wax ASMR Tower",
+      "playerCount": 10264,
+      "url": "https://www.roblox.com/games/107894105055312/Wax-ASMR-Tower",
+      "foundBy": "aquarium tower"
+    },
+    {
+      "name": "Paint to Get Rich",
+      "rawName": "Paint to Get Rich 🎨",
+      "playerCount": 5938,
+      "url": "https://www.roblox.com/games/104320321984431/Paint-to-Get-Rich",
+      "foundBy": "aquarium draw"
+    },
+    {
+      "name": "Would You Rather: Teamwork Outfit Tower!",
+      "rawName": "Would You Rather: Teamwork Outfit Tower!",
+      "playerCount": 2752,
+      "url": "https://www.roblox.com/games/72763503064951/Would-You-Rather-Teamwork-Outfit-Tower",
+      "foundBy": "aquarium tower"
+    },
+    {
+      "name": "Survive Your Drawing",
+      "rawName": "[UPD] Survive Your Drawing",
+      "playerCount": 2626,
+      "url": "https://www.roblox.com/games/120793632387415/Survive-Your-Drawing",
+      "foundBy": "aquarium draw"
+    },
+    {
+      "name": "Draw an aquarium",
+      "rawName": "Draw an aquarium",
+      "playerCount": 2374,
+      "url": "https://www.roblox.com/games/72419869791939/Draw-an-aquarium",
+      "foundBy": "aquarium"
+    },
+    {
+      "name": "GREAT SCHOOL BREAKOUT!",
+      "rawName": "GREAT SCHOOL BREAKOUT! (First Person Obby)",
+      "playerCount": 1978,
+      "url": "https://www.roblox.com/games/9099326192/GREAT-SCHOOL-BREAKOUT",
+      "foundBy": "aquarium obby"
+    },
+    {
+      "name": "Fish Eat Fish",
+      "rawName": "[🦃] Fish Eat Fish",
+      "playerCount": 931,
+      "url": "https://www.roblox.com/games/86237374088598/Fish-Eat-Fish",
+      "foundBy": "aquarium fish"
+    },
+    {
+      "name": "Daycare 2",
+      "rawName": "Daycare 2 🎈 (Story)",
+      "playerCount": 738,
+      "url": "https://www.roblox.com/games/4796443083/Daycare-2",
+      "foundBy": "aquarium story"
+    },
+    {
+      "name": "Underwater Mansion Tycoon",
+      "rawName": "[V3] Underwater Mansion Tycoon",
+      "playerCount": 729,
+      "url": "https://www.roblox.com/games/79130275035599/Underwater-Mansion-Tycoon",
+      "foundBy": "aquarium tycoon"
+    },
+    {
+      "name": "WaterWorld WaterPark",
+      "rawName": "[🌊] WaterWorld WaterPark",
+      "playerCount": 713,
+      "url": "https://www.roblox.com/games/106153947616190/WaterWorld-WaterPark",
+      "foundBy": "aquarium date"
+    },
+    {
+      "name": "Easy Size Obby",
+      "rawName": "Easy Size Obby",
+      "playerCount": 672,
+      "url": "https://www.roblox.com/games/14337656835/Easy-Size-Obby",
+      "foundBy": "aquarium obby"
+    },
+    {
+      "name": "Secure the Waterpark",
+      "rawName": "Secure the Waterpark",
+      "playerCount": 566,
+      "url": "https://www.roblox.com/games/121338943285005/Secure-the-Waterpark",
+      "foundBy": "aquarium obby"
+    },
+    {
+      "name": "Ultimate Easy Obby",
+      "rawName": "🌟Ultimate Easy Obby",
+      "playerCount": 552,
+      "url": "https://www.roblox.com/games/10760024537/Ultimate-Easy-Obby",
+      "foundBy": "aquarium obby"
+    },
+    {
+      "name": "Draw a Roller Coaster",
+      "rawName": "Draw a Roller Coaster",
+      "playerCount": 493,
+      "url": "https://www.roblox.com/games/110150372368251/Draw-a-Roller-Coaster",
+      "foundBy": "aquarium draw"
+    },
+    {
+      "name": "Animal Sim: Underwater",
+      "rawName": "Animal Sim: Underwater",
+      "playerCount": 442,
+      "url": "https://www.roblox.com/games/13110267312/Animal-Sim-Underwater",
+      "foundBy": "aquarium"
+    },
+    {
+      "name": "Teamwork Obby",
+      "rawName": "Teamwork Obby",
+      "playerCount": 366,
+      "url": "https://www.roblox.com/games/15864327873/Teamwork-Obby",
+      "foundBy": "aquarium obby"
+    },
+    {
+      "name": "Draw It Better!",
+      "rawName": "Draw It Better! 🎨",
+      "playerCount": 226,
+      "url": "https://www.roblox.com/games/119168493101362/Draw-It-Better",
+      "foundBy": "aquarium draw"
+    },
+    {
+      "name": "Clean The Aquarium!",
+      "rawName": "Clean The Aquarium!",
+      "playerCount": 217,
+      "url": "https://www.roblox.com/games/134273913418703/Clean-The-Aquarium",
+      "foundBy": "aquarium"
+    },
+    {
+      "name": "Climb Scary Shark Tower",
+      "rawName": "Climb Scary Shark Tower",
+      "playerCount": 194,
+      "url": "https://www.roblox.com/games/103455852472483/Climb-Scary-Shark-Tower",
+      "foundBy": "aquarium tower"
+    },
+    {
+      "name": "Hamood Habibi Tower",
+      "rawName": "Hamood Habibi Tower 🎵",
+      "playerCount": 183,
+      "url": "https://www.roblox.com/games/104034421066865/Hamood-Habibi-Tower",
+      "foundBy": "aquarium tower"
+    },
+    {
+      "name": "Draw An ASMR!",
+      "rawName": "Draw An ASMR! 🧊",
+      "playerCount": 171,
+      "url": "https://www.roblox.com/games/70746163934440/Draw-An-ASMR",
+      "foundBy": "aquarium draw"
+    },
+    {
+      "name": "Grow an Aquarium",
+      "rawName": "Grow an Aquarium 🐠",
+      "playerCount": 156,
+      "url": "https://www.roblox.com/games/116102435125354/Grow-an-Aquarium",
+      "foundBy": "aquarium"
+    },
+    {
+      "name": "Save The Princess Tower",
+      "rawName": "Save The Princess Tower 👸",
+      "playerCount": 148,
+      "url": "https://www.roblox.com/games/119298690986384/Save-The-Princess-Tower",
+      "foundBy": "aquarium tower"
+    },
+    {
+      "name": "Escape The Butcher Shop Obby!",
+      "rawName": "🥩 Escape The Butcher Shop Obby! (NEW READ DESC)",
+      "playerCount": 145,
+      "url": "https://www.roblox.com/games/1946695497/Escape-The-Butcher-Shop-Obby",
+      "foundBy": "aquarium obby"
+    },
+    {
+      "name": "Fish Tank Tycoon",
+      "rawName": "Fish Tank Tycoon",
+      "playerCount": 127,
+      "url": "https://www.roblox.com/games/80086813981390/Fish-Tank-Tycoon",
+      "foundBy": "aquarium"
+    },
+    {
+      "name": "Steal Fish Eggs",
+      "rawName": "Steal Fish Eggs",
+      "playerCount": 117,
+      "url": "https://www.roblox.com/games/99183404085821/Steal-Fish-Eggs",
+      "foundBy": "akuarium ikan"
+    },
+    {
+      "name": "Aquatica Observatory",
+      "rawName": "Aquatica Observatory ",
+      "playerCount": 80,
+      "url": "https://www.roblox.com/games/78959878729166/Aquatica-Observatory",
+      "foundBy": "aquarium"
+    },
+    {
+      "name": "Ubas Tower",
+      "rawName": "🍇 Ubas Tower",
+      "playerCount": 76,
+      "url": "https://www.roblox.com/games/123987787602859/Ubas-Tower",
+      "foundBy": "aquarium tower"
+    }
+  ]
+}

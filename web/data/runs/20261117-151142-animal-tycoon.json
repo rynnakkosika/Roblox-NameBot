@@ -1,0 +1,722 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261117-151142-animal-tycoon",
+    "genre": "animal tycoon",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-17T15:11:42Z",
+    "finishedAt": "2026-11-17T15:22:48Z",
+    "issue": null,
+    "genreWords": [
+      "animal",
+      "tycoon"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Animal Tycoon",
+      "score": 32.775,
+      "words": [
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "animal tycoons",
+        "animal tycoon 2 players",
+        "animal tycoon"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Savannah Life Animal Tycoon",
+      "score": 27.12,
+      "words": [
+        "Savannah",
+        "Life",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 3,
+      "name": "Fish Race Animal Tycoon",
+      "score": 26.014,
+      "words": [
+        "Fish",
+        "Race",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "animal simulator race"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Zoo Builder Animal Tycoon",
+      "score": 26.008,
+      "words": [
+        "Zoo",
+        "Builder",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "animal tycoon zoo"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Steal Egg Animal Tycoon",
+      "score": 25.596,
+      "words": [
+        "Steal",
+        "Egg",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 6,
+      "name": "Cat Ultimate Animal Tycoon",
+      "score": 24.674,
+      "words": [
+        "Cat",
+        "Ultimate",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 7,
+      "name": "Survive Kaiju Animal Tycoon",
+      "score": 24.347,
+      "words": [
+        "Survive",
+        "Kaiju",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 8,
+      "name": "Lion Pride Animal Tycoon",
+      "score": 23.968,
+      "words": [
+        "Lion",
+        "Pride",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 9,
+      "name": "Wild Kingdom Animal Tycoon",
+      "score": 23.884,
+      "words": [
+        "Wild",
+        "Kingdom",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 10,
+      "name": "Capture Flag Animal Tycoon",
+      "score": 23.861,
+      "words": [
+        "Capture",
+        "Flag",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "animal simulator flag"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Creatures Sonaria Animal Tycoon",
+      "score": 23.808,
+      "words": [
+        "Creatures",
+        "Sonaria",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 12,
+      "name": "Pet Store Animal Tycoon",
+      "score": 23.244,
+      "words": [
+        "Pet",
+        "Store",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 13,
+      "name": "Sim Underwater Animal Tycoon",
+      "score": 23.068,
+      "words": [
+        "Sim",
+        "Underwater",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "animal simulator underwater"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Speed Evolve Animal Tycoon",
+      "score": 22.842,
+      "words": [
+        "Speed",
+        "Evolve",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "animal simulator speed"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Extinction Dinosaur Animal Tycoon",
+      "score": 22.823,
+      "words": [
+        "Extinction",
+        "Dinosaur",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 16,
+      "name": "Ecos Brea Animal Tycoon",
+      "score": 22.334,
+      "words": [
+        "Ecos",
+        "Brea",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 17,
+      "name": "Horse Life Animal Tycoon",
+      "score": 21.595,
+      "words": [
+        "Horse",
+        "Life",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 18,
+      "name": "Feral Animal Tycoon",
+      "score": 21.514,
+      "words": [
+        "Feral",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Shark Animal Tycoon",
+      "score": 20.903,
+      "words": [
+        "Shark",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 20,
+      "name": "Warrior Animal Tycoon",
+      "score": 20.782,
+      "words": [
+        "Warrior",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Prior Animal Tycoon",
+      "score": 20.675,
+      "words": [
+        "Prior",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Broodwing Animal Tycoon",
+      "score": 20.582,
+      "words": [
+        "Broodwing",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 23,
+      "name": "Zoo World Animal Tycoon",
+      "score": 20.505,
+      "words": [
+        "Zoo",
+        "World",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "animal tycoon zoo"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Topia Animal Tycoon",
+      "score": 20.476,
+      "words": [
+        "Topia",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Forest Animal Tycoon",
+      "score": 20.387,
+      "words": [
+        "Forest",
+        "Animal",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "animal tycoon",
+      "score": 37.913
+    },
+    {
+      "text": "animal",
+      "score": 53.466
+    },
+    {
+      "text": "tycoon",
+      "score": 45.148
+    },
+    {
+      "text": "tycoon 2",
+      "score": 10.728
+    },
+    {
+      "text": "player",
+      "score": 9.473
+    },
+    {
+      "text": "simulator",
+      "score": 8.849
+    },
+    {
+      "text": "life",
+      "score": 5.998
+    },
+    {
+      "text": "zoo",
+      "score": 5.122
+    },
+    {
+      "text": "animal simulator",
+      "score": 4.405
+    },
+    {
+      "text": "survival",
+      "score": 4.393
+    },
+    {
+      "text": "race",
+      "score": 4.058
+    },
+    {
+      "text": "cat",
+      "score": 3.435
+    },
+    {
+      "text": "lion",
+      "score": 3.084
+    },
+    {
+      "text": "egg",
+      "score": 2.951
+    },
+    {
+      "text": "steal",
+      "score": 2.951
+    },
+    {
+      "text": "fish",
+      "score": 2.748
+    },
+    {
+      "text": "flag",
+      "score": 2.356
+    },
+    {
+      "text": "wild",
+      "score": 2.287
+    },
+    {
+      "text": "creatures",
+      "score": 2.156
+    },
+    {
+      "text": "kaiju",
+      "score": 2.156
+    },
+    {
+      "text": "sonaria",
+      "score": 2.156
+    },
+    {
+      "text": "survive",
+      "score": 2.156
+    },
+    {
+      "text": "pet",
+      "score": 2.1
+    },
+    {
+      "text": "sim",
+      "score": 2.074
+    },
+    {
+      "text": "feral",
+      "score": 2.046
+    },
+    {
+      "text": "capture",
+      "score": 2.039
+    },
+    {
+      "text": "shark",
+      "score": 1.946
+    },
+    {
+      "text": "speed",
+      "score": 1.925
+    },
+    {
+      "text": "kingdom",
+      "score": 1.89
+    },
+    {
+      "text": "ultimate",
+      "score": 1.825
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "animal tycoons",
+      "score": 27.352,
+      "appearances": 39,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "animal tycoon 2 players",
+      "score": 18.795,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "animal tycoon",
+      "score": 13.819,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "animal tycoon games",
+      "score": 9.585,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "animal tycoon zoo",
+      "score": 2.866,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "animal tycoon simulator",
+      "score": 1.472,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "animal tycoon 2 player",
+      "score": 1.317,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "animal tycoon 2",
+      "score": 0.62,
+      "appearances": 1,
+      "bestRank": 3
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 798227,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "animal tycoon"
+    },
+    {
+      "name": "Creatures of Sonaria Survive Kaiju Animals",
+      "rawName": "🦖 Creatures of Sonaria ✨ Survive Kaiju Animals",
+      "playerCount": 20519,
+      "url": "https://www.roblox.com/games/5233782396/Creatures-of-Sonaria-Survive-Kaiju-Animals",
+      "foundBy": "animal simulator underwater"
+    },
+    {
+      "name": "FERAL Animal Survival",
+      "rawName": "[COBRA🐍] FERAL 🐺 Animal Survival",
+      "playerCount": 12376,
+      "url": "https://www.roblox.com/games/108901361810209/FERAL-Animal-Survival",
+      "foundBy": "animal simulator underwater"
+    },
+    {
+      "name": "Animal Simulator",
+      "rawName": "Animal Simulator [🐉 DRAGONS + PETS!]",
+      "playerCount": 6075,
+      "url": "https://www.roblox.com/games/5712833750/Animal-Simulator",
+      "foundBy": "animal tycoon"
+    },
+    {
+      "name": "Warrior Cats: Ultimate Edition",
+      "rawName": "Warrior Cats: Ultimate Edition",
+      "playerCount": 4474,
+      "url": "https://www.roblox.com/games/3663340706/Warrior-Cats-Ultimate-Edition",
+      "foundBy": "animal simulators"
+    },
+    {
+      "name": "Pet Store Tycoon",
+      "rawName": "Pet Store Tycoon",
+      "playerCount": 3167,
+      "url": "https://www.roblox.com/games/118845698633260/Pet-Store-Tycoon",
+      "foundBy": "animal tycoon"
+    },
+    {
+      "name": "Savannah Life",
+      "rawName": "Savannah Life",
+      "playerCount": 2915,
+      "url": "https://www.roblox.com/games/18214855317/Savannah-Life",
+      "foundBy": "animal simulator flag"
+    },
+    {
+      "name": "Prior Extinction - Dinosaur Survival!",
+      "rawName": "[HALLOWEEN👻]Prior Extinction - Dinosaur Survival!",
+      "playerCount": 2734,
+      "url": "https://www.roblox.com/games/6698800091/Prior-Extinction-Dinosaur-Survival",
+      "foundBy": "animal simulator games"
+    },
+    {
+      "name": "Horse Life",
+      "rawName": "[👽🐴] Horse Life",
+      "playerCount": 1827,
+      "url": "https://www.roblox.com/games/15696848933/Horse-Life",
+      "foundBy": "animal simulators"
+    },
+    {
+      "name": "Broodwing",
+      "rawName": "[Performance] Broodwing",
+      "playerCount": 1780,
+      "url": "https://www.roblox.com/games/116189555550783/Broodwing",
+      "foundBy": "animal simulator underwater"
+    },
+    {
+      "name": "Cat Simulator",
+      "rawName": "Cat Simulator",
+      "playerCount": 1659,
+      "url": "https://www.roblox.com/games/114472596554765/Cat-Simulator",
+      "foundBy": "animal simulator"
+    },
+    {
+      "name": "1 Speed Evolve",
+      "rawName": "+1 Speed Evolve 🦊",
+      "playerCount": 1372,
+      "url": "https://www.roblox.com/games/83569851223739/1-Speed-Evolve",
+      "foundBy": "animal simulator race"
+    },
+    {
+      "name": "Zoo Builder Tycoon",
+      "rawName": "[🐊 New Animals!!!] Zoo Builder Tycoon ",
+      "playerCount": 1219,
+      "url": "https://www.roblox.com/games/76814078654313/Zoo-Builder-Tycoon",
+      "foundBy": "animal tycoon"
+    },
+    {
+      "name": "A Lion's Pride Beta - Lion RP",
+      "rawName": "A Lion's Pride Beta - Lion RP 🦁",
+      "playerCount": 1213,
+      "url": "https://www.roblox.com/games/9922455303/A-Lions-Pride-Beta-Lion-RP",
+      "foundBy": "animal simulator rp"
+    },
+    {
+      "name": "Animal Topia RP",
+      "rawName": "Animal Topia 🏠 RP",
+      "playerCount": 1092,
+      "url": "https://www.roblox.com/games/127152805777886/Animal-Topia-RP",
+      "foundBy": "animal simulator underwater"
+    },
+    {
+      "name": "Ecos: La Brea",
+      "rawName": "Ecos: La Brea",
+      "playerCount": 1004,
+      "url": "https://www.roblox.com/games/12550651382/Ecos-La-Brea",
+      "foundBy": "animal simulators"
+    },
+    {
+      "name": "Animal Life: Forest RP",
+      "rawName": "🍁Animal Life: Forest RP 🐺🦌🐰🐴",
+      "playerCount": 726,
+      "url": "https://www.roblox.com/games/9176945447/Animal-Life-Forest-RP",
+      "foundBy": "animal simulator rp"
+    },
+    {
+      "name": "Zoo Tycoon",
+      "rawName": "Zoo Tycoon 🥚🐲",
+      "playerCount": 700,
+      "url": "https://www.roblox.com/games/1128650291/Zoo-Tycoon",
+      "foundBy": "animal tycoon"
+    },
+    {
+      "name": "Animals Capture The Flag",
+      "rawName": "Animals Capture The Flag",
+      "playerCount": 426,
+      "url": "https://www.roblox.com/games/13694675435/Animals-Capture-The-Flag",
+      "foundBy": "animal simulator underwater"
+    },
+    {
+      "name": "Animal Sim: Underwater",
+      "rawName": "Animal Sim: Underwater",
+      "playerCount": 389,
+      "url": "https://www.roblox.com/games/13110267312/Animal-Sim-Underwater",
+      "foundBy": "animal simulator underwater"
+    },
+    {
+      "name": "Anime Power Tycoon",
+      "rawName": "Anime Power Tycoon",
+      "playerCount": 271,
+      "url": "https://www.roblox.com/games/9157400082/Anime-Power-Tycoon",
+      "foundBy": "animal tycoon"
+    },
+    {
+      "name": "Jungle Life",
+      "rawName": "Jungle Life",
+      "playerCount": 255,
+      "url": "https://www.roblox.com/games/85094158141349/Jungle-Life",
+      "foundBy": "animal simulator flag"
+    },
+    {
+      "name": "The Whispering Wild",
+      "rawName": "The Whispering Wild [BETA]",
+      "playerCount": 224,
+      "url": "https://www.roblox.com/games/1625049462/The-Whispering-Wild",
+      "foundBy": "animal simulator flag"
+    },
+    {
+      "name": "Eternal Enemies",
+      "rawName": "[Classic + SALE 🦃] Eternal Enemies",
+      "playerCount": 179,
+      "url": "https://www.roblox.com/games/122266086263997/Eternal-Enemies",
+      "foundBy": "animal simulator flag"
+    },
+    {
+      "name": "Wild Kingdom Animal RP",
+      "rawName": "Wild Kingdom 🦁 Animal RP",
+      "playerCount": 166,
+      "url": "https://www.roblox.com/games/90205082761463/Wild-Kingdom-Animal-RP",
+      "foundBy": "animal simulator rp"
+    },
+    {
+      "name": "Be a Shark",
+      "rawName": "Be a Shark🦈",
+      "playerCount": 165,
+      "url": "https://www.roblox.com/games/15334675936/Be-a-Shark",
+      "foundBy": "animal simulator under water 2"
+    },
+    {
+      "name": "Race Camels",
+      "rawName": "Race Camels",
+      "playerCount": 149,
+      "url": "https://www.roblox.com/games/135916357566701/Race-Camels",
+      "foundBy": "animal simulator race"
+    },
+    {
+      "name": "Yellowstone Unleashed",
+      "rawName": "Yellowstone Unleashed",
+      "playerCount": 148,
+      "url": "https://www.roblox.com/games/12054551325/Yellowstone-Unleashed",
+      "foundBy": "animal simulator games"
+    },
+    {
+      "name": "Super Animal Race Simulator",
+      "rawName": "Super Animal Race Simulator",
+      "playerCount": 102,
+      "url": "https://www.roblox.com/games/81489077213111/Super-Animal-Race-Simulator",
+      "foundBy": "animal simulator race"
+    },
+    {
+      "name": "Zoo World Tycoon",
+      "rawName": "[BABIES!] Zoo World Tycoon 🐘",
+      "playerCount": 83,
+      "url": "https://www.roblox.com/games/10904785329/Zoo-World-Tycoon",
+      "foundBy": "animal tycoon"
+    }
+  ]
+}

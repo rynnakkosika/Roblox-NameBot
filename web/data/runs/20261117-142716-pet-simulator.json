@@ -1,0 +1,1030 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261117-142716-pet-simulator",
+    "genre": "pet simulator",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-17T14:27:16Z",
+    "finishedAt": "2026-11-17T14:38:23Z",
+    "issue": null,
+    "genreWords": [
+      "pet",
+      "simulator"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Modded Admin Pet Simulator",
+      "score": 909.633,
+      "words": [
+        "Modded",
+        "Admin",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99 modded",
+        "pet simulator x modded",
+        "pet simulator x modded admin"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Modded Reborn Pet Simulator",
+      "score": 715.78,
+      "words": [
+        "Modded",
+        "Reborn",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99 modded",
+        "pet simulator x modded",
+        "pet simulator x reborn"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Easy Titanic Pet Simulator",
+      "score": 663.608,
+      "words": [
+        "Easy",
+        "Titanic",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator x free titanic",
+        "pet simulator free titanic",
+        "pet simulator z free titanic"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Og Pet Simulator",
+      "score": 654.89,
+      "words": [
+        "Og",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator x og",
+        "pet simulator x modded og",
+        "pet simulator x og modded"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Trading Plaza Pet Simulator",
+      "score": 642.704,
+      "words": [
+        "Trading",
+        "Plaza",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator x trading plaza",
+        "pet simulator 99 trading plaza",
+        "pet simulator trading"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Go Pet Simulator",
+      "score": 642.299,
+      "words": [
+        "Go",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator go"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "RNG Pet Simulator",
+      "score": 640.133,
+      "words": [
+        "RNG",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99 rng",
+        "pet simulator rng",
+        "pet simulator 99 modded rng"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Rich Pet Simulator",
+      "score": 639.247,
+      "words": [
+        "Rich",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator x but your rich"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Mod Pet Simulator",
+      "score": 638.586,
+      "words": [
+        "Mod",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99 mod",
+        "pet simulator x mod",
+        "pet simulator mod"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Speed Keyboard Pet Simulator",
+      "score": 637.714,
+      "words": [
+        "Speed",
+        "Keyboard",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 11,
+      "name": "Classic Pet Simulator",
+      "score": 637.498,
+      "words": [
+        "Classic",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator x classic",
+        "pet simulator classic",
+        "pet simulator 99 classic"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Steal Egg Pet Simulator",
+      "score": 637.202,
+      "words": [
+        "Steal",
+        "Egg",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator eggs",
+        "pet simulator egg",
+        "pet simulator steal"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Overhauled Pet Simulator",
+      "score": 635.356,
+      "words": [
+        "Overhauled",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator x overhauled",
+        "pet simulator overhauled"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Legacy Pet Simulator",
+      "score": 634.651,
+      "words": [
+        "Legacy",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator x legacy"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Candy Chocolate Pet Simulator",
+      "score": 634.391,
+      "words": [
+        "Candy",
+        "Chocolate",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 16,
+      "name": "Farm Evolution Pet Simulator",
+      "score": 634.126,
+      "words": [
+        "Farm",
+        "Evolution",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 17,
+      "name": "Biggest Family Pet Simulator",
+      "score": 634.009,
+      "words": [
+        "Biggest",
+        "Family",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 18,
+      "name": "Halloween Pet Simulator",
+      "score": 633.96,
+      "words": [
+        "Halloween",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator z halloween"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Xx Pet Simulator",
+      "score": 633.791,
+      "words": [
+        "Xx",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator xx"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Small Pet Simulator",
+      "score": 633.702,
+      "words": [
+        "Small",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator z small game",
+        "pet simulator z small",
+        "pet simulator z small games"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Dimensions Pet Simulator",
+      "score": 633.509,
+      "words": [
+        "Dimensions",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator dimensions"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Panel Pet Simulator",
+      "score": 633.466,
+      "words": [
+        "Panel",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99 admin panel",
+        "pet simulator x admin panel",
+        "pet simulator z admin panel"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Moded Pet Simulator",
+      "score": 633.19,
+      "words": [
+        "Moded",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99 moded",
+        "pet simulator x moded",
+        "pet simulator moded"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Moodet Pet Simulator",
+      "score": 633.058,
+      "words": [
+        "Moodet",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99 moodet"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Forest Pet Simulator",
+      "score": 632.089,
+      "words": [
+        "Forest",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "pet simulator",
+      "score": 1259.012
+    },
+    {
+      "text": "pet",
+      "score": 716.178
+    },
+    {
+      "text": "simulator",
+      "score": 714.082
+    },
+    {
+      "text": "simulator x",
+      "score": 509.82
+    },
+    {
+      "text": "simulator 99",
+      "score": 469.918
+    },
+    {
+      "text": "modded",
+      "score": 227.885
+    },
+    {
+      "text": "x modded",
+      "score": 177.483
+    },
+    {
+      "text": "simulator z",
+      "score": 53.985
+    },
+    {
+      "text": "x reborn",
+      "score": 51.889
+    },
+    {
+      "text": "modded admin",
+      "score": 48.157
+    },
+    {
+      "text": "x og",
+      "score": 46.913
+    },
+    {
+      "text": "reborn",
+      "score": 37.315
+    },
+    {
+      "text": "simulator modded",
+      "score": 31.221
+    },
+    {
+      "text": "titanic",
+      "score": 31.205
+    },
+    {
+      "text": "x titanic",
+      "score": 30.218
+    },
+    {
+      "text": "admin",
+      "score": 28.163
+    },
+    {
+      "text": "simulator 1",
+      "score": 22.487
+    },
+    {
+      "text": "x rich",
+      "score": 19.481
+    },
+    {
+      "text": "simulator go",
+      "score": 19.19
+    },
+    {
+      "text": "simulator 123",
+      "score": 18.9
+    },
+    {
+      "text": "simulator reborn",
+      "score": 17.281
+    },
+    {
+      "text": "simulator titanic",
+      "score": 15.763
+    },
+    {
+      "text": "x classic",
+      "score": 12.866
+    },
+    {
+      "text": "x overhauled",
+      "score": 11.482
+    },
+    {
+      "text": "x 99",
+      "score": 11.064
+    },
+    {
+      "text": "rng",
+      "score": 10.627
+    },
+    {
+      "text": "x legacy",
+      "score": 10.291
+    },
+    {
+      "text": "trading plaza",
+      "score": 9.927
+    },
+    {
+      "text": "admin panel",
+      "score": 9.88
+    },
+    {
+      "text": "rich",
+      "score": 9.741
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "pet simulator 99",
+      "score": 360.493,
+      "appearances": 479,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "pet simulator 99 modded",
+      "score": 350.601,
+      "appearances": 558,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "pet simulator x modded",
+      "score": 244.985,
+      "appearances": 510,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "pet simulator x",
+      "score": 131.476,
+      "appearances": 200,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "pet simulator x reborn",
+      "score": 103.778,
+      "appearances": 277,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "pet simulator x og",
+      "score": 91.594,
+      "appearances": 232,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "pet simulator x modded admin",
+      "score": 73.336,
+      "appearances": 222,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "pet simulator 99 modded free",
+      "score": 65.697,
+      "appearances": 191,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "pet simulator x free titanic",
+      "score": 59.816,
+      "appearances": 171,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "pet simulator modded",
+      "score": 52.558,
+      "appearances": 149,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "pet simulator x but your rich",
+      "score": 38.962,
+      "appearances": 97,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "pet simulator z",
+      "score": 38.644,
+      "appearances": 79,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "pet simulator go",
+      "score": 38.379,
+      "appearances": 88,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "pet simulator 123",
+      "score": 37.8,
+      "appearances": 91,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "pet simulator 1",
+      "score": 31.554,
+      "appearances": 88,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "pet simulator reborn",
+      "score": 31.199,
+      "appearances": 69,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "pet simulator free titanic",
+      "score": 29.745,
+      "appearances": 102,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "pet simulator x modded free",
+      "score": 29.221,
+      "appearances": 119,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "pet simulator x classic",
+      "score": 25.732,
+      "appearances": 51,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "pet simulator 99 modded admin",
+      "score": 22.978,
+      "appearances": 90,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "pet simulator x overhauled",
+      "score": 22.964,
+      "appearances": 65,
+      "bestRank": 2
+    },
+    {
+      "rank": 22,
+      "text": "pet simulator x legacy",
+      "score": 20.581,
+      "appearances": 81,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "pet simulator 99 mod",
+      "score": 17.887,
+      "appearances": 60,
+      "bestRank": 3
+    },
+    {
+      "rank": 24,
+      "text": "pet simulator z halloween",
+      "score": 17.816,
+      "appearances": 43,
+      "bestRank": 2
+    },
+    {
+      "rank": 25,
+      "text": "pet simulator x 99 modded",
+      "score": 17.735,
+      "appearances": 53,
+      "bestRank": 2
+    },
+    {
+      "rank": 26,
+      "text": "pet simulator 99 rng",
+      "score": 17.701,
+      "appearances": 69,
+      "bestRank": 3
+    },
+    {
+      "rank": 27,
+      "text": "pet simulator z modded",
+      "score": 17.351,
+      "appearances": 54,
+      "bestRank": 3
+    },
+    {
+      "rank": 28,
+      "text": "pet simulator z free titanic",
+      "score": 16.731,
+      "appearances": 44,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "pet simulator 2",
+      "score": 15.814,
+      "appearances": 74,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "pet simulator 999",
+      "score": 15.801,
+      "appearances": 43,
+      "bestRank": 2
+    },
+    {
+      "rank": 31,
+      "text": "pet simulator x mod",
+      "score": 15.53,
+      "appearances": 48,
+      "bestRank": 2
+    },
+    {
+      "rank": 32,
+      "text": "pet simulator 99x",
+      "score": 15.036,
+      "appearances": 48,
+      "bestRank": 3
+    },
+    {
+      "rank": 33,
+      "text": "pet simulator 99 moodet",
+      "score": 14.207,
+      "appearances": 56,
+      "bestRank": 2
+    },
+    {
+      "rank": 34,
+      "text": "pet simulator rng",
+      "score": 13.656,
+      "appearances": 35,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "pet simulator 1 modded",
+      "score": 13.42,
+      "appearances": 44,
+      "bestRank": 3
+    },
+    {
+      "rank": 36,
+      "text": "pet simulator xx",
+      "score": 12.854,
+      "appearances": 38,
+      "bestRank": 3
+    },
+    {
+      "rank": 37,
+      "text": "pet simulator 100",
+      "score": 12.239,
+      "appearances": 36,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "pet simulator dimensions",
+      "score": 12.01,
+      "appearances": 38,
+      "bestRank": 2
+    },
+    {
+      "rank": 39,
+      "text": "pet simulator 99 admin panel",
+      "score": 11.794,
+      "appearances": 35,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "pet simulator x trading plaza",
+      "score": 10.38,
+      "appearances": 40,
+      "bestRank": 4
+    },
+    {
+      "rank": 41,
+      "text": "pet simulator 99 x",
+      "score": 9.443,
+      "appearances": 40,
+      "bestRank": 4
+    },
+    {
+      "rank": 42,
+      "text": "pet simulator x enhanced",
+      "score": 9.343,
+      "appearances": 32,
+      "bestRank": 4
+    },
+    {
+      "rank": 43,
+      "text": "pet simulator 99 trading plaza",
+      "score": 9.294,
+      "appearances": 30,
+      "bestRank": 2
+    },
+    {
+      "rank": 44,
+      "text": "pet simulator 99 moded",
+      "score": 8.877,
+      "appearances": 31,
+      "bestRank": 2
+    },
+    {
+      "rank": 45,
+      "text": "pet simulator x revival",
+      "score": 8.851,
+      "appearances": 32,
+      "bestRank": 4
+    },
+    {
+      "rank": 46,
+      "text": "pet simulator 99 z",
+      "score": 8.598,
+      "appearances": 30,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "pet simulator z small game",
+      "score": 7.823,
+      "appearances": 12,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "pet simulator x admin panel",
+      "score": 7.424,
+      "appearances": 33,
+      "bestRank": 4
+    },
+    {
+      "rank": 49,
+      "text": "pet simulator x dimodifikasi",
+      "score": 7.281,
+      "appearances": 22,
+      "bestRank": 3
+    },
+    {
+      "rank": 50,
+      "text": "pet simulator free",
+      "score": 7.045,
+      "appearances": 30,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 862695,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "pet simulator"
+    },
+    {
+      "name": "99 Nights in the Forest",
+      "rawName": "99 Nights in the Forest 🔦",
+      "playerCount": 146315,
+      "url": "https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest",
+      "foundBy": "pet simulator 99"
+    },
+    {
+      "name": "Pet Simulator 99!",
+      "rawName": "🍁 [TYCOON] Pet Simulator 99! 🍀",
+      "playerCount": 46553,
+      "url": "https://www.roblox.com/games/8737899170/Pet-Simulator-99",
+      "foundBy": "pet simulator"
+    },
+    {
+      "name": "1 Speed Keyboard Escape Candy & Chocolate",
+      "rawName": "[S8] +1 Speed Keyboard Escape | Candy & Chocolate",
+      "playerCount": 21983,
+      "url": "https://www.roblox.com/games/95082159892680/1-Speed-Keyboard-Escape-Candy-Chocolate",
+      "foundBy": "pet simulator 99"
+    },
+    {
+      "name": "Farm Evolution",
+      "rawName": "[2x WEEKEND] Farm Evolution",
+      "playerCount": 12775,
+      "url": "https://www.roblox.com/games/73958363924703/Farm-Evolution",
+      "foundBy": "pet simulator x modded"
+    },
+    {
+      "name": "Summon a Pet Army",
+      "rawName": "[✨ NEW ZONES] Summon a Pet Army 🐲",
+      "playerCount": 11165,
+      "url": "https://www.roblox.com/games/89695026030574/Summon-a-Pet-Army",
+      "foundBy": "pet simulator x reborn"
+    },
+    {
+      "name": "Raise The Biggest Family",
+      "rawName": "[🐶PETS] Raise The Biggest Family",
+      "playerCount": 10062,
+      "url": "https://www.roblox.com/games/89537559330901/Raise-The-Biggest-Family",
+      "foundBy": "pet simulator"
+    },
+    {
+      "name": "Animal Simulator",
+      "rawName": "Animal Simulator [🐉 DRAGONS + PETS!]",
+      "playerCount": 6268,
+      "url": "https://www.roblox.com/games/5712833750/Animal-Simulator",
+      "foundBy": "pet simulator"
+    },
+    {
+      "name": "Pets Universe!",
+      "rawName": "[🐝 UPD] Pets Universe! 🐾",
+      "playerCount": 2625,
+      "url": "https://www.roblox.com/games/74629631798007/Pets-Universe",
+      "foundBy": "pet simulator x reborn"
+    },
+    {
+      "name": "Cat Simulator",
+      "rawName": "Cat Simulator",
+      "playerCount": 1535,
+      "url": "https://www.roblox.com/games/114472596554765/Cat-Simulator",
+      "foundBy": "pet simulator"
+    },
+    {
+      "name": "Pet Simulator X!",
+      "rawName": "Pet Simulator X! 🐾",
+      "playerCount": 768,
+      "url": "https://www.roblox.com/games/6284583030/Pet-Simulator-X",
+      "foundBy": "pet simulator"
+    },
+    {
+      "name": "Jump Clicker",
+      "rawName": "Jump Clicker 🚀",
+      "playerCount": 677,
+      "url": "https://www.roblox.com/games/140317247681516/Jump-Clicker",
+      "foundBy": "pet simulator x"
+    },
+    {
+      "name": "1 Keyboard Tower Escape",
+      "rawName": "[🏆X99👟X111] +1 Keyboard Tower Escape",
+      "playerCount": 451,
+      "url": "https://www.roblox.com/games/110254673767537/1-Keyboard-Tower-Escape",
+      "foundBy": "pet simulator 99 modded"
+    },
+    {
+      "name": "Ride Level 1-100 Pets",
+      "rawName": "Ride Level 1-100 Pets",
+      "playerCount": 361,
+      "url": "https://www.roblox.com/games/80107288672694/Ride-Level-1-100-Pets",
+      "foundBy": "pet simulator 99"
+    },
+    {
+      "name": "Pet Story",
+      "rawName": "Pet Story 🐶",
+      "playerCount": 299,
+      "url": "https://www.roblox.com/games/7071444234/Pet-Story",
+      "foundBy": "pet simulator"
+    },
+    {
+      "name": "Break a PRIME!",
+      "rawName": "[🎁✨ TOYS] Break a PRIME!",
+      "playerCount": 202,
+      "url": "https://www.roblox.com/games/121785751603700/Break-a-PRIME",
+      "foundBy": "pet simulator 99 modded"
+    },
+    {
+      "name": "0 1 HATCHER! X999 MODZ",
+      "rawName": "💎 0.1% HATCHER! X999 MODZ",
+      "playerCount": 191,
+      "url": "https://www.roblox.com/games/117235803189719/0-1-HATCHER-X999-MODZ",
+      "foundBy": "pet simulator x modded admin"
+    },
+    {
+      "name": "Pets RNG!",
+      "rawName": "Pets RNG! ✨",
+      "playerCount": 165,
+      "url": "https://www.roblox.com/games/18901165922/Pets-RNG",
+      "foundBy": "pet simulator"
+    },
+    {
+      "name": "MYSTERY:OG!",
+      "rawName": "[🎃HALLOWEEN + 2X CANDY!🍬] MYSTERY:OG! 🐾",
+      "playerCount": 105,
+      "url": "https://www.roblox.com/games/72561942097633/MYSTERY-OG",
+      "foundBy": "pet simulator 99 modded"
+    },
+    {
+      "name": "1 Speed Slime ASMR Keyboard Escape",
+      "rawName": "[🏆X99] +1 Speed Slime ASMR Keyboard Escape",
+      "playerCount": 98,
+      "url": "https://www.roblox.com/games/96489291068319/1-Speed-Slime-ASMR-Keyboard-Escape",
+      "foundBy": "pet simulator x modded admin"
+    },
+    {
+      "name": "Break a REIMAGINED!",
+      "rawName": "Break a REIMAGINED!",
+      "playerCount": 88,
+      "url": "https://www.roblox.com/games/81182533444288/Break-a-REIMAGINED",
+      "foundBy": "pet simulator"
+    },
+    {
+      "name": "Pet Simulator!",
+      "rawName": "Pet Simulator!",
+      "playerCount": 38,
+      "url": "https://www.roblox.com/games/1599679393/Pet-Simulator",
+      "foundBy": "pet simulator"
+    },
+    {
+      "name": "Pet:Little",
+      "rawName": "[🗺️ TREASURE HUNT] Pet:Little",
+      "playerCount": 38,
+      "url": "https://www.roblox.com/games/89552469175527/Pet-Little",
+      "foundBy": "pet simulator x"
+    },
+    {
+      "name": "Pet: Odyssey",
+      "rawName": "Pet: Odyssey",
+      "playerCount": 13,
+      "url": "https://www.roblox.com/games/87739583326778/Pet-Odyssey",
+      "foundBy": "pet simulator 99 modded"
+    },
+    {
+      "name": "XS6",
+      "rawName": "🐸 XS6",
+      "playerCount": 12,
+      "url": "https://www.roblox.com/games/89927416494835/XS6",
+      "foundBy": "pet simulator 99 modded"
+    },
+    {
+      "name": "Be a Pet!",
+      "rawName": "Be a Pet!",
+      "playerCount": 3,
+      "url": "https://www.roblox.com/games/97778682798325/Be-a-Pet",
+      "foundBy": "pet simulator x free titanic"
+    }
+  ]
+}

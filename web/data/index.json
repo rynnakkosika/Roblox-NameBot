@@ -2,6 +2,105 @@
   "schemaVersion": 1,
   "runs": [
     {
+      "runId": "20261117-151142-animal-tycoon",
+      "genre": "animal tycoon",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-17T15:22:48Z",
+      "topName": "Animal Tycoon"
+    },
+    {
+      "runId": "20261117-150036-aquarium",
+      "genre": "aquarium",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-17T15:11:42Z",
+      "topName": "Aquarium Tycoon"
+    },
+    {
+      "runId": "20261117-144930-safari",
+      "genre": "safari",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-17T15:00:36Z",
+      "topName": "Safari Trip"
+    },
+    {
+      "runId": "20261117-143823-zoo-simulator",
+      "genre": "zoo simulator",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-17T14:49:30Z",
+      "topName": "Zoo Simulator"
+    },
+    {
+      "runId": "20261117-142716-pet-simulator",
+      "genre": "pet simulator",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-17T14:38:23Z",
+      "topName": "Modded Admin Pet Simulator"
+    },
+    {
+      "runId": "20261117-141609-animal-simulator",
+      "genre": "animal simulator",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-17T14:27:16Z",
+      "topName": "Animal Simulator"
+    },
+    {
+      "runId": "20261117-140503-pet",
+      "genre": "pet",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-17T14:16:09Z",
+      "topName": "Go Modded Pet Simulator"
+    },
+    {
+      "runId": "20261117-065816-animal",
+      "genre": "animal",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-17T07:09:23Z",
+      "topName": "Hospital Daycare Animal Simulator"
+    },
+    {
+      "runId": "20261117-064708-pet-show",
+      "genre": "pet show",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-17T06:58:16Z",
+      "topName": "Pet Show Dress Up"
+    },
+    {
+      "runId": "20261117-063557-zoo-tycoon",
+      "genre": "zoo tycoon",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-17T06:47:08Z",
+      "topName": "Zoo Tycoon"
+    },
+    {
+      "runId": "20261117-062446-zoo",
+      "genre": "zoo",
+      "budget": 1000,
+      "searchesMade": 1000,
+      "status": "complete",
+      "finishedAt": "2026-11-17T06:35:56Z",
+      "topName": "Zoo Oof Tycoon"
+    },
+    {
       "runId": "20261111-090311-car-simulator",
       "genre": "car simulator",
       "budget": 1000,

@@ -1,0 +1,795 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261117-064708-pet-show",
+    "genre": "pet show",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-17T06:47:08Z",
+    "finishedAt": "2026-11-17T06:58:16Z",
+    "issue": null,
+    "genreWords": [
+      "pet",
+      "show"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Pet Show Dress Up",
+      "score": 72.722,
+      "words": [
+        "Pet",
+        "Show",
+        "Dress",
+        "Up"
+      ],
+      "supportedBy": [
+        "pet show dress up",
+        "pet show dress"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Animal Shelter Pet Show Escape",
+      "score": 36.415,
+      "words": [
+        "Animal",
+        "Shelter",
+        "Pet",
+        "Show",
+        "Escape"
+      ],
+      "supportedBy": [
+        "pet shop escape",
+        "pet shelter",
+        "pet shelter tycoon"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Pet Show Dress Tycoon",
+      "score": 34.4,
+      "words": [
+        "Pet",
+        "Show",
+        "Dress",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "pet show dress up",
+        "pet shop tycoon",
+        "pet shelter tycoon"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Prison Run Pet Show Escape",
+      "score": 27.049,
+      "words": [
+        "Prison",
+        "Run",
+        "Pet",
+        "Show",
+        "Escape"
+      ],
+      "supportedBy": [
+        "pet shop escape",
+        "pet shop escape obby",
+        "pet escape 1"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Pet Show Grow Op Garden",
+      "score": 24.636,
+      "words": [
+        "Pet",
+        "Show",
+        "Grow",
+        "Op",
+        "Garden"
+      ],
+      "supportedBy": [
+        "pet show grow a op garden",
+        "pet shop grow a op garden",
+        "pet show grow a garden"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Zoo Builder Pet Show Tycoon",
+      "score": 24.537,
+      "words": [
+        "Zoo",
+        "Builder",
+        "Pet",
+        "Show",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "pet shop tycoon",
+        "pet shelter tycoon",
+        "pet washing tycoon"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Pet Show Dress Obby",
+      "score": 22.019,
+      "words": [
+        "Pet",
+        "Show",
+        "Dress",
+        "Obby"
+      ],
+      "supportedBy": [
+        "pet show dress up",
+        "pet shop obby",
+        "petshop obby"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Speed Keyboard Pet Show Simulator",
+      "score": 21.622,
+      "words": [
+        "Speed",
+        "Keyboard",
+        "Pet",
+        "Show",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet shop simulator",
+        "pet simulator x",
+        "pet washing simulator"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Pet Show Rat Escape",
+      "score": 20.073,
+      "words": [
+        "Pet",
+        "Show",
+        "Rat",
+        "Escape"
+      ],
+      "supportedBy": [
+        "pet shop escape",
+        "rat washing tycoon",
+        "pet shop escape obby"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Avatar Runway Pet Show Tycoon",
+      "score": 18.778,
+      "words": [
+        "Avatar",
+        "Runway",
+        "Pet",
+        "Show",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "pet shop tycoon",
+        "pet shelter tycoon",
+        "pet washing tycoon"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Animal Hospital Pet Show Story",
+      "score": 18.191,
+      "words": [
+        "Animal",
+        "Hospital",
+        "Pet",
+        "Show",
+        "Story"
+      ],
+      "supportedBy": [
+        "pets hospital",
+        "pet hospital rp",
+        "pet hospital game"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Pet Show",
+      "score": 17.791,
+      "words": [
+        "Pet",
+        "Show"
+      ],
+      "supportedBy": [
+        "pet show dress up",
+        "pet shop",
+        "pet shop obby"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Candy Chocolate Pet Show Obby",
+      "score": 16.591,
+      "words": [
+        "Candy",
+        "Chocolate",
+        "Pet",
+        "Show",
+        "Obby"
+      ],
+      "supportedBy": [
+        "pet shop obby",
+        "petshop obby",
+        "pet shop escape obby"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Bobby Daycare Pet Show Simulator",
+      "score": 16.461,
+      "words": [
+        "Bobby",
+        "Daycare",
+        "Pet",
+        "Show",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet shop simulator",
+        "pet simulator x",
+        "pet washing simulator"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Farm Evolution Pet Show RP",
+      "score": 15.878,
+      "words": [
+        "Farm",
+        "Evolution",
+        "Pet",
+        "Show",
+        "RP"
+      ],
+      "supportedBy": [
+        "pet shop rp",
+        "pet hospital rp"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Pet Show Up",
+      "score": 15.802,
+      "words": [
+        "Pet",
+        "Show",
+        "Up"
+      ],
+      "supportedBy": [
+        "pet show dress up"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Pet Show Dress",
+      "score": 15.486,
+      "words": [
+        "Pet",
+        "Show",
+        "Dress"
+      ],
+      "supportedBy": [
+        "pet show dress up",
+        "pet show dress"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Savannah Life Pet Show Escape",
+      "score": 15.392,
+      "words": [
+        "Savannah",
+        "Life",
+        "Pet",
+        "Show",
+        "Escape"
+      ],
+      "supportedBy": [
+        "pet shop escape",
+        "pet shop escape obby",
+        "pet escape 1"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Cat Shelter Pet Show",
+      "score": 15.204,
+      "words": [
+        "Cat",
+        "Shelter",
+        "Pet",
+        "Show"
+      ],
+      "supportedBy": [
+        "pet shelter",
+        "pet shelter tycoon",
+        "pet shelter simulator"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Get Puppy Pet Show",
+      "score": 14.911,
+      "words": [
+        "Get",
+        "Puppy",
+        "Pet",
+        "Show"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Pet Show Store Tycoon",
+      "score": 14.418,
+      "words": [
+        "Pet",
+        "Show",
+        "Store",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "pet shop tycoon",
+        "pet shelter tycoon",
+        "pet washing tycoon"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Hatch Habitats Pet Show",
+      "score": 14.357,
+      "words": [
+        "Hatch",
+        "Habitats",
+        "Pet",
+        "Show"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 23,
+      "name": "Toyshop Run Pet Show",
+      "score": 13.976,
+      "words": [
+        "Toyshop",
+        "Run",
+        "Pet",
+        "Show"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Impress Pet Show",
+      "score": 13.578,
+      "words": [
+        "Impress",
+        "Pet",
+        "Show"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Catalog Pet Show",
+      "score": 13.39,
+      "words": [
+        "Catalog",
+        "Pet",
+        "Show"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "pet show",
+      "score": 22.782
+    },
+    {
+      "text": "pet",
+      "score": 33.288
+    },
+    {
+      "text": "show",
+      "score": 14.935
+    },
+    {
+      "text": "dress up",
+      "score": 14.514
+    },
+    {
+      "text": "show dress",
+      "score": 14.277
+    },
+    {
+      "text": "dress",
+      "score": 11.019
+    },
+    {
+      "text": "escape",
+      "score": 10.078
+    },
+    {
+      "text": "tycoon",
+      "score": 8.968
+    },
+    {
+      "text": "animal",
+      "score": 5.921
+    },
+    {
+      "text": "rat",
+      "score": 4.856
+    },
+    {
+      "text": "show grow",
+      "score": 4.502
+    },
+    {
+      "text": "zoo",
+      "score": 4.052
+    },
+    {
+      "text": "op garden",
+      "score": 3.884
+    },
+    {
+      "text": "shelter",
+      "score": 3.789
+    },
+    {
+      "text": "run",
+      "score": 3.783
+    },
+    {
+      "text": "grow op",
+      "score": 3.708
+    },
+    {
+      "text": "cat",
+      "score": 3.254
+    },
+    {
+      "text": "hospital",
+      "score": 3.248
+    },
+    {
+      "text": "obby",
+      "score": 3.237
+    },
+    {
+      "text": "simulator",
+      "score": 3.143
+    },
+    {
+      "text": "speed",
+      "score": 3.021
+    },
+    {
+      "text": "daycare",
+      "score": 2.786
+    },
+    {
+      "text": "prison",
+      "score": 2.705
+    },
+    {
+      "text": "store",
+      "score": 2.63
+    },
+    {
+      "text": "impress",
+      "score": 2.187
+    },
+    {
+      "text": "garden",
+      "score": 2.068
+    },
+    {
+      "text": "toyshop",
+      "score": 2.026
+    },
+    {
+      "text": "avatar",
+      "score": 1.999
+    },
+    {
+      "text": "catalog",
+      "score": 1.999
+    },
+    {
+      "text": "runway",
+      "score": 1.999
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "pet show dress up",
+      "score": 27.556,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "pet show",
+      "score": 6.4,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "pet show grow a op garden",
+      "score": 5.607,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "pet show grow a garden",
+      "score": 1.828,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "pet show grow op garden",
+      "score": 1.568,
+      "appearances": 4,
+      "bestRank": 2
+    },
+    {
+      "rank": 6,
+      "text": "pet show roblox",
+      "score": 1.22,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "pet show dress",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 8,
+      "text": "pet show a op garden",
+      "score": 0.387,
+      "appearances": 1,
+      "bestRank": 6
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Dress To Impress",
+      "rawName": "[🎃] Dress To Impress",
+      "playerCount": 23638,
+      "url": "https://www.roblox.com/games/15101393044/Dress-To-Impress",
+      "foundBy": "pet show dress up"
+    },
+    {
+      "name": "Catalog Avatar Runway",
+      "rawName": "🎀 Catalog Avatar Runway",
+      "playerCount": 9954,
+      "url": "https://www.roblox.com/games/97577741629233/Catalog-Avatar-Runway",
+      "foundBy": "pet show dress up"
+    },
+    {
+      "name": "1 Speed Keyboard Escape Candy & Chocolate",
+      "rawName": "[S8] +1 Speed Keyboard Escape | Candy & Chocolate",
+      "playerCount": 9838,
+      "url": "https://www.roblox.com/games/95082159892680/1-Speed-Keyboard-Escape-Candy-Chocolate",
+      "foundBy": "pet shop escape"
+    },
+    {
+      "name": "Farm Evolution",
+      "rawName": "[2x WEEKEND] Farm Evolution",
+      "playerCount": 8335,
+      "url": "https://www.roblox.com/games/73958363924703/Farm-Evolution",
+      "foundBy": "pet shop de rato"
+    },
+    {
+      "name": "Animal Hospital",
+      "rawName": "Animal Hospital (Anomaly) 🧪",
+      "playerCount": 7880,
+      "url": "https://www.roblox.com/games/78515283254292/Animal-Hospital",
+      "foundBy": "pet show"
+    },
+    {
+      "name": "BARRY'S PRISON RUN!",
+      "rawName": "🚨BARRY'S PRISON RUN! (OBBY)",
+      "playerCount": 7575,
+      "url": "https://www.roblox.com/games/8712817601/BARRYS-PRISON-RUN",
+      "foundBy": "pet shop obby"
+    },
+    {
+      "name": "Animal Simulator",
+      "rawName": "Animal Simulator [🐉 DRAGONS + PETS!]",
+      "playerCount": 3286,
+      "url": "https://www.roblox.com/games/5712833750/Animal-Simulator",
+      "foundBy": "pet show dress up"
+    },
+    {
+      "name": "Kitten Game",
+      "rawName": "Kitten Game 🐾",
+      "playerCount": 2909,
+      "url": "https://www.roblox.com/games/13482468151/Kitten-Game",
+      "foundBy": "pet show"
+    },
+    {
+      "name": "Pet Store Tycoon",
+      "rawName": "Pet Store Tycoon",
+      "playerCount": 2448,
+      "url": "https://www.roblox.com/games/118845698633260/Pet-Store-Tycoon",
+      "foundBy": "pet shop"
+    },
+    {
+      "name": "Savannah Life",
+      "rawName": "Savannah Life",
+      "playerCount": 1444,
+      "url": "https://www.roblox.com/games/18214855317/Savannah-Life",
+      "foundBy": "pet show"
+    },
+    {
+      "name": "Animal Daycare",
+      "rawName": "[UPD] Animal Daycare (Anomaly)",
+      "playerCount": 706,
+      "url": "https://www.roblox.com/games/124061247871628/Animal-Daycare",
+      "foundBy": "pet shop escape"
+    },
+    {
+      "name": "Zoo Builder Tycoon",
+      "rawName": "[🐊 New Animals!!!] Zoo Builder Tycoon ",
+      "playerCount": 696,
+      "url": "https://www.roblox.com/games/76814078654313/Zoo-Builder-Tycoon",
+      "foundBy": "pet shop"
+    },
+    {
+      "name": "7 Days as a Pet",
+      "rawName": "7 Days as a Pet [🏡UPDATE 6]",
+      "playerCount": 636,
+      "url": "https://www.roblox.com/games/120130810954904/7-Days-as-a-Pet",
+      "foundBy": "pet show dress up"
+    },
+    {
+      "name": "Build A Pet Factory",
+      "rawName": "[🧸] Build A Pet Factory",
+      "playerCount": 599,
+      "url": "https://www.roblox.com/games/135729108619936/Build-A-Pet-Factory",
+      "foundBy": "pet show"
+    },
+    {
+      "name": "Escape Baby Bobby Daycare!",
+      "rawName": "Escape Baby Bobby Daycare! (OBBY)",
+      "playerCount": 495,
+      "url": "https://www.roblox.com/games/12090482034/Escape-Baby-Bobby-Daycare",
+      "foundBy": "pet shop obby"
+    },
+    {
+      "name": "Zoo Tycoon",
+      "rawName": "Zoo Tycoon 🥚🐲",
+      "playerCount": 433,
+      "url": "https://www.roblox.com/games/1128650291/Zoo-Tycoon",
+      "foundBy": "pet shop"
+    },
+    {
+      "name": "Hatch and Habitats",
+      "rawName": "[Realistic Reptiles] Hatch and Habitats",
+      "playerCount": 432,
+      "url": "https://www.roblox.com/games/104758078457134/Hatch-and-Habitats",
+      "foundBy": "pet shop"
+    },
+    {
+      "name": "My Pet Salon!",
+      "rawName": "My Pet Salon! 🐶",
+      "playerCount": 296,
+      "url": "https://www.roblox.com/games/134135989047078/My-Pet-Salon",
+      "foundBy": "pet shop"
+    },
+    {
+      "name": "Dress Up Very Charmin",
+      "rawName": "🛍️Dress Up Very Charmin",
+      "playerCount": 219,
+      "url": "https://www.roblox.com/games/17144762255/Dress-Up-Very-Charmin",
+      "foundBy": "pet show dress up"
+    },
+    {
+      "name": "Escape The Dentist Obby!",
+      "rawName": "Escape The Dentist Obby! (NEW!)",
+      "playerCount": 209,
+      "url": "https://www.roblox.com/games/1428472551/Escape-The-Dentist-Obby",
+      "foundBy": "pet shop obby"
+    },
+    {
+      "name": "Rat Lab",
+      "rawName": "[🎃🧙🏻‍♀️] Rat Lab 🧪 ",
+      "playerCount": 186,
+      "url": "https://www.roblox.com/games/105904727825849/Rat-Lab",
+      "foundBy": "pet shop de rato"
+    },
+    {
+      "name": "Fashion Show",
+      "rawName": "🛍️ Fashion Show",
+      "playerCount": 178,
+      "url": "https://www.roblox.com/games/15529194484/Fashion-Show",
+      "foundBy": "pet show dress up"
+    },
+    {
+      "name": "Escape Mr Funny's ToyShop!",
+      "rawName": "Escape Mr Funny's ToyShop! (SCARY OBBY)",
+      "playerCount": 170,
+      "url": "https://www.roblox.com/games/7839281987/Escape-Mr-Funnys-ToyShop",
+      "foundBy": "pet shop obby"
+    },
+    {
+      "name": "Cat Shelter 24 7",
+      "rawName": "🐱 Cat Shelter 24/7",
+      "playerCount": 165,
+      "url": "https://www.roblox.com/games/113418335601371/Cat-Shelter-24-7",
+      "foundBy": "pet shelter"
+    },
+    {
+      "name": "Pet Story",
+      "rawName": "Pet Story 🐶",
+      "playerCount": 148,
+      "url": "https://www.roblox.com/games/7071444234/Pet-Story",
+      "foundBy": "pet shop"
+    },
+    {
+      "name": "The Cat Shelter",
+      "rawName": "🎃[PART 2] The Cat Shelter 🐱",
+      "playerCount": 140,
+      "url": "https://www.roblox.com/games/76526090659517/The-Cat-Shelter",
+      "foundBy": "pet shelter"
+    },
+    {
+      "name": "Cat VS Mouse",
+      "rawName": "Cat VS Mouse 🐁",
+      "playerCount": 115,
+      "url": "https://www.roblox.com/games/5717952758/Cat-VS-Mouse",
+      "foundBy": "pet shop de rato"
+    },
+    {
+      "name": "1 Speed Pet Escape",
+      "rawName": "+1 Speed Pet Escape 🐕",
+      "playerCount": 111,
+      "url": "https://www.roblox.com/games/89444861908271/1-Speed-Pet-Escape",
+      "foundBy": "pet shop escape"
+    },
+    {
+      "name": "Steal A Pet",
+      "rawName": "Steal A Pet",
+      "playerCount": 97,
+      "url": "https://www.roblox.com/games/134655615213640/Steal-A-Pet",
+      "foundBy": "pet show"
+    },
+    {
+      "name": "Escape The Butcher Shop Obby!",
+      "rawName": "🥩 Escape The Butcher Shop Obby! (NEW READ DESC)",
+      "playerCount": 95,
+      "url": "https://www.roblox.com/games/1946695497/Escape-The-Butcher-Shop-Obby",
+      "foundBy": "pet shop obby"
+    }
+  ]
+}

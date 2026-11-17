@@ -1,0 +1,829 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261117-063557-zoo-tycoon",
+    "genre": "zoo tycoon",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-17T06:35:57Z",
+    "finishedAt": "2026-11-17T06:47:08Z",
+    "issue": null,
+    "genreWords": [
+      "zoo",
+      "tycoon"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Zoo Tycoon",
+      "score": 115.381,
+      "words": [
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon 2 player",
+        "zoo tycoon 2",
+        "zoo tycoon"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Dinosaur Park Zoo Tycoon",
+      "score": 89.948,
+      "words": [
+        "Dinosaur",
+        "Park",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon dinosaur"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Underwater Mansion Zoo Tycoon",
+      "score": 86.789,
+      "words": [
+        "Underwater",
+        "Mansion",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 4,
+      "name": "Military Army Zoo Tycoon",
+      "score": 86.624,
+      "words": [
+        "Military",
+        "Army",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 5,
+      "name": "Swat Evolution Zoo Tycoon",
+      "score": 86.224,
+      "words": [
+        "Swat",
+        "Evolution",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "swat tycoon",
+        "swat simulator"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Steal Egg Zoo Tycoon",
+      "score": 85.953,
+      "words": [
+        "Steal",
+        "Egg",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 7,
+      "name": "Elite Force Zoo Tycoon",
+      "score": 83.181,
+      "words": [
+        "Elite",
+        "Force",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 8,
+      "name": "Build Dino Zoo Tycoon",
+      "score": 83.095,
+      "words": [
+        "Build",
+        "Dino",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 9,
+      "name": "Builder Zoo Tycoon",
+      "score": 82.869,
+      "words": [
+        "Builder",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon builder"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Babies Zoo Tycoon",
+      "score": 82.073,
+      "words": [
+        "Babies",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon babies"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Two Zoo Tycoon",
+      "score": 82.011,
+      "words": [
+        "Two",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon two",
+        "zoo tycoon two player"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Dispatch Police Zoo Tycoon",
+      "score": 81.82,
+      "words": [
+        "Dispatch",
+        "Police",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 13,
+      "name": "Fish Tank Zoo Tycoon",
+      "score": 81.732,
+      "words": [
+        "Fish",
+        "Tank",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 14,
+      "name": "Millionaire Island Zoo Tycoon",
+      "score": 81.588,
+      "words": [
+        "Millionaire",
+        "Island",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 15,
+      "name": "Farm Zoo Tycoon",
+      "score": 81.43,
+      "words": [
+        "Farm",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 16,
+      "name": "Sea Zoo Tycoon",
+      "score": 81.284,
+      "words": [
+        "Sea",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "sea tycoon",
+        "sea tycoons",
+        "sea life tycoon"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Commander Zoo Tycoon",
+      "score": 81.121,
+      "words": [
+        "Commander",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 18,
+      "name": "Raft Zoo Tycoon",
+      "score": 81.05,
+      "words": [
+        "Raft",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Warfare Zoo Tycoon",
+      "score": 80.772,
+      "words": [
+        "Warfare",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 20,
+      "name": "Luxury Zoo Tycoon",
+      "score": 80.679,
+      "words": [
+        "Luxury",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Criminal Zoo Tycoon",
+      "score": 80.534,
+      "words": [
+        "Criminal",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Collect Zoo Tycoon",
+      "score": 80.463,
+      "words": [
+        "Collect",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 23,
+      "name": "Nouveau Animaux Zoo Tycoon",
+      "score": 80.448,
+      "words": [
+        "Nouveau",
+        "Animaux",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon nouveau animaux"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "World Zoo Tycoon",
+      "score": 80.354,
+      "words": [
+        "World",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo world tycoon"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Run Zoo Tycoon",
+      "score": 80.346,
+      "words": [
+        "Run",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "zoo tycoon",
+      "score": 158.944
+    },
+    {
+      "text": "zoo",
+      "score": 119.709
+    },
+    {
+      "text": "tycoon",
+      "score": 142.12
+    },
+    {
+      "text": "tycoon 2",
+      "score": 82.799
+    },
+    {
+      "text": "player",
+      "score": 32.937
+    },
+    {
+      "text": "dinosaur",
+      "score": 7.124
+    },
+    {
+      "text": "tycoon dinosaur",
+      "score": 7.046
+    },
+    {
+      "text": "tycoon 1",
+      "score": 4.908
+    },
+    {
+      "text": "mansion",
+      "score": 4.382
+    },
+    {
+      "text": "tycoon babies",
+      "score": 3.902
+    },
+    {
+      "text": "tycoon two",
+      "score": 3.861
+    },
+    {
+      "text": "swat",
+      "score": 3.588
+    },
+    {
+      "text": "army",
+      "score": 3.422
+    },
+    {
+      "text": "builder",
+      "score": 3.397
+    },
+    {
+      "text": "military",
+      "score": 3.287
+    },
+    {
+      "text": "park",
+      "score": 3.041
+    },
+    {
+      "text": "tycoon builder",
+      "score": 2.954
+    },
+    {
+      "text": "evolution",
+      "score": 2.923
+    },
+    {
+      "text": "egg",
+      "score": 2.88
+    },
+    {
+      "text": "steal",
+      "score": 2.88
+    },
+    {
+      "text": "babies",
+      "score": 2.601
+    },
+    {
+      "text": "underwater",
+      "score": 2.589
+    },
+    {
+      "text": "two",
+      "score": 2.539
+    },
+    {
+      "text": "dino",
+      "score": 2.342
+    },
+    {
+      "text": "mansion tycoon",
+      "score": 2.191
+    },
+    {
+      "text": "farm",
+      "score": 1.958
+    },
+    {
+      "text": "sea",
+      "score": 1.811
+    },
+    {
+      "text": "commander",
+      "score": 1.649
+    },
+    {
+      "text": "elite",
+      "score": 1.648
+    },
+    {
+      "text": "force",
+      "score": 1.648
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "zoo tycoon 2 player",
+      "score": 123.41,
+      "appearances": 192,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "zoo tycoon 2",
+      "score": 39.258,
+      "appearances": 68,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "zoo tycoon",
+      "score": 35.909,
+      "appearances": 52,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "zoo tycoons",
+      "score": 24.85,
+      "appearances": 56,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "zoo tycoon games",
+      "score": 17.055,
+      "appearances": 36,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "zoo tycoon dinosaur",
+      "score": 14.093,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "zoo tycoon beta",
+      "score": 10.088,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "zoo tycoon 1",
+      "score": 9.81,
+      "appearances": 26,
+      "bestRank": 3
+    },
+    {
+      "rank": 9,
+      "text": "zoo tycoon babies",
+      "score": 7.804,
+      "appearances": 16,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "zoo tycoon two",
+      "score": 7.304,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "zoo tycoon game",
+      "score": 6.14,
+      "appearances": 15,
+      "bestRank": 2
+    },
+    {
+      "rank": 12,
+      "text": "zoo tycoon builder",
+      "score": 5.908,
+      "appearances": 11,
+      "bestRank": 2
+    },
+    {
+      "rank": 13,
+      "text": "zoo tycoon tycoon",
+      "score": 2.919,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "zoo tycoon new animals",
+      "score": 1.936,
+      "appearances": 4,
+      "bestRank": 2
+    },
+    {
+      "rank": 15,
+      "text": "zoo tycoon 3",
+      "score": 1.869,
+      "appearances": 6,
+      "bestRank": 3
+    },
+    {
+      "rank": 16,
+      "text": "zoo tycoons 2",
+      "score": 1.704,
+      "appearances": 3,
+      "bestRank": 3
+    },
+    {
+      "rank": 17,
+      "text": "zoo tycoon nouveau animaux",
+      "score": 1.301,
+      "appearances": 3,
+      "bestRank": 2
+    },
+    {
+      "rank": 18,
+      "text": "zoo tycoon nuevos animales",
+      "score": 1.053,
+      "appearances": 3,
+      "bestRank": 3
+    },
+    {
+      "rank": 19,
+      "text": "zoo tycoon 2 プレイヤー",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 20,
+      "text": "zoo tycoon roblox",
+      "score": 0.62,
+      "appearances": 1,
+      "bestRank": 3
+    },
+    {
+      "rank": 21,
+      "text": "zoo tycoon new",
+      "score": 0.542,
+      "appearances": 1,
+      "bestRank": 4
+    },
+    {
+      "rank": 22,
+      "text": "zoo tycoon two player",
+      "score": 0.418,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 23,
+      "text": "zoo tycoon animal",
+      "score": 0.31,
+      "appearances": 1,
+      "bestRank": 7
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 576441,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "zoo tycoon"
+    },
+    {
+      "name": "Farm Evolution",
+      "rawName": "[2x WEEKEND] Farm Evolution",
+      "playerCount": 8245,
+      "url": "https://www.roblox.com/games/73958363924703/Farm-Evolution",
+      "foundBy": "zoo tycoon babies"
+    },
+    {
+      "name": "Military Army Tycoon",
+      "rawName": "Military Army Tycoon",
+      "playerCount": 3517,
+      "url": "https://www.roblox.com/games/95409544559668/Military-Army-Tycoon",
+      "foundBy": "swat tycoon"
+    },
+    {
+      "name": "Army Commander Tycoon",
+      "rawName": "Army Commander Tycoon [UPDATE 7]",
+      "playerCount": 1985,
+      "url": "https://www.roblox.com/games/119263815547952/Army-Commander-Tycoon",
+      "foundBy": "swat tycoon"
+    },
+    {
+      "name": "SWAT: Elite Force",
+      "rawName": "🚨SWAT: Elite Force (Launch)",
+      "playerCount": 1980,
+      "url": "https://www.roblox.com/games/102972365566319/SWAT-Elite-Force",
+      "foundBy": "swat tycoon"
+    },
+    {
+      "name": "Mansion Tycoon",
+      "rawName": "Mansion Tycoon 🌴🏠",
+      "playerCount": 1925,
+      "url": "https://www.roblox.com/games/12912731475/Mansion-Tycoon",
+      "foundBy": "zoo tycoon 1"
+    },
+    {
+      "name": "Raft Tycoon",
+      "rawName": "🌊 Raft Tycoon",
+      "playerCount": 1431,
+      "url": "https://www.roblox.com/games/76137189788863/Raft-Tycoon",
+      "foundBy": "sea tycoon"
+    },
+    {
+      "name": "Military Tycoon",
+      "rawName": "Military Tycoon ®",
+      "playerCount": 1063,
+      "url": "https://www.roblox.com/games/7180042682/Military-Tycoon",
+      "foundBy": "swat tycoon"
+    },
+    {
+      "name": "Zoo Builder Tycoon",
+      "rawName": "[🐊 New Animals!!!] Zoo Builder Tycoon ",
+      "playerCount": 714,
+      "url": "https://www.roblox.com/games/76814078654313/Zoo-Builder-Tycoon",
+      "foundBy": "zoo tycoon"
+    },
+    {
+      "name": "Underwater Mansion Tycoon",
+      "rawName": "[V3] Underwater Mansion Tycoon",
+      "playerCount": 581,
+      "url": "https://www.roblox.com/games/79130275035599/Underwater-Mansion-Tycoon",
+      "foundBy": "sea tycoon"
+    },
+    {
+      "name": "Zoo Tycoon",
+      "rawName": "Zoo Tycoon 🥚🐲",
+      "playerCount": 420,
+      "url": "https://www.roblox.com/games/1128650291/Zoo-Tycoon",
+      "foundBy": "zoo tycoon"
+    },
+    {
+      "name": "Warfare Tycoon",
+      "rawName": "Warfare Tycoon",
+      "playerCount": 397,
+      "url": "https://www.roblox.com/games/31490825/Warfare-Tycoon",
+      "foundBy": "swat tycoon"
+    },
+    {
+      "name": "Underwater Luxury Mansion Tycoon",
+      "rawName": "Underwater Luxury Mansion Tycoon",
+      "playerCount": 258,
+      "url": "https://www.roblox.com/games/113274196737825/Underwater-Luxury-Mansion-Tycoon",
+      "foundBy": "sea tycoon"
+    },
+    {
+      "name": "Criminal Tycoon",
+      "rawName": "Criminal Tycoon",
+      "playerCount": 132,
+      "url": "https://www.roblox.com/games/14218711698/Criminal-Tycoon",
+      "foundBy": "swat tycoon"
+    },
+    {
+      "name": "Fish Tank Tycoon",
+      "rawName": "Fish Tank Tycoon",
+      "playerCount": 101,
+      "url": "https://www.roblox.com/games/80086813981390/Fish-Tank-Tycoon",
+      "foundBy": "sea tycoon"
+    },
+    {
+      "name": "Collect Dinos",
+      "rawName": "Collect Dinos",
+      "playerCount": 95,
+      "url": "https://www.roblox.com/games/132169393925482/Collect-Dinos",
+      "foundBy": "zoo tycoon dinosaur"
+    },
+    {
+      "name": "1 SWAT Evolution",
+      "rawName": "+1 SWAT Evolution",
+      "playerCount": 84,
+      "url": "https://www.roblox.com/games/99442148149794/1-SWAT-Evolution",
+      "foundBy": "swat tycoon"
+    },
+    {
+      "name": "Millionaire Island 2 Player Tycoon",
+      "rawName": "🏝️ Millionaire Island 2 Player Tycoon 🏝️",
+      "playerCount": 75,
+      "url": "https://www.roblox.com/games/75881158015417/Millionaire-Island-2-Player-Tycoon",
+      "foundBy": "zoo tycoon 2 player"
+    },
+    {
+      "name": "Dispatch: Police Simulator",
+      "rawName": "[👮] Dispatch: Police Simulator",
+      "playerCount": 74,
+      "url": "https://www.roblox.com/games/98100179608264/Dispatch-Police-Simulator",
+      "foundBy": "swat tycoon"
+    },
+    {
+      "name": "My Dino Park!",
+      "rawName": "My Dino Park!",
+      "playerCount": 71,
+      "url": "https://www.roblox.com/games/80701570784699/My-Dino-Park",
+      "foundBy": "zoo tycoon dinosaur"
+    },
+    {
+      "name": "SeaFood Tycoon",
+      "rawName": "🐟 SeaFood Tycoon",
+      "playerCount": 48,
+      "url": "https://www.roblox.com/games/71669967030267/SeaFood-Tycoon",
+      "foundBy": "sea tycoon"
+    },
+    {
+      "name": "Zoo World Tycoon",
+      "rawName": "[BABIES!] Zoo World Tycoon 🐘",
+      "playerCount": 46,
+      "url": "https://www.roblox.com/games/10904785329/Zoo-World-Tycoon",
+      "foundBy": "zoo tycoon"
+    },
+    {
+      "name": "Sea Game Tycoon",
+      "rawName": "Sea Game Tycoon",
+      "playerCount": 35,
+      "url": "https://www.roblox.com/games/7600132577/Sea-Game-Tycoon",
+      "foundBy": "sea tycoon"
+    },
+    {
+      "name": "My ZOO",
+      "rawName": "[🐅] My ZOO",
+      "playerCount": 26,
+      "url": "https://www.roblox.com/games/96539133045244/My-ZOO",
+      "foundBy": "zoo tycoon two"
+    },
+    {
+      "name": "Dinosaur Park Tycoon",
+      "rawName": "Dinosaur Park Tycoon",
+      "playerCount": 24,
+      "url": "https://www.roblox.com/games/93649773722633/Dinosaur-Park-Tycoon",
+      "foundBy": "zoo tycoon dinosaur"
+    },
+    {
+      "name": "Run a Zoo!",
+      "rawName": "Run a Zoo! ",
+      "playerCount": 24,
+      "url": "https://www.roblox.com/games/132395080230432/Run-a-Zoo",
+      "foundBy": "zoo tycoon"
+    },
+    {
+      "name": "Aquarium Tycoon",
+      "rawName": "Aquarium Tycoon 🐠🐟",
+      "playerCount": 20,
+      "url": "https://www.roblox.com/games/5049532701/Aquarium-Tycoon",
+      "foundBy": "sea tycoon"
+    },
+    {
+      "name": "Dinosaur Zoo Tycoon",
+      "rawName": "Dinosaur Zoo Tycoon 🦖",
+      "playerCount": 16,
+      "url": "https://www.roblox.com/games/6412231967/Dinosaur-Zoo-Tycoon",
+      "foundBy": "zoo tycoon"
+    },
+    {
+      "name": "Dinosaur Tycoon",
+      "rawName": "🦖Dinosaur Tycoon",
+      "playerCount": 13,
+      "url": "https://www.roblox.com/games/131299942133885/Dinosaur-Tycoon",
+      "foundBy": "zoo tycoon dinosaur"
+    },
+    {
+      "name": "2 Player Capybara Tycoon!",
+      "rawName": "🍊 2 Player Capybara Tycoon!",
+      "playerCount": 12,
+      "url": "https://www.roblox.com/games/70710198270740/2-Player-Capybara-Tycoon",
+      "foundBy": "zoo tycoon 2 player"
+    }
+  ]
+}

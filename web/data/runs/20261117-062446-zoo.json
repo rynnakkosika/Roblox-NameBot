@@ -1,0 +1,1087 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261117-062446-zoo",
+    "genre": "zoo",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-17T06:24:46Z",
+    "finishedAt": "2026-11-17T06:35:56Z",
+    "issue": null,
+    "genreWords": [
+      "zoo"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Zoo Oof Tycoon",
+      "score": 688.206,
+      "words": [
+        "Zoo",
+        "Oof",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo or oof",
+        "zoo tycoon",
+        "zoo or oof 1"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Zoo Oof Obby",
+      "score": 502.153,
+      "words": [
+        "Zoo",
+        "Oof",
+        "Obby"
+      ],
+      "supportedBy": [
+        "zoo or oof",
+        "zoo obby",
+        "zoo or oof 1"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Zoo Oof Hide Seek",
+      "score": 362.833,
+      "words": [
+        "Zoo",
+        "Oof",
+        "Hide",
+        "Seek"
+      ],
+      "supportedBy": [
+        "zoo or oof",
+        "zoo or oof 1",
+        "zoo or oof hide and seek"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Zoo Tycoon",
+      "score": 342.382,
+      "words": [
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon",
+        "zoo tycoon 2",
+        "zoo tycoon 2 player"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Zoo Obby",
+      "score": 296.613,
+      "words": [
+        "Zoo",
+        "Obby"
+      ],
+      "supportedBy": [
+        "zoo obby",
+        "zoo escape obby",
+        "zoo obby roblox"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Zoo Oof Escape",
+      "score": 281.277,
+      "words": [
+        "Zoo",
+        "Oof",
+        "Escape"
+      ],
+      "supportedBy": [
+        "zoo or oof",
+        "zoo escape",
+        "zoo or oof 1"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Ou Off Zoo Tycoon",
+      "score": 220.897,
+      "words": [
+        "Ou",
+        "Off",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon",
+        "zoo or off",
+        "zoo tycoon 2"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Zoo Oof Simulator",
+      "score": 211.727,
+      "words": [
+        "Zoo",
+        "Oof",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "zoo or oof",
+        "zoo or oof 1",
+        "zoo or oof hide and seek"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Zoo Oof Modded",
+      "score": 167.004,
+      "words": [
+        "Zoo",
+        "Oof",
+        "Modded"
+      ],
+      "supportedBy": [
+        "zoo or oof",
+        "zoo or oof 1",
+        "zoo or oof hide and seek"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Animal Park Zoo Tycoon",
+      "score": 157.465,
+      "words": [
+        "Animal",
+        "Park",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon",
+        "zoo tycoon 2",
+        "zoo 2 animal park"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Zombie Tower Zoo Obby",
+      "score": 132.139,
+      "words": [
+        "Zombie",
+        "Tower",
+        "Zoo",
+        "Obby"
+      ],
+      "supportedBy": [
+        "zoo obby",
+        "zoo tower",
+        "zombie"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Zoo Oof Two",
+      "score": 129.927,
+      "words": [
+        "Zoo",
+        "Oof",
+        "Two"
+      ],
+      "supportedBy": [
+        "zoo or oof",
+        "zoo or oof 1",
+        "zoo or oof hide and seek"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Zoo Escape",
+      "score": 122.183,
+      "words": [
+        "Zoo",
+        "Escape"
+      ],
+      "supportedBy": [
+        "zoo escape",
+        "zoo escape obby",
+        "school escape"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Steal Die Zoo Tycoon",
+      "score": 116.14,
+      "words": [
+        "Steal",
+        "Die",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon",
+        "zoo tycoon 2",
+        "zoo tycoon 2 player"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Zoo Oof Script",
+      "score": 103.344,
+      "words": [
+        "Zoo",
+        "Oof",
+        "Script"
+      ],
+      "supportedBy": [
+        "zoo or oof",
+        "zoo or oof 1",
+        "zoo or oof hide and seek"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Brainrot Evolution Zoo Obby",
+      "score": 102.13,
+      "words": [
+        "Brainrot",
+        "Evolution",
+        "Zoo",
+        "Obby"
+      ],
+      "supportedBy": [
+        "zoo obby",
+        "zoo evolution",
+        "zoo escape obby"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Tips Zoo Tycoon",
+      "score": 90.83,
+      "words": [
+        "Tips",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon",
+        "zoo tycoon 2",
+        "zoo or oof zookeeper tips"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Zoo Oof RP",
+      "score": 82.373,
+      "words": [
+        "Zoo",
+        "Oof",
+        "RP"
+      ],
+      "supportedBy": [
+        "zoo or oof",
+        "zoo or oof 1",
+        "zoo or oof hide and seek"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Oder Off Zoo Obby",
+      "score": 80.508,
+      "words": [
+        "Oder",
+        "Off",
+        "Zoo",
+        "Obby"
+      ],
+      "supportedBy": [
+        "zoo obby",
+        "zoo or off",
+        "zoo of off"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Builder Zoo Tycoon",
+      "score": 72.602,
+      "words": [
+        "Builder",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon",
+        "zoo tycoon 2",
+        "zoo tycoon 2 player"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Zoo Oof Story",
+      "score": 65.419,
+      "words": [
+        "Zoo",
+        "Oof",
+        "Story"
+      ],
+      "supportedBy": [
+        "zoo or oof",
+        "zoo or oof 1",
+        "zoo or oof hide and seek"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Offline Zoo Obby",
+      "score": 64.03,
+      "words": [
+        "Offline",
+        "Zoo",
+        "Obby"
+      ],
+      "supportedBy": [
+        "zoo obby",
+        "zoo offline",
+        "zoo escape obby"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Hide Seek Zoo Escape",
+      "score": 61.397,
+      "words": [
+        "Hide",
+        "Seek",
+        "Zoo",
+        "Escape"
+      ],
+      "supportedBy": [
+        "zoo escape",
+        "zoo or oof hide and seek",
+        "zoo or hide"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Zoo Simulator",
+      "score": 60.673,
+      "words": [
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "zoo simulator",
+        "zoo island simulator",
+        "zookeeper simulator"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Tropica Zoo Tycoon",
+      "score": 58.005,
+      "words": [
+        "Tropica",
+        "Zoo",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "zoo tycoon",
+        "zoo tycoon 2",
+        "zoo tycoon 2 player"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "zoo",
+      "score": 851.567
+    },
+    {
+      "text": "zoo oof",
+      "score": 353.415
+    },
+    {
+      "text": "oof",
+      "score": 308.669
+    },
+    {
+      "text": "tycoon",
+      "score": 135.22
+    },
+    {
+      "text": "zoo tycoon",
+      "score": 134.433
+    },
+    {
+      "text": "obby",
+      "score": 94.876
+    },
+    {
+      "text": "zoo obby",
+      "score": 92.549
+    },
+    {
+      "text": "off",
+      "score": 54.907
+    },
+    {
+      "text": "zoo off",
+      "score": 50.68
+    },
+    {
+      "text": "escape",
+      "score": 42.662
+    },
+    {
+      "text": "zoo escape",
+      "score": 38.944
+    },
+    {
+      "text": "hide seek",
+      "score": 34.62
+    },
+    {
+      "text": "oof 2",
+      "score": 31.367
+    },
+    {
+      "text": "oof 1",
+      "score": 30.753
+    },
+    {
+      "text": "tycoon 2",
+      "score": 30.505
+    },
+    {
+      "text": "oof hide",
+      "score": 30.242
+    },
+    {
+      "text": "hide",
+      "score": 28.19
+    },
+    {
+      "text": "zoo 2",
+      "score": 23.664
+    },
+    {
+      "text": "zoo ou",
+      "score": 23.122
+    },
+    {
+      "text": "simulator",
+      "score": 21.024
+    },
+    {
+      "text": "seek",
+      "score": 20.93
+    },
+    {
+      "text": "oof modded",
+      "score": 20.66
+    },
+    {
+      "text": "zoo simulator",
+      "score": 18.162
+    },
+    {
+      "text": "animal park",
+      "score": 17.235
+    },
+    {
+      "text": "animal",
+      "score": 16.21
+    },
+    {
+      "text": "modded",
+      "score": 13.95
+    },
+    {
+      "text": "tower",
+      "score": 12.78
+    },
+    {
+      "text": "park",
+      "score": 12.675
+    },
+    {
+      "text": "zoo tower",
+      "score": 11.348
+    },
+    {
+      "text": "ou oof",
+      "score": 11.154
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "zoo or oof",
+      "score": 358.482,
+      "appearances": 502,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "zoo obby",
+      "score": 182.178,
+      "appearances": 332,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "zoo tycoon",
+      "score": 157.932,
+      "appearances": 241,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "zoo escape",
+      "score": 69.265,
+      "appearances": 137,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "zoo or oof 1",
+      "score": 61.506,
+      "appearances": 174,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "zoo or oof hide and seek",
+      "score": 60.485,
+      "appearances": 182,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "zoo or off",
+      "score": 59.82,
+      "appearances": 168,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "zoo or oof 2",
+      "score": 51.69,
+      "appearances": 109,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "zoo or oof modded",
+      "score": 41.321,
+      "appearances": 129,
+      "bestRank": 2
+    },
+    {
+      "rank": 10,
+      "text": "zoo tycoon 2",
+      "score": 39.539,
+      "appearances": 101,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "zoo or oof roblox",
+      "score": 37.015,
+      "appearances": 113,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "zoo simulator",
+      "score": 35.224,
+      "appearances": 72,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "zoo 2 animal park",
+      "score": 34.47,
+      "appearances": 65,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "zoo or oof zookeeper tips",
+      "score": 28.575,
+      "appearances": 79,
+      "bestRank": 2
+    },
+    {
+      "rank": 15,
+      "text": "zoo tower",
+      "score": 21.766,
+      "appearances": 72,
+      "bestRank": 2
+    },
+    {
+      "rank": 16,
+      "text": "zoo tycoon 2 player",
+      "score": 21.402,
+      "appearances": 66,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "zoo ou oof",
+      "score": 19.365,
+      "appearances": 82,
+      "bestRank": 4
+    },
+    {
+      "rank": 18,
+      "text": "zoo or die",
+      "score": 18.126,
+      "appearances": 73,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "zoo evolution",
+      "score": 17.816,
+      "appearances": 56,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "zoo of",
+      "score": 17.428,
+      "appearances": 46,
+      "bestRank": 3
+    },
+    {
+      "rank": 21,
+      "text": "zoo of off",
+      "score": 16.964,
+      "appearances": 53,
+      "bestRank": 2
+    },
+    {
+      "rank": 22,
+      "text": "zoo or oof 3",
+      "score": 16.545,
+      "appearances": 53,
+      "bestRank": 2
+    },
+    {
+      "rank": 23,
+      "text": "zoo offline",
+      "score": 13.633,
+      "appearances": 29,
+      "bestRank": 2
+    },
+    {
+      "rank": 24,
+      "text": "zoo ou off",
+      "score": 13.168,
+      "appearances": 59,
+      "bestRank": 6
+    },
+    {
+      "rank": 25,
+      "text": "zoo tropica",
+      "score": 13.091,
+      "appearances": 44,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "zoo builder tycoon",
+      "score": 13.044,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "zoo 2 player",
+      "score": 12.626,
+      "appearances": 34,
+      "bestRank": 2
+    },
+    {
+      "rank": 28,
+      "text": "zoo of zoo",
+      "score": 12.239,
+      "appearances": 44,
+      "bestRank": 3
+    },
+    {
+      "rank": 29,
+      "text": "zoo or oof two",
+      "score": 11.853,
+      "appearances": 39,
+      "bestRank": 3
+    },
+    {
+      "rank": 30,
+      "text": "zoo world tycoon",
+      "score": 11.204,
+      "appearances": 16,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "zoo or oof script",
+      "score": 10.848,
+      "appearances": 25,
+      "bestRank": 2
+    },
+    {
+      "rank": 32,
+      "text": "zoo ou of",
+      "score": 9.915,
+      "appearances": 38,
+      "bestRank": 3
+    },
+    {
+      "rank": 33,
+      "text": "zoo or of",
+      "score": 9.837,
+      "appearances": 46,
+      "bestRank": 5
+    },
+    {
+      "rank": 34,
+      "text": "zoo tycoon games",
+      "score": 9.497,
+      "appearances": 33,
+      "bestRank": 2
+    },
+    {
+      "rank": 35,
+      "text": "zoo off",
+      "score": 9.14,
+      "appearances": 39,
+      "bestRank": 2
+    },
+    {
+      "rank": 36,
+      "text": "zoo horror",
+      "score": 8.966,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "zoo games",
+      "score": 8.869,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "zoo tycoons",
+      "score": 8.507,
+      "appearances": 33,
+      "bestRank": 3
+    },
+    {
+      "rank": 39,
+      "text": "zoo ticon",
+      "score": 8.333,
+      "appearances": 40,
+      "bestRank": 3
+    },
+    {
+      "rank": 40,
+      "text": "zoo or",
+      "score": 7.823,
+      "appearances": 43,
+      "bestRank": 5
+    },
+    {
+      "rank": 41,
+      "text": "zoo topia",
+      "score": 7.669,
+      "appearances": 38,
+      "bestRank": 5
+    },
+    {
+      "rank": 42,
+      "text": "zoo anomaly",
+      "score": 7.519,
+      "appearances": 12,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "zoo tycoon beta",
+      "score": 7.262,
+      "appearances": 28,
+      "bestRank": 3
+    },
+    {
+      "rank": 44,
+      "text": "zoo or uf",
+      "score": 6.894,
+      "appearances": 34,
+      "bestRank": 2
+    },
+    {
+      "rank": 45,
+      "text": "zoo oof 2",
+      "score": 6.816,
+      "appearances": 18,
+      "bestRank": 3
+    },
+    {
+      "rank": 46,
+      "text": "zoo or off 1",
+      "score": 6.753,
+      "appearances": 16,
+      "bestRank": 2
+    },
+    {
+      "rank": 47,
+      "text": "zoo animals",
+      "score": 6.328,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "zoo o oof",
+      "score": 5.809,
+      "appearances": 25,
+      "bestRank": 5
+    },
+    {
+      "rank": 49,
+      "text": "zoo tycoon dinosaur",
+      "score": 5.621,
+      "appearances": 19,
+      "bestRank": 2
+    },
+    {
+      "rank": 50,
+      "text": "zoo or two",
+      "score": 5.345,
+      "appearances": 18,
+      "bestRank": 4
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 600535,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "zoo or oof"
+    },
+    {
+      "name": "Animal Simulator",
+      "rawName": "Animal Simulator [🐉 DRAGONS + PETS!]",
+      "playerCount": 3279,
+      "url": "https://www.roblox.com/games/5712833750/Animal-Simulator",
+      "foundBy": "zoo"
+    },
+    {
+      "name": "Zooo",
+      "rawName": "Zooo",
+      "playerCount": 1265,
+      "url": "https://www.roblox.com/games/13416197699/Zooo",
+      "foundBy": "zoo"
+    },
+    {
+      "name": "Mega Hide and Seek!",
+      "rawName": "Mega Hide and Seek!",
+      "playerCount": 788,
+      "url": "https://www.roblox.com/games/5708035517/Mega-Hide-and-Seek",
+      "foundBy": "zoo or oof hide and seek"
+    },
+    {
+      "name": "Escape Papa Pizza's Pizzeria!",
+      "rawName": "Escape Papa Pizza's Pizzeria! (SCARY OBBY)",
+      "playerCount": 732,
+      "url": "https://www.roblox.com/games/6939111033/Escape-Papa-Pizzas-Pizzeria",
+      "foundBy": "zoo obby"
+    },
+    {
+      "name": "Cluck or Hide!",
+      "rawName": "Cluck or Hide!🐔",
+      "playerCount": 718,
+      "url": "https://www.roblox.com/games/82539019711975/Cluck-or-Hide",
+      "foundBy": "zoo or oof 1"
+    },
+    {
+      "name": "Hide or OOF!",
+      "rawName": "💀 Hide or OOF!",
+      "playerCount": 697,
+      "url": "https://www.roblox.com/games/18799085098/Hide-or-OOF",
+      "foundBy": "zoo or oof 1"
+    },
+    {
+      "name": "Zoo Builder Tycoon",
+      "rawName": "[🐊 New Animals!!!] Zoo Builder Tycoon ",
+      "playerCount": 697,
+      "url": "https://www.roblox.com/games/76814078654313/Zoo-Builder-Tycoon",
+      "foundBy": "zoo"
+    },
+    {
+      "name": "Build To Hide and Seek",
+      "rawName": "Build To Hide and Seek",
+      "playerCount": 636,
+      "url": "https://www.roblox.com/games/85701951276426/Build-To-Hide-and-Seek",
+      "foundBy": "zoo or oof hide and seek"
+    },
+    {
+      "name": "Zoo Tycoon",
+      "rawName": "Zoo Tycoon 🥚🐲",
+      "playerCount": 450,
+      "url": "https://www.roblox.com/games/1128650291/Zoo-Tycoon",
+      "foundBy": "zoo"
+    },
+    {
+      "name": "ZOO or OOF 2",
+      "rawName": "ZOO or OOF 2",
+      "playerCount": 369,
+      "url": "https://www.roblox.com/games/139506321380888/ZOO-or-OOF-2",
+      "foundBy": "zoo or oof"
+    },
+    {
+      "name": "Crazy Zoo",
+      "rawName": "Crazy Zoo",
+      "playerCount": 320,
+      "url": "https://www.roblox.com/games/13754044356/Crazy-Zoo",
+      "foundBy": "zoo"
+    },
+    {
+      "name": "Escape The ZOO!",
+      "rawName": "[🐒] Escape The ZOO!",
+      "playerCount": 285,
+      "url": "https://www.roblox.com/games/75839707976715/Escape-The-ZOO",
+      "foundBy": "zoo escape"
+    },
+    {
+      "name": "Night Shift at the Zoo",
+      "rawName": "Night Shift at the Zoo",
+      "playerCount": 275,
+      "url": "https://www.roblox.com/games/134381054636028/Night-Shift-at-the-Zoo",
+      "foundBy": "zoo"
+    },
+    {
+      "name": "Hide from Camera or Die!",
+      "rawName": "📸 Hide from Camera or Die! 💀",
+      "playerCount": 151,
+      "url": "https://www.roblox.com/games/98242614091515/Hide-from-Camera-or-Die",
+      "foundBy": "zoo or oof hide and seek"
+    },
+    {
+      "name": "ZOO or OOF",
+      "rawName": "ZOO or OOF🎯",
+      "playerCount": 72,
+      "url": "https://www.roblox.com/games/139233844569220/ZOO-or-OOF",
+      "foundBy": "zoo or oof"
+    },
+    {
+      "name": "Zoo Escape!",
+      "rawName": "Zoo Escape!",
+      "playerCount": 45,
+      "url": "https://www.roblox.com/games/134658456080840/Zoo-Escape",
+      "foundBy": "zoo escape"
+    },
+    {
+      "name": "Zoo World Tycoon",
+      "rawName": "[BABIES!] Zoo World Tycoon 🐘",
+      "playerCount": 40,
+      "url": "https://www.roblox.com/games/10904785329/Zoo-World-Tycoon",
+      "foundBy": "zoo"
+    },
+    {
+      "name": "Run a Zoo!",
+      "rawName": "Run a Zoo! ",
+      "playerCount": 30,
+      "url": "https://www.roblox.com/games/132395080230432/Run-a-Zoo",
+      "foundBy": "zoo"
+    },
+    {
+      "name": "Hide from Giant",
+      "rawName": "[👮]Hide from Giant",
+      "playerCount": 27,
+      "url": "https://www.roblox.com/games/134486861481740/Hide-from-Giant",
+      "foundBy": "zoo or oof 1"
+    },
+    {
+      "name": "Would You Rather: Animal Tower!",
+      "rawName": "Would You Rather: Animal Tower! 🐈",
+      "playerCount": 27,
+      "url": "https://www.roblox.com/games/115230636163847/Would-You-Rather-Animal-Tower",
+      "foundBy": "zoo or oof"
+    },
+    {
+      "name": "Shrink Hide and Seek Cat Escape",
+      "rawName": "Shrink Hide and Seek Cat Escape",
+      "playerCount": 16,
+      "url": "https://www.roblox.com/games/127811708787932/Shrink-Hide-and-Seek-Cat-Escape",
+      "foundBy": "zoo or oof hide and seek"
+    },
+    {
+      "name": "Dinosaur Zoo Tycoon",
+      "rawName": "Dinosaur Zoo Tycoon 🦖",
+      "playerCount": 13,
+      "url": "https://www.roblox.com/games/6412231967/Dinosaur-Zoo-Tycoon",
+      "foundBy": "zoo tycoon"
+    },
+    {
+      "name": "Paint or OOF!",
+      "rawName": "🖌️ Paint or OOF!",
+      "playerCount": 13,
+      "url": "https://www.roblox.com/games/84502334847993/Paint-or-OOF",
+      "foundBy": "zoo or oof 1"
+    },
+    {
+      "name": "Escape Evil ZooKeeper!",
+      "rawName": "Escape Evil ZooKeeper! (Obby)",
+      "playerCount": 12,
+      "url": "https://www.roblox.com/games/111468735518416/Escape-Evil-ZooKeeper",
+      "foundBy": "zoo obby"
+    },
+    {
+      "name": "Zoo Simulator",
+      "rawName": "Zoo Simulator",
+      "playerCount": 12,
+      "url": "https://www.roblox.com/games/134587051600251/Zoo-Simulator",
+      "foundBy": "zoo or oof"
+    },
+    {
+      "name": "Draw a Zoo",
+      "rawName": "Draw a Zoo",
+      "playerCount": 11,
+      "url": "https://www.roblox.com/games/124625764748362/Draw-a-Zoo",
+      "foundBy": "zoo"
+    },
+    {
+      "name": "Zoonomaly Morphs",
+      "rawName": "[New🌳] Zoonomaly Morphs",
+      "playerCount": 11,
+      "url": "https://www.roblox.com/games/17349635962/Zoonomaly-Morphs",
+      "foundBy": "zoo or oof modded"
+    },
+    {
+      "name": "Hands Hide and Seek",
+      "rawName": "Hands Hide and Seek",
+      "playerCount": 10,
+      "url": "https://www.roblox.com/games/109105541318739/Hands-Hide-and-Seek",
+      "foundBy": "zoo or oof hide and seek"
+    },
+    {
+      "name": "EVERLAND Zoo Adventure",
+      "rawName": "EVERLAND Zoo Adventure",
+      "playerCount": 9,
+      "url": "https://www.roblox.com/games/12478274697/EVERLAND-Zoo-Adventure",
+      "foundBy": "zoo"
+    }
+  ]
+}

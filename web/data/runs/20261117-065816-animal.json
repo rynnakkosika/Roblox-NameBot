@@ -1,0 +1,1086 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261117-065816-animal",
+    "genre": "animal",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-17T06:58:16Z",
+    "finishedAt": "2026-11-17T07:09:23Z",
+    "issue": null,
+    "genreWords": [
+      "animal"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Hospital Daycare Animal Simulator",
+      "score": 845.844,
+      "words": [
+        "Hospital",
+        "Daycare",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator",
+        "animal hospital",
+        "animal daycare"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Animal Simulator",
+      "score": 638.691,
+      "words": [
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator",
+        "animal simulator race",
+        "animal evolution simulator"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Animal Hospital",
+      "score": 596.334,
+      "words": [
+        "Animal",
+        "Hospital"
+      ],
+      "supportedBy": [
+        "animal hospital",
+        "animal hospital rp",
+        "animal hospital admin panel"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Hide Seek Animal Simulator",
+      "score": 405.718,
+      "words": [
+        "Hide",
+        "Seek",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator",
+        "animal hide and seek",
+        "animal simulator race"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Animal Hospital RP",
+      "score": 374.1,
+      "words": [
+        "Animal",
+        "Hospital",
+        "RP"
+      ],
+      "supportedBy": [
+        "animal hospital",
+        "animal hospital rp",
+        "animal hospital admin panel"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Animal Daycare",
+      "score": 348.429,
+      "words": [
+        "Animal",
+        "Daycare"
+      ],
+      "supportedBy": [
+        "animal daycare",
+        "animal hospital daycare",
+        "animal daycare anomaly"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Animal Survival",
+      "score": 288.851,
+      "words": [
+        "Animal",
+        "Survival"
+      ],
+      "supportedBy": [
+        "animal survival",
+        "animal survival games",
+        "animal survival game"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Sim Underwater Animal Simulator",
+      "score": 278.992,
+      "words": [
+        "Sim",
+        "Underwater",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator",
+        "animal sim underwater",
+        "animal simulator race"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Animal Hospital Admin Panel",
+      "score": 249.558,
+      "words": [
+        "Animal",
+        "Hospital",
+        "Admin",
+        "Panel"
+      ],
+      "supportedBy": [
+        "animal hospital",
+        "animal hospital rp",
+        "animal hospital admin panel"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Mog Evolution Animal Simulator",
+      "score": 214.648,
+      "words": [
+        "Mog",
+        "Evolution",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator",
+        "animal evolution",
+        "animal mog"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Animal Hospital Escape",
+      "score": 197.433,
+      "words": [
+        "Animal",
+        "Hospital",
+        "Escape"
+      ],
+      "supportedBy": [
+        "animal hospital",
+        "animal hospital rp",
+        "animal hospital admin panel"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Capture Flag Animal Survival",
+      "score": 184.245,
+      "words": [
+        "Capture",
+        "Flag",
+        "Animal",
+        "Survival"
+      ],
+      "supportedBy": [
+        "animal survival",
+        "animal capture the flag",
+        "animal simulator flag"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Animal Hide Seek Zoo",
+      "score": 156.762,
+      "words": [
+        "Animal",
+        "Hide",
+        "Seek",
+        "Zoo"
+      ],
+      "supportedBy": [
+        "animal hide and seek",
+        "animal zoo",
+        "animal hide and seek zoo"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Race Animal Simulator",
+      "score": 154.17,
+      "words": [
+        "Race",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator",
+        "animal simulator race",
+        "animal race"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Animal Daycare RP",
+      "score": 146.649,
+      "words": [
+        "Animal",
+        "Daycare",
+        "RP"
+      ],
+      "supportedBy": [
+        "animal daycare",
+        "animal hospital rp",
+        "animal rp"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Animal Hospital Prison Run",
+      "score": 145.235,
+      "words": [
+        "Animal",
+        "Hospital",
+        "Prison",
+        "Run"
+      ],
+      "supportedBy": [
+        "animal hospital",
+        "animal hospital rp",
+        "animal hospital admin panel"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Animal Sim Underwater",
+      "score": 144.349,
+      "words": [
+        "Animal",
+        "Sim",
+        "Underwater"
+      ],
+      "supportedBy": [
+        "animal sim underwater",
+        "animal simulator underwater",
+        "animal sim"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Animal Evolution",
+      "score": 127.565,
+      "words": [
+        "Animal",
+        "Evolution"
+      ],
+      "supportedBy": [
+        "animal evolution",
+        "animal evolution simulator",
+        "animal evolution tower"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Restaurant Animal Simulator",
+      "score": 121.745,
+      "words": [
+        "Restaurant",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator",
+        "animal restaurant",
+        "animal simulator race"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Animal Daycare Tycoon",
+      "score": 116.524,
+      "words": [
+        "Animal",
+        "Daycare",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "animal daycare",
+        "animal hospital daycare",
+        "animal tycoon"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Animal Hospital Tower",
+      "score": 115.139,
+      "words": [
+        "Animal",
+        "Hospital",
+        "Tower"
+      ],
+      "supportedBy": [
+        "animal hospital",
+        "animal hospital rp",
+        "animal hospital admin panel"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Shelter Animal Survival",
+      "score": 112.269,
+      "words": [
+        "Shelter",
+        "Animal",
+        "Survival"
+      ],
+      "supportedBy": [
+        "animal survival",
+        "animal shelter",
+        "animal survival games"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Animal Hide Seek",
+      "score": 97.599,
+      "words": [
+        "Animal",
+        "Hide",
+        "Seek"
+      ],
+      "supportedBy": [
+        "animal hide and seek",
+        "animal hide and seek zoo",
+        "animal hide and seek game"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Cafe Animal Simulator",
+      "score": 96.855,
+      "words": [
+        "Cafe",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator",
+        "animal cafe",
+        "animal simulator race"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Animal Daycare Roleplay",
+      "score": 92.821,
+      "words": [
+        "Animal",
+        "Daycare",
+        "Roleplay"
+      ],
+      "supportedBy": [
+        "animal daycare",
+        "animal roleplay",
+        "animal hospital daycare"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "animal",
+      "score": 1243.067
+    },
+    {
+      "text": "animal hospital",
+      "score": 301.975
+    },
+    {
+      "text": "hospital",
+      "score": 258.234
+    },
+    {
+      "text": "simulator",
+      "score": 222.653
+    },
+    {
+      "text": "animal simulator",
+      "score": 222.584
+    },
+    {
+      "text": "daycare",
+      "score": 137.3
+    },
+    {
+      "text": "animal daycare",
+      "score": 135.449
+    },
+    {
+      "text": "hide seek",
+      "score": 100.644
+    },
+    {
+      "text": "animal hide",
+      "score": 99.232
+    },
+    {
+      "text": "survival",
+      "score": 80.532
+    },
+    {
+      "text": "animal survival",
+      "score": 75.726
+    },
+    {
+      "text": "hide",
+      "score": 69.171
+    },
+    {
+      "text": "seek",
+      "score": 69.171
+    },
+    {
+      "text": "evolution",
+      "score": 59.468
+    },
+    {
+      "text": "animal evolution",
+      "score": 58.864
+    },
+    {
+      "text": "animal sim",
+      "score": 51.659
+    },
+    {
+      "text": "sim underwater",
+      "score": 50.657
+    },
+    {
+      "text": "hospital rp",
+      "score": 48.236
+    },
+    {
+      "text": "underwater",
+      "score": 38.76
+    },
+    {
+      "text": "sim",
+      "score": 35.547
+    },
+    {
+      "text": "capture flag",
+      "score": 35.056
+    },
+    {
+      "text": "animals capture",
+      "score": 34.762
+    },
+    {
+      "text": "flag",
+      "score": 29.641
+    },
+    {
+      "text": "race",
+      "score": 25.219
+    },
+    {
+      "text": "capture",
+      "score": 24.476
+    },
+    {
+      "text": "admin panel",
+      "score": 20.178
+    },
+    {
+      "text": "restaurant",
+      "score": 19.151
+    },
+    {
+      "text": "animal restaurant",
+      "score": 19.093
+    },
+    {
+      "text": "hospital admin",
+      "score": 19.008
+    },
+    {
+      "text": "escape",
+      "score": 18.901
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "animal simulator",
+      "score": 353.092,
+      "appearances": 567,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "animal hospital",
+      "score": 336.195,
+      "appearances": 476,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "animal daycare",
+      "score": 230.512,
+      "appearances": 386,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "animal hide and seek",
+      "score": 192.281,
+      "appearances": 478,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "animal survival",
+      "score": 130.19,
+      "appearances": 321,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "animal sim underwater",
+      "score": 100.081,
+      "appearances": 314,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "animal hospital rp",
+      "score": 73.802,
+      "appearances": 193,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "animal evolution",
+      "score": 70.557,
+      "appearances": 143,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "animal capture the flag",
+      "score": 56.722,
+      "appearances": 156,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "animal hospital admin panel",
+      "score": 37.822,
+      "appearances": 109,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "animal restaurant",
+      "score": 37.706,
+      "appearances": 81,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "animal hospital escape",
+      "score": 35.487,
+      "appearances": 124,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "animal mog",
+      "score": 33.488,
+      "appearances": 104,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "animal shelter",
+      "score": 32.684,
+      "appearances": 134,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "animal hotel",
+      "score": 31.604,
+      "appearances": 90,
+      "bestRank": 2
+    },
+    {
+      "rank": 16,
+      "text": "animal cafe",
+      "score": 31.424,
+      "appearances": 95,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "animal simulator race",
+      "score": 30.947,
+      "appearances": 86,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "animal race",
+      "score": 27.356,
+      "appearances": 65,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "animal vs fence",
+      "score": 26.487,
+      "appearances": 74,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "animal evolution simulator",
+      "score": 25.933,
+      "appearances": 53,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "animal games",
+      "score": 24.077,
+      "appearances": 62,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "animal roleplay",
+      "score": 24.043,
+      "appearances": 63,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "animal topia",
+      "score": 23.606,
+      "appearances": 74,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "animal prison",
+      "score": 21.409,
+      "appearances": 104,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "animal story",
+      "score": 21.127,
+      "appearances": 66,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "animal rp",
+      "score": 20,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "animal soccer",
+      "score": 19.38,
+      "appearances": 59,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "animal obby",
+      "score": 19.035,
+      "appearances": 60,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "animal hospital daycare",
+      "score": 17.778,
+      "appearances": 39,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "animal tycoon",
+      "score": 15.97,
+      "appearances": 35,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "animal tower",
+      "score": 14.775,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "animal",
+      "score": 14.33,
+      "appearances": 36,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "animal simulator underwater",
+      "score": 12.252,
+      "appearances": 27,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "animal simulator flag",
+      "score": 12.227,
+      "appearances": 40,
+      "bestRank": 2
+    },
+    {
+      "rank": 35,
+      "text": "animal hospital tower",
+      "score": 11.892,
+      "appearances": 73,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "animal crossing",
+      "score": 11.4,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "animal life",
+      "score": 11.212,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "animals capture the flag",
+      "score": 11.175,
+      "appearances": 49,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "animal adventures",
+      "score": 11.037,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "animal survival games",
+      "score": 10.751,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "animal training",
+      "score": 10.702,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 42,
+      "text": "animal kingdom",
+      "score": 10.29,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "animal morph",
+      "score": 10.282,
+      "appearances": 37,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "animal hospital prison run",
+      "score": 10.049,
+      "appearances": 49,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "animal hospital morphs",
+      "score": 9.354,
+      "appearances": 41,
+      "bestRank": 1
+    },
+    {
+      "rank": 46,
+      "text": "animal company",
+      "score": 9.301,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 47,
+      "text": "animal simulator rp",
+      "score": 7.978,
+      "appearances": 28,
+      "bestRank": 2
+    },
+    {
+      "rank": 48,
+      "text": "animal escape",
+      "score": 7.881,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "animal speed",
+      "score": 7.416,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "animal evolution tower",
+      "score": 7.405,
+      "appearances": 18,
+      "bestRank": 2
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 601789,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "animal hospital"
+    },
+    {
+      "name": "Throw Food For Animals",
+      "rawName": "Throw Food For Animals",
+      "playerCount": 218070,
+      "url": "https://www.roblox.com/games/120219252362013/Throw-Food-For-Animals",
+      "foundBy": "animal"
+    },
+    {
+      "name": "99 Nights in the Forest",
+      "rawName": "99 Nights in the Forest 🔦",
+      "playerCount": 89981,
+      "url": "https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest",
+      "foundBy": "animal hospital"
+    },
+    {
+      "name": "Ant Evolution",
+      "rawName": "[🐜] Ant Evolution",
+      "playerCount": 23880,
+      "url": "https://www.roblox.com/games/123969755970816/Ant-Evolution",
+      "foundBy": "animal evolution"
+    },
+    {
+      "name": "Creatures of Sonaria Survive Kaiju Animals",
+      "rawName": "🦖 Creatures of Sonaria ✨ Survive Kaiju Animals",
+      "playerCount": 13238,
+      "url": "https://www.roblox.com/games/5233782396/Creatures-of-Sonaria-Survive-Kaiju-Animals",
+      "foundBy": "animal"
+    },
+    {
+      "name": "Animal Hospital",
+      "rawName": "Animal Hospital (Anomaly) 🧪",
+      "playerCount": 7917,
+      "url": "https://www.roblox.com/games/78515283254292/Animal-Hospital",
+      "foundBy": "animal"
+    },
+    {
+      "name": "FERAL Animal Survival",
+      "rawName": "[COBRA🐍] FERAL 🐺 Animal Survival",
+      "playerCount": 7373,
+      "url": "https://www.roblox.com/games/108901361810209/FERAL-Animal-Survival",
+      "foundBy": "animal"
+    },
+    {
+      "name": "Raise The Biggest Family",
+      "rawName": "[🐶PETS] Raise The Biggest Family",
+      "playerCount": 7255,
+      "url": "https://www.roblox.com/games/89537559330901/Raise-The-Biggest-Family",
+      "foundBy": "animal daycare"
+    },
+    {
+      "name": "Bug Evolution",
+      "rawName": "Bug Evolution [☀️]",
+      "playerCount": 5247,
+      "url": "https://www.roblox.com/games/70650894743738/Bug-Evolution",
+      "foundBy": "animal evolution"
+    },
+    {
+      "name": "Clone Baby Care",
+      "rawName": "Clone Baby Care (Anomaly)",
+      "playerCount": 3585,
+      "url": "https://www.roblox.com/games/87346021451395/Clone-Baby-Care",
+      "foundBy": "animal daycare"
+    },
+    {
+      "name": "Animal Simulator",
+      "rawName": "Animal Simulator [🐉 DRAGONS + PETS!]",
+      "playerCount": 3302,
+      "url": "https://www.roblox.com/games/5712833750/Animal-Simulator",
+      "foundBy": "animal"
+    },
+    {
+      "name": "Prior Extinction - Dinosaur Survival!",
+      "rawName": "[HALLOWEEN👻]Prior Extinction - Dinosaur Survival!",
+      "playerCount": 1620,
+      "url": "https://www.roblox.com/games/6698800091/Prior-Extinction-Dinosaur-Survival",
+      "foundBy": "animal survival"
+    },
+    {
+      "name": "Savannah Life",
+      "rawName": "Savannah Life",
+      "playerCount": 1435,
+      "url": "https://www.roblox.com/games/18214855317/Savannah-Life",
+      "foundBy": "animal"
+    },
+    {
+      "name": "MorphUp!",
+      "rawName": "[TURKEY 🦃] MorphUp!",
+      "playerCount": 1187,
+      "url": "https://www.roblox.com/games/133203197541113/MorphUp",
+      "foundBy": "animal evolution"
+    },
+    {
+      "name": "Broodwing",
+      "rawName": "[Performance] Broodwing",
+      "playerCount": 1073,
+      "url": "https://www.roblox.com/games/116189555550783/Broodwing",
+      "foundBy": "animal simulator"
+    },
+    {
+      "name": "Cat Simulator",
+      "rawName": "Cat Simulator",
+      "playerCount": 944,
+      "url": "https://www.roblox.com/games/114472596554765/Cat-Simulator",
+      "foundBy": "animal simulator"
+    },
+    {
+      "name": "Mega Hide and Seek!",
+      "rawName": "Mega Hide and Seek!",
+      "playerCount": 884,
+      "url": "https://www.roblox.com/games/5708035517/Mega-Hide-and-Seek",
+      "foundBy": "animal hide and seek"
+    },
+    {
+      "name": "Build To Hide and Seek",
+      "rawName": "Build To Hide and Seek",
+      "playerCount": 720,
+      "url": "https://www.roblox.com/games/85701951276426/Build-To-Hide-and-Seek",
+      "foundBy": "animal hide and seek"
+    },
+    {
+      "name": "Animal Daycare",
+      "rawName": "[UPD] Animal Daycare (Anomaly)",
+      "playerCount": 708,
+      "url": "https://www.roblox.com/games/124061247871628/Animal-Daycare",
+      "foundBy": "animal hospital"
+    },
+    {
+      "name": "1 Speed Evolve",
+      "rawName": "+1 Speed Evolve 🦊",
+      "playerCount": 660,
+      "url": "https://www.roblox.com/games/83569851223739/1-Speed-Evolve",
+      "foundBy": "animal evolution"
+    },
+    {
+      "name": "1 Animal Mog Evolution",
+      "rawName": "+1 Animal Mog Evolution",
+      "playerCount": 558,
+      "url": "https://www.roblox.com/games/134820818906933/1-Animal-Mog-Evolution",
+      "foundBy": "animal evolution"
+    },
+    {
+      "name": "Animal Life: Forest RP",
+      "rawName": "🍁Animal Life: Forest RP 🐺🦌🐰🐴",
+      "playerCount": 330,
+      "url": "https://www.roblox.com/games/9176945447/Animal-Life-Forest-RP",
+      "foundBy": "animal"
+    },
+    {
+      "name": "ZOO or OOF 2",
+      "rawName": "ZOO or OOF 2",
+      "playerCount": 310,
+      "url": "https://www.roblox.com/games/139506321380888/ZOO-or-OOF-2",
+      "foundBy": "animal hide and seek"
+    },
+    {
+      "name": "Animal Sim: Underwater",
+      "rawName": "Animal Sim: Underwater",
+      "playerCount": 290,
+      "url": "https://www.roblox.com/games/13110267312/Animal-Sim-Underwater",
+      "foundBy": "animal"
+    },
+    {
+      "name": "FPE RP",
+      "rawName": "[🔧1.4] FPE RP",
+      "playerCount": 260,
+      "url": "https://www.roblox.com/games/17503988068/FPE-RP",
+      "foundBy": "animal hospital rp"
+    },
+    {
+      "name": "Animals Capture The Flag",
+      "rawName": "Animals Capture The Flag",
+      "playerCount": 183,
+      "url": "https://www.roblox.com/games/13694675435/Animals-Capture-The-Flag",
+      "foundBy": "animal"
+    },
+    {
+      "name": "Tundra: Ice Age Survival",
+      "rawName": "[MEGALANIA🦎] Tundra: Ice Age Survival [ALPHA]",
+      "playerCount": 151,
+      "url": "https://www.roblox.com/games/83887832215068/Tundra-Ice-Age-Survival",
+      "foundBy": "animal survival"
+    },
+    {
+      "name": "Animal Evolution",
+      "rawName": "Animal Evolution ",
+      "playerCount": 142,
+      "url": "https://www.roblox.com/games/95558786904444/Animal-Evolution",
+      "foundBy": "animal evolution"
+    },
+    {
+      "name": "Be a Shark",
+      "rawName": "Be a Shark🦈",
+      "playerCount": 103,
+      "url": "https://www.roblox.com/games/15334675936/Be-a-Shark",
+      "foundBy": "animal sim underwater"
+    },
+    {
+      "name": "Jungle Life",
+      "rawName": "Jungle Life",
+      "playerCount": 103,
+      "url": "https://www.roblox.com/games/85094158141349/Jungle-Life",
+      "foundBy": "animal"
+    }
+  ]
+}

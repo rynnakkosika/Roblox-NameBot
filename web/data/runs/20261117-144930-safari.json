@@ -1,0 +1,1061 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261117-144930-safari",
+    "genre": "safari",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-17T14:49:30Z",
+    "finishedAt": "2026-11-17T15:00:36Z",
+    "issue": null,
+    "genreWords": [
+      "safari"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Safari Trip",
+      "score": 77.613,
+      "words": [
+        "Safari",
+        "Trip"
+      ],
+      "supportedBy": [
+        "safari trip",
+        "safari road trip",
+        "safari long trip"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Animal Life Safari Tycoon",
+      "score": 58.144,
+      "words": [
+        "Animal",
+        "Life",
+        "Safari",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "safari life",
+        "safari tycoon",
+        "safari animals"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Zoo World Safari Tycoon",
+      "score": 38.368,
+      "words": [
+        "Zoo",
+        "World",
+        "Safari",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "safari tycoon",
+        "safari zoo",
+        "safari world"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Safari Life",
+      "score": 37.657,
+      "words": [
+        "Safari",
+        "Life"
+      ],
+      "supportedBy": [
+        "safari life",
+        "save your life"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Safari Trip Simulator",
+      "score": 36.915,
+      "words": [
+        "Safari",
+        "Trip",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "safari trip",
+        "safari simulator",
+        "safari road trip"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Safari Rally",
+      "score": 29.649,
+      "words": [
+        "Safari",
+        "Rally"
+      ],
+      "supportedBy": [
+        "safari rally"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Safari Trip RP",
+      "score": 27.966,
+      "words": [
+        "Safari",
+        "Trip",
+        "RP"
+      ],
+      "supportedBy": [
+        "safari trip",
+        "safari road trip",
+        "safari long trip"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Safari Playbox",
+      "score": 26.925,
+      "words": [
+        "Safari",
+        "Playbox"
+      ],
+      "supportedBy": [
+        "safari playbox"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Safari Tycoon",
+      "score": 25.186,
+      "words": [
+        "Safari",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "safari tycoon",
+        "safari car dealership tycoon",
+        "safari park tycoon"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Safari Park",
+      "score": 24.655,
+      "words": [
+        "Safari",
+        "Park"
+      ],
+      "supportedBy": [
+        "safari park",
+        "safari park tycoon"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Safari TV",
+      "score": 24.1,
+      "words": [
+        "Safari",
+        "TV"
+      ],
+      "supportedBy": [
+        "safari tv"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Safari Zoo",
+      "score": 22.826,
+      "words": [
+        "Safari",
+        "Zoo"
+      ],
+      "supportedBy": [
+        "safari zoo",
+        "safety zoo"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Safari Camping",
+      "score": 22.247,
+      "words": [
+        "Safari",
+        "Camping"
+      ],
+      "supportedBy": [
+        "safari camping"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Safari Trip Racing",
+      "score": 21.133,
+      "words": [
+        "Safari",
+        "Trip",
+        "Racing"
+      ],
+      "supportedBy": [
+        "safari trip",
+        "safari road trip",
+        "safari long trip"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Sea Animal Safari Simulator",
+      "score": 20.857,
+      "words": [
+        "Sea",
+        "Animal",
+        "Safari",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "sea fruit",
+        "safari simulator",
+        "safari animals"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Blox Fruit Safari Tycoon",
+      "score": 18.703,
+      "words": [
+        "Blox",
+        "Fruit",
+        "Safari",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "safari tycoon",
+        "sea fruit",
+        "sea fruits"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Safari Life Survival",
+      "score": 17.558,
+      "words": [
+        "Safari",
+        "Life",
+        "Survival"
+      ],
+      "supportedBy": [
+        "safari life",
+        "save your life"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Safari Animals",
+      "score": 16.387,
+      "words": [
+        "Safari",
+        "Animals"
+      ],
+      "supportedBy": [
+        "safari animals",
+        "sea for animals",
+        "sea for animal"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Safari Trip Battlegrounds",
+      "score": 16.215,
+      "words": [
+        "Safari",
+        "Trip",
+        "Battlegrounds"
+      ],
+      "supportedBy": [
+        "safari trip",
+        "safari road trip",
+        "safari long trip"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Backseat Rally Safari RP",
+      "score": 14.95,
+      "words": [
+        "Backseat",
+        "Rally",
+        "Safari",
+        "RP"
+      ],
+      "supportedBy": [
+        "safari rally",
+        "safari rp"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Safari World",
+      "score": 14.647,
+      "words": [
+        "Safari",
+        "World"
+      ],
+      "supportedBy": [
+        "safari world"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Safari Simulator",
+      "score": 12.288,
+      "words": [
+        "Safari",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "safari simulator",
+        "1800s farm simulator",
+        "sephora simulator"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Driving Empire Safari Tycoon",
+      "score": 12.053,
+      "words": [
+        "Driving",
+        "Empire",
+        "Safari",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "safari tycoon",
+        "safari car dealership tycoon",
+        "safari driving"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Zoo Park Safari",
+      "score": 11.774,
+      "words": [
+        "Zoo",
+        "Park",
+        "Safari"
+      ],
+      "supportedBy": [
+        "safari park",
+        "safari zoo",
+        "safety zoo"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Safari Life Racing",
+      "score": 11.381,
+      "words": [
+        "Safari",
+        "Life",
+        "Racing"
+      ],
+      "supportedBy": [
+        "safari life",
+        "save your life"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "safari",
+      "score": 159.31
+    },
+    {
+      "text": "trip",
+      "score": 26.806
+    },
+    {
+      "text": "safari trip",
+      "score": 20.609
+    },
+    {
+      "text": "life",
+      "score": 17.758
+    },
+    {
+      "text": "animal",
+      "score": 15.825
+    },
+    {
+      "text": "zoo",
+      "score": 14.98
+    },
+    {
+      "text": "tycoon",
+      "score": 13.537
+    },
+    {
+      "text": "rally",
+      "score": 12.591
+    },
+    {
+      "text": "safari life",
+      "score": 11.725
+    },
+    {
+      "text": "fruit",
+      "score": 8.932
+    },
+    {
+      "text": "world",
+      "score": 8.537
+    },
+    {
+      "text": "playbox",
+      "score": 8.312
+    },
+    {
+      "text": "park",
+      "score": 7.91
+    },
+    {
+      "text": "safari tycoon",
+      "score": 7.805
+    },
+    {
+      "text": "safari playbox",
+      "score": 7.445
+    },
+    {
+      "text": "safari tv",
+      "score": 6.886
+    },
+    {
+      "text": "safari park",
+      "score": 6.884
+    },
+    {
+      "text": "safari rally",
+      "score": 6.823
+    },
+    {
+      "text": "camping",
+      "score": 6.805
+    },
+    {
+      "text": "safari camping",
+      "score": 6.177
+    },
+    {
+      "text": "simulator",
+      "score": 6.023
+    },
+    {
+      "text": "sea",
+      "score": 5.655
+    },
+    {
+      "text": "safari zoo",
+      "score": 5.421
+    },
+    {
+      "text": "safari simulator",
+      "score": 4.067
+    },
+    {
+      "text": "safari animals",
+      "score": 3.912
+    },
+    {
+      "text": "safari world",
+      "score": 3.908
+    },
+    {
+      "text": "lion",
+      "score": 3.852
+    },
+    {
+      "text": "backseat",
+      "score": 3.509
+    },
+    {
+      "text": "ride",
+      "score": 3.251
+    },
+    {
+      "text": "safari ride",
+      "score": 3.199
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "safari trip",
+      "score": 40.503,
+      "appearances": 57,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "safari life",
+      "score": 23.451,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "safari",
+      "score": 16.337,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "safari tycoon",
+      "score": 15.146,
+      "appearances": 31,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "safari playbox",
+      "score": 14.891,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "safari tv",
+      "score": 13.771,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "safari rally",
+      "score": 13.646,
+      "appearances": 30,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "safari park",
+      "score": 13.303,
+      "appearances": 24,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "safari camping",
+      "score": 12.354,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "safari games",
+      "score": 12.292,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "safari zoo",
+      "score": 10.842,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "safari game",
+      "score": 10.84,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "safari simulator",
+      "score": 8.133,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "safari animals",
+      "score": 7.823,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "safari world",
+      "score": 7.817,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "safari ride",
+      "score": 6.397,
+      "appearances": 15,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "safari drive",
+      "score": 3.929,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "safari car",
+      "score": 3.543,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "safari de animales",
+      "score": 3.253,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "safari cam",
+      "score": 3.156,
+      "appearances": 5,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "safari adventure",
+      "score": 2.846,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "safari hunting",
+      "score": 2.691,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "safari extremo",
+      "score": 2.382,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "safari grow lion",
+      "score": 2.324,
+      "appearances": 5,
+      "bestRank": 3
+    },
+    {
+      "rank": 25,
+      "text": "safari journey",
+      "score": 2.324,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "safari tour",
+      "score": 2.199,
+      "appearances": 6,
+      "bestRank": 2
+    },
+    {
+      "rank": 27,
+      "text": "safari movie",
+      "score": 2.014,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "safari mount",
+      "score": 1.994,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "safari play",
+      "score": 1.779,
+      "appearances": 4,
+      "bestRank": 2
+    },
+    {
+      "rank": 30,
+      "text": "safari drive through",
+      "score": 1.677,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "safari road trip",
+      "score": 1.212,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "safari de africa",
+      "score": 1.084,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "safari tsunami",
+      "score": 0.97,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "safari clubs",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "safari con animales salvajes",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "safari crocodile game",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "safari en el desierto",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "safari long trip",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "safari rp",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "safari scramble",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 41,
+      "text": "safari car dealership",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 42,
+      "text": "safari drive thru",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 43,
+      "text": "safari safari",
+      "score": 0.697,
+      "appearances": 2,
+      "bestRank": 3
+    },
+    {
+      "rank": 44,
+      "text": "safari tower",
+      "score": 0.697,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 45,
+      "text": "safari car dealership tycoon",
+      "score": 0.62,
+      "appearances": 1,
+      "bestRank": 3
+    },
+    {
+      "rank": 46,
+      "text": "safari exit",
+      "score": 0.542,
+      "appearances": 1,
+      "bestRank": 4
+    },
+    {
+      "rank": 47,
+      "text": "safari reise",
+      "score": 0.542,
+      "appearances": 1,
+      "bestRank": 4
+    },
+    {
+      "rank": 48,
+      "text": "safari driving",
+      "score": 0.54,
+      "appearances": 1,
+      "bestRank": 2
+    },
+    {
+      "rank": 49,
+      "text": "safari park tycoon",
+      "score": 0.465,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "safari tycoon cars tycoons mansion tycon tycooon",
+      "score": 0.465,
+      "appearances": 1,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Blox Fruits",
+      "rawName": "[🎃] Blox Fruits",
+      "playerCount": 256713,
+      "url": "https://www.roblox.com/games/2753915549/Blox-Fruits",
+      "foundBy": "sea fruit"
+    },
+    {
+      "name": "King Legacy",
+      "rawName": "[🐉UPD 11 PART 1🎃] King Legacy",
+      "playerCount": 39291,
+      "url": "https://www.roblox.com/games/4520749081/King-Legacy",
+      "foundBy": "sea fruit"
+    },
+    {
+      "name": "Driving Empire",
+      "rawName": "Driving Empire [✨LIMITED + DRIFT✨]",
+      "playerCount": 25064,
+      "url": "https://www.roblox.com/games/3351674303/Driving-Empire",
+      "foundBy": "safari rally"
+    },
+    {
+      "name": "a dusty trip",
+      "rawName": "a dusty trip [👮PRISON]",
+      "playerCount": 13172,
+      "url": "https://www.roblox.com/games/16389395869/a-dusty-trip",
+      "foundBy": "safari"
+    },
+    {
+      "name": "FERAL Animal Survival",
+      "rawName": "[COBRA🐍] FERAL 🐺 Animal Survival",
+      "playerCount": 12179,
+      "url": "https://www.roblox.com/games/108901361810209/FERAL-Animal-Survival",
+      "foundBy": "safari"
+    },
+    {
+      "name": "Backseat Rally",
+      "rawName": "Backseat Rally",
+      "playerCount": 6686,
+      "url": "https://www.roblox.com/games/94278659624110/Backseat-Rally",
+      "foundBy": "safari rally"
+    },
+    {
+      "name": "Animal Simulator",
+      "rawName": "Animal Simulator [🐉 DRAGONS + PETS!]",
+      "playerCount": 6205,
+      "url": "https://www.roblox.com/games/5712833750/Animal-Simulator",
+      "foundBy": "safari playbox"
+    },
+    {
+      "name": "Explore the World",
+      "rawName": "[PARIS] Explore the World ✈️",
+      "playerCount": 4149,
+      "url": "https://www.roblox.com/games/85432230293457/Explore-the-World",
+      "foundBy": "safari park"
+    },
+    {
+      "name": "Skate Tree",
+      "rawName": "Skate Tree",
+      "playerCount": 3713,
+      "url": "https://www.roblox.com/games/75885533927852/Skate-Tree",
+      "foundBy": "safari rally"
+    },
+    {
+      "name": "MEDVED",
+      "rawName": "MEDVED 🐻‍❄️ (Hunt & Become Bears)",
+      "playerCount": 2991,
+      "url": "https://www.roblox.com/games/132273534230449/MEDVED",
+      "foundBy": "safari tv"
+    },
+    {
+      "name": "Savannah Life",
+      "rawName": "Savannah Life",
+      "playerCount": 2808,
+      "url": "https://www.roblox.com/games/18214855317/Savannah-Life",
+      "foundBy": "safari"
+    },
+    {
+      "name": "Fruit Battlegrounds",
+      "rawName": "[OPE V2] Fruit Battlegrounds",
+      "playerCount": 2004,
+      "url": "https://www.roblox.com/games/9224601490/Fruit-Battlegrounds",
+      "foundBy": "sea fruit"
+    },
+    {
+      "name": "Broodwing",
+      "rawName": "[Performance] Broodwing",
+      "playerCount": 1734,
+      "url": "https://www.roblox.com/games/116189555550783/Broodwing",
+      "foundBy": "safari life"
+    },
+    {
+      "name": "Animal Daycare",
+      "rawName": "[UPD] Animal Daycare (Anomaly)",
+      "playerCount": 1603,
+      "url": "https://www.roblox.com/games/124061247871628/Animal-Daycare",
+      "foundBy": "safari tv"
+    },
+    {
+      "name": "Backseat Offroad",
+      "rawName": "Backseat Offroad",
+      "playerCount": 1560,
+      "url": "https://www.roblox.com/games/92623405941973/Backseat-Offroad",
+      "foundBy": "safari rally"
+    },
+    {
+      "name": "Real Rally Racing",
+      "rawName": "[REAL CRASH PHYSICS 💥] Real Rally Racing",
+      "playerCount": 1463,
+      "url": "https://www.roblox.com/games/111625764635472/Real-Rally-Racing",
+      "foundBy": "safari rally"
+    },
+    {
+      "name": "Zoo Builder Tycoon",
+      "rawName": "[🐊 New Animals!!!] Zoo Builder Tycoon ",
+      "playerCount": 1236,
+      "url": "https://www.roblox.com/games/76814078654313/Zoo-Builder-Tycoon",
+      "foundBy": "safari tycoon"
+    },
+    {
+      "name": "A Lion's Pride Beta - Lion RP",
+      "rawName": "A Lion's Pride Beta - Lion RP 🦁",
+      "playerCount": 1194,
+      "url": "https://www.roblox.com/games/9922455303/A-Lions-Pride-Beta-Lion-RP",
+      "foundBy": "safari"
+    },
+    {
+      "name": "Meme Sea",
+      "rawName": "[UPDATE 4] Meme Sea",
+      "playerCount": 1143,
+      "url": "https://www.roblox.com/games/10260193230/Meme-Sea",
+      "foundBy": "sea fruit"
+    },
+    {
+      "name": "Deadly Camp",
+      "rawName": "Deadly Camp [⛺]",
+      "playerCount": 1051,
+      "url": "https://www.roblox.com/games/17157963133/Deadly-Camp",
+      "foundBy": "safari camping"
+    },
+    {
+      "name": "Film Animals",
+      "rawName": "Film Animals [1-6 Player]",
+      "playerCount": 913,
+      "url": "https://www.roblox.com/games/137095720966003/Film-Animals",
+      "foundBy": "safari"
+    },
+    {
+      "name": "Zoo Tycoon",
+      "rawName": "Zoo Tycoon 🥚🐲",
+      "playerCount": 753,
+      "url": "https://www.roblox.com/games/1128650291/Zoo-Tycoon",
+      "foundBy": "safari tycoon"
+    },
+    {
+      "name": "Dinosaur Life",
+      "rawName": "Dinosaur Life",
+      "playerCount": 744,
+      "url": "https://www.roblox.com/games/75541741887441/Dinosaur-Life",
+      "foundBy": "safari life"
+    },
+    {
+      "name": "Animal Life: Forest RP",
+      "rawName": "🍁Animal Life: Forest RP 🐺🦌🐰🐴",
+      "playerCount": 675,
+      "url": "https://www.roblox.com/games/9176945447/Animal-Life-Forest-RP",
+      "foundBy": "safari life"
+    },
+    {
+      "name": "Camper Van Trip",
+      "rawName": "[UPD📼] Camper Van Trip 🌲",
+      "playerCount": 615,
+      "url": "https://www.roblox.com/games/87311102000285/Camper-Van-Trip",
+      "foundBy": "safari camping"
+    },
+    {
+      "name": "WRONG WAY!",
+      "rawName": "[ANOMALY RALLY] WRONG WAY! ",
+      "playerCount": 588,
+      "url": "https://www.roblox.com/games/121671165541545/WRONG-WAY",
+      "foundBy": "safari rally"
+    },
+    {
+      "name": "Storm Fruits",
+      "rawName": "Storm Fruits [HALLOWEEN 🎃]",
+      "playerCount": 583,
+      "url": "https://www.roblox.com/games/126489443370450/Storm-Fruits",
+      "foundBy": "sea fruit"
+    },
+    {
+      "name": "Haze Seas",
+      "rawName": "[HALLOWEEN 🎃] Haze Seas ",
+      "playerCount": 509,
+      "url": "https://www.roblox.com/games/6918802270/Haze-Seas",
+      "foundBy": "sea fruit"
+    },
+    {
+      "name": "Animal Sim: Underwater",
+      "rawName": "Animal Sim: Underwater",
+      "playerCount": 437,
+      "url": "https://www.roblox.com/games/13110267312/Animal-Sim-Underwater",
+      "foundBy": "safari playbox"
+    },
+    {
+      "name": "Crazy Zoo",
+      "rawName": "Crazy Zoo",
+      "playerCount": 293,
+      "url": "https://www.roblox.com/games/13754044356/Crazy-Zoo",
+      "foundBy": "safari tycoon"
+    }
+  ]
+}

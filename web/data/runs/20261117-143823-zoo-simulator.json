@@ -1,0 +1,715 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261117-143823-zoo-simulator",
+    "genre": "zoo simulator",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-17T14:38:23Z",
+    "finishedAt": "2026-11-17T14:49:30Z",
+    "issue": null,
+    "genreWords": [
+      "zoo",
+      "simulator"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Zoo Simulator",
+      "score": 15.995,
+      "words": [
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "zoo simulator",
+        "sea simulator",
+        "x simulator"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Pet Army Zoo Simulator",
+      "score": 15.73,
+      "words": [
+        "Pet",
+        "Army",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "x simulator pet",
+        "pet simulator 99",
+        "pet simulator x"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Super Saiyan Zoo Simulator",
+      "score": 15.604,
+      "words": [
+        "Super",
+        "Saiyan",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 4,
+      "name": "Feral Animal Zoo Simulator",
+      "score": 13.323,
+      "words": [
+        "Feral",
+        "Animal",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 5,
+      "name": "Ipad Original Zoo Simulator",
+      "score": 12.87,
+      "words": [
+        "Ipad",
+        "Original",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 6,
+      "name": "Summon Pet Zoo Simulator",
+      "score": 12.584,
+      "words": [
+        "Summon",
+        "Pet",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "x simulator pet",
+        "pet simulator 99",
+        "pet simulator x"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Gs5 Menu Zoo Simulator",
+      "score": 12.367,
+      "words": [
+        "Gs5",
+        "Menu",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "ps4 simulator menu"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Speed Keyboard Zoo Simulator",
+      "score": 11.308,
+      "words": [
+        "Speed",
+        "Keyboard",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator speed"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Saiyan Evolution Zoo Simulator",
+      "score": 10.866,
+      "words": [
+        "Saiyan",
+        "Evolution",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 10,
+      "name": "Dont Splash Zoo Simulator",
+      "score": 10.114,
+      "words": [
+        "Dont",
+        "Splash",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 11,
+      "name": "Candy Chocolate Zoo Simulator",
+      "score": 9.934,
+      "words": [
+        "Candy",
+        "Chocolate",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 12,
+      "name": "Ipad Realistic Zoo Simulator",
+      "score": 9.7,
+      "words": [
+        "Ipad",
+        "Realistic",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 13,
+      "name": "Gym Star Zoo Simulator",
+      "score": 9.231,
+      "words": [
+        "Gym",
+        "Star",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "simulator bintang gym"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Plane Crash Zoo Simulator",
+      "score": 9.087,
+      "words": [
+        "Plane",
+        "Crash",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 15,
+      "name": "Savannah Life Zoo Simulator",
+      "score": 8.923,
+      "words": [
+        "Savannah",
+        "Life",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 16,
+      "name": "Water Physics Zoo Simulator",
+      "score": 8.801,
+      "words": [
+        "Water",
+        "Physics",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 17,
+      "name": "Phone Drop Zoo Simulator",
+      "score": 8.771,
+      "words": [
+        "Phone",
+        "Drop",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 18,
+      "name": "Sail Sink Zoo Simulator",
+      "score": 8.638,
+      "words": [
+        "Sail",
+        "Sink",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Animal Zoo Simulator",
+      "score": 8.615,
+      "words": [
+        "Animal",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 20,
+      "name": "Pet Zoo Simulator",
+      "score": 8.451,
+      "words": [
+        "Pet",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "x simulator pet",
+        "pet simulator 99",
+        "pet simulator x"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Saiyan Destruction Zoo Simulator",
+      "score": 8.087,
+      "words": [
+        "Saiyan",
+        "Destruction",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Super Evolution Zoo Simulator",
+      "score": 8.011,
+      "words": [
+        "Super",
+        "Evolution",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 23,
+      "name": "Apple Ipad Zoo Simulator",
+      "score": 7.755,
+      "words": [
+        "Apple",
+        "Ipad",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Menu Zoo Simulator",
+      "score": 7.491,
+      "words": [
+        "Menu",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "ps4 simulator menu"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Sea Zoo Simulator",
+      "score": 7.352,
+      "words": [
+        "Sea",
+        "Zoo",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "sea simulator",
+        "sea simulator games"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "zoo simulator",
+      "score": 10.075
+    },
+    {
+      "text": "zoo",
+      "score": 16.452
+    },
+    {
+      "text": "simulator",
+      "score": 43.678
+    },
+    {
+      "text": "pet",
+      "score": 8.167
+    },
+    {
+      "text": "animal",
+      "score": 5.731
+    },
+    {
+      "text": "saiyan",
+      "score": 5.408
+    },
+    {
+      "text": "tycoon",
+      "score": 5.388
+    },
+    {
+      "text": "ipad",
+      "score": 5.014
+    },
+    {
+      "text": "super",
+      "score": 4.333
+    },
+    {
+      "text": "menu",
+      "score": 4.327
+    },
+    {
+      "text": "escape",
+      "score": 3.523
+    },
+    {
+      "text": "keyboard",
+      "score": 3.523
+    },
+    {
+      "text": "evolution",
+      "score": 2.89
+    },
+    {
+      "text": "pet simulator",
+      "score": 2.613
+    },
+    {
+      "text": "original",
+      "score": 2.406
+    },
+    {
+      "text": "gs5",
+      "score": 2.402
+    },
+    {
+      "text": "sea",
+      "score": 2.315
+    },
+    {
+      "text": "dont",
+      "score": 2.256
+    },
+    {
+      "text": "splash",
+      "score": 2.256
+    },
+    {
+      "text": "speed",
+      "score": 2.203
+    },
+    {
+      "text": "candy",
+      "score": 2.176
+    },
+    {
+      "text": "chocolate",
+      "score": 2.176
+    },
+    {
+      "text": "menu simulator",
+      "score": 2.157
+    },
+    {
+      "text": "feral",
+      "score": 2.044
+    },
+    {
+      "text": "survival",
+      "score": 2.044
+    },
+    {
+      "text": "army",
+      "score": 2.02
+    },
+    {
+      "text": "summon",
+      "score": 2.02
+    },
+    {
+      "text": "barber",
+      "score": 1.946
+    },
+    {
+      "text": "god",
+      "score": 1.934
+    },
+    {
+      "text": "gym",
+      "score": 1.868
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "zoo simulator",
+      "score": 10.958,
+      "appearances": 17,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "zoo simulator game",
+      "score": 2.629,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "zoo simulator 2",
+      "score": 2.324,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "zoo simulator simulator",
+      "score": 2.149,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "zoo simulator tycoon",
+      "score": 1.549,
+      "appearances": 2,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Pet Simulator 99!",
+      "rawName": "🍁 [TYCOON] Pet Simulator 99! 🍀",
+      "playerCount": 46748,
+      "url": "https://www.roblox.com/games/8737899170/Pet-Simulator-99",
+      "foundBy": "x simulator"
+    },
+    {
+      "name": "DONT SPLASH",
+      "rawName": "DONT SPLASH",
+      "playerCount": 32556,
+      "url": "https://www.roblox.com/games/119958473240233/DONT-SPLASH",
+      "foundBy": "sea simulator"
+    },
+    {
+      "name": "1 Speed Keyboard Escape Candy & Chocolate",
+      "rawName": "[S8] +1 Speed Keyboard Escape | Candy & Chocolate",
+      "playerCount": 22524,
+      "url": "https://www.roblox.com/games/95082159892680/1-Speed-Keyboard-Escape-Candy-Chocolate",
+      "foundBy": "ps4 simulator roblox"
+    },
+    {
+      "name": "FERAL Animal Survival",
+      "rawName": "[COBRA🐍] FERAL 🐺 Animal Survival",
+      "playerCount": 12225,
+      "url": "https://www.roblox.com/games/108901361810209/FERAL-Animal-Survival",
+      "foundBy": "zoo simulator"
+    },
+    {
+      "name": "Summon a Pet Army",
+      "rawName": "[✨ NEW ZONES] Summon a Pet Army 🐲",
+      "playerCount": 10981,
+      "url": "https://www.roblox.com/games/89695026030574/Summon-a-Pet-Army",
+      "foundBy": "x simulator pet"
+    },
+    {
+      "name": "Barber Simulator",
+      "rawName": "[UPD 2] Barber Simulator",
+      "playerCount": 7813,
+      "url": "https://www.roblox.com/games/134026357772960/Barber-Simulator",
+      "foundBy": "zoo simulator 2"
+    },
+    {
+      "name": "Animal Simulator",
+      "rawName": "Animal Simulator [🐉 DRAGONS + PETS!]",
+      "playerCount": 6228,
+      "url": "https://www.roblox.com/games/5712833750/Animal-Simulator",
+      "foundBy": "zoo simulator 2"
+    },
+    {
+      "name": "Gym Star Simulator",
+      "rawName": "Gym Star Simulator 💪",
+      "playerCount": 5255,
+      "url": "https://www.roblox.com/games/70906625936847/Gym-Star-Simulator",
+      "foundBy": "x simulator"
+    },
+    {
+      "name": "God Simulator",
+      "rawName": "God Simulator 🌋",
+      "playerCount": 4908,
+      "url": "https://www.roblox.com/games/127758046873351/God-Simulator",
+      "foundBy": "x simulator"
+    },
+    {
+      "name": "Plane Crash Simulator",
+      "rawName": "[UPD] Plane Crash Simulator",
+      "playerCount": 3981,
+      "url": "https://www.roblox.com/games/98306159851135/Plane-Crash-Simulator",
+      "foundBy": "sea simulator"
+    },
+    {
+      "name": "1 Super Saiyan Destruction",
+      "rawName": "[UPD2] +1 Super Saiyan Destruction",
+      "playerCount": 3200,
+      "url": "https://www.roblox.com/games/109428104153038/1-Super-Saiyan-Destruction",
+      "foundBy": "ssj simulator"
+    },
+    {
+      "name": "Savannah Life",
+      "rawName": "Savannah Life",
+      "playerCount": 2842,
+      "url": "https://www.roblox.com/games/18214855317/Savannah-Life",
+      "foundBy": "zoo simulator"
+    },
+    {
+      "name": "AURA X",
+      "rawName": "AURA X",
+      "playerCount": 2714,
+      "url": "https://www.roblox.com/games/140409667345323/AURA-X",
+      "foundBy": "x simulator"
+    },
+    {
+      "name": "My iPad",
+      "rawName": "My iPad",
+      "playerCount": 2528,
+      "url": "https://www.roblox.com/games/129759731817615/My-iPad",
+      "foundBy": "ps5 simulator"
+    },
+    {
+      "name": "Water Physics",
+      "rawName": "[WORKSHOP] Water Physics",
+      "playerCount": 2215,
+      "url": "https://www.roblox.com/games/6128441278/Water-Physics",
+      "foundBy": "sea simulator"
+    },
+    {
+      "name": "iPads! Realistic Phone Drop",
+      "rawName": "iPads!🧪Realistic Phone Drop",
+      "playerCount": 2081,
+      "url": "https://www.roblox.com/games/82437948429564/iPads-Realistic-Phone-Drop",
+      "foundBy": "ps5 simulator"
+    },
+    {
+      "name": "Apple iPad Original",
+      "rawName": "Apple iPad Original",
+      "playerCount": 2022,
+      "url": "https://www.roblox.com/games/128248561501148/Apple-iPad-Original",
+      "foundBy": "ps5 simulator"
+    },
+    {
+      "name": "Avatar Simulator",
+      "rawName": "Avatar Simulator",
+      "playerCount": 1676,
+      "url": "https://www.roblox.com/games/6934310111/Avatar-Simulator",
+      "foundBy": "zoo simulator 2"
+    },
+    {
+      "name": "Sail and Sink Simulator!",
+      "rawName": "[LNG] Sail and Sink Simulator!",
+      "playerCount": 1587,
+      "url": "https://www.roblox.com/games/16141898262/Sail-and-Sink-Simulator",
+      "foundBy": "sea simulator"
+    },
+    {
+      "name": "Cat Simulator",
+      "rawName": "Cat Simulator",
+      "playerCount": 1571,
+      "url": "https://www.roblox.com/games/114472596554765/Cat-Simulator",
+      "foundBy": "ssj simulator"
+    },
+    {
+      "name": "Zoo Builder Tycoon",
+      "rawName": "[🐊 New Animals!!!] Zoo Builder Tycoon ",
+      "playerCount": 1223,
+      "url": "https://www.roblox.com/games/76814078654313/Zoo-Builder-Tycoon",
+      "foundBy": "zoo simulator"
+    },
+    {
+      "name": "Pet Simulator X!",
+      "rawName": "Pet Simulator X! 🐾",
+      "playerCount": 785,
+      "url": "https://www.roblox.com/games/6284583030/Pet-Simulator-X",
+      "foundBy": "x simulator"
+    },
+    {
+      "name": "Zoo Tycoon",
+      "rawName": "Zoo Tycoon 🥚🐲",
+      "playerCount": 764,
+      "url": "https://www.roblox.com/games/1128650291/Zoo-Tycoon",
+      "foundBy": "zoo simulator"
+    },
+    {
+      "name": "1 Keyboard Tower Escape",
+      "rawName": "[🏆X99👟X111] +1 Keyboard Tower Escape",
+      "playerCount": 493,
+      "url": "https://www.roblox.com/games/110254673767537/1-Keyboard-Tower-Escape",
+      "foundBy": "ps5 simulator roblox"
+    },
+    {
+      "name": "Fix a Console",
+      "rawName": "[UPDATE] Fix a Console",
+      "playerCount": 425,
+      "url": "https://www.roblox.com/games/70442553381283/Fix-a-Console",
+      "foundBy": "ps5 simulator"
+    },
+    {
+      "name": "Animal Sim: Underwater",
+      "rawName": "Animal Sim: Underwater",
+      "playerCount": 422,
+      "url": "https://www.roblox.com/games/13110267312/Animal-Sim-Underwater",
+      "foundBy": "sea simulator"
+    },
+    {
+      "name": "GS5 Menu Simulator",
+      "rawName": "GS5 Menu Simulator",
+      "playerCount": 405,
+      "url": "https://www.roblox.com/games/124839754585584/GS5-Menu-Simulator",
+      "foundBy": "ps5 simulator"
+    },
+    {
+      "name": "Ride Level 1-100 Pets",
+      "rawName": "Ride Level 1-100 Pets",
+      "playerCount": 373,
+      "url": "https://www.roblox.com/games/80107288672694/Ride-Level-1-100-Pets",
+      "foundBy": "x simulator"
+    },
+    {
+      "name": "Dragon Blox GT",
+      "rawName": "Dragon Blox GT",
+      "playerCount": 262,
+      "url": "https://www.roblox.com/games/2499981932/Dragon-Blox-GT",
+      "foundBy": "ssj simulator"
+    },
+    {
+      "name": "Baltic Sea Simulator FREE RELEASE",
+      "rawName": "Baltic Sea Simulator │FREE RELEASE",
+      "playerCount": 200,
+      "url": "https://www.roblox.com/games/139571938533204/Baltic-Sea-Simulator-FREE-RELEASE",
+      "foundBy": "sea simulator"
+    }
+  ]
+}

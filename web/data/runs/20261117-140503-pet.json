@@ -1,0 +1,1085 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261117-140503-pet",
+    "genre": "pet",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-17T14:05:03Z",
+    "finishedAt": "2026-11-17T14:16:09Z",
+    "issue": null,
+    "genreWords": [
+      "pet"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Go Modded Pet Simulator",
+      "score": 911.045,
+      "words": [
+        "Go",
+        "Modded",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99",
+        "pet simulator x",
+        "pet simulator 99 modded"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Store Pet Simulator",
+      "score": 710.392,
+      "words": [
+        "Store",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99",
+        "pet simulator x",
+        "pet store tycoon"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Pet Story",
+      "score": 707.54,
+      "words": [
+        "Pet",
+        "Story"
+      ],
+      "supportedBy": [
+        "pet story",
+        "pet story 2",
+        "pet story tycoon"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Show Dress Pet Simulator",
+      "score": 552.694,
+      "words": [
+        "Show",
+        "Dress",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99",
+        "pet simulator x",
+        "pet simulator 99 modded"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Pet Store Tycoon",
+      "score": 454.486,
+      "words": [
+        "Pet",
+        "Store",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "pet store tycoon",
+        "pet tycoon",
+        "pet store tycoon 2"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Cat Sitter Pet Simulator",
+      "score": 432.787,
+      "words": [
+        "Cat",
+        "Sitter",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99",
+        "pet simulator x",
+        "pet simulator 99 modded"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Party Pet Simulator",
+      "score": 345.343,
+      "words": [
+        "Party",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99",
+        "pet simulator x",
+        "pet simulator 99 modded"
+      ]
+    },
+    {
+      "position": 8,
+      "name": "Adventure Pet Story",
+      "score": 329.9,
+      "words": [
+        "Adventure",
+        "Pet",
+        "Story"
+      ],
+      "supportedBy": [
+        "pet story",
+        "pet adventure",
+        "pet story 2"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Animal Hospital Pet Simulator",
+      "score": 270.159,
+      "words": [
+        "Animal",
+        "Hospital",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99",
+        "pet simulator x",
+        "pet simulator 99 modded"
+      ]
+    },
+    {
+      "position": 10,
+      "name": "Hide Seek Pet Story",
+      "score": 256.375,
+      "words": [
+        "Hide",
+        "Seek",
+        "Pet",
+        "Story"
+      ],
+      "supportedBy": [
+        "pet story",
+        "pet story 2",
+        "pet story tycoon"
+      ]
+    },
+    {
+      "position": 11,
+      "name": "Factory Pet Simulator",
+      "score": 215.074,
+      "words": [
+        "Factory",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99",
+        "pet simulator x",
+        "pet simulator 99 modded"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Life Forest Pet Story",
+      "score": 203.287,
+      "words": [
+        "Life",
+        "Forest",
+        "Pet",
+        "Story"
+      ],
+      "supportedBy": [
+        "pet story",
+        "pet story 2",
+        "pet life"
+      ]
+    },
+    {
+      "position": 13,
+      "name": "Police Pet Simulator",
+      "score": 171.826,
+      "words": [
+        "Police",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99",
+        "pet simulator x",
+        "pet simulator 99 modded"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Steal Egg Pet Story",
+      "score": 160.955,
+      "words": [
+        "Steal",
+        "Egg",
+        "Pet",
+        "Story"
+      ],
+      "supportedBy": [
+        "pet story",
+        "pet story 2",
+        "pet story tycoon"
+      ]
+    },
+    {
+      "position": 15,
+      "name": "Pet Show Tycoon",
+      "score": 144.57,
+      "words": [
+        "Pet",
+        "Show",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "pet store tycoon",
+        "pet show",
+        "pet tycoon"
+      ]
+    },
+    {
+      "position": 16,
+      "name": "Rock Pet Simulator",
+      "score": 136.717,
+      "words": [
+        "Rock",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99",
+        "pet simulator x",
+        "pet simulator 99 modded"
+      ]
+    },
+    {
+      "position": 17,
+      "name": "Shop Pet Story",
+      "score": 128.509,
+      "words": [
+        "Shop",
+        "Pet",
+        "Story"
+      ],
+      "supportedBy": [
+        "pet story",
+        "pet story 2",
+        "pet shop"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Pet Tycoon",
+      "score": 115.324,
+      "words": [
+        "Pet",
+        "Tycoon"
+      ],
+      "supportedBy": [
+        "pet store tycoon",
+        "pet tycoon",
+        "pet store tycoon 2"
+      ]
+    },
+    {
+      "position": 19,
+      "name": "Pet Store Escape",
+      "score": 112.387,
+      "words": [
+        "Pet",
+        "Store",
+        "Escape"
+      ],
+      "supportedBy": [
+        "pet store tycoon",
+        "pet escape",
+        "pet store tycoon 2"
+      ]
+    },
+    {
+      "position": 20,
+      "name": "Pet Show",
+      "score": 110.005,
+      "words": [
+        "Pet",
+        "Show"
+      ],
+      "supportedBy": [
+        "pet show",
+        "pet show dress up",
+        "pet fashion show"
+      ]
+    },
+    {
+      "position": 21,
+      "name": "Universe Pet Simulator",
+      "score": 109.312,
+      "words": [
+        "Universe",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99",
+        "pet simulator x",
+        "pet simulator 99 modded"
+      ]
+    },
+    {
+      "position": 22,
+      "name": "Fighters Pet Story",
+      "score": 102.44,
+      "words": [
+        "Fighters",
+        "Pet",
+        "Story"
+      ],
+      "supportedBy": [
+        "pet story",
+        "pet story 2",
+        "pet fighters"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Pet Go",
+      "score": 100.661,
+      "words": [
+        "Pet",
+        "Go"
+      ],
+      "supportedBy": [
+        "pet go",
+        "pets go",
+        "pets go modded"
+      ]
+    },
+    {
+      "position": 24,
+      "name": "Pet Party",
+      "score": 92.624,
+      "words": [
+        "Pet",
+        "Party"
+      ],
+      "supportedBy": [
+        "pet party",
+        "pet party rp",
+        "pet hunt party"
+      ]
+    },
+    {
+      "position": 25,
+      "name": "Umpet Pet Simulator",
+      "score": 87.264,
+      "words": [
+        "Umpet",
+        "Pet",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "pet simulator 99",
+        "pet simulator x",
+        "pet simulator 99 modded"
+      ]
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "pet",
+      "score": 1084.455
+    },
+    {
+      "text": "pet simulator",
+      "score": 544.313
+    },
+    {
+      "text": "simulator",
+      "score": 355.506
+    },
+    {
+      "text": "simulator 99",
+      "score": 308.673
+    },
+    {
+      "text": "simulator x",
+      "score": 201.097
+    },
+    {
+      "text": "pet story",
+      "score": 199.159
+    },
+    {
+      "text": "story",
+      "score": 188.973
+    },
+    {
+      "text": "pet store",
+      "score": 121.379
+    },
+    {
+      "text": "store tycoon",
+      "score": 114.915
+    },
+    {
+      "text": "tycoon",
+      "score": 98.438
+    },
+    {
+      "text": "store",
+      "score": 82.575
+    },
+    {
+      "text": "pets go",
+      "score": 52.502
+    },
+    {
+      "text": "show",
+      "score": 52.211
+    },
+    {
+      "text": "pet show",
+      "score": 52.048
+    },
+    {
+      "text": "modded",
+      "score": 51.949
+    },
+    {
+      "text": "party",
+      "score": 37.405
+    },
+    {
+      "text": "pet party",
+      "score": 35.303
+    },
+    {
+      "text": "adventure",
+      "score": 29.336
+    },
+    {
+      "text": "pet sitter",
+      "score": 28.271
+    },
+    {
+      "text": "sitter",
+      "score": 28.125
+    },
+    {
+      "text": "pet adventure",
+      "score": 26.215
+    },
+    {
+      "text": "story 2",
+      "score": 24.162
+    },
+    {
+      "text": "pet vs",
+      "score": 20.875
+    },
+    {
+      "text": "vs police",
+      "score": 20.875
+    },
+    {
+      "text": "escape",
+      "score": 18.626
+    },
+    {
+      "text": "simulator z",
+      "score": 17.362
+    },
+    {
+      "text": "factory",
+      "score": 15.026
+    },
+    {
+      "text": "pet factory",
+      "score": 14.305
+    },
+    {
+      "text": "x modded",
+      "score": 14.111
+    },
+    {
+      "text": "pet escape",
+      "score": 14.002
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "pet simulator 99",
+      "score": 449.704,
+      "appearances": 626,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "pet simulator x",
+      "score": 332.397,
+      "appearances": 660,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "pet story",
+      "score": 324.501,
+      "appearances": 630,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "pet store tycoon",
+      "score": 219.73,
+      "appearances": 423,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "pet simulator 99 modded",
+      "score": 139.141,
+      "appearances": 489,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "pet show",
+      "score": 93.648,
+      "appearances": 318,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "pet party",
+      "score": 60.724,
+      "appearances": 132,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "pet sitters",
+      "score": 55.596,
+      "appearances": 189,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "pet adventure",
+      "score": 49.775,
+      "appearances": 144,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "pet go",
+      "score": 48.335,
+      "appearances": 99,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "pet story 2",
+      "score": 47.238,
+      "appearances": 169,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "pets go",
+      "score": 46.831,
+      "appearances": 111,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "pet simulator z",
+      "score": 34.183,
+      "appearances": 120,
+      "bestRank": 2
+    },
+    {
+      "rank": 14,
+      "text": "pet vs police",
+      "score": 29.047,
+      "appearances": 84,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "pet factory",
+      "score": 27.169,
+      "appearances": 58,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "pet tycoon",
+      "score": 25.852,
+      "appearances": 57,
+      "bestRank": 1
+    },
+    {
+      "rank": 17,
+      "text": "pet games",
+      "score": 24.335,
+      "appearances": 59,
+      "bestRank": 1
+    },
+    {
+      "rank": 18,
+      "text": "pet escape",
+      "score": 24.287,
+      "appearances": 47,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "pet",
+      "score": 19.675,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "pet universe",
+      "score": 16.867,
+      "appearances": 40,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "pet rock",
+      "score": 16.867,
+      "appearances": 50,
+      "bestRank": 1
+    },
+    {
+      "rank": 22,
+      "text": "pet simulator x modded",
+      "score": 15.483,
+      "appearances": 64,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "pet fighters",
+      "score": 15.412,
+      "appearances": 32,
+      "bestRank": 1
+    },
+    {
+      "rank": 24,
+      "text": "pet peak",
+      "score": 14.053,
+      "appearances": 37,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "pet hospital",
+      "score": 14.001,
+      "appearances": 26,
+      "bestRank": 1
+    },
+    {
+      "rank": 26,
+      "text": "pet catchers",
+      "score": 13.545,
+      "appearances": 39,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "pets vs police",
+      "score": 12.703,
+      "appearances": 51,
+      "bestRank": 1
+    },
+    {
+      "rank": 28,
+      "text": "pet shop",
+      "score": 12.112,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "pet capture adventure",
+      "score": 9.733,
+      "appearances": 29,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "pet simulator x reborn",
+      "score": 9.376,
+      "appearances": 43,
+      "bestRank": 1
+    },
+    {
+      "rank": 31,
+      "text": "pet simulator 99 modded free",
+      "score": 8.658,
+      "appearances": 45,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "pet lab",
+      "score": 8.423,
+      "appearances": 20,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "pet show dress up",
+      "score": 8.412,
+      "appearances": 19,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "pet the cat",
+      "score": 7.564,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "pet city",
+      "score": 7.529,
+      "appearances": 16,
+      "bestRank": 1
+    },
+    {
+      "rank": 36,
+      "text": "pet simulator x classic",
+      "score": 7.464,
+      "appearances": 25,
+      "bestRank": 1
+    },
+    {
+      "rank": 37,
+      "text": "pet battle",
+      "score": 7.442,
+      "appearances": 13,
+      "bestRank": 1
+    },
+    {
+      "rank": 38,
+      "text": "pet dimensions",
+      "score": 7.356,
+      "appearances": 22,
+      "bestRank": 1
+    },
+    {
+      "rank": 39,
+      "text": "pet racer",
+      "score": 7.342,
+      "appearances": 21,
+      "bestRank": 1
+    },
+    {
+      "rank": 40,
+      "text": "pets go modded",
+      "score": 6.971,
+      "appearances": 24,
+      "bestRank": 2
+    },
+    {
+      "rank": 41,
+      "text": "pet salon",
+      "score": 6.894,
+      "appearances": 40,
+      "bestRank": 2
+    },
+    {
+      "rank": 42,
+      "text": "pet rng",
+      "score": 6.874,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 43,
+      "text": "pet life",
+      "score": 6.719,
+      "appearances": 9,
+      "bestRank": 1
+    },
+    {
+      "rank": 44,
+      "text": "pet simulator",
+      "score": 6.698,
+      "appearances": 10,
+      "bestRank": 1
+    },
+    {
+      "rank": 45,
+      "text": "pet swarm simulator",
+      "score": 6.274,
+      "appearances": 39,
+      "bestRank": 2
+    },
+    {
+      "rank": 46,
+      "text": "pet simulator x overhauled",
+      "score": 6.205,
+      "appearances": 29,
+      "bestRank": 3
+    },
+    {
+      "rank": 47,
+      "text": "pet forest",
+      "score": 6.022,
+      "appearances": 11,
+      "bestRank": 1
+    },
+    {
+      "rank": 48,
+      "text": "pet evolution",
+      "score": 5.867,
+      "appearances": 8,
+      "bestRank": 1
+    },
+    {
+      "rank": 49,
+      "text": "pet simulator x modded admin",
+      "score": 5.73,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 50,
+      "text": "pet party rp",
+      "score": 5.717,
+      "appearances": 14,
+      "bestRank": 1
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 819016,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "pet"
+    },
+    {
+      "name": "Throw Food For Animals",
+      "rawName": "Throw Food For Animals",
+      "playerCount": 331110,
+      "url": "https://www.roblox.com/games/120219252362013/Throw-Food-For-Animals",
+      "foundBy": "pet"
+    },
+    {
+      "name": "Adopt Me!",
+      "rawName": "[🥤] Adopt Me!",
+      "playerCount": 243340,
+      "url": "https://www.roblox.com/games/920587237/Adopt-Me",
+      "foundBy": "pet"
+    },
+    {
+      "name": "99 Nights in the Forest",
+      "rawName": "99 Nights in the Forest 🔦",
+      "playerCount": 151223,
+      "url": "https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest",
+      "foundBy": "pet simulator 99"
+    },
+    {
+      "name": "Pet Simulator 99!",
+      "rawName": "🍁 [TYCOON] Pet Simulator 99! 🍀",
+      "playerCount": 47194,
+      "url": "https://www.roblox.com/games/8737899170/Pet-Simulator-99",
+      "foundBy": "pet"
+    },
+    {
+      "name": "1 Speed Keyboard Escape Candy & Chocolate",
+      "rawName": "[S8] +1 Speed Keyboard Escape | Candy & Chocolate",
+      "playerCount": 22066,
+      "url": "https://www.roblox.com/games/95082159892680/1-Speed-Keyboard-Escape-Candy-Chocolate",
+      "foundBy": "pet simulator 99"
+    },
+    {
+      "name": "Lethal Ape Experience",
+      "rawName": "[UPD] Lethal Ape Experience",
+      "playerCount": 16367,
+      "url": "https://www.roblox.com/games/117713779364528/Lethal-Ape-Experience",
+      "foundBy": "peta peta"
+    },
+    {
+      "name": "BARRY'S PRISON RUN!",
+      "rawName": "🚨BARRY'S PRISON RUN! (OBBY)",
+      "playerCount": 13653,
+      "url": "https://www.roblox.com/games/8712817601/BARRYS-PRISON-RUN",
+      "foundBy": "peta peta"
+    },
+    {
+      "name": "Animal Hospital",
+      "rawName": "Animal Hospital (Anomaly) 🧪",
+      "playerCount": 13150,
+      "url": "https://www.roblox.com/games/78515283254292/Animal-Hospital",
+      "foundBy": "pet story"
+    },
+    {
+      "name": "Steal A Pet And Ride It!",
+      "rawName": "[W3🌸] Steal A Pet And Ride It!",
+      "playerCount": 12533,
+      "url": "https://www.roblox.com/games/95168737547508/Steal-A-Pet-And-Ride-It",
+      "foundBy": "pet"
+    },
+    {
+      "name": "Summon a Pet Army",
+      "rawName": "[✨ NEW ZONES] Summon a Pet Army 🐲",
+      "playerCount": 11418,
+      "url": "https://www.roblox.com/games/89695026030574/Summon-a-Pet-Army",
+      "foundBy": "pet"
+    },
+    {
+      "name": "Gacha Online RP",
+      "rawName": "Gacha Online 🎃 RP",
+      "playerCount": 10793,
+      "url": "https://www.roblox.com/games/5289509545/Gacha-Online-RP",
+      "foundBy": "pet party"
+    },
+    {
+      "name": "Raise The Biggest Family",
+      "rawName": "[🐶PETS] Raise The Biggest Family",
+      "playerCount": 10214,
+      "url": "https://www.roblox.com/games/89537559330901/Raise-The-Biggest-Family",
+      "foundBy": "pet"
+    },
+    {
+      "name": "Paint and Hide!",
+      "rawName": "Paint and Hide! 🎨",
+      "playerCount": 9258,
+      "url": "https://www.roblox.com/games/79439717806206/Paint-and-Hide",
+      "foundBy": "petak umpet"
+    },
+    {
+      "name": "Dreamville RP",
+      "rawName": "Dreamville 🏡 RP [Pets! 😺]",
+      "playerCount": 8138,
+      "url": "https://www.roblox.com/games/74395953411817/Dreamville-RP",
+      "foundBy": "pet party"
+    },
+    {
+      "name": "Kitten Game",
+      "rawName": "Kitten Game 🐾",
+      "playerCount": 4777,
+      "url": "https://www.roblox.com/games/13482468151/Kitten-Game",
+      "foundBy": "pet story"
+    },
+    {
+      "name": "Rainbow Friends",
+      "rawName": "Rainbow Friends",
+      "playerCount": 4399,
+      "url": "https://www.roblox.com/games/7991339063/Rainbow-Friends",
+      "foundBy": "pet story"
+    },
+    {
+      "name": "A Grabpack Test",
+      "rawName": "A Grabpack Test [MAP 5]",
+      "playerCount": 3432,
+      "url": "https://www.roblox.com/games/112226578490421/A-Grabpack-Test",
+      "foundBy": "peta peta"
+    },
+    {
+      "name": "Pet Store Tycoon",
+      "rawName": "Pet Store Tycoon",
+      "playerCount": 2908,
+      "url": "https://www.roblox.com/games/118845698633260/Pet-Store-Tycoon",
+      "foundBy": "pet store tycoon"
+    },
+    {
+      "name": "Savannah Life",
+      "rawName": "Savannah Life",
+      "playerCount": 2744,
+      "url": "https://www.roblox.com/games/18214855317/Savannah-Life",
+      "foundBy": "pet show"
+    },
+    {
+      "name": "Mega Hide and Seek!",
+      "rawName": "Mega Hide and Seek!",
+      "playerCount": 2255,
+      "url": "https://www.roblox.com/games/5708035517/Mega-Hide-and-Seek",
+      "foundBy": "petak umpet"
+    },
+    {
+      "name": "Hide and Seek Extreme",
+      "rawName": "Hide and Seek Extreme",
+      "playerCount": 2149,
+      "url": "https://www.roblox.com/games/205224386/Hide-and-Seek-Extreme",
+      "foundBy": "petak umpet"
+    },
+    {
+      "name": "Cluck or Hide!",
+      "rawName": "Cluck or Hide!🐔",
+      "playerCount": 1818,
+      "url": "https://www.roblox.com/games/82539019711975/Cluck-or-Hide",
+      "foundBy": "petak umpet"
+    },
+    {
+      "name": "Cat Simulator",
+      "rawName": "Cat Simulator",
+      "playerCount": 1564,
+      "url": "https://www.roblox.com/games/114472596554765/Cat-Simulator",
+      "foundBy": "pet simulator 99"
+    },
+    {
+      "name": "Teddy",
+      "rawName": "Teddy",
+      "playerCount": 1449,
+      "url": "https://www.roblox.com/games/5901440255/Teddy",
+      "foundBy": "peta peta"
+    },
+    {
+      "name": "PETAPETA",
+      "rawName": "PETAPETA：【LEVEL11】",
+      "playerCount": 1443,
+      "url": "https://www.roblox.com/games/14451515684/PETAPETA-LEVEL11",
+      "foundBy": "peta peta"
+    },
+    {
+      "name": "Build To Hide and Seek",
+      "rawName": "Build To Hide and Seek",
+      "playerCount": 1280,
+      "url": "https://www.roblox.com/games/85701951276426/Build-To-Hide-and-Seek",
+      "foundBy": "petak umpet"
+    },
+    {
+      "name": "Zoo Builder Tycoon",
+      "rawName": "[🐊 New Animals!!!] Zoo Builder Tycoon ",
+      "playerCount": 1211,
+      "url": "https://www.roblox.com/games/76814078654313/Zoo-Builder-Tycoon",
+      "foundBy": "pet store tycoon"
+    },
+    {
+      "name": "Chameleon!",
+      "rawName": "[NEW RIGS] Chameleon! 🎨",
+      "playerCount": 1186,
+      "url": "https://www.roblox.com/games/84449017742177/Chameleon",
+      "foundBy": "petak umpet"
+    },
+    {
+      "name": "Animal Topia RP",
+      "rawName": "Animal Topia 🏠 RP",
+      "playerCount": 1082,
+      "url": "https://www.roblox.com/games/127152805777886/Animal-Topia-RP",
+      "foundBy": "pet party"
+    }
+  ]
+}

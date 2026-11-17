@@ -1,0 +1,933 @@
+{
+  "schemaVersion": 1,
+  "engineVersion": "1.4.0",
+  "run": {
+    "runId": "20261117-141609-animal-simulator",
+    "genre": "animal simulator",
+    "budget": 1000,
+    "searchesMade": 1000,
+    "gameSearchesMade": 10,
+    "status": "complete",
+    "stopReason": "budget",
+    "startedAt": "2026-11-17T14:16:09Z",
+    "finishedAt": "2026-11-17T14:27:16Z",
+    "issue": null,
+    "genreWords": [
+      "animal",
+      "simulator"
+    ]
+  },
+  "names": [
+    {
+      "position": 1,
+      "name": "Animal Simulator",
+      "score": 156.905,
+      "words": [
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator underwater",
+        "animal simulator race",
+        "animal simulator flag"
+      ]
+    },
+    {
+      "position": 2,
+      "name": "Fish Race Animal Simulator",
+      "score": 144.647,
+      "words": [
+        "Fish",
+        "Race",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator race"
+      ]
+    },
+    {
+      "position": 3,
+      "name": "Underwater Animal Simulator",
+      "score": 143.245,
+      "words": [
+        "Underwater",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator underwater"
+      ]
+    },
+    {
+      "position": 4,
+      "name": "Capture Flag Animal Simulator",
+      "score": 142.457,
+      "words": [
+        "Capture",
+        "Flag",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator flag",
+        "animal capture the flag"
+      ]
+    },
+    {
+      "position": 5,
+      "name": "Under Water Animal Simulator",
+      "score": 140.073,
+      "words": [
+        "Under",
+        "Water",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator under water 2",
+        "animal simulator under water",
+        "animal simulator water"
+      ]
+    },
+    {
+      "position": 6,
+      "name": "Mog Evolution Animal Simulator",
+      "score": 128.128,
+      "words": [
+        "Mog",
+        "Evolution",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator evolution",
+        "animal evolution"
+      ]
+    },
+    {
+      "position": 7,
+      "name": "Steal Egg Animal Simulator",
+      "score": 126.361,
+      "words": [
+        "Steal",
+        "Egg",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 8,
+      "name": "Life Forest Animal Simulator",
+      "score": 126.354,
+      "words": [
+        "Life",
+        "Forest",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator forest",
+        "animal life forest rp"
+      ]
+    },
+    {
+      "position": 9,
+      "name": "Survive Kaiju Animal Simulator",
+      "score": 125.069,
+      "words": [
+        "Survive",
+        "Kaiju",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 10,
+      "name": "Lion Pride Animal Simulator",
+      "score": 124.656,
+      "words": [
+        "Lion",
+        "Pride",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 11,
+      "name": "Speed Evolve Animal Simulator",
+      "score": 124.564,
+      "words": [
+        "Speed",
+        "Evolve",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator speed"
+      ]
+    },
+    {
+      "position": 12,
+      "name": "Creatures Sonaria Animal Simulator",
+      "score": 124.531,
+      "words": [
+        "Creatures",
+        "Sonaria",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 13,
+      "name": "Modded Animal Simulator",
+      "score": 124.498,
+      "words": [
+        "Modded",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator modded"
+      ]
+    },
+    {
+      "position": 14,
+      "name": "Wild Kingdom Animal Simulator",
+      "score": 124.317,
+      "words": [
+        "Wild",
+        "Kingdom",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 15,
+      "name": "Morph Into Animal Simulator",
+      "score": 123.952,
+      "words": [
+        "Morph",
+        "Into",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 16,
+      "name": "Feral Animal Simulator",
+      "score": 122.228,
+      "words": [
+        "Feral",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 17,
+      "name": "Pet Animal Simulator",
+      "score": 121.989,
+      "words": [
+        "Pet",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "anime pet simulator"
+      ]
+    },
+    {
+      "position": 18,
+      "name": "Impossible Animal Simulator",
+      "score": 121.777,
+      "words": [
+        "Impossible",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 19,
+      "name": "Shark Animal Simulator",
+      "score": 121.583,
+      "words": [
+        "Shark",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 20,
+      "name": "Kitten Animal Simulator",
+      "score": 121.522,
+      "words": [
+        "Kitten",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 21,
+      "name": "Savannah Animal Simulator",
+      "score": 121.4,
+      "words": [
+        "Savannah",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 22,
+      "name": "Wolf Animal Simulator",
+      "score": 121.385,
+      "words": [
+        "Wolf",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": [
+        "animal simulator wolf"
+      ]
+    },
+    {
+      "position": 23,
+      "name": "Broodwing Animal Simulator",
+      "score": 121.282,
+      "words": [
+        "Broodwing",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 24,
+      "name": "Cat Animal Simulator",
+      "score": 121.27,
+      "words": [
+        "Cat",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    },
+    {
+      "position": 25,
+      "name": "Topia Animal Simulator",
+      "score": 121.192,
+      "words": [
+        "Topia",
+        "Animal",
+        "Simulator"
+      ],
+      "supportedBy": []
+    }
+  ],
+  "namesNote": null,
+  "keywords": [
+    {
+      "text": "animal simulator",
+      "score": 239.361
+    },
+    {
+      "text": "animal",
+      "score": 200.413
+    },
+    {
+      "text": "simulator",
+      "score": 187.085
+    },
+    {
+      "text": "simulator underwater",
+      "score": 33.389
+    },
+    {
+      "text": "simulator race",
+      "score": 27.05
+    },
+    {
+      "text": "simulator flag",
+      "score": 24.772
+    },
+    {
+      "text": "underwater",
+      "score": 23.564
+    },
+    {
+      "text": "simulator rp",
+      "score": 22.464
+    },
+    {
+      "text": "race",
+      "score": 21.988
+    },
+    {
+      "text": "flag",
+      "score": 20.062
+    },
+    {
+      "text": "simulator under",
+      "score": 14.947
+    },
+    {
+      "text": "under water",
+      "score": 14.947
+    },
+    {
+      "text": "water 2",
+      "score": 13.753
+    },
+    {
+      "text": "simulator x",
+      "score": 10.51
+    },
+    {
+      "text": "simulator 2021",
+      "score": 9.218
+    },
+    {
+      "text": "simulator modded",
+      "score": 7.227
+    },
+    {
+      "text": "water",
+      "score": 6.821
+    },
+    {
+      "text": "evolution",
+      "score": 6.615
+    },
+    {
+      "text": "under",
+      "score": 6.098
+    },
+    {
+      "text": "modded",
+      "score": 4.818
+    },
+    {
+      "text": "life",
+      "score": 4.36
+    },
+    {
+      "text": "simulator evolution",
+      "score": 4.25
+    },
+    {
+      "text": "simulator tycoon",
+      "score": 4.067
+    },
+    {
+      "text": "survival",
+      "score": 3.436
+    },
+    {
+      "text": "lion",
+      "score": 3.062
+    },
+    {
+      "text": "egg",
+      "score": 2.969
+    },
+    {
+      "text": "steal",
+      "score": 2.969
+    },
+    {
+      "text": "speed",
+      "score": 2.914
+    },
+    {
+      "text": "tycoon",
+      "score": 2.711
+    },
+    {
+      "text": "fish",
+      "score": 2.663
+    }
+  ],
+  "topSearches": [
+    {
+      "rank": 1,
+      "text": "animal simulator underwater",
+      "score": 66.778,
+      "appearances": 95,
+      "bestRank": 1
+    },
+    {
+      "rank": 2,
+      "text": "animal simulator race",
+      "score": 54.1,
+      "appearances": 89,
+      "bestRank": 1
+    },
+    {
+      "rank": 3,
+      "text": "animal simulator flag",
+      "score": 49.544,
+      "appearances": 84,
+      "bestRank": 1
+    },
+    {
+      "rank": 4,
+      "text": "animal simulator games",
+      "score": 47.36,
+      "appearances": 101,
+      "bestRank": 1
+    },
+    {
+      "rank": 5,
+      "text": "animal simulator rp",
+      "score": 44.929,
+      "appearances": 88,
+      "bestRank": 1
+    },
+    {
+      "rank": 6,
+      "text": "animal simulator",
+      "score": 37.224,
+      "appearances": 50,
+      "bestRank": 1
+    },
+    {
+      "rank": 7,
+      "text": "animal simulator under water 2",
+      "score": 27.506,
+      "appearances": 67,
+      "bestRank": 1
+    },
+    {
+      "rank": 8,
+      "text": "animal simulators",
+      "score": 25.909,
+      "appearances": 57,
+      "bestRank": 1
+    },
+    {
+      "rank": 9,
+      "text": "animal simulator x",
+      "score": 19.578,
+      "appearances": 33,
+      "bestRank": 1
+    },
+    {
+      "rank": 10,
+      "text": "animal simulator 2021",
+      "score": 18.435,
+      "appearances": 28,
+      "bestRank": 1
+    },
+    {
+      "rank": 11,
+      "text": "animal simulator modded",
+      "score": 14.454,
+      "appearances": 42,
+      "bestRank": 1
+    },
+    {
+      "rank": 12,
+      "text": "animal simulator simulator",
+      "score": 11.108,
+      "appearances": 23,
+      "bestRank": 1
+    },
+    {
+      "rank": 13,
+      "text": "animal simulator evolution",
+      "score": 8.501,
+      "appearances": 18,
+      "bestRank": 1
+    },
+    {
+      "rank": 14,
+      "text": "animal simulator tycoon",
+      "score": 8.133,
+      "appearances": 12,
+      "bestRank": 1
+    },
+    {
+      "rank": 15,
+      "text": "animal simulator wolf",
+      "score": 5.112,
+      "appearances": 7,
+      "bestRank": 1
+    },
+    {
+      "rank": 16,
+      "text": "animal simulator 2",
+      "score": 4.493,
+      "appearances": 15,
+      "bestRank": 4
+    },
+    {
+      "rank": 17,
+      "text": "animal simulator game",
+      "score": 3.071,
+      "appearances": 7,
+      "bestRank": 4
+    },
+    {
+      "rank": 18,
+      "text": "animal simulator speed",
+      "score": 2.846,
+      "appearances": 6,
+      "bestRank": 1
+    },
+    {
+      "rank": 19,
+      "text": "animals simulator",
+      "score": 2.782,
+      "appearances": 14,
+      "bestRank": 1
+    },
+    {
+      "rank": 20,
+      "text": "animal simulator pvp",
+      "score": 2.536,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 21,
+      "text": "animal simulator survival",
+      "score": 2.474,
+      "appearances": 11,
+      "bestRank": 3
+    },
+    {
+      "rank": 22,
+      "text": "animal simulator two",
+      "score": 2.324,
+      "appearances": 4,
+      "bestRank": 1
+    },
+    {
+      "rank": 23,
+      "text": "animal simulator under water",
+      "score": 2.215,
+      "appearances": 6,
+      "bestRank": 2
+    },
+    {
+      "rank": 24,
+      "text": "animal simulator water",
+      "score": 2.169,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 25,
+      "text": "animal simulator 1",
+      "score": 1.859,
+      "appearances": 5,
+      "bestRank": 4
+    },
+    {
+      "rank": 26,
+      "text": "animal simulator sky",
+      "score": 1.704,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 27,
+      "text": "animal simulator 99",
+      "score": 1.627,
+      "appearances": 4,
+      "bestRank": 4
+    },
+    {
+      "rank": 28,
+      "text": "animal simulator dragon",
+      "score": 1.549,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 29,
+      "text": "animal simulator forest",
+      "score": 1.549,
+      "appearances": 3,
+      "bestRank": 1
+    },
+    {
+      "rank": 30,
+      "text": "animal simulator zoo",
+      "score": 1.317,
+      "appearances": 2,
+      "bestRank": 2
+    },
+    {
+      "rank": 31,
+      "text": "animal simulator build a zoo",
+      "score": 0.852,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 32,
+      "text": "animal simulator land",
+      "score": 0.852,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 33,
+      "text": "animal simulator bird",
+      "score": 0.775,
+      "appearances": 1,
+      "bestRank": 1
+    },
+    {
+      "rank": 34,
+      "text": "animal simulator but made",
+      "score": 0.592,
+      "appearances": 2,
+      "bestRank": 1
+    },
+    {
+      "rank": 35,
+      "text": "animal simulator eating",
+      "score": 0.31,
+      "appearances": 1,
+      "bestRank": 7
+    },
+    {
+      "rank": 36,
+      "text": "animals simulator under water",
+      "score": 0.173,
+      "appearances": 1,
+      "bestRank": 3
+    },
+    {
+      "rank": 37,
+      "text": "animals simulator 2",
+      "score": 0.077,
+      "appearances": 1,
+      "bestRank": 10
+    }
+  ],
+  "topGames": [
+    {
+      "name": "Steal An Egg",
+      "rawName": "Steal An Egg",
+      "playerCount": 867505,
+      "url": "https://www.roblox.com/games/107778070777162/Steal-An-Egg",
+      "foundBy": "animal simulator x"
+    },
+    {
+      "name": "Creatures of Sonaria Survive Kaiju Animals",
+      "rawName": "🦖 Creatures of Sonaria ✨ Survive Kaiju Animals",
+      "playerCount": 20473,
+      "url": "https://www.roblox.com/games/5233782396/Creatures-of-Sonaria-Survive-Kaiju-Animals",
+      "foundBy": "animal simulator"
+    },
+    {
+      "name": "FERAL Animal Survival",
+      "rawName": "[COBRA🐍] FERAL 🐺 Animal Survival",
+      "playerCount": 11901,
+      "url": "https://www.roblox.com/games/108901361810209/FERAL-Animal-Survival",
+      "foundBy": "animal simulator"
+    },
+    {
+      "name": "Animal Simulator",
+      "rawName": "Animal Simulator [🐉 DRAGONS + PETS!]",
+      "playerCount": 6418,
+      "url": "https://www.roblox.com/games/5712833750/Animal-Simulator",
+      "foundBy": "animal simulator"
+    },
+    {
+      "name": "Kitten Game",
+      "rawName": "Kitten Game 🐾",
+      "playerCount": 4823,
+      "url": "https://www.roblox.com/games/13482468151/Kitten-Game",
+      "foundBy": "animal simulator modded"
+    },
+    {
+      "name": "Savannah Life",
+      "rawName": "Savannah Life",
+      "playerCount": 2745,
+      "url": "https://www.roblox.com/games/18214855317/Savannah-Life",
+      "foundBy": "animal simulator"
+    },
+    {
+      "name": "Impossible Animals",
+      "rawName": "Impossible Animals",
+      "playerCount": 2264,
+      "url": "https://www.roblox.com/games/119929094294460/Impossible-Animals",
+      "foundBy": "animal simulator modded"
+    },
+    {
+      "name": "Broodwing",
+      "rawName": "[Performance] Broodwing",
+      "playerCount": 1594,
+      "url": "https://www.roblox.com/games/116189555550783/Broodwing",
+      "foundBy": "animal simulator"
+    },
+    {
+      "name": "Cat Simulator",
+      "rawName": "Cat Simulator",
+      "playerCount": 1510,
+      "url": "https://www.roblox.com/games/114472596554765/Cat-Simulator",
+      "foundBy": "animal simulator"
+    },
+    {
+      "name": "1 Speed Evolve",
+      "rawName": "+1 Speed Evolve 🦊",
+      "playerCount": 1418,
+      "url": "https://www.roblox.com/games/83569851223739/1-Speed-Evolve",
+      "foundBy": "animal simulator race"
+    },
+    {
+      "name": "A Lion's Pride Beta - Lion RP",
+      "rawName": "A Lion's Pride Beta - Lion RP 🦁",
+      "playerCount": 1152,
+      "url": "https://www.roblox.com/games/9922455303/A-Lions-Pride-Beta-Lion-RP",
+      "foundBy": "animal simulator rp"
+    },
+    {
+      "name": "Animal Topia RP",
+      "rawName": "Animal Topia 🏠 RP",
+      "playerCount": 1055,
+      "url": "https://www.roblox.com/games/127152805777886/Animal-Topia-RP",
+      "foundBy": "animal simulator underwater"
+    },
+    {
+      "name": "1 Animal Mog Evolution",
+      "rawName": "+1 Animal Mog Evolution",
+      "playerCount": 854,
+      "url": "https://www.roblox.com/games/134820818906933/1-Animal-Mog-Evolution",
+      "foundBy": "animal simulator x"
+    },
+    {
+      "name": "Pet Simulator X!",
+      "rawName": "Pet Simulator X! 🐾",
+      "playerCount": 766,
+      "url": "https://www.roblox.com/games/6284583030/Pet-Simulator-X",
+      "foundBy": "animal simulator x"
+    },
+    {
+      "name": "Animal Life: Forest RP",
+      "rawName": "🍁Animal Life: Forest RP 🐺🦌🐰🐴",
+      "playerCount": 651,
+      "url": "https://www.roblox.com/games/9176945447/Animal-Life-Forest-RP",
+      "foundBy": "animal simulator"
+    },
+    {
+      "name": "Flag Wars",
+      "rawName": "[🎃] Flag Wars",
+      "playerCount": 619,
+      "url": "https://www.roblox.com/games/3214114884/Flag-Wars",
+      "foundBy": "animal simulator flag"
+    },
+    {
+      "name": "Morph Into Animals",
+      "rawName": "[⚡] Morph Into Animals [ROLEPLAY]",
+      "playerCount": 511,
+      "url": "https://www.roblox.com/games/101096778899475/Morph-Into-Animals",
+      "foundBy": "animal simulator modded"
+    },
+    {
+      "name": "Animals Capture The Flag",
+      "rawName": "Animals Capture The Flag",
+      "playerCount": 426,
+      "url": "https://www.roblox.com/games/13694675435/Animals-Capture-The-Flag",
+      "foundBy": "animal simulator"
+    },
+    {
+      "name": "Animal Sim: Underwater",
+      "rawName": "Animal Sim: Underwater",
+      "playerCount": 406,
+      "url": "https://www.roblox.com/games/13110267312/Animal-Sim-Underwater",
+      "foundBy": "animal simulator"
+    },
+    {
+      "name": "Jungle Life",
+      "rawName": "Jungle Life",
+      "playerCount": 267,
+      "url": "https://www.roblox.com/games/85094158141349/Jungle-Life",
+      "foundBy": "animal simulator flag"
+    },
+    {
+      "name": "The Whispering Wild",
+      "rawName": "The Whispering Wild [BETA]",
+      "playerCount": 221,
+      "url": "https://www.roblox.com/games/1625049462/The-Whispering-Wild",
+      "foundBy": "animal simulator flag"
+    },
+    {
+      "name": "Animal Evolution",
+      "rawName": "Animal Evolution ",
+      "playerCount": 165,
+      "url": "https://www.roblox.com/games/95558786904444/Animal-Evolution",
+      "foundBy": "animal simulator x"
+    },
+    {
+      "name": "Be a Shark",
+      "rawName": "Be a Shark🦈",
+      "playerCount": 151,
+      "url": "https://www.roblox.com/games/15334675936/Be-a-Shark",
+      "foundBy": "animal simulator under water 2"
+    },
+    {
+      "name": "Wild Kingdom Animal RP",
+      "rawName": "Wild Kingdom 🦁 Animal RP",
+      "playerCount": 131,
+      "url": "https://www.roblox.com/games/90205082761463/Wild-Kingdom-Animal-RP",
+      "foundBy": "animal simulator rp"
+    },
+    {
+      "name": "Super Animal Race Simulator",
+      "rawName": "Super Animal Race Simulator",
+      "playerCount": 128,
+      "url": "https://www.roblox.com/games/81489077213111/Super-Animal-Race-Simulator",
+      "foundBy": "animal simulator race"
+    },
+    {
+      "name": "Race Camels",
+      "rawName": "Race Camels",
+      "playerCount": 124,
+      "url": "https://www.roblox.com/games/135916357566701/Race-Camels",
+      "foundBy": "animal simulator race"
+    },
+    {
+      "name": "Break a REIMAGINED!",
+      "rawName": "Break a REIMAGINED!",
+      "playerCount": 90,
+      "url": "https://www.roblox.com/games/81182533444288/Break-a-REIMAGINED",
+      "foundBy": "animal simulator x"
+    },
+    {
+      "name": "Animal Morphs",
+      "rawName": "Animal Morphs 🐾",
+      "playerCount": 58,
+      "url": "https://www.roblox.com/games/117376655271676/Animal-Morphs",
+      "foundBy": "animal simulator modded"
+    },
+    {
+      "name": "Animal Training",
+      "rawName": "[X20] Animal Training ⭐️ [WEEKEND]",
+      "playerCount": 50,
+      "url": "https://www.roblox.com/games/78320694285708/Animal-Training",
+      "foundBy": "animal simulator race"
+    },
+    {
+      "name": "Pet Simulator!",
+      "rawName": "Pet Simulator!",
+      "playerCount": 47,
+      "url": "https://www.roblox.com/games/1599679393/Pet-Simulator",
+      "foundBy": "animal simulator x"
+    }
+  ]
+}
